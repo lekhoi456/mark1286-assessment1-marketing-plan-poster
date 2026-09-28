@@ -221,6 +221,17 @@
               "limits": "Contrast with dispatch offices' ownership model; not evidence of better service quality.",
               "quote_verified": true,
               "evidence_id": "E-186"
+            },
+            {
+              "id": "DK-I33",
+              "claim": "In the same Capital Region subsample (n = 79) that chose Uber, Bolt or TaxiToGo over a classic dispatch office, 11% cited greater safety and security because they could see driver information, track the trip and share its status.",
+              "type": "fact (official survey table)",
+              "page": 151,
+              "quote": "Jeg følte, at det gav øget tryghed og sikkerhed, fordi man kan se chaufførens info, 11 tracke turen, dele status med andre osv.",
+              "scope": "Capital Region private customers, latest taxi trip; Table 5.12, multiple answers; n = 79 printed on p. 151.",
+              "limits": "Small subsample and multiple answers; the table value 11 is embedded mid-line in the extracted text. Supports a transparency motive, not willingness to switch or pay.",
+              "quote_verified": true,
+              "evidence_id": "E-187"
             }
           ]
         },

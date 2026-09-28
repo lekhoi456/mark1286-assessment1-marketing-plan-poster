@@ -191,3 +191,15 @@ Consequences recorded by the agent: the account/partner sales line is removed an
 The student replied "đồng ý tất cả" ("agree to all") to approvals A1–A9 in `02_research/marketing-plan/integrated-plan-copenhagen.md` §13, answering Q-S16. Approved as proposed: the DKK600,000 line items (A1); five-stage release with Gate A at month 4 and Gate B at month 6 (A2); search, local page/SEO, social and CRM, with Digital Copenhagen screens only after Gate B (A3); the message "Know your ride before you book.", Danish first (A4); a DKK30 first-ride voucher capped at 400 riders (A5); objectives O1–O4 and the KPI targets (A6); personalised trip reminders plus one trip reference across channels, with AI chatbot and subscription deferred (A7); an illustrative persona, labelled as such (A8); in-car help card printed only after a quote and from contingency (A9).
 
 Plan v01 is now the approved content basis for P5 poster copy. Targets and funnel rates remain planning assumptions, not Green SM data; every modelled case still falls short of break-even. Contribution statements remain open (Q-S5).
+
+### D-034 — Poster v03 direction (2026-09-28, the student)
+
+Chosen through the agent's option list:
+
+- **Concept C, hybrid:** a hand-drawn taxi route runs through the eleven panels as reading order, customer journey and release timeline; the budget receipt, KPI dashboard and reminder-phone visuals use an app-screen style.
+- **A0 landscape**, 1189 × 841 mm (the earlier portrait proposal in the blueprint is superseded).
+- **Proposed numeric KPI targets**, labelled as assumptions: consideration +10 percentage points on the months 1–2 baseline by month 12; at least 80% of riders find area and fare clear; at least 90% of help requests answered within 24 hours.
+- **About 1,400 counted words**, moving description into visual labels while keeping the reason for each choice.
+- **A bold "Decision" line** at the start of each panel, **markers separating sourced facts from the group's assumptions**, and the **KFST p. 151 safety-motive evidence** (E-187) in the psychographic profile.
+
+Not chosen at this point: members hand-drawing parts of the poster. "Evident effort from all group members" (C7) therefore rests on the contribution statement and the pitch (Q-S5).

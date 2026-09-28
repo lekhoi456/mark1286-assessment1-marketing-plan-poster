@@ -35,6 +35,7 @@ Answered questions stay with an answer date and decision-log link. Do not reopen
 | Q-S14 | Choose the priority segment and positioning for Copenhagen | Target Market Analysis, Positioning, Branding, Digital, Sales | **Answered 28 September 2026 → D-032:** S1 resident self-paid repeat taxi users; positioning P1 |
 | Q-S15 | Choose the planning period/objective and the budget total | Budget, KPIs, Alignment | **Answered 28 September 2026 → D-032:** DKK600,000, 12 months, market-entry objective. Line items, channels, assumptions and KPI targets still need approval |
 | Q-S16 | Approve or change A1–A9 in `02_research/marketing-plan/integrated-plan-copenhagen.md` §13 | Budget, Digital, Sales, Branding, KPIs, Innovation panels | **Answered 28 September 2026 → D-033:** all approved as proposed |
+| Q-S17 | Poster v03 design direction | Layout, C6/C7 | **Answered 28 September 2026 → D-034:** concept C hybrid, A0 landscape, numeric KPI targets, ~1,400 words, decision lines, fact/assumption markers, E-187 |
 | Q-S12 | Optional: can a member listen to three short passages of the Lecture 6 recording to confirm the machine transcript (03:26–03:54 submission and hand-drawn chart; 17:50–18:19 references; 21:15–21:45 weighting)? | Confidence in D-020; not blocking | Optional |
 
 ## Internal work, not questions for the student

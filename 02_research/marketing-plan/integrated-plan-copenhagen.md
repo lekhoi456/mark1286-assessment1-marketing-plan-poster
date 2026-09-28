@@ -168,14 +168,14 @@ Concepts: `kpis-and-metrics` and `campaign-tracking-and-analytics` (w04-lecture 
 
 **Marketing objectives (P, §13 A6):**
 
-- **O1 Awareness:** raise consideration of Green SM among S1 in the service area between the M1–M2 baseline and M12.
+- **O1 Awareness:** raise consideration of Green SM among S1 in the service area by 10 percentage points between the M1–M2 baseline and M12 (proposed target, D-034).
 - **O2 Trial:** 378 new riders complete a first paid trip in M1–M12.
 - **O3 Repeat:** at least 35% of first riders with a full 90-day window take another paid trip within 90 days.
 - **O4 Service integrity:** the promise in P1 is kept while volume grows.
 
 | KPI | Definition | Proposed target (A) | Tool and rhythm | If off target |
 |---|---|---|---|---|
-| Brand consideration (O1) | % of an S1 survey sample in the area who would consider Green SM for their next taxi trip | Set after M1–M2 baseline; no invented starting figure | Short panel survey, M1–M2 and M12 | Revisit message and DOOH before year 2 |
+| Brand consideration (O1) | % of an S1 survey sample in the area who would consider Green SM for their next taxi trip | +10 percentage points on the M1–M2 baseline by M12 (A, D-034); no invented starting figure | Short panel survey, M1–M2 and M12 | Revisit message and DOOH before year 2 |
 | First paid riders (O2) | New riders completing and paying for a first trip | 378 over M1–M12 | Booking/settlement data, weekly | Below plan at Gate A: fix page/offer before more spend |
 | Paid conversion (O2) | First paid riders ÷ all recorded paid clicks, by channel | Search 3%, social 1.5% | Ad platforms + booking data, weekly | Below 1.5% / 0.8% at Gate A: pause the channel |
 | Paid cost per first rider (O2) | Search + social spend ÷ first paid riders | ≤ DKK524 | Finance + booking data, monthly | Above DKK1,829 at Gate B: stop media |
@@ -183,8 +183,8 @@ Concepts: `kpis-and-metrics` and `campaign-tracking-and-analytics` (w04-lecture 
 | Completion (O4) | Completed ÷ accepted bookings | ≥ 95% | Dispatch data, daily | Pause acquisition in affected areas |
 | Service-caused cancellations (O4) | Cancellations caused by Green SM ÷ accepted bookings | ≤ 2% | Dispatch reason codes, daily | Pause acquisition in affected areas |
 | Available offer rate (O4) | In-area requests that receive a usable offer ÷ all in-area requests | Set after baseline | Request logs, weekly | Do not advertise hours/areas that fail |
-| Help-route response (O4, P1 proof) | Complaints with a trip reference answered within the agreed time | Standard set with operations in M1–M2 | Support log, weekly | P1 cannot be advertised until met |
-| Clarity score (P1 proof) | Post-trip question: "Were the area and fare terms clear?" | Set after baseline | In-app survey, monthly | Rewrite page and messages |
+| Help-route response (O4, P1 proof) | Complaints with a trip reference answered within 24 hours | ≥ 90% (A, D-034); confirm with operations in M1–M2 | Support log, weekly | P1 cannot be advertised until met |
+| Clarity score (P1 proof) | Post-trip question: "Were the area and fare terms clear?" | ≥ 80% answer yes (A, D-034) | In-app survey, monthly | Rewrite page and messages |
 | Spend control | Committed + spent vs stage budget | Within stage totals | Finance, weekly | Contingency only with approval |
 
 **Gates (P, §13 A2):**
