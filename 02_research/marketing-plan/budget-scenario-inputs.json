@@ -1,0 +1,93 @@
+{
+  "prepared_on": "2026-09-28",
+  "status": "Comparison envelopes are UNAPPROVED decision-support scenarios. The selected_plan total and objective are group choices (D-032); its line items and every performance assumption remain agent proposals, not Green SM budgets, forecasts or agreed KPI targets",
+  "conditional_market": "Copenhagen, Denmark (chosen, D-031)",
+  "selected_plan": {"budget": "selected_s1", "decision": "D-032", "segment": "S1 resident self-paid repeat taxi users", "positioning": "P1 clear local taxi choice, with a route to resolution", "objective": "Market entry: awareness and trial among S1, with repeat use as the scale gate", "line_items": "Agent proposal for group approval: the middle envelope with account/partner sales removed; its 90 hours move to CRM/support (+60) and local content/creative (+30); media, DOOH, tools, incentive reserve and contingency unchanged. No conversion credit is given for the moved hours"},
+  "currency": "DKK",
+  "period_months": 12,
+  "start_date": null,
+  "cost_basis": "Media list costs exclude VAT and production; production is separately budgeted. Other inputs are planning allowances on the same provisional net-of-recoverable-VAT basis. Actual tax treatment and supplier quotes require validation.",
+  "source_inputs": {
+    "dooh_cpm": {"value": 191, "source": "afa-decaux-2026", "page": 3, "scope": "2026 Digital Copenhagen DOOH list CPM, 41 screens; not Meta CPM or unique people"},
+    "dooh_setup": {"value": 4995, "source": "afa-decaux-2026", "page": 3, "scope": "Published setup per assumed single campaign, includes five creative variants; actual minimum order and campaign configuration unconfirmed"},
+    "fare_start": {"value": 39, "source": "green-sm-denmark-aps-ndb", "page": 3, "scope": "Published Day (Min) meter schedule; not app maximum or actual average fare"},
+    "fare_per_km": {"value": 11, "source": "green-sm-denmark-aps-ndb", "page": 3},
+    "fare_per_minute": {"value": 6.5, "source": "green-sm-denmark-aps-ndb", "page": 3}
+  },
+  "common_assumptions": {
+    "professional_hourly_allowance": 600,
+    "illustrative_trip_km": 10,
+    "illustrative_trip_minutes": 12,
+    "voucher_per_first_payer": 30,
+    "retention_eligible_fraction": 0.75,
+    "extra_rides_per_repeater": 3,
+    "b2b_rides_per_account_month": 8,
+    "b2b_average_active_months": 6,
+    "contribution_margin_cases": [0.3, 0.5],
+    "note": "Every field in common_assumptions is an agent planning choice, not observed company or market performance. The trip is a standardised calculation, not an average journey. Paid acquisition and B2B accounts must be de-duplicated at rider/booking level; model assumes disjoint attributed ride groups. No incremental DOOH conversions are invented."
+  },
+  "budgets": {
+    "lean": {
+      "total": 240000,
+      "research_hours": 30,
+      "creative_hours": 40,
+      "management_hours": 60,
+      "partner_sales_hours": 30,
+      "crm_support_hours": 20,
+      "paid_search": 48000,
+      "paid_social": 24000,
+      "dooh_impressions": 0,
+      "tools_per_month": 1500,
+      "incentive_reserve": 6000,
+      "qualified_b2b_leads": 24
+    },
+    "middle": {
+      "total": 600000,
+      "research_hours": 60,
+      "creative_hours": 90,
+      "management_hours": 160,
+      "partner_sales_hours": 90,
+      "crm_support_hours": 60,
+      "paid_search": 108000,
+      "paid_social": 90000,
+      "dooh_impressions": 200000,
+      "tools_per_month": 2500,
+      "incentive_reserve": 12000,
+      "qualified_b2b_leads": 60
+    },
+    "expanded": {
+      "total": 1200000,
+      "research_hours": 80,
+      "creative_hours": 160,
+      "management_hours": 320,
+      "partner_sales_hours": 180,
+      "crm_support_hours": 120,
+      "paid_search": 252000,
+      "paid_social": 216000,
+      "dooh_impressions": 400000,
+      "tools_per_month": 4000,
+      "incentive_reserve": 30000,
+      "qualified_b2b_leads": 120
+    },
+    "selected_s1": {
+      "total": 600000,
+      "research_hours": 60,
+      "creative_hours": 120,
+      "management_hours": 160,
+      "partner_sales_hours": 0,
+      "crm_support_hours": 120,
+      "paid_search": 108000,
+      "paid_social": 90000,
+      "dooh_impressions": 200000,
+      "tools_per_month": 2500,
+      "incentive_reserve": 12000,
+      "qualified_b2b_leads": 0
+    }
+  },
+  "performance_assumptions": {
+    "downside": {"search_cpc": 18, "social_cpm": 135, "social_ctr": 0.007, "search_click_to_first_paid_ride": 0.015, "social_click_to_first_paid_ride": 0.008, "duplicate_acquisition_fraction": 0.15, "repeat_90_day_fraction": 0.2, "b2b_lead_to_active_account": 0.1},
+    "illustrative": {"search_cpc": 12, "social_cpm": 90, "social_ctr": 0.01, "search_click_to_first_paid_ride": 0.03, "social_click_to_first_paid_ride": 0.015, "duplicate_acquisition_fraction": 0.1, "repeat_90_day_fraction": 0.35, "b2b_lead_to_active_account": 0.25},
+    "upside": {"search_cpc": 8, "social_cpm": 65, "social_ctr": 0.015, "search_click_to_first_paid_ride": 0.06, "social_click_to_first_paid_ride": 0.025, "duplicate_acquisition_fraction": 0.05, "repeat_90_day_fraction": 0.5, "b2b_lead_to_active_account": 0.35}
+  },
+  "performance_warning": "These are deliberately transparent stress assumptions, not published benchmarks, probabilistic intervals, empirical estimates or forecast confidence bounds. Conversion assumptions do not depend on every acquired rider receiving a voucher; voucher redemption is capped by the reserve. Changing spend does not establish scalable linear returns."
+}

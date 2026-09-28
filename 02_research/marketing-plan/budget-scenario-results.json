@@ -1,0 +1,917 @@
+{
+  "prepared_on": "2026-09-28",
+  "status": "Comparison envelopes are UNAPPROVED decision-support scenarios. The selected_plan total and objective are group choices (D-032); its line items and every performance assumption remain agent proposals, not Green SM budgets, forecasts or agreed KPI targets",
+  "selected_plan": {
+    "budget": "selected_s1",
+    "decision": "D-032",
+    "segment": "S1 resident self-paid repeat taxi users",
+    "positioning": "P1 clear local taxi choice, with a route to resolution",
+    "objective": "Market entry: awareness and trial among S1, with repeat use as the scale gate",
+    "line_items": "Agent proposal for group approval: the middle envelope with account/partner sales removed; its 90 hours move to CRM/support (+60) and local content/creative (+30); media, DOOH, tools, incentive reserve and contingency unchanged. No conversion credit is given for the moved hours"
+  },
+  "currency": "DKK",
+  "period_months": 12,
+  "budgets": {
+    "lean": {
+      "allocation": {
+        "total": 240000,
+        "lines": [
+          {
+            "item": "Research and service validation",
+            "quantity": 30,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 18000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 7.5
+          },
+          {
+            "item": "Creative production and localisation",
+            "quantity": 40,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 24000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 10.0
+          },
+          {
+            "item": "Campaign management and optimisation",
+            "quantity": 60,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 36000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 15.0
+          },
+          {
+            "item": "Partner/account prospecting and consultative sales",
+            "quantity": 30,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 18000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 7.5
+          },
+          {
+            "item": "CRM and customer-support handover",
+            "quantity": 20,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 12000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 5.0
+          },
+          {
+            "item": "Paid search",
+            "cost": 48000,
+            "basis": "Unapproved media envelope, not a platform quote",
+            "share_percent": 20.0
+          },
+          {
+            "item": "Paid social",
+            "cost": 24000,
+            "basis": "Unapproved media envelope, not a platform quote",
+            "share_percent": 10.0
+          },
+          {
+            "item": "Analytics/CRM tools",
+            "quantity": 12,
+            "unit": "months",
+            "unit_cost": 1500,
+            "cost": 18000,
+            "basis": "Unapproved software/data allowance; vendor procurement unconfirmed",
+            "share_percent": 7.5
+          },
+          {
+            "item": "First-ride incentive reserve",
+            "cost": 6000,
+            "basis": "Proposed capped voucher liability, not an existing European promotion",
+            "share_percent": 2.5
+          },
+          {
+            "item": "Uncommitted contingency",
+            "cost": 36000,
+            "basis": "Residual within proposed total; not forecast spending or a balancing revenue",
+            "share_percent": 15.0
+          }
+        ],
+        "line_sum": 240000,
+        "share_sum_percent": 100.0,
+        "professional_hours": 180,
+        "hours_per_month": 15.0
+      },
+      "performance_cases": {
+        "downside": {
+          "search_clicks": 2666.6666666666665,
+          "social_impressions": 177777.77777777778,
+          "social_clicks": 1244.4444444444446,
+          "search_attributed_first_payers_before_dedup": 39.99999999999999,
+          "social_attributed_first_payers_before_dedup": 9.955555555555557,
+          "deduplicated_first_payers": 42.462222222222216,
+          "retention_eligible_first_payers": 31.846666666666664,
+          "repeaters_within_90_days": 6.3693333333333335,
+          "additional_repeat_rides": 19.108,
+          "active_b2b_accounts": 2.4000000000000004,
+          "b2b_rides": 115.20000000000002,
+          "total_attributed_ride_equivalents": 176.77022222222223,
+          "voucher_user_capacity": 200,
+          "voucher_users": 42.462222222222216,
+          "voucher_redemption_cost": 1273.8666666666666,
+          "unused_incentive_reserve": 4726.133333333333,
+          "paid_media_cost_per_first_payer": 1695.624869164748,
+          "paid_media_plus_redeemed_incentive_cost_per_first_payer": 1725.6248691647481,
+          "illustrative_trip_fare_not_average_revenue": 227.0,
+          "illustrative_gross_booking_value_before_incentives": 40126.840444444446,
+          "contribution_scenarios": [
+            {
+              "assumed_contribution_fraction_before_marketing": 0.3,
+              "illustrative_contribution_per_ride": 68.1,
+              "contribution_before_programme_cost": 12038.052133333333,
+              "contribution_less_full_reserved_programme_budget": -227961.94786666665,
+              "rides_to_cover_full_reserved_budget": 3525,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 25.339572234430957
+            },
+            {
+              "assumed_contribution_fraction_before_marketing": 0.5,
+              "illustrative_contribution_per_ride": 113.5,
+              "contribution_before_programme_cost": 20063.420222222223,
+              "contribution_less_full_reserved_programme_budget": -219936.57977777778,
+              "rides_to_cover_full_reserved_budget": 2115,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 15.203743340658574
+            }
+          ],
+          "warning": "Fractional outputs are conditional arithmetic, not realised riders/accounts. No DOOH conversions attributed. Full-programme economics are not a fully allocated B2C CAC; B2B costs and accounts are separate. Gross booking value is not profit or incremental causal revenue."
+        },
+        "illustrative": {
+          "search_clicks": 4000.0,
+          "social_impressions": 266666.6666666667,
+          "social_clicks": 2666.666666666667,
+          "search_attributed_first_payers_before_dedup": 120.0,
+          "social_attributed_first_payers_before_dedup": 40.0,
+          "deduplicated_first_payers": 144.0,
+          "retention_eligible_first_payers": 108.0,
+          "repeaters_within_90_days": 37.8,
+          "additional_repeat_rides": 113.39999999999999,
+          "active_b2b_accounts": 6.0,
+          "b2b_rides": 288.0,
+          "total_attributed_ride_equivalents": 545.4,
+          "voucher_user_capacity": 200,
+          "voucher_users": 144.0,
+          "voucher_redemption_cost": 4320.0,
+          "unused_incentive_reserve": 1680.0,
+          "paid_media_cost_per_first_payer": 500.0,
+          "paid_media_plus_redeemed_incentive_cost_per_first_payer": 530.0,
+          "illustrative_trip_fare_not_average_revenue": 227.0,
+          "illustrative_gross_booking_value_before_incentives": 123805.79999999999,
+          "contribution_scenarios": [
+            {
+              "assumed_contribution_fraction_before_marketing": 0.3,
+              "illustrative_contribution_per_ride": 68.1,
+              "contribution_before_programme_cost": 37141.74,
+              "contribution_less_full_reserved_programme_budget": -202858.26,
+              "rides_to_cover_full_reserved_budget": 3525,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 7.7826725403817925
+            },
+            {
+              "assumed_contribution_fraction_before_marketing": 0.5,
+              "illustrative_contribution_per_ride": 113.5,
+              "contribution_before_programme_cost": 61902.899999999994,
+              "contribution_less_full_reserved_programme_budget": -178097.1,
+              "rides_to_cover_full_reserved_budget": 2115,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 4.669603524229075
+            }
+          ],
+          "warning": "Fractional outputs are conditional arithmetic, not realised riders/accounts. No DOOH conversions attributed. Full-programme economics are not a fully allocated B2C CAC; B2B costs and accounts are separate. Gross booking value is not profit or incremental causal revenue."
+        },
+        "upside": {
+          "search_clicks": 6000.0,
+          "social_impressions": 369230.76923076925,
+          "social_clicks": 5538.461538461538,
+          "search_attributed_first_payers_before_dedup": 360.0,
+          "social_attributed_first_payers_before_dedup": 138.46153846153845,
+          "deduplicated_first_payers": 473.5384615384615,
+          "retention_eligible_first_payers": 355.15384615384613,
+          "repeaters_within_90_days": 177.57692307692307,
+          "additional_repeat_rides": 532.7307692307692,
+          "active_b2b_accounts": 8.399999999999999,
+          "b2b_rides": 403.19999999999993,
+          "total_attributed_ride_equivalents": 1409.4692307692308,
+          "voucher_user_capacity": 200,
+          "voucher_users": 200,
+          "voucher_redemption_cost": 6000,
+          "unused_incentive_reserve": 0,
+          "paid_media_cost_per_first_payer": 152.046783625731,
+          "paid_media_plus_redeemed_incentive_cost_per_first_payer": 164.71734892787526,
+          "illustrative_trip_fare_not_average_revenue": 227.0,
+          "illustrative_gross_booking_value_before_incentives": 319949.5153846154,
+          "contribution_scenarios": [
+            {
+              "assumed_contribution_fraction_before_marketing": 0.3,
+              "illustrative_contribution_per_ride": 68.1,
+              "contribution_before_programme_cost": 95984.85461538461,
+              "contribution_less_full_reserved_programme_budget": -144015.1453846154,
+              "rides_to_cover_full_reserved_budget": 3525,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 2.4187569592933227
+            },
+            {
+              "assumed_contribution_fraction_before_marketing": 0.5,
+              "illustrative_contribution_per_ride": 113.5,
+              "contribution_before_programme_cost": 159974.7576923077,
+              "contribution_less_full_reserved_programme_budget": -80025.2423076923,
+              "rides_to_cover_full_reserved_budget": 2115,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 1.4512541755759936
+            }
+          ],
+          "warning": "Fractional outputs are conditional arithmetic, not realised riders/accounts. No DOOH conversions attributed. Full-programme economics are not a fully allocated B2C CAC; B2B costs and accounts are separate. Gross booking value is not profit or incremental causal revenue."
+        }
+      }
+    },
+    "middle": {
+      "allocation": {
+        "total": 600000,
+        "lines": [
+          {
+            "item": "Research and service validation",
+            "quantity": 60,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 36000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 6.0
+          },
+          {
+            "item": "Creative production and localisation",
+            "quantity": 90,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 54000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 9.0
+          },
+          {
+            "item": "Campaign management and optimisation",
+            "quantity": 160,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 96000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 16.0
+          },
+          {
+            "item": "Partner/account prospecting and consultative sales",
+            "quantity": 90,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 54000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 9.0
+          },
+          {
+            "item": "CRM and customer-support handover",
+            "quantity": 60,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 36000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 6.0
+          },
+          {
+            "item": "Paid search",
+            "cost": 108000,
+            "basis": "Unapproved media envelope, not a platform quote",
+            "share_percent": 18.0
+          },
+          {
+            "item": "Paid social",
+            "cost": 90000,
+            "basis": "Unapproved media envelope, not a platform quote",
+            "share_percent": 15.0
+          },
+          {
+            "item": "Digital Copenhagen DOOH",
+            "quantity": 200.0,
+            "unit": "thousand impressions",
+            "unit_cost": 191,
+            "cost": 38200.0,
+            "basis": "afa-decaux-2026 p.3 list CPM; unapproved quantity, minimum order unconfirmed",
+            "share_percent": 6.366666666666666
+          },
+          {
+            "item": "DOOH setup",
+            "quantity": 1,
+            "unit": "assumed campaign setup",
+            "unit_cost": 4995,
+            "cost": 4995,
+            "basis": "afa-decaux-2026 p.3; one setup assumed, creative production separately allocated",
+            "share_percent": 0.8325000000000001
+          },
+          {
+            "item": "Analytics/CRM tools",
+            "quantity": 12,
+            "unit": "months",
+            "unit_cost": 2500,
+            "cost": 30000,
+            "basis": "Unapproved software/data allowance; vendor procurement unconfirmed",
+            "share_percent": 5.0
+          },
+          {
+            "item": "First-ride incentive reserve",
+            "cost": 12000,
+            "basis": "Proposed capped voucher liability, not an existing European promotion",
+            "share_percent": 2.0
+          },
+          {
+            "item": "Uncommitted contingency",
+            "cost": 40805.0,
+            "basis": "Residual within proposed total; not forecast spending or a balancing revenue",
+            "share_percent": 6.800833333333333
+          }
+        ],
+        "line_sum": 600000.0,
+        "share_sum_percent": 100.0,
+        "professional_hours": 460,
+        "hours_per_month": 38.333333333333336
+      },
+      "performance_cases": {
+        "downside": {
+          "search_clicks": 6000.0,
+          "social_impressions": 666666.6666666666,
+          "social_clicks": 4666.666666666666,
+          "search_attributed_first_payers_before_dedup": 90.0,
+          "social_attributed_first_payers_before_dedup": 37.33333333333333,
+          "deduplicated_first_payers": 108.23333333333332,
+          "retention_eligible_first_payers": 81.17499999999998,
+          "repeaters_within_90_days": 16.234999999999996,
+          "additional_repeat_rides": 48.704999999999984,
+          "active_b2b_accounts": 6.0,
+          "b2b_rides": 288.0,
+          "total_attributed_ride_equivalents": 444.9383333333333,
+          "voucher_user_capacity": 400,
+          "voucher_users": 108.23333333333332,
+          "voucher_redemption_cost": 3246.9999999999995,
+          "unused_incentive_reserve": 8753.0,
+          "paid_media_cost_per_first_payer": 1829.3809670465048,
+          "paid_media_plus_redeemed_incentive_cost_per_first_payer": 1859.3809670465048,
+          "illustrative_trip_fare_not_average_revenue": 227.0,
+          "illustrative_gross_booking_value_before_incentives": 101001.00166666665,
+          "contribution_scenarios": [
+            {
+              "assumed_contribution_fraction_before_marketing": 0.3,
+              "illustrative_contribution_per_ride": 68.1,
+              "contribution_before_programme_cost": 30300.300499999994,
+              "contribution_less_full_reserved_programme_budget": -569699.6995,
+              "rides_to_cover_full_reserved_budget": 8811,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 27.303685272342218
+            },
+            {
+              "assumed_contribution_fraction_before_marketing": 0.5,
+              "illustrative_contribution_per_ride": 113.5,
+              "contribution_before_programme_cost": 50500.500833333324,
+              "contribution_less_full_reserved_programme_budget": -549499.4991666666,
+              "rides_to_cover_full_reserved_budget": 5287,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 16.38221116340533
+            }
+          ],
+          "warning": "Fractional outputs are conditional arithmetic, not realised riders/accounts. No DOOH conversions attributed. Full-programme economics are not a fully allocated B2C CAC; B2B costs and accounts are separate. Gross booking value is not profit or incremental causal revenue."
+        },
+        "illustrative": {
+          "search_clicks": 9000.0,
+          "social_impressions": 1000000.0,
+          "social_clicks": 10000.0,
+          "search_attributed_first_payers_before_dedup": 270.0,
+          "social_attributed_first_payers_before_dedup": 150.0,
+          "deduplicated_first_payers": 378.0,
+          "retention_eligible_first_payers": 283.5,
+          "repeaters_within_90_days": 99.225,
+          "additional_repeat_rides": 297.67499999999995,
+          "active_b2b_accounts": 15.0,
+          "b2b_rides": 720.0,
+          "total_attributed_ride_equivalents": 1395.675,
+          "voucher_user_capacity": 400,
+          "voucher_users": 378.0,
+          "voucher_redemption_cost": 11340.0,
+          "unused_incentive_reserve": 660.0,
+          "paid_media_cost_per_first_payer": 523.8095238095239,
+          "paid_media_plus_redeemed_incentive_cost_per_first_payer": 553.8095238095239,
+          "illustrative_trip_fare_not_average_revenue": 227.0,
+          "illustrative_gross_booking_value_before_incentives": 316818.225,
+          "contribution_scenarios": [
+            {
+              "assumed_contribution_fraction_before_marketing": 0.3,
+              "illustrative_contribution_per_ride": 68.1,
+              "contribution_before_programme_cost": 95045.46749999998,
+              "contribution_less_full_reserved_programme_budget": -504954.53250000003,
+              "rides_to_cover_full_reserved_budget": 8811,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 8.132298440668485
+            },
+            {
+              "assumed_contribution_fraction_before_marketing": 0.5,
+              "illustrative_contribution_per_ride": 113.5,
+              "contribution_before_programme_cost": 158409.1125,
+              "contribution_less_full_reserved_programme_budget": -441590.8875,
+              "rides_to_cover_full_reserved_budget": 5287,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 4.879379064401091
+            }
+          ],
+          "warning": "Fractional outputs are conditional arithmetic, not realised riders/accounts. No DOOH conversions attributed. Full-programme economics are not a fully allocated B2C CAC; B2B costs and accounts are separate. Gross booking value is not profit or incremental causal revenue."
+        },
+        "upside": {
+          "search_clicks": 13500.0,
+          "social_impressions": 1384615.3846153845,
+          "social_clicks": 20769.230769230766,
+          "search_attributed_first_payers_before_dedup": 810.0,
+          "social_attributed_first_payers_before_dedup": 519.2307692307692,
+          "deduplicated_first_payers": 1262.7692307692305,
+          "retention_eligible_first_payers": 947.0769230769229,
+          "repeaters_within_90_days": 473.53846153846143,
+          "additional_repeat_rides": 1420.6153846153843,
+          "active_b2b_accounts": 21.0,
+          "b2b_rides": 1008.0,
+          "total_attributed_ride_equivalents": 3691.384615384615,
+          "voucher_user_capacity": 400,
+          "voucher_users": 400,
+          "voucher_redemption_cost": 12000,
+          "unused_incentive_reserve": 0,
+          "paid_media_cost_per_first_payer": 156.79824561403512,
+          "paid_media_plus_redeemed_incentive_cost_per_first_payer": 166.3011695906433,
+          "illustrative_trip_fare_not_average_revenue": 227.0,
+          "illustrative_gross_booking_value_before_incentives": 837944.3076923075,
+          "contribution_scenarios": [
+            {
+              "assumed_contribution_fraction_before_marketing": 0.3,
+              "illustrative_contribution_per_ride": 68.1,
+              "contribution_before_programme_cost": 251383.29230769226,
+              "contribution_less_full_reserved_programme_budget": -348616.70769230777,
+              "rides_to_cover_full_reserved_budget": 8811,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 2.442014237748066
+            },
+            {
+              "assumed_contribution_fraction_before_marketing": 0.5,
+              "illustrative_contribution_per_ride": 113.5,
+              "contribution_before_programme_cost": 418972.15384615376,
+              "contribution_less_full_reserved_programme_budget": -181027.84615384624,
+              "rides_to_cover_full_reserved_budget": 5287,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 1.4652085426488397
+            }
+          ],
+          "warning": "Fractional outputs are conditional arithmetic, not realised riders/accounts. No DOOH conversions attributed. Full-programme economics are not a fully allocated B2C CAC; B2B costs and accounts are separate. Gross booking value is not profit or incremental causal revenue."
+        }
+      }
+    },
+    "expanded": {
+      "allocation": {
+        "total": 1200000,
+        "lines": [
+          {
+            "item": "Research and service validation",
+            "quantity": 80,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 48000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 4.0
+          },
+          {
+            "item": "Creative production and localisation",
+            "quantity": 160,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 96000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 8.0
+          },
+          {
+            "item": "Campaign management and optimisation",
+            "quantity": 320,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 192000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 16.0
+          },
+          {
+            "item": "Partner/account prospecting and consultative sales",
+            "quantity": 180,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 108000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 9.0
+          },
+          {
+            "item": "CRM and customer-support handover",
+            "quantity": 120,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 72000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 6.0
+          },
+          {
+            "item": "Paid search",
+            "cost": 252000,
+            "basis": "Unapproved media envelope, not a platform quote",
+            "share_percent": 21.0
+          },
+          {
+            "item": "Paid social",
+            "cost": 216000,
+            "basis": "Unapproved media envelope, not a platform quote",
+            "share_percent": 18.0
+          },
+          {
+            "item": "Digital Copenhagen DOOH",
+            "quantity": 400.0,
+            "unit": "thousand impressions",
+            "unit_cost": 191,
+            "cost": 76400.0,
+            "basis": "afa-decaux-2026 p.3 list CPM; unapproved quantity, minimum order unconfirmed",
+            "share_percent": 6.366666666666666
+          },
+          {
+            "item": "DOOH setup",
+            "quantity": 1,
+            "unit": "assumed campaign setup",
+            "unit_cost": 4995,
+            "cost": 4995,
+            "basis": "afa-decaux-2026 p.3; one setup assumed, creative production separately allocated",
+            "share_percent": 0.41625000000000006
+          },
+          {
+            "item": "Analytics/CRM tools",
+            "quantity": 12,
+            "unit": "months",
+            "unit_cost": 4000,
+            "cost": 48000,
+            "basis": "Unapproved software/data allowance; vendor procurement unconfirmed",
+            "share_percent": 4.0
+          },
+          {
+            "item": "First-ride incentive reserve",
+            "cost": 30000,
+            "basis": "Proposed capped voucher liability, not an existing European promotion",
+            "share_percent": 2.5
+          },
+          {
+            "item": "Uncommitted contingency",
+            "cost": 56605.0,
+            "basis": "Residual within proposed total; not forecast spending or a balancing revenue",
+            "share_percent": 4.717083333333334
+          }
+        ],
+        "line_sum": 1200000.0,
+        "share_sum_percent": 100.0,
+        "professional_hours": 860,
+        "hours_per_month": 71.66666666666667
+      },
+      "performance_cases": {
+        "downside": {
+          "search_clicks": 14000.0,
+          "social_impressions": 1600000.0,
+          "social_clicks": 11200.0,
+          "search_attributed_first_payers_before_dedup": 210.0,
+          "social_attributed_first_payers_before_dedup": 89.60000000000001,
+          "deduplicated_first_payers": 254.66000000000003,
+          "retention_eligible_first_payers": 190.995,
+          "repeaters_within_90_days": 38.199000000000005,
+          "additional_repeat_rides": 114.59700000000001,
+          "active_b2b_accounts": 12.0,
+          "b2b_rides": 576.0,
+          "total_attributed_ride_equivalents": 945.2570000000001,
+          "voucher_user_capacity": 1000,
+          "voucher_users": 254.66000000000003,
+          "voucher_redemption_cost": 7639.800000000001,
+          "unused_incentive_reserve": 22360.199999999997,
+          "paid_media_cost_per_first_payer": 1837.744443571821,
+          "paid_media_plus_redeemed_incentive_cost_per_first_payer": 1867.744443571821,
+          "illustrative_trip_fare_not_average_revenue": 227.0,
+          "illustrative_gross_booking_value_before_incentives": 214573.339,
+          "contribution_scenarios": [
+            {
+              "assumed_contribution_fraction_before_marketing": 0.3,
+              "illustrative_contribution_per_ride": 68.1,
+              "contribution_before_programme_cost": 64372.0017,
+              "contribution_less_full_reserved_programme_budget": -1135627.9983,
+              "rides_to_cover_full_reserved_budget": 17622,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 27.42649696874921
+            },
+            {
+              "assumed_contribution_fraction_before_marketing": 0.5,
+              "illustrative_contribution_per_ride": 113.5,
+              "contribution_before_programme_cost": 107286.6695,
+              "contribution_less_full_reserved_programme_budget": -1092713.3305,
+              "rides_to_cover_full_reserved_budget": 10573,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 16.455898181249523
+            }
+          ],
+          "warning": "Fractional outputs are conditional arithmetic, not realised riders/accounts. No DOOH conversions attributed. Full-programme economics are not a fully allocated B2C CAC; B2B costs and accounts are separate. Gross booking value is not profit or incremental causal revenue."
+        },
+        "illustrative": {
+          "search_clicks": 21000.0,
+          "social_impressions": 2400000.0,
+          "social_clicks": 24000.0,
+          "search_attributed_first_payers_before_dedup": 630.0,
+          "social_attributed_first_payers_before_dedup": 360.0,
+          "deduplicated_first_payers": 891.0,
+          "retention_eligible_first_payers": 668.25,
+          "repeaters_within_90_days": 233.8875,
+          "additional_repeat_rides": 701.6624999999999,
+          "active_b2b_accounts": 30.0,
+          "b2b_rides": 1440.0,
+          "total_attributed_ride_equivalents": 3032.6625,
+          "voucher_user_capacity": 1000,
+          "voucher_users": 891.0,
+          "voucher_redemption_cost": 26730.0,
+          "unused_incentive_reserve": 3270.0,
+          "paid_media_cost_per_first_payer": 525.2525252525253,
+          "paid_media_plus_redeemed_incentive_cost_per_first_payer": 555.2525252525253,
+          "illustrative_trip_fare_not_average_revenue": 227.0,
+          "illustrative_gross_booking_value_before_incentives": 688414.3875,
+          "contribution_scenarios": [
+            {
+              "assumed_contribution_fraction_before_marketing": 0.3,
+              "illustrative_contribution_per_ride": 68.1,
+              "contribution_before_programme_cost": 206524.31624999997,
+              "contribution_less_full_reserved_programme_budget": -993475.6837500001,
+              "rides_to_cover_full_reserved_budget": 17622,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 8.15348788917071
+            },
+            {
+              "assumed_contribution_fraction_before_marketing": 0.5,
+              "illustrative_contribution_per_ride": 113.5,
+              "contribution_before_programme_cost": 344207.19375,
+              "contribution_less_full_reserved_programme_budget": -855792.80625,
+              "rides_to_cover_full_reserved_budget": 10573,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 4.892092733502426
+            }
+          ],
+          "warning": "Fractional outputs are conditional arithmetic, not realised riders/accounts. No DOOH conversions attributed. Full-programme economics are not a fully allocated B2C CAC; B2B costs and accounts are separate. Gross booking value is not profit or incremental causal revenue."
+        },
+        "upside": {
+          "search_clicks": 31500.0,
+          "social_impressions": 3323076.923076923,
+          "social_clicks": 49846.153846153844,
+          "search_attributed_first_payers_before_dedup": 1890.0,
+          "social_attributed_first_payers_before_dedup": 1246.1538461538462,
+          "deduplicated_first_payers": 2979.346153846154,
+          "retention_eligible_first_payers": 2234.5096153846152,
+          "repeaters_within_90_days": 1117.2548076923076,
+          "additional_repeat_rides": 3351.764423076923,
+          "active_b2b_accounts": 42.0,
+          "b2b_rides": 2016.0,
+          "total_attributed_ride_equivalents": 8347.110576923076,
+          "voucher_user_capacity": 1000,
+          "voucher_users": 1000,
+          "voucher_redemption_cost": 30000,
+          "unused_incentive_reserve": 0,
+          "paid_media_cost_per_first_payer": 157.08144533519229,
+          "paid_media_plus_redeemed_incentive_cost_per_first_payer": 167.15076875411486,
+          "illustrative_trip_fare_not_average_revenue": 227.0,
+          "illustrative_gross_booking_value_before_incentives": 1894794.1009615383,
+          "contribution_scenarios": [
+            {
+              "assumed_contribution_fraction_before_marketing": 0.3,
+              "illustrative_contribution_per_ride": 68.1,
+              "contribution_before_programme_cost": 568438.2302884614,
+              "contribution_less_full_reserved_programme_budget": -631561.7697115386,
+              "rides_to_cover_full_reserved_budget": 17622,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 2.454489996389352
+            },
+            {
+              "assumed_contribution_fraction_before_marketing": 0.5,
+              "illustrative_contribution_per_ride": 113.5,
+              "contribution_before_programme_cost": 947397.0504807691,
+              "contribution_less_full_reserved_programme_budget": -252602.94951923087,
+              "rides_to_cover_full_reserved_budget": 10573,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 1.472693997833611
+            }
+          ],
+          "warning": "Fractional outputs are conditional arithmetic, not realised riders/accounts. No DOOH conversions attributed. Full-programme economics are not a fully allocated B2C CAC; B2B costs and accounts are separate. Gross booking value is not profit or incremental causal revenue."
+        }
+      }
+    },
+    "selected_s1": {
+      "allocation": {
+        "total": 600000,
+        "lines": [
+          {
+            "item": "Research and service validation",
+            "quantity": 60,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 36000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 6.0
+          },
+          {
+            "item": "Creative production and localisation",
+            "quantity": 120,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 72000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 12.0
+          },
+          {
+            "item": "Campaign management and optimisation",
+            "quantity": 160,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 96000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 16.0
+          },
+          {
+            "item": "CRM and customer-support handover",
+            "quantity": 120,
+            "unit": "hours",
+            "unit_cost": 600,
+            "cost": 72000,
+            "basis": "Unapproved hours and professional-cost allowance; not driver pay",
+            "share_percent": 12.0
+          },
+          {
+            "item": "Paid search",
+            "cost": 108000,
+            "basis": "Unapproved media envelope, not a platform quote",
+            "share_percent": 18.0
+          },
+          {
+            "item": "Paid social",
+            "cost": 90000,
+            "basis": "Unapproved media envelope, not a platform quote",
+            "share_percent": 15.0
+          },
+          {
+            "item": "Digital Copenhagen DOOH",
+            "quantity": 200.0,
+            "unit": "thousand impressions",
+            "unit_cost": 191,
+            "cost": 38200.0,
+            "basis": "afa-decaux-2026 p.3 list CPM; unapproved quantity, minimum order unconfirmed",
+            "share_percent": 6.366666666666666
+          },
+          {
+            "item": "DOOH setup",
+            "quantity": 1,
+            "unit": "assumed campaign setup",
+            "unit_cost": 4995,
+            "cost": 4995,
+            "basis": "afa-decaux-2026 p.3; one setup assumed, creative production separately allocated",
+            "share_percent": 0.8325000000000001
+          },
+          {
+            "item": "Analytics/CRM tools",
+            "quantity": 12,
+            "unit": "months",
+            "unit_cost": 2500,
+            "cost": 30000,
+            "basis": "Unapproved software/data allowance; vendor procurement unconfirmed",
+            "share_percent": 5.0
+          },
+          {
+            "item": "First-ride incentive reserve",
+            "cost": 12000,
+            "basis": "Proposed capped voucher liability, not an existing European promotion",
+            "share_percent": 2.0
+          },
+          {
+            "item": "Uncommitted contingency",
+            "cost": 40805.0,
+            "basis": "Residual within proposed total; not forecast spending or a balancing revenue",
+            "share_percent": 6.800833333333333
+          }
+        ],
+        "line_sum": 600000.0,
+        "share_sum_percent": 100.0,
+        "professional_hours": 460,
+        "hours_per_month": 38.333333333333336
+      },
+      "performance_cases": {
+        "downside": {
+          "search_clicks": 6000.0,
+          "social_impressions": 666666.6666666666,
+          "social_clicks": 4666.666666666666,
+          "search_attributed_first_payers_before_dedup": 90.0,
+          "social_attributed_first_payers_before_dedup": 37.33333333333333,
+          "deduplicated_first_payers": 108.23333333333332,
+          "retention_eligible_first_payers": 81.17499999999998,
+          "repeaters_within_90_days": 16.234999999999996,
+          "additional_repeat_rides": 48.704999999999984,
+          "active_b2b_accounts": 0.0,
+          "b2b_rides": 0.0,
+          "total_attributed_ride_equivalents": 156.9383333333333,
+          "voucher_user_capacity": 400,
+          "voucher_users": 108.23333333333332,
+          "voucher_redemption_cost": 3246.9999999999995,
+          "unused_incentive_reserve": 8753.0,
+          "paid_media_cost_per_first_payer": 1829.3809670465048,
+          "paid_media_plus_redeemed_incentive_cost_per_first_payer": 1859.3809670465048,
+          "illustrative_trip_fare_not_average_revenue": 227.0,
+          "illustrative_gross_booking_value_before_incentives": 35625.00166666666,
+          "contribution_scenarios": [
+            {
+              "assumed_contribution_fraction_before_marketing": 0.3,
+              "illustrative_contribution_per_ride": 68.1,
+              "contribution_before_programme_cost": 10687.500499999996,
+              "contribution_less_full_reserved_programme_budget": -589312.4995,
+              "rides_to_cover_full_reserved_budget": 8811,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 27.303685272342218
+            },
+            {
+              "assumed_contribution_fraction_before_marketing": 0.5,
+              "illustrative_contribution_per_ride": 113.5,
+              "contribution_before_programme_cost": 17812.50083333333,
+              "contribution_less_full_reserved_programme_budget": -582187.4991666666,
+              "rides_to_cover_full_reserved_budget": 5287,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 16.38221116340533
+            }
+          ],
+          "warning": "Fractional outputs are conditional arithmetic, not realised riders/accounts. No DOOH conversions attributed. Full-programme economics are not a fully allocated B2C CAC; B2B costs and accounts are separate. Gross booking value is not profit or incremental causal revenue."
+        },
+        "illustrative": {
+          "search_clicks": 9000.0,
+          "social_impressions": 1000000.0,
+          "social_clicks": 10000.0,
+          "search_attributed_first_payers_before_dedup": 270.0,
+          "social_attributed_first_payers_before_dedup": 150.0,
+          "deduplicated_first_payers": 378.0,
+          "retention_eligible_first_payers": 283.5,
+          "repeaters_within_90_days": 99.225,
+          "additional_repeat_rides": 297.67499999999995,
+          "active_b2b_accounts": 0.0,
+          "b2b_rides": 0.0,
+          "total_attributed_ride_equivalents": 675.675,
+          "voucher_user_capacity": 400,
+          "voucher_users": 378.0,
+          "voucher_redemption_cost": 11340.0,
+          "unused_incentive_reserve": 660.0,
+          "paid_media_cost_per_first_payer": 523.8095238095239,
+          "paid_media_plus_redeemed_incentive_cost_per_first_payer": 553.8095238095239,
+          "illustrative_trip_fare_not_average_revenue": 227.0,
+          "illustrative_gross_booking_value_before_incentives": 153378.22499999998,
+          "contribution_scenarios": [
+            {
+              "assumed_contribution_fraction_before_marketing": 0.3,
+              "illustrative_contribution_per_ride": 68.1,
+              "contribution_before_programme_cost": 46013.46749999999,
+              "contribution_less_full_reserved_programme_budget": -553986.5325,
+              "rides_to_cover_full_reserved_budget": 8811,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 8.132298440668485
+            },
+            {
+              "assumed_contribution_fraction_before_marketing": 0.5,
+              "illustrative_contribution_per_ride": 113.5,
+              "contribution_before_programme_cost": 76689.11249999999,
+              "contribution_less_full_reserved_programme_budget": -523310.8875,
+              "rides_to_cover_full_reserved_budget": 5287,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 4.879379064401091
+            }
+          ],
+          "warning": "Fractional outputs are conditional arithmetic, not realised riders/accounts. No DOOH conversions attributed. Full-programme economics are not a fully allocated B2C CAC; B2B costs and accounts are separate. Gross booking value is not profit or incremental causal revenue."
+        },
+        "upside": {
+          "search_clicks": 13500.0,
+          "social_impressions": 1384615.3846153845,
+          "social_clicks": 20769.230769230766,
+          "search_attributed_first_payers_before_dedup": 810.0,
+          "social_attributed_first_payers_before_dedup": 519.2307692307692,
+          "deduplicated_first_payers": 1262.7692307692305,
+          "retention_eligible_first_payers": 947.0769230769229,
+          "repeaters_within_90_days": 473.53846153846143,
+          "additional_repeat_rides": 1420.6153846153843,
+          "active_b2b_accounts": 0.0,
+          "b2b_rides": 0.0,
+          "total_attributed_ride_equivalents": 2683.384615384615,
+          "voucher_user_capacity": 400,
+          "voucher_users": 400,
+          "voucher_redemption_cost": 12000,
+          "unused_incentive_reserve": 0,
+          "paid_media_cost_per_first_payer": 156.79824561403512,
+          "paid_media_plus_redeemed_incentive_cost_per_first_payer": 166.3011695906433,
+          "illustrative_trip_fare_not_average_revenue": 227.0,
+          "illustrative_gross_booking_value_before_incentives": 609128.3076923075,
+          "contribution_scenarios": [
+            {
+              "assumed_contribution_fraction_before_marketing": 0.3,
+              "illustrative_contribution_per_ride": 68.1,
+              "contribution_before_programme_cost": 182738.49230769224,
+              "contribution_less_full_reserved_programme_budget": -417261.50769230776,
+              "rides_to_cover_full_reserved_budget": 8811,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 2.442014237748066
+            },
+            {
+              "assumed_contribution_fraction_before_marketing": 0.5,
+              "illustrative_contribution_per_ride": 113.5,
+              "contribution_before_programme_cost": 304564.15384615376,
+              "contribution_less_full_reserved_programme_budget": -295435.84615384624,
+              "rides_to_cover_full_reserved_budget": 5287,
+              "rides_per_new_payer_to_cover_paid_media_and_redeemed_incentive": 1.4652085426488397
+            }
+          ],
+          "warning": "Fractional outputs are conditional arithmetic, not realised riders/accounts. No DOOH conversions attributed. Full-programme economics are not a fully allocated B2C CAC; B2B costs and accounts are separate. Gross booking value is not profit or incremental causal revenue."
+        }
+      }
+    }
+  }
+}

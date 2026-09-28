@@ -1,0 +1,162 @@
+# Permitted concepts for `draftcheck.py --concepts` (one per line).
+# GENERATED from concept-register.md by 06_workflow/scripts/make_concept_list.py; do not edit by hand.
+# Module-first; outside-flagged entries require verified PDFs and manual scope review.
+drivers of change
+Drivers of change in the future economy
+sales and marketing future economy
+Sales and marketing in the future economy
+future economy trends
+Future economy landscape: technology, sustainability, demographic shifts
+customer experience differentiator
+Shifting consumer behaviour: empowered, digital-first, experience over product
+customer centric business model
+From product-centric to customer-centric models
+platform business model
+Platform-based business models
+sustainable ethical business model
+Sustainability and ethical business models
+consumer behaviour
+Consumer behaviour and its influencing factors
+consumer decision making process
+Consumer decision-making process
+digital consumer trends
+Consumer behaviour in the digital age
+generational digital behaviour
+understanding customer needs
+customer personas
+target market analysis
+stp model
+Segmentation, targeting and positioning  model
+market segmentation
+segmentation bases
+Segmentation bases: demographic, geographic, psychographic, behavioural
+targeting
+targeting strategies
+Differentiated and concentrated marketing
+consumer insights and big data
+Consumer insights and big data analytics
+positioning
+unique value proposition
+positioning strategies
+Benefit, attribute and competitor positioning
+positioning statement
+brand identity
+brand identity components
+brand strategy alignment
+Brand strategy: emotional connection and alignment with the target market
+emotional neuro branding
+Emotional  branding
+consistent brand messaging
+lifestyle marketing
+brand equity
+digital marketing
+Digital marketing in the future economy
+key digital marketing strategies
+social media marketing
+content marketing
+influencer marketing
+Influencer marketing and influencer types
+user generated content
+User-generated content
+email marketing
+search engine optimisation
+pay per click
+Pay-per-click advertising
+targeted advertising
+customer engagement and support
+ai chatbots
+AI chatbots in customer service and sales
+marketing automation
+Cloud-based marketing automation tools
+integrated digital marketing
+Integration of digital marketing strategies
+developed vs developing market trends
+Digital marketing trends in developed and developing markets; localisation
+social influence and ewom
+sales fundamentals
+modern selling techniques
+sales process
+Sales process: lead generation, prospecting, conversion
+sales channels
+relationship building
+Building relationships and effective communication
+social selling
+selling techniques
+Sales techniques: consultative, value-based and personalised selling
+crm
+Customer relationship management
+sales marketing integration
+Integration of sales and marketing; digital transformation in sales
+customer acquisition tactics
+after sales service
+After-sales service
+direct to consumer sales
+Direct-to-consumer sales model
+closing techniques
+Sale closing techniques
+soft selling
+Soft selling and social proof
+budget and resource allocation
+marketing budget line items
+Line-item marketing budget with monitoring and contingency
+strategic budget priorities
+Budget prioritisation towards high-impact areas
+kpis and metrics
+Key performance indicators  and metrics
+campaign tracking and analytics
+Tracking and analysing campaign performance
+sales conversion rate
+customer acquisition cost
+customer retention rate
+sales growth
+average deal size
+lead response time
+customer satisfaction csat
+Customer satisfaction
+customer lifetime value
+return on investment
+click through rate
+Click-through rate
+cost per click
+return on ad spend
+open rate
+Email open rate
+churn
+artificial intelligence
+Artificial intelligence  in marketing
+personalisation
+Personalisation and hyper-personalisation
+omnichannel
+Omnichannel strategy and decision-making
+omnichannel channel migration
+Omnichannel promotions: moving online customers to physical stores
+neuromarketing
+Neuromarketing and emotional triggers
+subscription model
+recurring billing
+Subscription billing and recurring billing
+recurring revenue model types
+Types of recurring revenue models
+usage based model
+Usage-based  model
+freemium model
+membership model
+recurring revenue benefits
+Benefits of recurring revenue models
+retention over acquisition
+Focus on retention over acquisition
+relationship selling
+Shift to relationship selling
+subscription bundling
+upselling and cross selling
+Upselling and cross-selling
+subscription challenges
+Challenges of recurring revenue models
+subscription future trends
+Future trends: AI personalisation in subscriptions
+loyalty programmes
+gamification
+alignment with objectives
+Aligning marketing with business goals and objectives
+long term sustainable growth
+Long-term sustainability and growth

@@ -1,0 +1,113 @@
+{
+  "prepared_on": "2026-09-28",
+  "method_frozen_on": "2026-09-27",
+  "status": "Unapproved agent evaluation of evidence fitness, NOT predicted academic marks, market attractiveness or probability of success.",
+  "criteria": [
+    "K1",
+    "K2",
+    "K3",
+    "K4",
+    "K5",
+    "K6"
+  ],
+  "weights": [
+    25,
+    20,
+    20,
+    15,
+    10,
+    10
+  ],
+  "european_candidates": [
+    "Denmark",
+    "Netherlands"
+  ],
+  "preference_margin": 5,
+  "eu_tie_margin": 2,
+  "data_gate_minimum": 3,
+  "countries": {
+    "Denmark": {
+      "city": "Copenhagen",
+      "scores": [
+        4.5,
+        4,
+        5,
+        5,
+        4.5,
+        5
+      ]
+    },
+    "Netherlands": {
+      "city": "Amsterdam",
+      "scores": [
+        4,
+        4,
+        4.5,
+        4.5,
+        4.5,
+        4
+      ]
+    },
+    "Vietnam": {
+      "city": "Hanoi",
+      "scores": [
+        4.5,
+        4.5,
+        4.5,
+        4,
+        5,
+        4
+      ]
+    },
+    "India": {
+      "city": "Delhi NCT / limited NCR context",
+      "scores": [
+        3.5,
+        4,
+        3,
+        4.5,
+        4,
+        4.5
+      ]
+    }
+  },
+  "stress_cases": [
+    {
+      "name": "DK customer-evidence downgrade",
+      "changes": {
+        "Denmark": {
+          "K1": 3.5
+        }
+      }
+    },
+    {
+      "name": "DK customer and budget downgrades; VN budget upgrade",
+      "changes": {
+        "Denmark": {
+          "K1": 3.5,
+          "K3": 4
+        },
+        "Vietnam": {
+          "K3": 5
+        }
+      }
+    },
+    {
+      "name": "Remove distinctiveness preference: equal K6",
+      "changes": {
+        "Denmark": {
+          "K6": 3
+        },
+        "Netherlands": {
+          "K6": 3
+        },
+        "Vietnam": {
+          "K6": 3
+        },
+        "India": {
+          "K6": 3
+        }
+      }
+    }
+  ]
+}

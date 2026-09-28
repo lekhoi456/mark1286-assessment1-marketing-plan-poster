@@ -1,0 +1,2842 @@
+{
+  "prepared_on": "2026-09-28",
+  "status": "Research candidates; verified identity is not approval to cite a claim without its scope limitations.",
+  "registry": "04_references/references.json",
+  "countries": [
+    {
+      "country": "Previously registered Danish offer",
+      "scoring_limits": [
+        "Published prices and capabilities, not observed trip performance."
+      ],
+      "sources": [
+        {
+          "key": "green-sm-denmark-aps-ndb",
+          "file": "green-sm-denmark-aps-ndb-green-sm-car.pdf",
+          "staged_file": null,
+          "pack_source": "Existing company product PDF",
+          "claims": [
+            {
+              "id": "DK-FARE",
+              "claim": "Green SM publishes day-meter start DKK39, DKK11/km and DKK6.5/min; the standardised 10km/12min calculation is DKK227. App maxima are a separate schedule.",
+              "type": "company claim / calculation",
+              "page": 3,
+              "quote": "Description KM Day (Min) Night (Max) Opening fee 0 39 49 Next km onwards 9999 11 14 Price/min 6.5 7.5 Prices last updated on 24 June 2026. App prices, maximum (06-18) - Start rate: 94,58 DKK, Per km: 14.1 DKK, Per min: 7,8 DKK App prices, maximum (18-06) - Start rate: 105,52 DKK, Per km: 20,03 DKK, Per min: 8,8 DKK Driving rates on holidays (1 Jan, 24–26 Dec, 31 Dec.) – App prices, maximum Start fare (DKK/trip) 159.68 DKK,",
+              "scope": "Denmark; Comet capture27September2026, live recheck28September2026.",
+              "limits": "Company listing, last updated24June2026; neither an observed app quote nor average realised revenue.",
+              "quote_verified": true,
+              "evidence_id": "E-015"
+            },
+            {
+              "id": "DK-PREBOOK",
+              "claim": "The Danish product page advertises scheduled booking up to30days and cancellation before the driver arrives.",
+              "type": "company claim",
+              "page": 3,
+              "quote": "You can schedule rides up to 30 days in advance and cancel anytime before the driver arrives. Plan ahead. Ride",
+              "scope": "Denmark; Comet capture27September2026, live recheck28September2026.",
+              "limits": "Existing advertised feature, not a tested fulfilment guarantee or newly invented group proposal.",
+              "quote_verified": true,
+              "evidence_id": "E-016"
+            }
+          ]
+        },
+        {
+          "key": "green-sm-denmark-aps-ndc",
+          "file": "green-sm-denmark-aps-ndc-story-and-humanity.pdf",
+          "staged_file": null,
+          "pack_source": "Existing company About page (Denmark)",
+          "claims": [
+            {
+              "id": "DK-BRAND",
+              "claim": "The Danish About page presents the headline \"Cultivating the Habit of Choosing Green Vehicles\", the vision of accelerating the move to greener mobility and the mission of green, convenient, sustainable mobility.",
+              "type": "company claim",
+              "page": 1,
+              "quote": "Cultivating the Habit of Choosing Green Vehicles Vision Accelerating the world’s move to greener, more sustainable mobility Mission Provide a green, convenient, and sustainable mobility solution.",
+              "scope": "Denmark site, undated page accessed 27 September 2026.",
+              "limits": "Corporate mission statement; not evidence of customer perception. Logo and colours were observed visually on the rendered page, not from a brand guideline.",
+              "quote_verified": true,
+              "evidence_id": "E-185"
+            }
+          ]
+        }
+      ],
+      "excluded": []
+    },
+    {
+      "country": "Denmark",
+      "scoring_limits": [
+        "Copenhagen municipality, Greater Copenhagen competition geography and Capital Region are not interchangeable.",
+        "No unredacted city market value/trip total or company contribution margin.",
+        "National attitudes are not taxi willingness to pay; Capital Region switching subsample n=79."
+      ],
+      "sources": [
+        {
+          "key": "kjaergaard-2026",
+          "file": "kjaergaard-2026-fagbevaegelsen-hilser-green-sm.pdf",
+          "staged_file": "04_references/_staging/denmark/kjaergaard-2026-fagbevaegelsen-hilser-green-sm.pdf",
+          "pack_source": "S1",
+          "claims": [
+            {
+              "id": "DK-I08",
+              "claim": "Denmark was the first European country in which Green SM established itself.",
+              "type": "fact",
+              "page": 2,
+              "quote": "Danmark er første europæiske land, som det vietnamesiske selskab etablerer sig i. De turkisfarvede",
+              "scope": "Independent Danish report, 31 July 2026.",
+              "limits": "Company-specific first; not the first Asian or Vietnamese taxi operator in Europe.",
+              "quote_verified": true,
+              "evidence_id": "E-017"
+            }
+          ]
+        },
+        {
+          "key": "guarascio-nguyen-2026",
+          "file": "guarascio-nguyen-2026-gsm-eyes-us-eu-expansion.pdf",
+          "staged_file": "04_references/_staging/denmark/guarascio-nguyen-2026-gsm-eyes-us-eu-expansion.pdf",
+          "pack_source": "S8",
+          "claims": []
+        },
+        {
+          "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+          "file": "konkurrence-og-forbrugerstyrelsen-2026b-uber-dantaxi-afgoerelse.pdf",
+          "staged_file": "04_references/_staging/denmark/konkurrence-og-forbrugerstyrelsen-2026-uber-dantaxi-afgoerelse.pdf",
+          "pack_source": "S11",
+          "claims": [
+            {
+              "id": "DK-I01",
+              "claim": "The authority surveyed 1,005 recent taxi users; national weighting does not turn every subgroup into a representative Copenhagen sample.",
+              "type": "fact",
+              "page": 44,
+              "quote": "Styrelsen har modtaget 1.005 besvarelser fra forbrugere, der har kørt taxikørsel i Danmark in- den for de seneste 6 måneder fra besvarelsen. 4.2 Taxikørsel i Danmark",
+              "scope": "Denmark; February 2026; taxi within previous six months.",
+              "limits": "Recall and own assessment for pre-merger questions; weighted national population.",
+              "quote_verified": true,
+              "evidence_id": "E-018"
+            },
+            {
+              "id": "DK-I02",
+              "claim": "Green SM had actual taxi sales from 27 July 2026; its Danish model uses an owned fleet and employed drivers.",
+              "type": "fact",
+              "page": 174,
+              "quote": "Green SM’s danske forretningsmodel er efter selskabets egne oplysninger baseret på eget brand, egen app, en bilflåde, som selskabet selv ejer og driver, og chauffører, som Green SM ansætter. Kunderne bestiller turene gennem Green SM’s app, hvorefter de udføres som led i selskabets egen taxitjeneste. Chaufførerne tilbydes efter det oplyste en fast månedsløn og en 482 bonusordning på vilkår, som følger en overenskomst. Der er derfor tale om en anden forret- ningsmodel end de eksisterende",
+              "scope": "Authority decision 24 August 2026, citing company information.",
+              "limits": "Ownership/employment arrangement, not proof of superior service or profitability.",
+              "quote_verified": true,
+              "evidence_id": "E-019"
+            },
+            {
+              "id": "DK-I03",
+              "claim": "Green SM told the authority it prioritised stable local operation over rapid expansion; 590 registrations were only potential physical capacity.",
+              "type": "fact",
+              "page": 175,
+              "quote": "Green SM har selv oplyst, at selskabet i den første fase vil fokusere på at opbygge en stabil lokal drift frem for en hurtig ekspansion. Den danske landechef har desuden oplyst, at Green SM endnu ikke har konkrete planer om at udvide til andre danske byer end København, og at beho- 488 vet for chauffører vil afhænge af efterspørgslen. Det betyder ikke, at en videre ekspansion er usandsynlig, men det gør omfanget og tidsplanen usikker. Rettidighed 857. De 590 indregistrerede biler udgør alene en potentiel fysisk kapacitet. Ved den indledende lan- cering var",
+              "scope": "Copenhagen; reported initial 2026 phase.",
+              "limits": "Do not treat registrations as active taxis, rides, market share or available campaign capacity.",
+              "quote_verified": true,
+              "evidence_id": "E-020"
+            },
+            {
+              "id": "DK-I04",
+              "claim": "The authority assessed that increasing Green SM awareness among customers and drivers would require significant marketing investment.",
+              "type": "assessment",
+              "page": 179,
+              "quote": "Det er styrelsens vurdering, at et øget kend- skab til Green SM blandt kunder og chauffører vil være forbundet med betydelige investeringer i markedsføring og kampagner. 879. For det tredje bidrager indirekte",
+              "scope": "Authority assessment, August 2026.",
+              "limits": "An assessed acquisition challenge, not a measured awareness baseline; use no invented awareness percentage.",
+              "quote_verified": true,
+              "evidence_id": "E-021"
+            },
+            {
+              "id": "DK-I05",
+              "claim": "Uber and Dantaxi together represented a 40–50% revenue share in the defined Greater Copenhagen private-taxi market in January–May 2025.",
+              "type": "fact",
+              "page": 134,
+              "quote": "Ved fusionen opnåede Uber en samlet mar- 389 kedsandel på [40-50] pct., beregnet på omsætning . 663. På et marked for salg/formidling af taxikørsel via",
+              "scope": "21-municipality market; historical Jan–May 2025 revenue, not trips.",
+              "limits": "Pre-remedy concentration; not current September 2026 shares.",
+              "quote_verified": true,
+              "evidence_id": "E-022"
+            },
+            {
+              "id": "DK-I06",
+              "claim": "One installed taxi app was reported by a 40–50% range of respondents, and none by 30–40%; app multi-homing is limited.",
+              "type": "fact",
+              "page": 194,
+              "quote": "0 [30-40] [40-50] 1 [40-50] [40-50] 2 [10-20] [10-20] 3 [0-5] [0-5] 4 [0-5] [0-5] 5 [0-5] [0-5] 6 [0-5] [0-5] 7 [0-5] [0-5] Note: Andelene er baseret på besvarelser fra 1.005 respondenter. Spørgsmål 3 lyder ”Har du én eller flere apps til bestilling af taxi i Danmark installeret",
+              "scope": "National taxi-user survey n=1,005; installed apps, separate usage column.",
+              "limits": "Ranges are published redactions; do not use midpoints as observed percentages.",
+              "quote_verified": true,
+              "evidence_id": "E-023"
+            },
+            {
+              "id": "DK-I07",
+              "claim": "In a Capital Region subsample, lower price was selected by 57%, habitual app use by 22%, shorter waiting by 18% and ease of use by 18% as reasons for the last platform-app choice.",
+              "type": "fact",
+              "page": 150,
+              "quote": "Jeg kunne få en lavere pris 57 Jeg valgte at bruge den app, jeg altid bruger 22 Der var kortere ventetid 18 Jeg syntes at denne app var nemmere at bruge end andre apps 18 __________________ 414 Jf. referat af styrelsens møde med Drivr, den 7. oktober 2025. 415 Det",
+              "scope": "Table 5.12; n=79, disclosed on p.151; multiple responses; Region Hovedstaden.",
+              "limits": "Not all Danish or Copenhagen consumers; descriptive stated reasons, not causal effects or willingness to pay.",
+              "quote_verified": true,
+              "evidence_id": "E-024"
+            },
+            {
+              "id": "DK-I29",
+              "claim": "At the initial launch, Green SM's service was available only in Inner Copenhagen between 08:00 and 20:00; the authority could not book a Green SM taxi to its Valby address on 4 August.",
+              "type": "fact (official finding)",
+              "page": 175,
+              "quote": "Ved den indledende lan- cering var tjenesten efter sagens oplysninger alene tilgængelig i Indre København mellem kl. 489 8.00 og 20.00.",
+              "scope": "Copenhagen, launch period from 27 July 2026; the Valby test date is printed as 4 August 2025 on p.175 and 4 August 2026 on p.176 (source typo).",
+              "limits": "Launch coverage only; footnote marker 489 is embedded in the extracted quotation. Current coverage and hours must be rechecked before any promise.",
+              "quote_verified": true,
+              "evidence_id": "E-182"
+            },
+            {
+              "id": "DK-I30",
+              "claim": "Uber told the authority that by 17 August 2026 Green SM covered all of Copenhagen including Valby, around the clock Thursday–Saturday and 07:00–23:00 on other days.",
+              "type": "competitor claim (quoted by official decision)",
+              "page": 176,
+              "quote": "Den 17. august 2026 var Green SM aktiv i hele Køben- havn, herunder Valby, og i weekenden (torsdag-lørdag) var Green SM tilgængelig døgnet rundt, mens den resten af ugen var tilgængelig fra kl. 07.00 til 23.00.",
+              "scope": "Copenhagen, 17 August 2026; Uber consultation response.",
+              "limits": "Competitor statement with an interest in showing competitive pressure; not independently verified by the authority in this passage and not current service terms.",
+              "quote_verified": true,
+              "evidence_id": "E-183"
+            },
+            {
+              "id": "DK-I31",
+              "claim": "Bolt's Danish app books taxi trips performed by Viggo (now branded Bolt) and Taxa 4x27, in parallel to Uber's app booking Drivr and Dantaxi.",
+              "type": "fact (official)",
+              "page": 119,
+              "quote": "Ligesom der i Ubers app kan bookes taxikørsel, som udføres af Drivr og Dantaxi, kan der via Bolts app i Danmark bookes taxikørsel, som udføres af Viggo (nu som brandet ”Bolt\") og Taxa 4x27.",
+              "scope": "Denmark, decision dated 24 August 2026.",
+              "limits": "Describes platform/operator relationships, not market shares or service quality.",
+              "quote_verified": true,
+              "evidence_id": "E-184"
+            },
+            {
+              "id": "DK-I32",
+              "claim": "The authority states that Green SM's model differs from existing dispatch offices, which have no employed drivers but affiliated self-employed operators.",
+              "type": "fact (official, partly based on company information)",
+              "page": 174,
+              "quote": "Der er derfor tale om en anden forret- ningsmodel end de eksisterende kørselskontorers, der ikke selv har ansatte chauffører, men derimod tilknyttede vognmænd, der er selvstændige forretningsdrivende",
+              "scope": "Denmark, decision dated 24 August 2026 (para. 850).",
+              "limits": "Contrast with dispatch offices' ownership model; not evidence of better service quality.",
+              "quote_verified": true,
+              "evidence_id": "E-186"
+            }
+          ]
+        },
+        {
+          "key": "konkurrence-og-forbrugerstyrelsen-2026a",
+          "file": "konkurrence-og-forbrugerstyrelsen-2026a-uber-frasaelge-dantaxi.pdf",
+          "staged_file": "04_references/_staging/denmark/konkurrence-og-forbrugerstyrelsen-2026-uber-frasaelge-dantaxi.pdf",
+          "pack_source": "S12",
+          "claims": [
+            {
+              "id": "DK-I09",
+              "claim": "The competition authority required Uber to divest a substantial part of Dantaxi.",
+              "type": "fact",
+              "page": 1,
+              "quote": "Uber forpligter sig blandt andet til at frasælge en væsentlig del af Dantaxi igen. Uden indgreb var",
+              "scope": "24 August 2026 remedy announcement.",
+              "limits": "Required divestiture is not evidence completion or current post-remedy market shares.",
+              "quote_verified": true,
+              "evidence_id": "E-025"
+            }
+          ]
+        },
+        {
+          "key": "by-land-og-transportministeriet-2024",
+          "file": "by-land-og-transportministeriet-2024-taxiloven.pdf",
+          "staged_file": "04_references/_staging/denmark/by-land-og-transportministeriet-2024-taxiloven.pdf",
+          "pack_source": "S13",
+          "claims": []
+        },
+        {
+          "key": "faerdselsstyrelsen-2026",
+          "file": "faerdselsstyrelsen-2026-takster-for-prisloft.pdf",
+          "staged_file": "04_references/_staging/denmark/faerdselsstyrelsen-2026-takster-for-prisloft.pdf",
+          "pack_source": "S14",
+          "claims": [
+            {
+              "id": "DK-I10",
+              "claim": "Danish weekday tariff caps in 2026 were DKK 94.68 start, DKK 14.20/km and DKK 473.44/hour.",
+              "type": "fact",
+              "page": 1,
+              "quote": "Starttakst 94,68 kr. 106,52 kr. 159,78 kr. (kr./tur) Kilome‐ 14,20 kr. 20,13 kr. 30,19 kr. tertakst (kr./km) Kilome‐ 21,30 kr. 30,19 kr. 45,27 kr. tertakst stor‐ vogne (kr./km) Tidstakst 473,44 532,59 kr. 798,88 kr. (kr./time) kr. https://www.fstyr.dk/erhverv/taxi/koerselskontorer/takster-for-prisloft page 1 of",
+              "scope": "National legal ceilings, ordinary passenger taxi.",
+              "limits": "Caps are not Green SM fares; do not copy caps into revenue assumptions.",
+              "quote_verified": true,
+              "evidence_id": "E-026"
+            }
+          ]
+        },
+        {
+          "key": "faerdselsstyrelsen-nd",
+          "file": "faerdselsstyrelsen-nd-find-koerselskontor.pdf",
+          "staged_file": "04_references/_staging/denmark/faerdselsstyrelsen-nd-find-koerselskontor.pdf",
+          "pack_source": "S16",
+          "claims": [
+            {
+              "id": "DK-I11",
+              "claim": "Green SM Denmark ApS is listed among nationally licensed dispatch offices, CVR 46406583.",
+              "type": "fact",
+              "page": 2,
+              "quote": "Green SM Denmark ApS 46406583 GUNNARS",
+              "scope": "Regulator list captured 27 September 2026.",
+              "limits": "Licence scope does not prove nationwide operational coverage.",
+              "quote_verified": true,
+              "evidence_id": "E-027"
+            }
+          ]
+        },
+        {
+          "key": "taxa-4x35-nd",
+          "file": "taxa-4x35-nd-taxa-priser.pdf",
+          "staged_file": "04_references/_staging/denmark/taxa-4x35-nd-taxa-priser.pdf",
+          "pack_source": "S17",
+          "claims": [
+            {
+              "id": "DK-I12",
+              "claim": "TAXA 4 x 35 displays a standard 10 km/12 min weekday price of DKK 230 and evening/weekend DKK 280.",
+              "type": "fact",
+              "page": 4,
+              "quote": "Dørpriser Hverdag Takst 1 Km/tid Pris 10 km/12 min 230 kr. Aften/weekend Takst 2 Km/tid Pris 10 km/12 min 280 kr. Lej",
+              "scope": "Competitor public rate page, captured September 2026; tariff table labelled December 2023.",
+              "limits": "Standardised displayed comparison only; no actual app quote or all-in airport journey.",
+              "quote_verified": true,
+              "evidence_id": "E-028"
+            }
+          ]
+        },
+        {
+          "key": "afa-decaux-2026",
+          "file": "afa-decaux-2026-prisliste.pdf",
+          "staged_file": "04_references/_staging/denmark/afa-jcdecaux-2026-prisliste-2026.pdf",
+          "pack_source": "S18",
+          "claims": [
+            {
+              "id": "DK-I13",
+              "claim": "AFA Decaux lists Digital Copenhagen: 41 screens, CPM DKK 191 and setup DKK 4,995.",
+              "type": "fact",
+              "page": 3,
+              "quote": "Digital Copenhagen 41 191 4.995 Digital",
+              "scope": "2026 published digital-out-of-home rate card; excludes VAT and production.",
+              "limits": "Not paid-social CPM; list rates are not a supplier quote. Impressions are not unique people or rides.",
+              "quote_verified": true,
+              "evidence_id": "E-029"
+            },
+            {
+              "id": "DK-I14",
+              "claim": "AFA Decaux capital-area Abribus series lists 104 panels at DKK 174,616 for one week, plus DKK 7,176 setup.",
+              "type": "fact",
+              "page": 4,
+              "quote": "Abribus - Hovedstadsområdet Paneler Pris 1 uge Opsætningspris borg, Holbæk, Næstved, Slagelse,",
+              "scope": "2026 published rate card; capital-area series, not only municipality.",
+              "limits": "Excludes VAT/production; one week, not a month or annual campaign.",
+              "quote_verified": true,
+              "evidence_id": "E-030"
+            }
+          ]
+        },
+        {
+          "key": "statistics-denmark-2026b",
+          "file": "statistics-denmark-2026b-population-quarter-age.pdf",
+          "staged_file": "04_references/_staging/denmark/statistics-denmark-2026-population-quarter-age.pdf",
+          "pack_source": "S19",
+          "claims": [
+            {
+              "id": "DK-I15",
+              "claim": "Copenhagen municipality had 670,389 residents on 1 July 2026.",
+              "type": "fact",
+              "page": 6,
+              "quote": "Copenhagen Total Age, total Total 670,389 0",
+              "scope": "Official FOLK 1 A 2026 Q 3; persons.",
+              "limits": "Not Capital Region or Greater Copenhagen market; not taxi customers.",
+              "quote_verified": true,
+              "evidence_id": "E-031"
+            }
+          ]
+        },
+        {
+          "key": "statistics-denmark-2025",
+          "file": "statistics-denmark-2025-disposable-income-age.pdf",
+          "staged_file": "04_references/_staging/denmark/statistics-denmark-2025-disposable-income-age.pdf",
+          "pack_source": "S20",
+          "claims": [
+            {
+              "id": "DK-I16",
+              "claim": "Copenhagen mean disposable income was DKK 295,836 for the table population in 2024.",
+              "type": "fact",
+              "page": 2,
+              "quote": "Copenhagen Average income for persons in the group (DKK) Men and women, total Total All 295,836 15-19 years All 35,222",
+              "scope": "INDKP 106; average per person in stated group, not household income.",
+              "limits": "Not median, spending on taxis, or willingness to pay; avoid unsupported denominator age claim.",
+              "quote_verified": true,
+              "evidence_id": "E-032"
+            }
+          ]
+        },
+        {
+          "key": "statistics-denmark-2026a",
+          "file": "statistics-denmark-2026a-households-size.pdf",
+          "staged_file": "04_references/_staging/denmark/statistics-denmark-2026-households-size.pdf",
+          "pack_source": "S21",
+          "claims": [
+            {
+              "id": "DK-I17",
+              "claim": "Copenhagen had 147,061 one-person households out of 332,181 listed households: 44.3%, calculated.",
+              "type": "calculation",
+              "page": 1,
+              "quote": "Copenhagen 1 person 147,061 2 persons 100,468 3 persons 41,847 4 persons 30,531 5 persons 8,723 6 persons 2,207 7 persons 681 8 or more persons 663",
+              "scope": "FAM 55 N 1 January 2026; sum of household-size groups.",
+              "limits": "Households, not residents; 44.3% is agent calculation, not a printed percentage.",
+              "quote_verified": true,
+              "evidence_id": "E-033"
+            }
+          ]
+        },
+        {
+          "key": "statistics-denmark-2026c",
+          "file": "statistics-denmark-2026c-stock-of-vehicles-taxis.pdf",
+          "staged_file": "04_references/_staging/denmark/statistics-denmark-2026-stock-of-vehicles-taxis.pdf",
+          "pack_source": "S22",
+          "claims": [
+            {
+              "id": "DK-I18",
+              "claim": "Copenhagen municipality had 1,375 registered taxi passenger cars at 1 January 2026.",
+              "type": "fact",
+              "page": 1,
+              "quote": "Copenhagen Passenger cars, total 170,857 172,682 173,745 Passenger cars for taxis 1,440 1,408 1,375",
+              "scope": "BIL 707; 2024/2025/2026 columns: taxis 1,440/1,408/1,375.",
+              "limits": "Supply stock before Green SM launch, not demand/usage volume.",
+              "quote_verified": true,
+              "evidence_id": "E-034"
+            }
+          ]
+        },
+        {
+          "key": "christiansen-anderson-2025",
+          "file": "christiansen-anderson-2025-tu-aarsrapport-danmark-2024.pdf",
+          "staged_file": "04_references/_staging/denmark/christiansen-anderson-2025-tu-aarsrapport-danmark-2024.pdf",
+          "pack_source": "S29",
+          "claims": [
+            {
+              "id": "DK-I21",
+              "claim": "The national 2024 travel report used 11,686 interviews and 32,639 reported trips.",
+              "type": "fact",
+              "page": 2,
+              "quote": "Antal interview 5 790 5 896 11 686 Antal ture 15 804 16 835 32 639 Dataversion: TU0624v1 Antallet",
+              "scope": "Denmark excluding Faroe Islands and Greenland; residents aged 6+ unless stated otherwise.",
+              "limits": "National descriptive data, not a representative Copenhagen taxi-user sample.",
+              "quote_verified": true,
+              "evidence_id": "E-035"
+            },
+            {
+              "id": "DK-I22",
+              "claim": "Taxis accounted for 0.1% of national person-kilometres in the 2024 travel report.",
+              "type": "fact",
+              "page": 6,
+              "quote": "Taxa 0.0 0.1% 0.1 0.1%",
+              "scope": "Table 3; transport mode, excludes commercial freight transport.",
+              "limits": "Not Copenhagen taxi market share; rounded statistic, not zero travel.",
+              "quote_verified": true,
+              "evidence_id": "E-036"
+            }
+          ]
+        },
+        {
+          "key": "european-commission-2025a",
+          "file": "european-commission-2025a-climate-change-denmark.pdf",
+          "staged_file": "04_references/_staging/denmark/european-commission-2025-eurobarometer-565-climate-change-denmark.pdf",
+          "pack_source": "S30",
+          "claims": [
+            {
+              "id": "DK-I25",
+              "claim": "Danish Eurobarometer 565 fieldwork involved 1,004 interviews from 18 February to 16 March 2025.",
+              "type": "fact",
+              "page": 1,
+              "quote": "Fieldwork Denmark: 18 February 2025 - 16 March 2025 TOTAL EU27: 26319 INTERVIEWS TOTAL Denmark: 1004",
+              "scope": "Denmark country factsheet; national sample.",
+              "limits": "Not Copenhagen-only or Green SM customers.",
+              "quote_verified": true,
+              "evidence_id": "E-037"
+            },
+            {
+              "id": "DK-I26",
+              "claim": "77% of Danish respondents said they had personally taken action against climate change during the previous six months;41% selected environmentally friendly alternatives to the private car.",
+              "type": "fact",
+              "page": 2,
+              "quote": "Yes 77; You regularly use environmentally-friendly alternatives to your private car such as walking, cycling, taking public transport or car-sharing: DK41.",
+              "scope": "Denmark, February–March 2025, n=1,004; QD 5 and multiple-response QD 6.",
+              "limits": "Visual chart transcription, not continuous prose. Does not measure willingness to pay for electric taxis; respondents may prefer walking or public transport instead.",
+              "quote_verified": true,
+              "verification_method": "visual: rendered original PDF page2 inspected28September2026; Denmark inner pie and DK purple bar, not EU27 outer pie/green bar.",
+              "evidence_id": "E-038"
+            }
+          ]
+        },
+        {
+          "key": "acea-2026",
+          "file": "acea-2026-new-car-registrations-2025.pdf",
+          "staged_file": "04_references/_staging/denmark/acea-2026-new-car-registrations-2025.pdf",
+          "pack_source": "S31",
+          "claims": [
+            {
+              "id": "DK-I27",
+              "claim": "Denmark registered 126,542 battery-electric cars out of 184,641 total new cars in 2025:68.5%, calculated.",
+              "type": "calculation",
+              "page": 4,
+              "quote": "Denmark 126,542 89,092 +42.0 4,692 7,090 -33.8 25,128 29,868 -15.9 28 0 23,477 39,902 -41.2 4,774 7,043 -32.2 184,641 172,995 +6.7 Estonia 868 1,320",
+              "scope": "ACEA Jan–Dec 2025 powertrain table; provisional data; source has a separate Netherlands row on the same page.",
+              "limits": "New-car registration share is neither total fleet share nor taxi EV share. Percentages calculated by agent.",
+              "quote_verified": true,
+              "evidence_id": "E-039"
+            },
+            {
+              "id": "DK-I28",
+              "claim": "The Netherlands registered 156,139 battery-electric cars out of 388,024 total new cars in 2025:40.2%, calculated.",
+              "type": "calculation",
+              "page": 4,
+              "quote": "Netherlands 156,139 132,167 +18.1 73,445 52,757 +39.2 102,331 107,350 -4.7 1,367 2,189 -37.6 50,749 83,235 -39.0 3,993 3,765 +6.1 388,024 381,463 +1.7 Poland",
+              "scope": "ACEA Jan–Dec 2025 table; provisional data.",
+              "limits": "New-car registrations, not fleet or taxi share.",
+              "quote_verified": true,
+              "evidence_id": "E-040"
+            }
+          ]
+        },
+        {
+          "key": "halvarsson-2026",
+          "file": "halvarsson-2026-offentlige-ladepunkter-milepael.pdf",
+          "staged_file": "04_references/_staging/denmark/halvarsson-2026-offentlige-ladepunkter-milepael.pdf",
+          "pack_source": "S32",
+          "claims": [
+            {
+              "id": "DK-I19",
+              "claim": "The industry body reported 51,090 public charging points in March 2026, against 37,567 in December 2024.",
+              "type": "fact",
+              "page": 1,
+              "quote": "Helt præcist er antallet af offentligt tilgængelige ladestandere nu oppe på 51.090. Det er en stigning på over 35 procent fra december 2024, hvor det samlede antal offentlige ladepunkter var 37.567.",
+              "scope": "Denmark, Dansk e-Mobilitet, 5 March 2026.",
+              "limits": "Charging points not sites; not GSM-exclusive access or observed charger availability.",
+              "quote_verified": true,
+              "evidence_id": "E-041"
+            }
+          ]
+        },
+        {
+          "key": "kemp-2025a",
+          "file": "kemp-2025a-digital-2026-denmark.pdf",
+          "staged_file": "04_references/_staging/denmark/kemp-2025-digital-2026-denmark.pdf",
+          "pack_source": "S33",
+          "claims": [
+            {
+              "id": "DK-I20",
+              "claim": "DataReportal estimates 4.74 million Danish social-media user identities in October 2025, equivalent to 78.9% of population.",
+              "type": "fact",
+              "page": 3,
+              "quote": "Denmark was home to 4.74 million social media user identities in October 2025, equating to 78.9 percent of the total population. These headline stats offer a",
+              "scope": "Published 8 November 2025, despite Digital 2026 title.",
+              "limits": "Identities may not equal unique people; national reach, not Copenhagen targetable demand.",
+              "quote_verified": true,
+              "evidence_id": "E-042"
+            }
+          ]
+        },
+        {
+          "key": "jensen-helinck-2026",
+          "file": "jensen-helinck-2026-danskerne-betaler-mere-med-mobilen.pdf",
+          "staged_file": "04_references/_staging/denmark/jensen-helinck-2026-danskerne-betaler-mere-med-mobilen.pdf",
+          "pack_source": "S34",
+          "claims": [
+            {
+              "id": "DK-I23",
+              "claim": "The central-bank payment diary study involved 3,013 respondents selected representatively in autumn 2025.",
+              "type": "fact",
+              "page": 4,
+              "quote": "I 2025 blev dataindsamlingen foretaget i efteråret af analyseinstituttet Epinion og er baseret på besvarelser fra 3.013 repræsentativt udvalgte borgere over 15 år. 1 Respondenterne har udfyldt en betalingsdagbog med deres betalinger over",
+              "scope": "Danes over 15; Epinion fieldwork; diary covering one day.",
+              "limits": "Payments study, not taxi purchase or willingness to pay.",
+              "quote_verified": true,
+              "evidence_id": "E-043"
+            },
+            {
+              "id": "DK-I24",
+              "claim": "Digital payments represented 91% of in-store transaction count and 93% of value.",
+              "type": "fact",
+              "page": 3,
+              "quote": "I de fysiske butikker udgør digitale betalinger 91 pct. af det samlede antal betalinger og 93 pct. af den samlede værdi. Det er en del",
+              "scope": "Danmarks Nationalbank 2026 report; 2025 diary.",
+              "limits": "Retail payment behaviour only; supports usability context, not taxi adoption.",
+              "quote_verified": true,
+              "evidence_id": "E-044"
+            }
+          ]
+        }
+      ],
+      "excluded": []
+    },
+    {
+      "country": "Netherlands (Amsterdam focus)",
+      "scoring_limits": [
+        "K1: Strong official city population, general mobility and sustainability-attitude evidence plus a method-labelled national climate survey. No independently measured Amsterdam taxi/ride-hailing trip volume, user frequency, price elasticity or willingness to pay for EV taxis. Municipal mode split is about residents’ travel, not all travel inside the city; no taxi category is separated. National climate attitudes cannot be presented as the selected segment’s actual preference.",
+        "K1 date correction: the municipal synthesis is dated February 2026, but mobility data are 2023 and climate intention survey is March 2023 (n=1,660). The 2022 climate-concern statement has a different survey base. Do not label all these data 2026 observations.",
+        "K2: National ILT figures establish taxi SUPPLY (41,356 vehicles in 2025; 59,094 cards and 15,445 firms in 2024), not Amsterdam demand or national ride volume. Older city figure is 2,490 FIRMS in a 2022 overview, with 2020 population denominator; it is not 2,490 vehicles or a current fleet census. No credible market value or independently measured competitor share selected.",
+        "K2: Exclude the columnist’s 65% Uber estimate entirely from scoring; no disclosed method/source and TCA affiliation. The 80/16/4 ILT market split has no stated denominator and dates from the 2022 overview. ILT’s 57% refers to inspections, not share of trips.",
+        "K2: Operator and driver requirements and the street-hail/rank TTO system are supported. Current detailed Amsterdam TTO membership rules and Green SM’s actual licence/membership status are not established. Do not make a legal-compliance judgement about Green SM from absence of evidence.",
+        "K3: €4.31/€3.17/€0.52 are 2026 national maximum street-hail/rank charges, NOT Green SM fares. The €34.30 trip is an illustrative maximum-rate calculation. TCA is an advertised airport-route competitor price, and airport-origin pick-up has an extra €7.50. Neither is evidence of realised Green SM fare or average Amsterdam spend.",
+        "K3: One Media’s €8,500/100 panels/one week is indicative media inventory pricing only, excluding creative and printing. No committed group budget, confirmed inventory, robust digital CPM/CAC, campaign reach, conversion, repeat-rate or unit-economics benchmark. The contradictory 600-panel price is excluded.",
+        "K3 parent-owned sources: Green SM pilot promotion belongs to green-sm-2026a and is not duplicated. Full extracted text of parent-held green-and-smart-mobility-netherlands-b-v-ndb-green-sm-car.pdf was checked: p. 2 gives VAT/insurance and fare caveats; p. 3 gives up-to-30-day prebooking and cancellation before driver arrival. No numerical tariff was present in extracted text; this is NOT a claim that no fare is ever published or in the app. Parent owns visual/live verification and source integration.",
+        "K4: A positioning problem can be proposed from the electric incumbent offer and the need to distinguish customer value beyond another app, but that remains an analyst inference. The selected TCA-affiliated column is one interested opinion, not Dutch public sentiment. Parent-held company sources establish pilot status; no verified Green SM local users, paid rides, retention, revenue, stated numeric market objectives or app ratings selected.",
+        "K5: Correct the 2023 taxi zero-emission plan against January 2025 implementation reporting: scooters/vans/lorries were covered and taxis followed general passenger-car rules. Do not describe the historical proposal as an in-force taxi mandate or assert September 2026 legal certainty without the primary current municipal instrument. Uber’s electric premium option means “electric” alone is not demonstrated uniqueness.",
+        "K5: Digital 2026 was published 5 November 2025. National internet-user estimates and social-media identities support digital accessibility, not Amsterdam taxi-app adoption or AI/personalisation acceptance. No new marketing concept or outside framework is introduced by these sources.",
+        "K6: The documented story is a new Amsterdam pilot against established electric competition and prior VinFast Dutch retail-model change. Connecting the 2025 store closures with 2026 mobility expansion is explicitly an analyst interpretation, not proof of failure or consumer attitudes. No verified source supports “first Asian taxi company in Europe” or “first Vietnamese taxi in the Netherlands”. Group must select its own market; this manifest gives evidence, not a decision.",
+        "Metadata: Factsheet european-commission-2025b has no readable author field or PDF Author metadata; official European Commission provenance is corroborated by its companion annex. Flag for honest manual registry verification, not author substitution or lowered thresholds. Annex key european-commission-2025c is shared with Denmark; promote once. All entries remain candidate, no source marked cited."
+      ],
+      "sources": [
+        {
+          "key": "gemeente-amsterdam-2026",
+          "file": "gemeente-amsterdam-2026-ontwikkelingen-in-amsterdam.pdf",
+          "staged_file": "04_references/_staging/netherlands/gemeente-amsterdam-2026-ontwikkelingen-in-amsterdam.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-MUN-POP",
+              "claim": "Amsterdam had 941,873 residents on 1 January 2026.",
+              "type": "fact",
+              "page": 5,
+              "quote": "Op 1 januari 2026 telde Amsterdam 941.873 inwoners .",
+              "scope": "Amsterdam municipality, including Weesp; resident headcount; 1 January 2026.",
+              "limits": "Population is not the addressable taxi-user base; the report is a synthesis of municipal research.",
+              "quote_verified": true,
+              "evidence_id": "E-045"
+            },
+            {
+              "id": "NL-MUN-MODES",
+              "claim": "In 2023 Amsterdam residents’ trips were 29% walking, 22% car, 12% public transport and 3% other modes; cycling was the largest mode at 35%.",
+              "type": "fact",
+              "page": 27,
+              "quote": "Na fietsen is lopen met 29% van de verplaatsingen de meest gebruikte vervoerwijze, gevolgd door verplaatsingen met de auto (22%), het openbaar vervoer (12%) en andere vervoermiddelen, waaronder brommer, scooter of motor (3%, CBS, 2023).",
+              "scope": "Amsterdam residents’ trips, 2023; source line ODiN/CBS, processed by O&S.",
+              "limits": "The same page separately states: “Van alle verplaatsingen door Amsterdammers in 2023 is 35% gemaakt met de fiets.” and “Amsterdammers maakten in 2023 gemiddeld 2,5 verplaatsingen per dag”; both checked against extracted page text. These are city resident trips, NOT taxi trips or national supply. Taxi is not separately reported. Rounded shares sum to 101%.",
+              "quote_verified": true,
+              "evidence_id": "E-046"
+            },
+            {
+              "id": "NL-MUN-CLIMATE",
+              "claim": "In 2023, 36% planned more sustainable measures.",
+              "type": "survey finding",
+              "page": 47,
+              "quote": "In 2023 had 36% plannen om meer duurzame maatregelen te nemen.",
+              "scope": "Amsterdam; chart refers to plans for the next 12 months, March 2023, n=1,660; O&S Routekaart Klimaatneutraal Draagvlak Energietransitie.",
+              "limits": "General sustainability intentions, not EV-taxi preference or willingness to pay. The same page reports over three-quarters worried about climate change from a DIFFERENT 2022 survey; do not attach n=1,660 to that 2022 result. Interview mode is not stated in this synthesis.",
+              "quote_verified": true,
+              "evidence_id": "E-047"
+            }
+          ]
+        },
+        {
+          "key": "european-commission-2025b",
+          "file": "european-commission-2025b-eurobarometer-565-netherlands-factsheet.pdf",
+          "staged_file": "04_references/_staging/netherlands/european-commission-2025-eurobarometer-565-factsheet-nederland.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-EB-METHOD",
+              "claim": "The Netherlands Eurobarometer fieldwork ran from 18 February to 7 March 2025, with 1,021 interviews.",
+              "type": "method",
+              "page": 1,
+              "quote": "Veldwerkperiode Nederland: 18 februari 2025 - 7 maart 2025",
+              "scope": "Netherlands national sample; Special Eurobarometer 565.",
+              "limits": "The same page contains the separately verified text “Nederland: 1021 INTERVIEWS”. Sample is national, not Amsterdam-specific; interview mode is absent from the saved factsheet and annex. Extraction adds a stray “nan” before the country sample label.",
+              "quote_verified": true,
+              "evidence_id": "E-048"
+            }
+          ]
+        },
+        {
+          "key": "european-commission-2025c",
+          "file": "european-commission-2025c-eurobarometer-565-annex.pdf",
+          "staged_file": "04_references/_staging/netherlands/european-commission-2025-special-eurobarometer-565-annex.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-EB-SERIOUS",
+              "claim": "84% of Dutch respondents considered climate change a serious problem; 52% very serious and 32% fairly serious.",
+              "type": "survey finding",
+              "page": 9,
+              "quote": "NL 52 32 13 2 1 84 15",
+              "scope": "QD2 country row, February–March 2025; percentages; NL n=1,021 in factsheet.",
+              "limits": "Table row verified in pdftotext -layout, with column headers on the same page: very serious, fairly serious, not very serious, not at all serious, do not know, total serious, total not serious. National attitudes, not taxi demand.",
+              "quote_verified": true,
+              "evidence_id": "E-049"
+            },
+            {
+              "id": "NL-EB-ACTION",
+              "claim": "63% of Dutch respondents reported personal climate action in the previous six months, 9 percentage points below May–June 2023.",
+              "type": "survey finding",
+              "page": 21,
+              "quote": "NL 63 -9 37 10 0 -1",
+              "scope": "QD5; NL February–March 2025; yes/no/do not know and percentage-point changes.",
+              "limits": "Table row and header order verified using pdftotext -layout. Self-report and national scope; not measured EV-taxi use.",
+              "quote_verified": true,
+              "evidence_id": "E-050"
+            }
+          ]
+        },
+        {
+          "key": "ilt-ndb",
+          "file": "ilt-ndb-taximonitor.pdf",
+          "staged_file": "04_references/_staging/netherlands/ilt-nd-taximonitor.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-ILT-FLEET",
+              "claim": "The Netherlands had 41,356 taxis in 2025, up from 32,630 in 2021.",
+              "type": "fact",
+              "page": 1,
+              "quote": "Van 32.630 taxi’s in 2021 naar 41.356 in 2025.",
+              "scope": "Netherlands national taxi fleet, vehicles, 2021 and 2025.",
+              "limits": "Fleet supply, NOT Amsterdam trips, passengers or vehicles. Underlying full report available only by request; this is an official summary.",
+              "quote_verified": true,
+              "evidence_id": "E-051"
+            },
+            {
+              "id": "NL-ILT-CARDS",
+              "claim": "The Netherlands had 59,094 taxi-driver cards in 2024.",
+              "type": "fact",
+              "page": 1,
+              "quote": "In 2024 waren er 59.094 chauffeurskaarten.",
+              "scope": "Netherlands; 2024; driver cards.",
+              "limits": "Cards are not necessarily active full-time drivers or Amsterdam drivers.",
+              "quote_verified": true,
+              "evidence_id": "E-052"
+            },
+            {
+              "id": "NL-ILT-FIRMS",
+              "claim": "Dutch taxi firms increased from 9,670 in 2018 to 15,445 in 2024.",
+              "type": "fact",
+              "page": 1,
+              "quote": "Van 9.670 taxiondernemingen in 2018 naar 15.445 in 2024.",
+              "scope": "Netherlands; firm count; 2018–2024.",
+              "limits": "Not taxi revenue or city demand. The 57% figure elsewhere in the summary concerns the share of ILT inspections in the pre-booked market, not market share.",
+              "quote_verified": true,
+              "evidence_id": "E-053"
+            }
+          ]
+        },
+        {
+          "key": "ilt-nda",
+          "file": "ilt-nda-marktbeeld-taxi.pdf",
+          "staged_file": "04_references/_staging/netherlands/ilt-nd-marktbeeld-taxi.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-ILT-STRUCTURE",
+              "claim": "The 2022 market overview describes the national taxi market as 80% contract, 16% phone/pre-booked and 4% street-hail, with trips moving towards advance booking and platforms.",
+              "type": "fact",
+              "page": 2,
+              "quote": "80% van de taximarkt bestaat uit de contractmarkt, 16% uit de bel- en bestelmarkt en de resterende 4% bestaat uit de opstapmarkt. De vraag in de opstapmarkt neemt af, omdat steeds meer ritten van tevoren worden besteld. Dit gebeurt onder meer via platformen.",
+              "scope": "Netherlands; Marktbeeld Taxi 2022; market segment percentages.",
+              "limits": "Percentage denominator (trips, revenue or other) is not stated. Do not label as ride-hailing market share, Amsterdam mix or current 2026 share.",
+              "quote_verified": true,
+              "evidence_id": "E-054"
+            },
+            {
+              "id": "NL-ILT-AMSTERDAM",
+              "claim": "The ILT overview lists 2,490 Amsterdam taxi firms.",
+              "type": "fact",
+              "page": 4,
+              "quote": "1 Amsterdam 2.490 872.793 351",
+              "scope": "Municipal ranking in Marktbeeld Taxi 2022; columns rank, municipality, enterprises, inhabitants (2020), inhabitants per enterprise.",
+              "limits": "Extracted table row and headers checked using pdftotext -layout. 2,490 is FIRMS, not cars or trips; table does not explicitly state the enterprise-count reference year. The overview is 2022, while population denominator is 2020. Do not assert 2026 city fleet.",
+              "quote_verified": true,
+              "evidence_id": "E-055"
+            }
+          ]
+        },
+        {
+          "key": "netherlands-enterprise-agency-nd",
+          "file": "netherlands-enterprise-agency-nd-taxi-operator-licence.pdf",
+          "staged_file": "04_references/_staging/netherlands/netherlands-enterprise-agency-nd-taxi-operator-licence.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-RVO-OPERATOR",
+              "claim": "A Dutch taxi business requires an operator licence, applied for through Kiwa Register.",
+              "type": "regulatory guidance",
+              "page": 1,
+              "quote": "Do you want to start a taxi business in the Netherlands? You will need a taxi operator licence (vergunning voor taxivervoer).",
+              "scope": "National operator requirement; snapshot 27 September 2026.",
+              "limits": "The same page separately states “You apply for a taxi operator license with Kiwa Register (in Dutch).”, checked exactly. This does not establish whether Green SM holds that licence.",
+              "quote_verified": true,
+              "evidence_id": "E-056"
+            },
+            {
+              "id": "NL-RVO-DRIVER",
+              "claim": "Working as a taxi driver also requires a taxi-driver diploma and card.",
+              "type": "regulatory guidance",
+              "page": 3,
+              "quote": "Do you also want to work as a taxi driver in the Netherlands? You must have a taxi driver’s diploma and taxi driver’s card (chauffeurskaart or taxipas).",
+              "scope": "Netherlands national driver requirements; snapshot 27 September 2026.",
+              "limits": "Does not verify any individual Green SM driver or employment arrangement. Page also flags a new registration system effective 1 January 2028; do not describe it as already mandatory.",
+              "quote_verified": true,
+              "evidence_id": "E-057"
+            }
+          ]
+        },
+        {
+          "key": "rijksoverheid-nda",
+          "file": "rijksoverheid-nda-extra-kwaliteitseisen-taxi.pdf",
+          "staged_file": "04_references/_staging/netherlands/rijksoverheid-nd-extra-eisen-taxi-gemeenten.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-TTO-REQUIREMENT",
+              "claim": "For the street-hail/rank market, a driver outside a TTO cannot take customers from a taxi rank.",
+              "type": "regulatory guidance",
+              "page": 2,
+              "quote": "Is de taxichauffeur niet aangesloten bij de TTO? Dan mag de chauffeur geen klanten meenemen vanaf een taxistandplaats.",
+              "scope": "Municipal TTO framework; Toegelaten Taxiorganisatie; rank/street-hail market only.",
+              "limits": "National explanation of municipal powers, not a full current Amsterdam membership handbook; do not extend it to all app-booked trips. Green SM membership is not established.",
+              "quote_verified": true,
+              "evidence_id": "E-058"
+            },
+            {
+              "id": "NL-TTO-AMSTERDAM",
+              "claim": "Amsterdam is one of the municipalities where TTOs have been introduced.",
+              "type": "regulatory guidance",
+              "page": 2,
+              "quote": "In Amsterdam, Rotterdam, Eindhoven en Den Haag zijn TTO’s ingevoerd.",
+              "scope": "Amsterdam, Rotterdam, Eindhoven and The Hague; snapshot 27 September 2026.",
+              "limits": "Examples elsewhere in the guidance such as speaking Dutch and English are examples of municipal powers, not proof of each current Amsterdam condition.",
+              "quote_verified": true,
+              "evidence_id": "E-059"
+            }
+          ]
+        },
+        {
+          "key": "rijksoverheid-ndb",
+          "file": "rijksoverheid-ndb-maximum-taxi-tariffs-2026.pdf",
+          "staged_file": "04_references/_staging/netherlands/rijksoverheid-nd-kosten-taxi.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-TARIFF-CAPS",
+              "claim": "The 2026 maximum car-taxi charges for up to four people are €4.31 start, €3.17/km and €0.52/minute.",
+              "type": "regulatory guidance",
+              "page": 1,
+              "quote": "Personenauto (maximaal 4 2026: € 4,31 2026: € 3,17 2026: € 0,52 personen)",
+              "scope": "Netherlands; 2026; EUR; passenger car up to four people.",
+              "limits": "Exact pdftotext -layout row order wraps “personen” after the tariff cells. Column headers on the same page establish start/km/minute. Applies to street-hail and ranks. Not actual average paid price, not a minimum and not a Green SM quote.",
+              "quote_verified": true,
+              "evidence_id": "E-060"
+            },
+            {
+              "id": "NL-TARIFF-EXAMPLE",
+              "claim": "The government illustrates a 7 km, 15-minute car-taxi journey at maximum rates costing €34.30.",
+              "type": "source calculation",
+              "page": 2,
+              "quote": "Stel, u maakt met een personenauto een rit van 7 kilometer die 15 minuten duurt. Als de taxivervoerder de maximumtarieven zou gebruiken, dan kost deze rit: starttarief € 4,31 kilometertarief 7 x € 3,17 = € 22,19 tijdtarief 15 x € 0,52 = € 7,80 In totaal is dat € 34,30.",
+              "scope": "Illustrative source calculation; national 2026 caps; EUR.",
+              "limits": "Hypothetical example in the source, not an observed journey, Amsterdam average fare or Green SM fare.",
+              "quote_verified": true,
+              "evidence_id": "E-061"
+            },
+            {
+              "id": "NL-TARIFF-FIXED",
+              "claim": "Drivers may offer a fixed journey price, agreed before the trip.",
+              "type": "regulatory guidance",
+              "page": 2,
+              "quote": "Taxichauffeurs mogen u een vaste ritprijs aanbieden. Ook mogen zij voor extra diensten een toeslag rekenen. Bijvoorbeeld om uw koffers te tillen. U moet de vaste prijs of toeslag afspreken voordat de taxirit is begonnen.",
+              "scope": "Netherlands fixed-price guidance; snapshot 27 September 2026.",
+              "limits": "Does not set Green SM’s published or realised fare.",
+              "quote_verified": true,
+              "evidence_id": "E-062"
+            }
+          ]
+        },
+        {
+          "key": "tca-nd",
+          "file": "tca-nd-taxi-amsterdam-schiphol.pdf",
+          "staged_file": "04_references/_staging/netherlands/tca-nd-taxi-amsterdam-schiphol.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-TCA-TO-AIRPORT",
+              "claim": "TCA advertises a fixed fare to Schiphol of at most €50 from Centrum, Zuid, West and Oost, or €55 from Noord, IJburg and Abcoude, with €7.50 extra for more than four people.",
+              "type": "company claim",
+              "page": 1,
+              "quote": "Je reist voor een vaste prijs van maximaal €50 vanuit Amsterdam-Centrum, Zuid, West en Oost en maximaal €55 vanuit Noord, IJburg en Abcoude. Reis je met meer dan vier personen? Dan geldt een toeslag van €7,50.",
+              "scope": "TCA advertised Amsterdam-area to Schiphol offer; EUR; undated page captured 27 September 2026.",
+              "limits": "Company offer, not independent average fare; airport route rather than an intra-city comparator. Conditions may change.",
+              "quote_verified": true,
+              "evidence_id": "E-063"
+            },
+            {
+              "id": "NL-TCA-FROM-AIRPORT",
+              "claim": "Pre-booked pick-up from Schiphol uses the same tariff plus a €7.50 surcharge.",
+              "type": "company claim",
+              "page": 2,
+              "quote": "Wil je na de vakantie ook opgehaald worden vanaf Schiphol? Ook dit kun je vooraf boeken voor hetzelfde tarief met een €7,50 toeslag.",
+              "scope": "TCA airport-origin booking; EUR; snapshot 27 September 2026.",
+              "limits": "Do not omit directional surcharge when comparing prices.",
+              "quote_verified": true,
+              "evidence_id": "E-064"
+            }
+          ]
+        },
+        {
+          "key": "stultiens-2026",
+          "file": "stultiens-2026-uber-elektrische-premiumrit.pdf",
+          "staged_file": "04_references/_staging/netherlands/stultiens-2026-uber-elektrische-premiumrit.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-UBER-ELECTRIC",
+              "claim": "Uber launched Comfort Elektrisch in Amsterdam and Rotterdam, advertised at the same price as Uber Comfort.",
+              "type": "reported company claim",
+              "page": 2,
+              "quote": "Uber heeft Comfort Elektrisch gelanceerd in Amsterdam en Rotterdam. Met de nieuwe ritoptie kunnen reizigers via de app een premium elektrisch voertuig aanvragen, en dat voor dezelfde prijs als Uber Comfort.",
+              "scope": "Amsterdam and Rotterdam; update 11 September 2026; premium electric app-booked option.",
+              "limits": "Company offer reported by media; no euro fare, market share, adoption or independent service-quality measurement. EV service is not unique to Green SM.",
+              "quote_verified": true,
+              "evidence_id": "E-065"
+            }
+          ]
+        },
+        {
+          "key": "one-media-nd",
+          "file": "one-media-nd-abri-amsterdam.pdf",
+          "staged_file": "04_references/_staging/netherlands/onemedia-nd-abri-amsterdam.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-MEDIA-RATE",
+              "claim": "One Media lists 100 Amsterdam bus-shelter panels at €8,500 for one week or €16,500 for two weeks.",
+              "type": "vendor price claim",
+              "page": 5,
+              "quote": "100 abri’s € 8.500,- € 16.500,-",
+              "scope": "Amsterdam out-of-home media; EUR; 100 panels; published indicative list as captured 27 September 2026.",
+              "limits": "Text table row and one-week/two-week headers verified in pdftotext -layout. Not a committed budget, confirmed availability, measured reach or CPM. The 600-panel row conflicts between p. 5 (€51,000) and p. 8 (€51,500), so excluded. VAT treatment is not established by this quote.",
+              "quote_verified": true,
+              "evidence_id": "E-066"
+            },
+            {
+              "id": "NL-MEDIA-EXCLUSIONS",
+              "claim": "The listed media rates exclude creative production and printing.",
+              "type": "vendor price claim",
+              "page": 6,
+              "quote": "Houd er rekening mee dat bovenstaande tarieven exclusief creatie en drukwerk zijn.",
+              "scope": "One Media Amsterdam panel-rate exclusions; snapshot 27 September 2026.",
+              "limits": "Any future budget must separately cost production and other applicable charges. Page calls the rates indicative and invites a personalised quote.",
+              "quote_verified": true,
+              "evidence_id": "E-067"
+            }
+          ]
+        },
+        {
+          "key": "gemeente-amsterdam-2023",
+          "file": "gemeente-amsterdam-2023-uitstootvrije-mobiliteit-plan.pdf",
+          "staged_file": "04_references/_staging/netherlands/gemeente-amsterdam-2023-uitvoeringsagenda-uitstootvrije-mobiliteit-page.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-POLICY-OLD-PLAN",
+              "claim": "The 2023 plan proposed zero-emission zones from 2025 for taxis, vans and lorries within the A10, alongside other vehicle categories.",
+              "type": "historical policy proposal",
+              "page": 1,
+              "quote": "Vanaf 2025 gelden voor taxi’s, bestelbussen en vrachtauto’s (binnen de Ring A10), brom- en snorfietsen (binnen de bebouwde kom) en pleziervaart (in het centrumgebied) uitstootvrije zones.",
+              "scope": "Historical Amsterdam policy plan, page dated 6 June 2023.",
+              "limits": "Use ONLY to explain the policy correction alongside Ramos (2025). This wording is not evidence that a taxi zero-emission zone actually took effect in January 2025.",
+              "quote_verified": true,
+              "evidence_id": "E-068"
+            }
+          ]
+        },
+        {
+          "key": "ramos-2025",
+          "file": "ramos-2025-emission-free-zones-amsterdam.pdf",
+          "staged_file": "04_references/_staging/netherlands/ramos-2025-emission-free-zones-amsterdam.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-POLICY-ACTUAL-ZONES",
+              "claim": "Amsterdam introduced emission-free zones for new scooters, vans and lorries on 1 January 2025.",
+              "type": "reported policy implementation",
+              "page": 1,
+              "quote": "On 1 January 2025, Amsterdam introduced emission-free zones for new scooters, vans, and lorries, with transitional rules for existing vehicles to phase in these changes.",
+              "scope": "Amsterdam; implementation reported 2 January 2025.",
+              "limits": "Not a statement of a taxi-specific zero-emission mandate. The same article places new vans/lorries within the S100, not the A10 zone proposed in the older plan.",
+              "quote_verified": true,
+              "evidence_id": "E-069"
+            },
+            {
+              "id": "NL-POLICY-TAXIS",
+              "claim": "The implementation report states that the taxi low-emission zone would end in 2025, with taxis following general passenger-car rules.",
+              "type": "reported policy implementation",
+              "page": 1,
+              "quote": "The taxi low- emission zone will end in 2025, aligning taxis with the general passenger car rules.",
+              "scope": "Amsterdam; author’s report of January 2025 changes.",
+              "limits": "Quote retains the PDF line-break hyphenation after whitespace normalisation (“low- emission”). This contradicts treating the 2023 taxi zero-emission proposal as implemented. It does not prove every rule in force as of September 2026; current primary municipal legal confirmation remains absent.",
+              "quote_verified": true,
+              "evidence_id": "E-070"
+            }
+          ]
+        },
+        {
+          "key": "kemp-2025c",
+          "file": "kemp-2025c-digital-2026-netherlands.pdf",
+          "staged_file": "04_references/_staging/netherlands/kemp-2025-digital-2026-netherlands.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-DIGITAL-INTERNET",
+              "claim": "DataReportal estimates 18.2 million internet users and 99.0% internet penetration in the Netherlands at the end of 2025.",
+              "type": "estimate",
+              "page": 3,
+              "quote": "There were 18.2 million individuals using the internet in the Netherlands at the end of 2025, when online penetration stood at 99.0 percent.",
+              "scope": "Netherlands national estimate, late 2025; persons and percentage of total population.",
+              "limits": "Not 2026 observed taxi-app adoption, not an Amsterdam audience count and not proof of Green SM reach or conversion.",
+              "quote_verified": true,
+              "evidence_id": "E-071"
+            },
+            {
+              "id": "NL-DIGITAL-SOCIAL",
+              "claim": "The Netherlands had an estimated 15.3 million social-media user identities in October 2025, equivalent to 83.3% of population.",
+              "type": "estimate",
+              "page": 3,
+              "quote": "The Netherlands was home to 15.3 million social media user identities in October 2025, equating to 83.3 percent of the total population.",
+              "scope": "Netherlands; October 2025; user identities, not necessarily unique people.",
+              "limits": "Do not conflate identities with unique users or Newcom’s differently defined survey population. No CPM, acquisition cost or conversion benchmark.",
+              "quote_verified": true,
+              "evidence_id": "E-072"
+            }
+          ]
+        },
+        {
+          "key": "slump-2025",
+          "file": "slump-2025-vinfast-sluit-verkooppunten.pdf",
+          "staged_file": "04_references/_staging/netherlands/slump-2025-vinfast-sluit-verkooppunten.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-VINFAST-STORES",
+              "claim": "Autovisie reported on 9 May 2025 that VinFast’s two Dutch brand stores in The Hague and Rotterdam were closing and the brand was seeking a franchise/dealer model.",
+              "type": "independent reported fact",
+              "page": 2,
+              "quote": "VinFast heeft twee brandstores in Nederland: in Den Haag en Rotterdam. Die worden gesloten. Maar dat betekent niet dat de Vietnamese merk uit ons land verdwijnt. Het gaat op zoek naar een franchisepartner en stapt over op een dealermodel.",
+              "scope": "Netherlands; report published 9 May 2025; retail stores, not Green SM taxi operations.",
+              "limits": "Supports historical context only. A “second attempt” narrative connecting this event to the 2026 taxi pilot is an analyst inference, not the source’s measured marketing result. It explicitly says the brand is not disappearing from the Netherlands.",
+              "quote_verified": true,
+              "evidence_id": "E-073"
+            },
+            {
+              "id": "NL-VINFAST-REGISTRATIONS",
+              "claim": "The same report states that only 35 VinFast cars had been registered in the Netherlands up to that point.",
+              "type": "independent reported fact",
+              "page": 2,
+              "quote": "In Nederland zijn tot nu toe bijvoorbeeld slechts vijfendertig VinFasts geregistreerd.",
+              "scope": "Netherlands cumulative registrations as reported on 9 May 2025.",
+              "limits": "Journalistic statement, underlying registration dataset not supplied in the saved article. Not a September 2026 fleet count and not Green SM fleet size.",
+              "quote_verified": true,
+              "evidence_id": "E-074"
+            }
+          ]
+        },
+        {
+          "key": "ploos-van-amstel-2026",
+          "file": "ploos-van-amstel-2026-nog-een-taxiplatform.pdf",
+          "staged_file": "04_references/_staging/netherlands/ploos-van-amstel-2026-nog-een-taxiplatform.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "NL-RECEPTION-OPINION",
+              "claim": "A TCA-affiliated columnist argued that an extra app would not save the taxi sector, while welcoming a cleaner city.",
+              "type": "opinion",
+              "page": 4,
+              "quote": "Green SM is welkom als het de stad schoner maakt. Maar een extra app redt de taxisector niet.",
+              "scope": "One named opinion column, 25 September 2026, Amsterdam.",
+              "limits": "Attributed opinion only; not consumer sentiment, a representative survey, proof of failure or independent market-share evidence. Do not generalise this as the Dutch public’s response.",
+              "quote_verified": true,
+              "evidence_id": "E-075"
+            },
+            {
+              "id": "NL-RECEPTION-AFFILIATION",
+              "claim": "The columnist explicitly discloses an affiliation with TCA.",
+              "type": "source disclosure",
+              "page": 4,
+              "quote": "Walther Ploos van Amstel. Verbonden aan TCA.",
+              "scope": "Author disclosure on p. 4 of the 2026 column.",
+              "limits": "Establishes competitor affiliation, not a specific employment title. Relevant to weighting both this column and his other taxi commentary.",
+              "quote_verified": true,
+              "evidence_id": "E-076"
+            }
+          ]
+        }
+      ],
+      "excluded": [
+        {
+          "file": "04_references/_staging/netherlands/smits-2024-bevolking-in-cijfers.pdf",
+          "reason": "Research reserve: useful 2024 age-profile detail, but the selected municipal synthesis supplies recent population and behaviour evidence. Do not transfer the 48% aged 18–45 figure to 2026 without rechecking its reference period."
+        },
+        {
+          "file": "04_references/_staging/netherlands/cbs-2026-gasten-logiesaccommodaties.pdf",
+          "reason": "Research reserve: provisional 2025 hotel-guest figures may support a later tourism segment. Not needed for the balanced 16-source selection; guests are not taxi riders."
+        },
+        {
+          "file": "04_references/_staging/netherlands/royal-schiphol-group-nd-traffic-review-2025.pdf",
+          "reason": "Research reserve: useful airport segment detail, but passengers and O&D traffic are not Amsterdam taxi demand. Publication date is not printed; do not infer the citation year solely from PDF creation metadata."
+        },
+        {
+          "file": "04_references/_staging/netherlands/newcom-2026-nationale-social-media-onderzoek.pdf",
+          "reason": "Research reserve: Digital 2026 selected for cross-market comparability. Newcom uses a different definition/sample (15+ respondents); do not mix counts with DataReportal identities."
+        },
+        {
+          "file": "04_references/_staging/netherlands/netherlands-enterprise-agency-nd-taxi-drivers-card.pdf",
+          "reason": "Not promoted because the selected operator-licence page p. 3 already explicitly covers driver diploma and card; retain detailed card guidance in reserve."
+        },
+        {
+          "file": "04_references/_staging/netherlands/hoge-raad-2025-uber-prejudiciele-vragen.pdf",
+          "reason": "Research reserve for employment-model analysis; legal interpretation requires careful distinction from blanket classification of all Uber or Green SM drivers. Core licence/TTO sources selected instead."
+        },
+        {
+          "file": "04_references/_staging/netherlands/ploos-van-amstel-2023-amsterdam-ze-taxi.pdf",
+          "reason": "Not selected: historical blog and unmethoded estimate that half of taxis were electric. Author’s TCA affiliation is disclosed in the selected 2026 column. Do not score this as neutral measured fleet penetration."
+        },
+        {
+          "file": "04_references/_staging/netherlands/bkan-2026-vinfast-taxidienst.pdf",
+          "reason": "Not selected: paywall after two paragraphs and unsourced “several hundred” fleet claim. Do not infer detailed analysis or confirmed operating fleet from inaccessible text."
+        },
+        {
+          "file": "04_references/_staging/netherlands/tribdino-2026-green-sm-amsterdam-taxi-pilot.pdf",
+          "reason": "Research reserve: partly restates the parent-held company pilot release. Opening-day wording (“Thursday”) conflicts with Friday 25 September 2026; do not copy that weekday. Do not duplicate pilot terms or claim first Asian taxi in Europe."
+        },
+        {
+          "file": "04_references/_staging/netherlands/guarascio-nguyen-2026-gsm-eyes-us-eu-expansion.pdf",
+          "reason": "Shared Reuters source handled by parent; duplicate not promoted. Parent-held Reuters evidence can supply the company-owned/employed-driver European operating-model plan and historical context."
+        },
+        {
+          "file": "04_references/_staging/netherlands/vov-2026-vinfast-ships-evs-europe-green-sm.pdf",
+          "reason": "Research reserve: Europe-wide shipment, not a Dutch operating-fleet figure; Vietnamese state media. Do not allocate 1,500 vehicles to Amsterdam."
+        },
+        {
+          "file": "04_references/_staging/netherlands/bolt-nd-bolt-in-amsterdam.pdf",
+          "reason": "Research reserve: two competitors sufficient for selected set; PDF category carousel is incomplete. Do not claim an Electric category from this PDF merely because live HTML previously exposed it."
+        },
+        {
+          "file": "04_references/_staging/netherlands/acea-2026-new-car-registrations-2025.pdf",
+          "reason": "Shared acea-2026 handled by parent; duplicate not promoted. National BEV new-car registrations are not Amsterdam taxi-fleet electrification."
+        },
+        {
+          "file": "04_references/_staging/netherlands/nederland-elektrisch-nd-cijfers-elektrisch-vervoer.pdf",
+          "reason": "Research reserve: country-wide charging/fleet context is not Amsterdam taxi depot availability. Keep charging units and public/semi-public/fast classifications distinct; no operational charging-access evidence selected."
+        }
+      ]
+    },
+    {
+      "country": "India (Delhi NCR)",
+      "scoring_limits": [
+        "No scoring or market decision made. This is a balanced candidate-source integration manifest, not approval to draft a poster or select India over Denmark/Netherlands.",
+        "K1: official 2026 population is a Census 2011-based projection for NCT of Delhi, not all NCR. Income is a secondary reported estimate, not household purchasing power. National TGM data cannot replace a current Delhi-NCR survey; Gupta/Sinha fieldwork is September–December 2021. No recent Delhi-NCR EV-cab willingness-to-pay research is established.",
+        "K2: Rapido/Uber/Ola figures are national app MAU estimates, not Delhi car-only shares or completed rides. Delhi-NCR market volume and serviceable market size remain missing. BluSmart is a historical suspended operator/insolvency case in these sources; no verified resumed operations.",
+        "Geography: reported service footprint spans NCT of Delhi, Gurugram in Haryana and selected Noida areas in Uttar Pradesh. Delhi population, academic sample and 2023 scheme are not interchangeable with NCR. Haryana/UP operational rules, later Delhi amendments and Green SM licensing compliance remain unchecked.",
+        "K3: current published Green SM India fare table, minimum/per-km/time charges, current promotion terms and method-disclosed India channel-cost benchmarks remain missing from this source set. INR 8/km is unconfirmed pre-launch speculation; INR 320/6.81 km is one pre-launch observed ride, not a tariff. No credible CPM/CPC/CAC or channel conversion benchmark is supplied.",
+        "Existing parent-owned green-sm-2026b-india-limo-launch.pdf was locally rechecked: physical p. 5 gives app/hotline/street-hail booking and a 50% promotion capped INR 250 for 5–11 June 2026. This is expired launch-offer evidence, not current pricing. No duplicate entry created; all Green SM browser work remains parent-owned.",
+        "K3/K4: 10,000 vehicles is an eventual company target; approximately 20% corporate and up to 33% airport are expected ride mix, not actual performance or necessarily over half. Company target horizon and current rides/users/retention are unverified. Driver guarantees are not marketing budget costs.",
+        "K4: premium-positioning/repeat-choice problem has reporting and a single review, not validated customer segmentation or causal price-sensitivity estimates. Driver payout allegations are limited paywall excerpts without accessible company reply; do not treat as established breach or prevalence.",
+        "K5: national EV adoption/charging infrastructure does not measure Delhi fleet charging access, operating economics or lifecycle emissions. Subscription is a reported future plan, not verified live product; corporate partnership is announced, not measured volume. AI/safety effectiveness and India personalisation/loyalty programmes remain unverified.",
+        "K6: launch and company-controlled EV story are documented, but no verified “first” claim. Do not describe BluSmart as currently operating or Green SM as already achieving proposed scale.",
+        "Access limits: TGM saved summary is not paid full report; Mint, Business Standard and Indian Express are partial articles with claim-bearing accessible body text. Their article page counts include paywall/navigation pages and must not be used as evidence depth.",
+        "Gupta/Sinha is empirical evidence, not permission to introduce LCCA/MaaS or another novel marketing framework. module_source truthfully records external empirical status, not that the paper or method was taught.",
+        "Names: Siddharth remains a printed single name; Sankunni K is preserved whole rather than treating K as an established surname; Surajeet Das Gupta keeps compound surname Das Gupta; BL Mumbai Bureau is corporate/byline authorship. Do not invent alternate author metadata to satisfy a verifier.",
+        "Only candidate status used. Metadata checked locally, quote substrings verified on physical PDF pages with whitespace normalisation; no references.py/Crossref verification represented as complete. Parent owns registry insertion, final suffix conflict resolution, PDF promotion and project-wide validation."
+      ],
+      "sources": [
+        {
+          "key": "national-commission-on-population-2019",
+          "file": "national-commission-on-population-2019-population-projections.pdf",
+          "staged_file": "04_references/_staging/india/national-commission-on-population-2019-population-projections.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-POP-01",
+              "claim": "Official projection places NCT of Delhi population at 22.540 million on 1 March 2026.",
+              "type": "fact (official projection)",
+              "page": 264,
+              "quote": "NCT of Delhi 22,540 11,970 10,570",
+              "scope": "NCT of Delhi, 1 March 2026; persons/males/females in thousands; Census 2011-based cohort-component projection.",
+              "limits": "Table check: manually read the layout-preserving Table 21 header and 2026 Persons/Male/Females columns on physical p. 264; quoted row cells are 22,540 / 11,970 / 10,570. Not Delhi NCR population or a ride-hailing addressable market; excludes Haryana and Uttar Pradesh parts of NCR. Projection depends on demographic assumptions. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-077"
+            }
+          ]
+        },
+        {
+          "key": "tgm-research-2026",
+          "file": "tgm-research-2026-ride-hailing-india.pdf",
+          "staged_file": "04_references/_staging/india/tgm-research-2026-ride-hailing-india.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-TGM-01",
+              "claim": "TGM discloses an Indian online sample of 860 adults, matched by age and gender.",
+              "type": "fact (survey method)",
+              "page": 3,
+              "quote": "Country sample size: India (N = 860)",
+              "scope": "India; N = 860; ages 18–65; CAWI; fieldwork 23 October–19 November 2025.",
+              "limits": "Commercial online panel; age/gender matching does not establish full representativeness. National, not Delhi NCR. Full report and raw data not read. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-078"
+            },
+            {
+              "id": "IN-TGM-02",
+              "claim": "Public summary reports 50% of respondents use ride-hailing for their daily commute.",
+              "type": "fact (survey finding)",
+              "page": 4,
+              "quote": "A striking 50% of respondents rely on ride-hailing for their daily commute, showing how vital these apps are for urban travel.",
+              "scope": "India online survey respondents, N = 860; October–November 2025.",
+              "limits": "Sample percentage, not 50% of residents; no Delhi split or full crosstabs. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-079"
+            },
+            {
+              "id": "IN-TGM-03",
+              "claim": "Safety and security are reported as the top app-selection priority.",
+              "type": "fact (survey finding)",
+              "page": 4,
+              "quote": "At the same time, safety and security features are the top priority, as Indian users value protection and trust above all other factors when choosing an app.",
+              "scope": "India online survey respondents, N = 860; October–November 2025.",
+              "limits": "No magnitude, confidence interval, EV willingness-to-pay or Delhi split. The 85% usage headline does not justify population-wide adoption. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-080"
+            }
+          ]
+        },
+        {
+          "key": "gupta-sinha-2022",
+          "file": "gupta-sinha-2022-delhi-mobility-app-users.pdf",
+          "staged_file": "04_references/_staging/india/gupta-sinha-2022-delhi-mobility-app-users.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-GS-01",
+              "claim": "The study surveyed 530 Delhi smartphone users during September–December 2021.",
+              "type": "fact (study method)",
+              "page": 6,
+              "quote": "The survey was conducted between September 2021 and December 2021, and a sample of 530 people, representative of the sociodemographic structure of the NCT of Delhi as per the Census of India (2011), was collected.",
+              "scope": "NCT of Delhi; online smartphone-user sample n = 530; September–December 2021.",
+              "limits": "Representativeness is authors’ characterisation against Census 2011, not independently established. Old fieldwork predates Green SM India; not current NCR ride-hailing/EV-cab demand. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-081"
+            },
+            {
+              "id": "IN-GS-02",
+              "claim": "The empirical model classified respondents into transport-usage clusters of 41%, 34% and 25%.",
+              "type": "fact (peer-reviewed empirical finding)",
+              "page": 9,
+              "quote": "Out of all the samples, 41% were classified in Cluster 1, 34% in Cluster 2 and the remaining 25% in Cluster 3",
+              "scope": "n = 530, NCT of Delhi, 2021; cluster 1 low-app/PT/IPT, cluster 2 high-app multimodal, cluster 3 private-vehicle reliant (definitions p. 1).",
+              "limits": "Sample/model proportions, not current population segments or Green SM shares. LCCA not introduced as a marketing concept. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-082"
+            },
+            {
+              "id": "IN-GS-03",
+              "claim": "Younger, more educated, medium-to-high-income users with more smartphone experience and lower vehicle ownership were more likely to be multimodal travellers.",
+              "type": "fact (peer-reviewed empirical finding)",
+              "page": 1,
+              "quote": "It was found that younger users with higher education, more smartphone experience, medium-to-high household income and lower vehicle ownership had a very high probability of being classified as a multimodal traveler.",
+              "scope": "NCT of Delhi, 2021 online smartphone-user survey n = 530.",
+              "limits": "Old cross-sectional association, not causation, current Green SM demand, or willingness to pay. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-083"
+            }
+          ]
+        },
+        {
+          "key": "transport-department-gnctd-2023",
+          "file": "transport-department-gnctd-2023-aggregator-delivery-scheme.pdf",
+          "staged_file": "04_references/_staging/india/transport-department-gnctd-2023-aggregator-delivery-scheme.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-LAW-01",
+              "claim": "Covered new aggregators must obtain a licence before starting NCT of Delhi operations.",
+              "type": "fact (notified scheme)",
+              "page": 21,
+              "quote": "All new Aggregator and Delivery Service Provider shall obtain license under this scheme prior to initiating their operations in NCT ofDelhi.",
+              "scope": "NCT of Delhi; clause 3(1) covers at least 25 associated/integrated vehicles and excludes buses.",
+              "limits": "Not proof Green SM holds a licence; not Haryana or Uttar Pradesh law. Preserves PDF joined “ofDelhi”. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-084"
+            },
+            {
+              "id": "IN-LAW-02",
+              "claim": "Delhi’s notified scheme requires an all-electric aggregator fleet by 1 April 2030.",
+              "type": "fact (notified scheme)",
+              "page": 23,
+              "quote": "The Aggregator shall mandatorily switch to an all-electric fleet by April 1, 2030.",
+              "scope": "NCT of Delhi, clause 6(20); notified 29 November 2023.",
+              "limits": "Requirement, not achieved conversion; not automatically applicable across NCR. Later amendments not established. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-085"
+            },
+            {
+              "id": "IN-LAW-03",
+              "claim": "On-demand mobility fares must comply with notified Delhi Transport Department orders.",
+              "type": "fact (notified scheme)",
+              "page": 24,
+              "quote": "The fare for providing on-demand service mobility shall comply with the order(s) of the Transport Department, GNCTD, as may be notified from time to time.",
+              "scope": "NCT of Delhi, clause 7(1).",
+              "limits": "No applicable Delhi aggregator base-fare order or current Green SM tariff retrieved. National 2025 guidelines’ 0.5×–2× band not assumed directly operative Delhi law. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-086"
+            }
+          ]
+        },
+        {
+          "key": "press-information-bureau-2025",
+          "file": "press-information-bureau-2025-caqm-cleaner-mobility-aggregators.pdf",
+          "staged_file": "04_references/_staging/india/press-information-bureau-2025-caqm-cleaner-mobility-aggregators.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-CAQM-01",
+              "claim": "CAQM’s June 2025 release distinguished Delhi’s existing scheme from policies still needed in other NCR states.",
+              "type": "fact (official release)",
+              "page": 1,
+              "quote": "Other NCR States viz. Haryana, Uttar Pradesh and Rajasthan also need to formulate comprehensive Policies encompassing Motor Vehicle Aggregators, Delivery Service Providers and E-Commerce Entities for the entire NCR",
+              "scope": "NCR regulatory context as reported 4 June 2025; release names Gurugram, Faridabad, Sonipat, Noida, Greater Noida and Ghaziabad.",
+              "limits": "Historic status only, not proof no Haryana/UP policy exists in September 2026. Do not apply Delhi scheme nationwide. Direction’s vehicle-category restrictions are not promoted as an all-passenger-taxi ban. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-087"
+            },
+            {
+              "id": "IN-CAQM-02",
+              "claim": "The release allowed already-onboarded vehicles to continue.",
+              "type": "fact (official release)",
+              "page": 2,
+              "quote": "The existing fleet of vehicles onboarded by these service providers can be continued for such services.",
+              "scope": "CAQM June 2025 directions; existing fleet versus additional induction.",
+              "limits": "Preserves grandfathering qualification; source describes CNG/electric autorickshaws and restrictions on further diesel/petrol LCVs/LGVs/two-wheelers, not universal immediate replacement. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-088"
+            }
+          ]
+        },
+        {
+          "key": "shah-ghosh-2026",
+          "file": "shah-ghosh-2026-rapido-more-users-than-uber-ola.pdf",
+          "staged_file": "04_references/_staging/india/shah-ghosh-2026-rapido-more-users-than-uber-ola.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-COMP-01",
+              "claim": "Mint reports Sensor Tower average MAU of 82m for Rapido, 39m Uber and 27m Ola in March–May 2026.",
+              "type": "fact (reported app-intelligence estimate)",
+              "page": 2,
+              "quote": "Rapido averaged 82 million monthly active users between March and May, up 67% year-on-year, according to digital and mobile app intelligence firm Sensor Tower. That put it ahead of Blinkit (79 million), Swiggy including its food delivery and quick commerce business (67 million), Zomato (63 million), Zepto (58 million), Uber (39 million) and Ola (27 million).",
+              "scope": "India, March–May 2026, average monthly active app users, millions.",
+              "limits": "Not Delhi-NCR share, car-only users, trips, revenue, or mutually exclusive audiences. Sensor Tower underlying methodology not obtained; full article paywalled. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-089"
+            }
+          ]
+        },
+        {
+          "key": "sankunni-k-2026",
+          "file": "sankunni-k-2026-blusmart-voler-car-top-bidder.pdf",
+          "staged_file": "04_references/_staging/india/k-2026-blusmart-voler-car-top-bidder.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-BLU-01",
+              "claim": "Voler was reported as highest bidder for BluSmart in ongoing insolvency, not a completed acquirer.",
+              "type": "fact (reported filing)",
+              "page": 2,
+              "quote": "Voler’s announcement stressed that being declared H1 “does not constitute completion of acquisition”",
+              "scope": "BluSmart insolvency/Voler announcement, 10 June 2026.",
+              "limits": "Creditor/NCLT approvals still needed at publication. Does not establish revival or current operations. BluSmart must remain a historical comparator; no later resumption evidenced here. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-090"
+            }
+          ]
+        },
+        {
+          "key": "chatterjee-2026",
+          "file": "chatterjee-2026-indias-cab-game-new-green-player.pdf",
+          "staged_file": "04_references/_staging/india/chatterjee-2026-indias-cab-game-new-green-player.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-ET-01",
+              "claim": "Green SM entered with a company-controlled all-electric fleet, launching Delhi-NCR on 5 June with about 1,000 vehicles and a 10,000-vehicle plan.",
+              "type": "fact and company plan (secondary reporting)",
+              "page": 3,
+              "quote": "It launched Green SM Limo in Delhi-NCR on June 5, starting with about 1,000 electric vehicles and outlining plans to eventually scale to 10,000 in the region, according to The Indian Express.",
+              "scope": "Delhi NCR, June 2026 launch; approximately 1,000 launch vehicles; eventual target 10,000.",
+              "limits": "Attributed second-hand to Indian Express; 10,000 is a target, not achieved stock. Not a 2026 year-end commitment. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-091"
+            },
+            {
+              "id": "IN-ET-02",
+              "claim": "The report identifies a Routematic corporate workforce-transport partnership.",
+              "type": "fact (reported partnership announcement)",
+              "page": 5,
+              "quote": "In June, Indian corporate-mobility company Routematic announced a partnership under which it would use Green SM’s electric fleet for workforce transportation.",
+              "scope": "India, June 2026 announcement; corporate mobility channel.",
+              "limits": "Announcement, not verified contracted ride volume, revenue, conversion or channel cost. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-092"
+            },
+            {
+              "id": "IN-ET-03",
+              "claim": "The journalist frames the problem as attracting repeat premium-service users where price remains powerful.",
+              "type": "journalist assessment",
+              "page": 7,
+              "quote": "It also has to find enough customers willing to repeatedly choose its premium electric service in a market where price remains a powerful differentiator.",
+              "scope": "Green SM India, analysis dated 21 September 2026.",
+              "limits": "Analysis, not measured retention, willingness-to-pay or a company-approved marketing objective. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-093"
+            }
+          ]
+        },
+        {
+          "key": "saraiya-2026",
+          "file": "saraiya-2026-green-sm-airport-corporate-rides.pdf",
+          "staged_file": "04_references/_staging/india/saraiya-2026-green-sm-airport-corporate-rides.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-AIR-01",
+              "claim": "Green SM expected approximately 20% of rides from corporate travel and up to 33% from airports.",
+              "type": "company objective (reported)",
+              "page": 1,
+              "quote": "Out of which, Green SM expects corporate travel to account for approximately 20 per cent of its overall rides. Airport trips, on the other hand, are estimated to account for up to 33 per cent of its rides.",
+              "scope": "Delhi NCR launch briefing, 5 June 2026; share of rides, not revenue.",
+              "limits": "Prospective mix, not observed share. “Up to 33%” plus approximately 20% does not guarantee over half. No time horizon or baseline provided. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-094"
+            },
+            {
+              "id": "IN-AIR-02",
+              "claim": "Reported premium positioning emphasises service quality, trained drivers and an all-electric fleet.",
+              "type": "company positioning (reported)",
+              "page": 2,
+              "quote": "The mobility firm is eyeing a premium positioning, differentiating through service quality, trained drivers, and an all-electric fleet.",
+              "scope": "Green SM India, Delhi NCR launch, 5 June 2026.",
+              "limits": "Intended positioning, not consumer perception or independently measured service quality. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-095"
+            },
+            {
+              "id": "IN-AIR-03",
+              "claim": "Management described a two-month income guarantee followed by revenue sharing and incentives.",
+              "type": "company employment terms (reported)",
+              "page": 2,
+              "quote": "For the first two months there is a guaranteed income... After two months, everything will be based on the revenue sharing and incentive programme",
+              "scope": "COO Manoj Ravikanti media briefing, 5 June 2026.",
+              "limits": "No employment contract or delivery audit retrieved. Compare limited driver allegations, not assume guaranteed payout delivered. No basis for marketing-channel unit costs. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-096"
+            }
+          ]
+        },
+        {
+          "key": "das-gupta-2026",
+          "file": "das-gupta-2026-green-sm-airport-corporate-push.pdf",
+          "staged_file": "04_references/_staging/india/das-gupta-2026-green-sm-airport-corporate-push.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-PHASE-01",
+              "claim": "Reporting describes planned expansion beyond city rides into airport transfers, corporate mobility and subscriptions.",
+              "type": "company plan (reported)",
+              "page": 1,
+              "quote": "plans to expand its all-electric ride-hailing platform in India beyond city rides into airport transfers, corporate mobility and subscription services as part of its second phase of growth.",
+              "scope": "Green SM India, report 14 June 2026.",
+              "limits": "Plan, not proof subscription products exist. Partial premium article; no pricing, schedule or performance verified. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-097"
+            },
+            {
+              "id": "IN-PHASE-02",
+              "claim": "Reported service footprint covered Gurugram, central/south Delhi and selected Noida areas with 1,000 cars.",
+              "type": "fact (reported operations)",
+              "page": 1,
+              "quote": "The company currently operates across Gurugram, central and south Delhi, and select parts of Noida with a fleet of 1,000 VinFast electric cars assembled at the company’s Indian plant.",
+              "scope": "14 June 2026, Delhi NCR: Gurugram (Haryana), Delhi (NCT), Noida (Uttar Pradesh).",
+              "limits": "Point-in-time reporting, not present service-map verification. Geographic scope is broader than Delhi population/study/law sources. Partial article only. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-098"
+            }
+          ]
+        },
+        {
+          "key": "siddharth-2026",
+          "file": "siddharth-2026-green-sm-india-first-ride-review.pdf",
+          "staged_file": "04_references/_staging/india/siddharth-2026-green-sm-india-first-ride-review.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-FARE-01",
+              "claim": "The reviewer paid INR 320 for a 6.81 km ride taking about 20 minutes.",
+              "type": "fact (single reviewer observation)",
+              "page": 9,
+              "quote": "Our Green SM ride cost Rs. 320 for 6.81km and took around 20min. The fare shown at the time of booking stayed the same at the end of the ride.",
+              "scope": "One independently booked pre-launch Gurugram ride; review 4 June 2026; n = 1.",
+              "limits": "Not a tariff, current fare, average fare, price per km schedule, or representative fare comparison. Do not extrapolate INR 320/6.81 as an official per-km rate. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-099"
+            },
+            {
+              "id": "IN-FARE-02",
+              "claim": "The reviewer encountered unreliable destination search and manually dropped map pins.",
+              "type": "fact (single reviewer observation)",
+              "page": 7,
+              "quote": "Several places we searched for did not show up correctly, so we had to manually drop the pin on the map.",
+              "scope": "Pre-launch app usage in Gurugram; n = 1 reviewer ride, June 2026.",
+              "limits": "Qualitative friction only; not app defect prevalence or proof issue persists after launch. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-100"
+            },
+            {
+              "id": "IN-FARE-03",
+              "claim": "The reviewer considered airport/group use plausible but warned five or six passengers with luggage could be tight.",
+              "type": "reviewer assessment",
+              "page": 3,
+              "quote": "For airport trips, it should be comfortable for 3 or 4 passengers with luggage. But 5 or 6 passengers with suitcases could be tight.",
+              "scope": "Single pre-launch Limo Green ride, Gurugram, 4 June 2026.",
+              "limits": "Reviewer judgement; not airport-user research or capacity certification. Seven seats include driver; avoid implying seven paying passengers with airport luggage. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-101"
+            }
+          ]
+        },
+        {
+          "key": "mittal-2026",
+          "file": "mittal-2026-delhi-cabbies-unhappy-vietnamese-venture.pdf",
+          "staged_file": "04_references/_staging/india/mittal-2026-delhi-cabbies-unhappy-vietnamese-venture.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-DISPUTE-01",
+              "claim": "The accessible report records driver allegations of reduced payouts and changed terms.",
+              "type": "allegation (reported)",
+              "page": 2,
+              "quote": "Drivers have been complaining of an alleged decrease in payouts and changes in terms and conditions of payouts.",
+              "scope": "Delhi NCR, days after 5 June 2026 launch; report first published 10 June.",
+              "limits": "Allegations, not independently adjudicated facts. Full article and company response not accessible; no prevalence estimate. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-102"
+            },
+            {
+              "id": "IN-DISPUTE-02",
+              "claim": "One unnamed driver alleged INR 1,064 received for a week versus INR 8,076 promised.",
+              "type": "allegation (one reported driver)",
+              "page": 2,
+              "quote": "A driver, who did not wish to be named, claimed he had only received Rs 1,064 as his weekly payout, instead of Rs 8,076, which was the promised amount from the company’s side.",
+              "scope": "Single anonymous Delhi NCR driver; June 2026; INR per week.",
+              "limits": "No payslip, contract or company response in accessible excerpt. Not typical wages, confirmed underpayment, or marketing budget input. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-103"
+            }
+          ]
+        },
+        {
+          "key": "bl-mumbai-bureau-2026",
+          "file": "bl-mumbai-bureau-2026-green-sm-india-bet.pdf",
+          "staged_file": "04_references/_staging/india/businessline-2026-green-sm-india-bet.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-BL-01",
+              "claim": "Green SM’s spokesperson explicitly rejected confirmation of circulating pre-launch figures.",
+              "type": "company statement (reported)",
+              "page": 4,
+              "quote": "Some figures currently circulating are speculative and have not been confirmed by Green SM",
+              "scope": "Pre-launch pricing/fleet discussion, published 23 May, updated 24 May 2026.",
+              "limits": "Must not promote deck’s INR 8/km as official fare. Statement is historical, not proof no tariff subsequently published. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-104"
+            },
+            {
+              "id": "IN-BL-02",
+              "claim": "The spokesperson described intended initial guaranteed driver income of around INR 35,000 per month.",
+              "type": "company intention (reported)",
+              "page": 3,
+              "quote": "For now, the intended guaranteed income is expected to be around INR 35,000 per month in the initial stage",
+              "scope": "Green SM India pre-launch, May 2026; INR/month.",
+              "limits": "Intended and initial, not verified actual earnings or perpetual guarantee; source sentence later splits “adoption” across lines, so only exact continuous fragment quoted. June report clarifies two months, while limited driver report alleges disagreement. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-105"
+            }
+          ]
+        },
+        {
+          "key": "kemp-2025b",
+          "file": "kemp-2025b-digital-2026-india.pdf",
+          "staged_file": "04_references/_staging/india/kemp-2025-digital-2026-india.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-DIG-01",
+              "claim": "India had an estimated 1.03 billion internet users and 70.0% penetration at end-2025.",
+              "type": "fact (compiled estimate)",
+              "page": 3,
+              "quote": "There were 1.03 billion individuals using the internet in India at the end of 2025, when online penetration stood at 70.0 percent.",
+              "scope": "India national, late 2025; persons and percentage of population.",
+              "limits": "National digital context, not Delhi-NCR target reach or ride-hailing adoption. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-106"
+            },
+            {
+              "id": "IN-DIG-02",
+              "claim": "India had 500 million social-media user identities in October 2025.",
+              "type": "fact (compiled estimate)",
+              "page": 3,
+              "quote": "India was home to 500 million social media user identities in October 2025, equating to 34.1 percent of the total population.",
+              "scope": "India national, October 2025; user identities, not necessarily unique people.",
+              "limits": "Does not establish campaign-reachable target customers, CPC/CPM/CAC or Delhi channel costs. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-107"
+            }
+          ]
+        },
+        {
+          "key": "press-information-bureau-2026",
+          "file": "press-information-bureau-2026-rise-of-indias-ev-ecosystem.pdf",
+          "staged_file": "04_references/_staging/india/press-information-bureau-2026-rise-of-indias-ev-ecosystem.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-EV-01",
+              "claim": "PIB reports national EV adoption increasing from 0.08% in FY2015–16 to 8.26% in FY2025–26.",
+              "type": "fact (official backgrounder)",
+              "page": 3,
+              "quote": "EV adoption has seen a multifold surge, growing from 0.08% in FY15-16 to 8.26% in FY25-26.",
+              "scope": "India, fiscal years 2015–16 and 2025–26; measure labelled EV adoption.",
+              "limits": "Not BEV passenger-car market share, Delhi taxi adoption, or achieved emissions reduction. Definition/category mismatch with EVreporter 8.64% overall sales share remains unresolved. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-108"
+            },
+            {
+              "id": "IN-EV-02",
+              "claim": "PIB reports 52,718 public charging stations nationally in July 2026, including 16,561 with fast charging.",
+              "type": "fact (official backgrounder citing BHEL)",
+              "page": 5,
+              "quote": "According to Bharat Heavy Electricals Limited (BHEL), 16,561 of the 52,718 public charging stations available as of July 2026 are equipped with fast EV charging facilities.",
+              "scope": "India national, July 2026; public charging stations, not charging points/connectors.",
+              "limits": "Not Delhi NCR site availability, compatible chargers for Green SM, utilisation, reliability or prices. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-109"
+            }
+          ]
+        },
+        {
+          "key": "korada-2026",
+          "file": "korada-2026-delhi-economic-survey-highlights.pdf",
+          "staged_file": "04_references/_staging/india/korada-2026-delhi-economic-survey-highlights.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "IN-INCOME-01",
+              "claim": "Delhi per-capita income was estimated at INR 531,610 for FY2025–26.",
+              "type": "fact (official estimate reported by press)",
+              "page": 2,
+              "quote": "Per capita income for Delhi is estimated at Rs 5,31,610 for 2025-26, a growth of 7.92% over the previous year and approximately 2.5 times higher than the national average.",
+              "scope": "NCT of Delhi; FY2025–26; INR per capita, estimate.",
+              "limits": "Not NCR household disposable income, median income or premium taxi willingness-to-pay. Underlying Economic Survey not directly checked. Preserve source’s wording rather than mathematically interpreting “times higher”. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-110"
+            },
+            {
+              "id": "IN-METRO-01",
+              "claim": "Reported Delhi Metro average daily ridership was 6.7 million.",
+              "type": "fact (official statistic reported by press)",
+              "page": 2,
+              "quote": "the Delhi Metro Rail Corporation (DMRC) records an average daily ridership of 67 lakh.",
+              "scope": "Delhi Metro network, reported March 2026; daily ridership, 67 lakh = 6.7 million.",
+              "limits": "Network ridership is not unique individuals or a Delhi-only resident count; metro extends beyond NCT. Substitute/connection context, not taxi addressable market. Quote check: pdftotext -layout; whitespace normalisation only.",
+              "quote_verified": true,
+              "evidence_id": "E-111"
+            }
+          ]
+        }
+      ],
+      "excluded": [
+        {
+          "file": "04_references/_staging/india/kushwaha-et-al-2025-safe-rides-fair-prices.pdf",
+          "reason": "Rejected as empirical evidence: physical p. 4 Table 1 shows 500 riders and 50 drivers in each of Delhi, Mumbai, Jaipur and Indore, while prose says 500 riders/50 drivers across these cities; physical p. 7 limitations says “only 50 across Chennai”. Contradictory sample and geography checked directly in PDF. Do not use its survey results or introduce its theoretical frameworks."
+        },
+        {
+          "file": "04_references/_staging/india/ministry-of-road-transport-and-highways-2025-motor-vehicle-aggregator-guidelines.pdf",
+          "reason": "Research reserve: national guidance is not shown to have been adopted as applicable Delhi law. Selected Delhi gazette clause 7(1) is the local fare-rule evidence. Do not treat 0.5×–2× band as automatically operative Delhi tariff law."
+        },
+        {
+          "file": "04_references/_staging/india/dd-news-nd-delhi-ev-policy-2-0-draft.pdf",
+          "reason": "Research reserve: undated reporting of draft EV Policy 2.0 is not enacted law. Final Delhi 2023 gazette selected instead."
+        },
+        {
+          "file": "04_references/_staging/india/deviputra-2026-india-taxi-market.pdf",
+          "reason": "Research reserve: consultancy estimate with method not disclosed in saved summary and national all-taxi scope, not Delhi NCR ride-hailing. Named national competitor app activity selected instead. Do not compare its all-taxi estimate with narrower ride-hailing revenue estimates."
+        },
+        {
+          "file": "04_references/_staging/india/evreporter-2026-india-ev-sales-fy-2025-26.pdf",
+          "reason": "Research reserve: official PIB national context selected; reported 8.64% of overall sales differs from PIB 8.26% EV adoption. Do not average or conflate measures."
+        },
+        {
+          "file": "04_references/_staging/india/sinha-2026-delhi-economic-survey-vehicle-count.pdf",
+          "reason": "Research reserve within 16-source selection cap: secondary official-statistics report; official population projection and Korada economy/metro context retained. Source not rejected as unsound."
+        },
+        {
+          "file": "04_references/_staging/india/shukla-2025-app-taxi-services-still-unfair.pdf",
+          "reason": "Research reserve: self-selected national LocalCircles poll reported second-hand, no Delhi split. Method-disclosed TGM and local peer-reviewed historical survey selected; not treated as an independent recent Delhi representative survey."
+        },
+        {
+          "file": "04_references/_staging/india/vivek-2025-end-of-the-road-for-blusmart.pdf",
+          "reason": "Research reserve: later Chatterjee report describes suspension and June Fortune report documents unresolved insolvency bidding. BluSmart remains historical comparator, not current competitor."
+        },
+        {
+          "file": "04_references/_staging/india/massey-2026-green-sm-launches-electric-taxi-delhi-ncr.pdf",
+          "reason": "Research reserve: largely repeats company launch release already in registry. Do not duplicate company release or inflate corroboration count."
+        },
+        {
+          "file": "04_references/_staging/india/banerjee-2026-green-sm-10000-ev-fleet-plan.pdf",
+          "reason": "Research reserve: launch/fleet target covered by selected Saraiya and Chatterjee, existing Green SM launch release retained by parent. Target not achieved fleet."
+        },
+        {
+          "file": "04_references/_staging/india/mukherjee-2023-delhi-revised-auto-taxi-fares.pdf",
+          "reason": "Research reserve: historical conventional auto/taxi meter fares do not establish current Green SM app tariff or current aggregator base-fare order."
+        },
+        {
+          "file": "04_references/_staging/india/press-information-bureau-2026-delhi-lowest-average-pm.pdf",
+          "reason": "Research reserve under cap: Delhi air-quality context relevant but does not prove Green SM lifecycle-emissions impact or customer willingness to pay. Delhi electric-fleet mandate and national EV context selected."
+        }
+      ]
+    },
+    {
+      "country": "Vietnam",
+      "scoring_limits": [
+        "Hanoi is the comparable single-city option. Official population is Hanoi administrative territory, not the inner-city taxi catchment; the Red River Delta income figure is regional, not Hanoi income. Do not aggregate Hanoi and HCMC into a larger competing option.",
+        "K1: Rakuten has a method-disclosed five-city online sample, Q&Me only weekly car users aged 22–55 in four localities, and TGM national age/gender coverage only. No source gives a separate Hanoi consumer base, representative Hanoi travel behaviour or verified target-segment size. Study/publication dates are kept distinct.",
+        "K2: Mordor USD 1.06bn for 2025 covers a broad national, multi-vehicle/service category and is a proprietary estimate, not a verified Hanoi car-taxi market. Grab’s September 2025 challenge concerns earlier quarterly taxi-share reports; it is a reported interested-party rebuttal, not an independent correction or a direct response to the January 2026 size revision.",
+        "K2/K4: Latest selected Q4 2025 Decision Lab summaries show Grab ahead in overall app use (69%) but Xanh SM Taxi ahead in past-three-month car usage (65% versus 61%). These are separate non-exclusive consumer-usage categories, not GMV/trip shares. The companion landing page/blog are one underlying study. Do not claim Green SM trails Grab in all car segments, assert significance or double-count their evidential independence.",
+        "K3: No defensible current Hanoi paid-media CPM/CPC/CPA benchmark or full campaign-cost evidence in the staged set. Exclude AdCostly. Rakuten pooled key-city monthly spend, an April 2026 single-route fare illustration and December 2024 partner from-prices are contextual anchors, not validated campaign targets. Parent current fare/membership captures remain separate; budgets and KPI targets need transparent assumptions/calculations, not invented performance.",
+        "K2/K3 legal: Decree 10/2020 is repealed. Decree 158/2024 snapshot says Partially Expired and updated 10 August 2026; official government news identifies Decree 218/2026. Navigator overlay makes the retained legal print hard to read, though selected text-layer quotations match. The signed amending decree and full compliance analysis are not verified here. Contract-vehicle data sharing starts in 2028, not 2026.",
+        "K4: Evidence supports a possible challenge of sustaining service-led differentiation/repeat choice against broader Grab app use, features and price, not a demonstrated Hanoi sales decline or an approved company objective. A marketing-problem statement remains an inference/proposal for the group, not a final decision.",
+        "K5: IEA new-EV sales context and historical VinClub/Vietjet capabilities support assessing sustainability, loyalty and partner-channel fit only within existing module concepts. They do not establish willingness to pay, causal retention gains, AI use, life-cycle emissions, current programme terms or the economics of a proposed campaign.",
+        "K6: A local all-electric brand leading recent car usage while a wider app competitor remains strong is a supportable contrast; do not convert opaque consultancy share estimates into independently established dominance. Company/partner claims are not independent validation.",
+        "No source is marked cited. No poster draft, market choice, budget commitment or new theoretical framework is implied. References registry, evidence packs, evidence log and original PDFs were not edited by this integration agent."
+      ],
+      "sources": [
+        {
+          "key": "national-statistics-office-2026",
+          "file": "national-statistics-office-2026-statistical-summary-book-2025.pdf",
+          "staged_file": "04_references/_staging/vietnam/national-statistics-office-2026-statistical-summary-book-2025.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-NSO-01",
+              "claim": "Hanoi had an average population of 8,857,500 in 2025, area 3,359.8 km² and population density 2,636 people per km².",
+              "type": "fact",
+              "page": 568,
+              "quote": "Hà Nội 3359,8 8857,5 2636",
+              "scope": "Hanoi administrative territory; Table 5, 2025 average population in thousand persons; printed p. 567.",
+              "limits": "Not the population of the inner-city service catchment. Decimal commas are original. Manual table check: row Hà Nội under Area (Km²), Average population (Thous. pers.) and Population density (Person/km²); numeric cells 3359,8 / 8857,5 / 2636 match the rendered PDF.",
+              "quote_verified": true,
+              "evidence_id": "E-112"
+            },
+            {
+              "id": "VN-NSO-02",
+              "claim": "Preliminary 2025 monthly income per capita in the Red River Delta was VND 7.241 million.",
+              "type": "fact",
+              "page": 682,
+              "quote": "Red River Delta 5038 4968 5512 5901 6480 7241",
+              "scope": "Red River Delta, not Hanoi city; Table 88 at current prices, thousand VND; columns 2020–2025, final column preliminary 2025; printed p. 681.",
+              "limits": "Regional affordability context only, not Hanoi disposable income, household income or target-customer earnings. Manual rendered-table check confirmed 7241 under Sơ bộ / Prel. 2025 and units Nghìn đồng / Thous. VND.",
+              "quote_verified": true,
+              "evidence_id": "E-113"
+            },
+            {
+              "id": "VN-NSO-03",
+              "claim": "Vietnam’s average population reached 102.3 million in 2025, with 38.6% living in urban areas.",
+              "type": "fact",
+              "page": 57,
+              "quote": "The average population of Viet Nam reached 102.3 million persons, an increase of one million persons compared to 2024. Specifically, the urban population stood at 39.5 million persons, accounting for 38.6%,",
+              "scope": "Vietnam national, 2025; printed p. 56.",
+              "limits": "National definition, not Hanoi urbanisation. Do not combine with DataReportal’s separately defined late-2025 urban share.",
+              "quote_verified": true,
+              "evidence_id": "E-114"
+            }
+          ]
+        },
+        {
+          "key": "rakuten-insight-2025",
+          "file": "rakuten-insight-2025-ride-hailing-app-landscape-vietnam.pdf",
+          "staged_file": "04_references/_staging/vietnam/rakuten-insight-2025-ride-hailing-app-landscape-vietnam.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-RAK-01",
+              "claim": "Rakuten surveyed 7,436 people aged 16+ in Hanoi, Ho Chi Minh City, Da Nang, Hai Phong and Can Tho through its proprietary online panel.",
+              "type": "fact",
+              "page": 5,
+              "quote": "Target: 16+ years old in Vietnam Sample Size: 7,436 respondents within Hanoi, Ho Chi Minh city, Da Nang, Hai Phong, Can Tho Methodology: Online Survey among Rakuten Insight proprietary panel in Vietnam.",
+              "scope": "Five-city sample, n=7,436, age 16+; published 21 May 2025.",
+              "limits": "Online-panel coverage and self-selection limits; fieldwork dates, weighting and Hanoi subsample not shown.",
+              "quote_verified": true,
+              "evidence_id": "E-115"
+            },
+            {
+              "id": "VN-RAK-02",
+              "claim": "In Rakuten’s app-use summary, Grab was most often used: 55% in major cities and 54% elsewhere; Xanh SM was used by 32% overall (33% in key cities); Be accounted for 9%.",
+              "type": "fact",
+              "page": 3,
+              "quote": "In Vietnam’s ride-hailing market, Grab is the most often used brand, with 55% of users in major cities and 54% in other regions reporting using it, underscoring its strong penetration and widespread appeal of its brand across the country. Meanwhile, Xanh SM is used by 32% of respondents overall, with a slightly higher usage in key cities (33%) compared to other regions (30%). Be accounts for 9%, followed by smaller players such as Mai Linh (2%), Vinasun (1%), and Maxim (1%).",
+              "scope": "Five-city Rakuten online sample, n=7,436 age 16+; 2025 release; broader app category, not car-only rides.",
+              "limits": "Respondent usage, not GMV, trip share or unique market share. Key-city grouping cannot be reported as Hanoi alone. Exact questionnaire/denominator not published; do not combine with Decision Lab car-use percentages.",
+              "quote_verified": true,
+              "evidence_id": "E-116"
+            },
+            {
+              "id": "VN-RAK-03",
+              "claim": "Users in the key-city grouping reported average monthly spending of VND 252,101 on app car rides and VND 104,907 on app motorbike rides.",
+              "type": "fact",
+              "page": 4,
+              "quote": "In key cities, users spend a monthly average of VND 252,101 for car rides and VND 104,907 for bike rides, compared to VND 219,518 and VND 94,880 in cities like Da Nang, Hai Phong, and Can Tho.",
+              "scope": "2025 survey release; key cities contrasted with Da Nang, Hai Phong and Can Tho within the five-city sample; car/bike spend per user per month.",
+              "limits": "Hanoi and HCMC pooled, not a Hanoi-only budget. Self-reported spending is neither a current fare nor a campaign CPA/ROI benchmark; not per-trip spend.",
+              "quote_verified": true,
+              "evidence_id": "E-117"
+            }
+          ]
+        },
+        {
+          "key": "q-and-me-nd",
+          "file": "q-and-me-nd-car-ride-hailing-usage-habits-2024.pdf",
+          "staged_file": "04_references/_staging/vietnam/q-and-me-nd-car-ride-hailing-usage-habits-2024.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-QME-01",
+              "claim": "Q&Me sampled 600 weekly app-based car ride-hailing users aged 22–55 across HCMC, Hanoi, Bac Ninh and Quang Ninh.",
+              "type": "fact",
+              "page": 2,
+              "quote": "600 respondents aged 22 to 55 in Ho Chi Minh City, Hanoi, Bac Ninh, and Quang Ninh, use car ride-hailing services via applications at least once per week",
+              "scope": "2024-titled study; n=600, age 22–55, weekly users across four localities.",
+              "limits": "Not all residents, all adults, all app users, or a Hanoi-only result. Recruitment, weighting and fieldwork dates not shown.",
+              "quote_verified": true,
+              "evidence_id": "E-118"
+            },
+            {
+              "id": "VN-QME-02",
+              "claim": "Q&Me reported car-service satisfaction of 83% for Xanh SM, 80% for Grab and 68% for Be.",
+              "type": "fact",
+              "page": 1,
+              "quote": "Users are most satisfied with Xanh SM's ride-hailing car service (83%), followed by Grab (80%) and Be (68%).",
+              "scope": "Same 600 weekly car users aged 22–55 in four localities; study title 2024.",
+              "limits": "Provider-reported satisfaction, not market share or a statistically established difference; subgroup bases and confidence intervals absent. The page also labels NPS as percentages, but those unusually formatted figures are not adopted here.",
+              "quote_verified": true,
+              "evidence_id": "E-119"
+            }
+          ]
+        },
+        {
+          "key": "tgm-research-2025",
+          "file": "tgm-research-2025-ride-hailing-report-vietnam.pdf",
+          "staged_file": "04_references/_staging/vietnam/tgm-research-2025-ride-hailing-report-vietnam.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-TGM-01",
+              "claim": "TGM describes 558 Vietnam computer-assisted web interviews, targeting adults aged 18 to 55+, with national age/gender representativeness.",
+              "type": "fact",
+              "page": 2,
+              "quote": "TGM Research conducted 4,030 (558 for Vietnam) computer-assisted web interviews (CAWI) across 35 countries, targeting adults aged 18 to 55+. The fieldwork included a nationally representative sample in terms of age and gender for each country.",
+              "scope": "Vietnam component n=558 of stated international study; 2024 report, release 2025 updated 2026; CAWI.",
+              "limits": "Age/gender representativeness is the provider’s claim, not evidence of geographic/income representativeness or probability sampling. No Hanoi split or exact fieldwork dates on the snapshot.",
+              "quote_verified": true,
+              "evidence_id": "E-120"
+            },
+            {
+              "id": "VN-TGM-02",
+              "claim": "Nearly half of TGM’s Vietnamese respondents cited competitive pricing as an app-choice influence; the summary also identifies women’s safety concerns and older respondents’ preference for quick arrival.",
+              "type": "fact",
+              "page": 2,
+              "quote": "Nearly half of Vietnamese respondents cite competitive pricing as a key influence in app selection, though affordability alone is not the sole factor. Safety features, particularly among female users, remain a critical consideration. Quick driver arrival is especially valued by older respondents, with fast pick-up times often being a key differentiator.",
+              "scope": "Vietnam national CAWI sample, n=558; adults aged 18 to 55+; 2024 report.",
+              "limits": "No exact price percentage, subgroup base or statistical test supplied. Do not turn qualitative gender/age differences into a quantified Hanoi segment or causal claim.",
+              "quote_verified": true,
+              "evidence_id": "E-121"
+            }
+          ]
+        },
+        {
+          "key": "decision-lab-nd",
+          "file": "decision-lab-nd-connected-consumer-q4-2025.pdf",
+          "staged_file": "04_references/_staging/vietnam/decision-lab-nd-connected-consumer-q4-2025.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-DL-01",
+              "claim": "For Q4 2025 Decision Lab reports Grab leading overall app usage (69%), while Xanh SM Taxi leads car ride-hailing usage (65% versus GrabCar 61%); reported NPS is 48 versus 43.",
+              "type": "fact",
+              "page": 2,
+              "quote": "Grab leads overall (69%), but Xanh SM Taxi takes car ride-hailing at 65% vs GrabCar's 61%, backed by the highest NPS (48 vs 43).",
+              "scope": "Vietnam connected-consumer report Q4 2025; sample size and bases absent from public summary. Companion author commentary defines car recent usage as past three months.",
+              "limits": "Usage penetration and NPS are distinct measures; neither is exclusive trip/GMV market share. Do not add the percentages or compare 69% overall directly with 65% car-only. No Hanoi-specific estimate or confidence interval, and not independent replication of the companion Ngo article.",
+              "quote_verified": true,
+              "evidence_id": "E-122"
+            }
+          ]
+        },
+        {
+          "key": "ngo-nd",
+          "file": "ngo-nd-vietnams-digital-dynamics-q4-2025.pdf",
+          "staged_file": "04_references/_staging/vietnam/ngo-nd-vietnams-digital-dynamics-q4-2025.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-NGO-01",
+              "claim": "Decision Lab defines its car-category result as recent usage: 65% had used Xanh SM Taxi in the past three months, versus 61% for Grab.",
+              "type": "fact",
+              "page": 3,
+              "quote": "In the car segment, Xanh SM Taxi now surpasses GrabCar in recent usage, with 65% of users having used the taxi service in the past three months, compared to 61% for Grab.",
+              "scope": "Q4 2025, Vietnam connected-consumer audience; past-three-month usage; no Hanoi subsample disclosed.",
+              "limits": "Same study as VN-DL-01, not replication. Multiple use is possible; sum exceeds 100%, so not mutually exclusive trip share. No causal attribution or confidence claim supported.",
+              "quote_verified": true,
+              "evidence_id": "E-123"
+            },
+            {
+              "id": "VN-NGO-02",
+              "claim": "Decision Lab identifies GrabCar strengths in in-app features, stable app performance and competitive pricing.",
+              "type": "independent commentary",
+              "page": 3,
+              "quote": "In comparison, GrabCar’s strengths continue to lie in its multiple in-app features, stable app performance, and competitive pricing for consumers.",
+              "scope": "Research-provider interpretation of Q4 2025 Vietnam car ride-hailing evidence.",
+              "limits": "Qualitative interpretation without item scores in the public page. A defensible challenge is sustaining service-led differentiation against these strengths, not recovering a car-usage lead that the same study already assigns to Xanh SM.",
+              "quote_verified": true,
+              "evidence_id": "E-124"
+            }
+          ]
+        },
+        {
+          "key": "kemp-2025d",
+          "file": "kemp-2025d-digital-2026-vietnam.pdf",
+          "staged_file": "04_references/_staging/vietnam/kemp-2025-digital-2026-vietnam.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-DIG-01",
+              "claim": "Kepios estimated 85.6 million Vietnam internet users in October 2025, equivalent to 84.2% penetration.",
+              "type": "estimate",
+              "page": 7,
+              "quote": "At the time of report production, Kepios’s analysis of the latest available data indicated that there were 85.6 million internet users in Vietnam in October 2025. This means that Vietnam’s internet penetration rate stood at 84.2 percent of the total population at the end of the year.",
+              "scope": "Vietnam national internet users, October 2025; report published 8 November 2025.",
+              "limits": "Compiled estimate, not Hanoi population or addressable ride-hailing audience.",
+              "quote_verified": true,
+              "evidence_id": "E-125"
+            },
+            {
+              "id": "VN-DIG-02",
+              "claim": "DataReportal relays VNG’s figure of 78.3 million monthly active Zalo users in Vietnam at report production.",
+              "type": "company-reported metric",
+              "page": 12,
+              "quote": "Statements issued by Zalo’s parent company, VNG, indicate that Zalo had 78.3 million monthly active users in Vietnam at the time of report production.",
+              "scope": "Vietnam national Zalo MAU; late-2025 report production.",
+              "limits": "Company-reported platform metric via DataReportal; not independently counted unique customers, not ad reach, not Hanoi reach.",
+              "quote_verified": true,
+              "evidence_id": "E-126"
+            },
+            {
+              "id": "VN-DIG-03",
+              "claim": "TikTok advertising resources indicated a potential audience of 76.1 million adults aged 18+ in Vietnam in late 2025.",
+              "type": "estimate",
+              "page": 19,
+              "quote": "Figures published in TikTok’s advertising resources indicate that TikTok had 76.1 million users aged 18 and above in Vietnam in late 2025.",
+              "scope": "Vietnam national, adults 18+, late 2025; advertising-resource estimate.",
+              "limits": "Source says users but basis is advertising resources: use as potential ad audience, not monthly active users or a deduplicated human count. Cannot set Hanoi impression, conversion or CPA targets from this alone.",
+              "quote_verified": true,
+              "evidence_id": "E-127"
+            }
+          ]
+        },
+        {
+          "key": "mordor-intelligence-nd",
+          "file": "mordor-intelligence-nd-vietnam-ride-hailing-market.pdf",
+          "staged_file": "04_references/_staging/vietnam/mordor-intelligence-nd-vietnam-ride-hailing-market.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-MOR-01",
+              "claim": "Mordor estimates Vietnam’s ride-hailing market at USD 1.06 billion in 2025 and USD 1.25 billion in 2026, projecting USD 3.05 billion in 2031 (19.53% CAGR for 2026–2031).",
+              "type": "estimate",
+              "page": 3,
+              "quote": "The Vietnam ride-hailing market size was valued at USD 1.06 billion in 2025 and estimated to grow from USD 1.25 billion in 2026 to reach USD 3.05 billion by 2031, at a CAGR of 19.53% during the forecast period (2026-2031).",
+              "scope": "Vietnam national, values USD; proprietary estimate as of January 2026; broad ride-hailing scope, not Hanoi car taxis.",
+              "limits": "Commercial model estimate and forecast, no published uncertainty interval or reproducible calculation; do not label an observed official market value. Not comparable directly to four-wheel taxi GMV reports.",
+              "quote_verified": true,
+              "evidence_id": "E-128"
+            },
+            {
+              "id": "VN-MOR-02",
+              "claim": "The scope includes two-wheelers and other vehicles, several service models and app/phone bookings; forecasts are provided in USD value.",
+              "type": "source definition",
+              "page": 1,
+              "quote": "The Vietnam Ride Hailing Market Report is Segmented by Vehicle Type (Two-Wheelers, Three-Wheelers, and More), Propulsion Type (Internal Combustion Engine (ICE), Hybrid, and More), Service Type (E- Hailing, Car-Sharing, and More), Booking Channel (App-Based and Voice/Phone), and End-User (Personal and Corporate/Institutional). The Market Forecasts are Provided in Value (USD).",
+              "scope": "Report definition includes two-wheelers, three-wheelers and more; e-hailing/car-sharing and more; app and voice/phone; personal and corporate/institutional.",
+              "limits": "Broad national vendor-defined category. Do not use this denominator for a Hanoi car-only penetration or market-share calculation.",
+              "quote_verified": true,
+              "evidence_id": "E-129"
+            },
+            {
+              "id": "VN-MOR-03",
+              "claim": "Mordor estimates two-wheelers represented 61.36% of its Vietnam ride-hailing market in 2025.",
+              "type": "estimate",
+              "page": 3,
+              "quote": "By vehicle type, two-wheelers led with 61.36% of the Vietnam ride-hailing market share in 2025,",
+              "scope": "Vietnam national, 2025; broad value-based market definition.",
+              "limits": "Vendor estimate with opaque method; explains why overall-market and car-only rankings can differ, but does not quantify Hanoi car demand.",
+              "quote_verified": true,
+              "evidence_id": "E-130"
+            }
+          ]
+        },
+        {
+          "key": "minh-khanh-2025",
+          "file": "minh-khanh-2025-grab-bac-so-lieu-thi-phan.pdf",
+          "staged_file": "04_references/_staging/vietnam/minh-khanh-2025-grab-bac-so-lieu-thi-phan.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-GRAB-01",
+              "claim": "Grab said it had never supplied business information, transaction data or market assessments to Mordor or a third party for the disputed taxi-market reporting.",
+              "type": "reported company statement",
+              "page": 2,
+              "quote": "Theo đó, Grab cho biết chưa từng thảo luận hoặc cung cấp thông tin kinh doanh, dữ liệu giao dịch, và đánh giá về thị trường với Mordor Intelligence hoặc bất cứ bên thứ 3 nào.",
+              "scope": "Grab statement reported by Znews on 4 September 2025; disputed taxi reports Q4 2024, Q1/Q2 2025; Vietnam.",
+              "limits": "Agent translation in claim; original Vietnamese quote retained. Interested-party rebuttal, not a court/regulator finding. Does not itself invalidate all later estimates.",
+              "quote_verified": true,
+              "evidence_id": "E-131"
+            },
+            {
+              "id": "VN-GRAB-02",
+              "claim": "Grab said the reports relied on assumptions about total taxi GMV and the separate two-/four-wheel service segments, without verifiable or reliable source data.",
+              "type": "reported company statement",
+              "page": 2,
+              "quote": "Theo Grab, các báo cáo này chủ yếu dựa trên giả định và ước tính tổng thể giá trị giao dịch (GMV) của các hãng taxi, từ đó giả định GMV của riêng mảng kinh doanh taxi chở khách, giả định GMV tách riêng của từng mảng dịch vụ 2 bánh và 4 bánh… mà không có các nguồn dữ liệu có thể xác minh hoặc đáng tin cậy.",
+              "scope": "Reported September 2025 challenge to earlier Vietnamese taxi estimates.",
+              "limits": "Agent translation. Allegation from an interested competitor, not an adjudicated finding. No corrected or independently verified market-share series is supplied.",
+              "quote_verified": true,
+              "evidence_id": "E-132"
+            },
+            {
+              "id": "VN-GRAB-03",
+              "claim": "Grab said it had sent a formal legal request to Mordor to withdraw the disputed reports and reassess the methodology.",
+              "type": "reported company statement",
+              "page": 3,
+              "quote": "“Chúng tôi đã gửi văn bản pháp lý chính thức tới Mordor Intelligence, yêu cầu họ thu hồi các báo cáo nêu trên để đánh giá lại và cải thiện phương pháp luận, đồng thời củng cố những kết luận của họ bằng những thông tin thị trường và nguồn dữ liệu đáng tin cậy, có thể kiểm chứng”, hãng chia sẻ.",
+              "scope": "Grab statement reported September 2025; the same three earlier quarterly reports.",
+              "limits": "Agent translation. A withdrawal request is not a court ruling or proof that the reports were actually withdrawn.",
+              "quote_verified": true,
+              "evidence_id": "E-133"
+            }
+          ]
+        },
+        {
+          "key": "government-of-vietnam-2024",
+          "file": "government-of-vietnam-2024-decree-158-2024-vbpl.pdf",
+          "staged_file": "04_references/_staging/vietnam/government-of-vietnam-2024-decree-158-2024-vbpl.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-LAW-01",
+              "claim": "The official database marks Decree 158/2024 as partially expired, so it must be used with its amendments rather than treated as an unchanged current law.",
+              "type": "law status",
+              "page": 1,
+              "quote": "Partially Expired",
+              "scope": "Official database snapshot accessed 27 September 2026, update shown 10 August 2026.",
+              "limits": "English status is quoted exactly. The snapshot is a versioned legal webpage with amended/supplemented markers; no complete current-compliance conclusion is inferred.",
+              "quote_verified": true,
+              "evidence_id": "E-134"
+            },
+            {
+              "id": "VN-LAW-02",
+              "claim": "Decree 158/2024 took effect on 1 January 2025 and expressly repealed Decree 10/2020.",
+              "type": "law",
+              "page": 67,
+              "quote": "1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025. 2. Nghị định này bãi bỏ các nghị định sau: Nghị định số 10/2020/NĐ-CP ngày 17 tháng 01 năm 2020 của Chính phủ quy định về kinh doanh và điều kiện kinh doanh vận tải bằng xe ô tô;",
+              "scope": "Art. 77(1)–(2), Vietnam national legal instrument.",
+              "limits": "Agent translation in claim; original Vietnamese preserved. Text-layer verified; print overlay and snapshot limitation disclosed. Superseded Decree 10/2020 cannot support a current legal assertion.",
+              "quote_verified": true,
+              "evidence_id": "E-135"
+            },
+            {
+              "id": "VN-LAW-03",
+              "claim": "For taxi trips charged through passenger-connected fare software, the decree specifies distance on a digital map as the fare basis.",
+              "type": "law",
+              "page": 6,
+              "quote": "b) Tiền cước chuyến đi được tính theo quãng đường xác định trên bản đồ số;",
+              "scope": "Art. 6(4)(b), taxi software fare calculation, Vietnam.",
+              "limits": "Agent translation. Text-layer quote verified; manual render confirms a navigator obscures its right-hand words, so print readability is limited. Not proof that every quoted app fare obeys the law, and not a legal opinion on all later amendments.",
+              "quote_verified": true,
+              "evidence_id": "E-136"
+            }
+          ]
+        },
+        {
+          "key": "bao-chinh-phu-2026",
+          "file": "bao-chinh-phu-2026-xe-hop-dong-chia-se-du-lieu.pdf",
+          "staged_file": "04_references/_staging/vietnam/bao-chinh-phu-2026-xe-hop-dong-chia-se-du-lieu.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-AMEND-01",
+              "claim": "The government’s explanation states that the 2026 amending decree takes effect on 10 August 2026.",
+              "type": "reported law",
+              "page": 3,
+              "quote": "Nghị định này có hiệu lực thi hành từ ngày 10/8/2026./.",
+              "scope": "Decree 218/2026/NĐ-CP, identified in the introduction as amending Decree 158/2024; government newspaper June 2026.",
+              "limits": "Agent translation; government news explanation of law. Do not confuse general commencement with the deferred data-sharing requirement.",
+              "quote_verified": true,
+              "evidence_id": "E-137"
+            },
+            {
+              "id": "VN-AMEND-02",
+              "claim": "From 1 January 2028, contract vehicles must share transport-contract data with the Ministry of Public Security.",
+              "type": "reported law",
+              "page": 1,
+              "quote": "Từ 1/1/2028, xe hợp đồng phải chia sẻ dữ liệu hợp đồng vận tải với Bộ Công an",
+              "scope": "Vietnam contract passenger transport; headline, with body pp. 1–2 specifying sharing before trips with the Traffic Police Department.",
+              "limits": "Agent translation of exact headline; future obligation, not a current 2026 requirement, and not automatically applicable to every taxi category. Headline selected as the clean textual quote because the weather sidebar interrupts longer body extraction.",
+              "quote_verified": true,
+              "evidence_id": "E-138"
+            }
+          ]
+        },
+        {
+          "key": "iea-2026",
+          "file": "iea-2026-global-ev-outlook-2026.pdf",
+          "staged_file": "04_references/_staging/vietnam/iea-2026-global-ev-outlook-2026.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-IEA-01",
+              "claim": "IEA reports Vietnam became Southeast Asia’s largest electric-car market in 2025, with sales more than doubling and nearly 40% of new car sales electric.",
+              "type": "fact (IEA analysis)",
+              "page": 26,
+              "quote": "Sales in Viet Nam more than doubled in 2025, promoting the country to Southeast Asia’s largest electric car market, with nearly 40% of new car sales being electric, above levels seen in most European countries.",
+              "scope": "Vietnam national new-car sales, 2025; IEA analysis.",
+              "limits": "Sales share is not the share of cars on the road, taxi fleet, passenger trips or Hanoi consumer preference. Do not claim zero life-cycle emissions from powertrain alone.",
+              "quote_verified": true,
+              "evidence_id": "E-139"
+            },
+            {
+              "id": "VN-IEA-02",
+              "claim": "IEA attributes support for Vietnam’s electric-car purchases mainly to BEV registration-fee exemptions since 2022 and reports VinFast captured nearly the entire EV market.",
+              "type": "fact (IEA analysis)",
+              "page": 26,
+              "quote": "Policy support for electric car purchases has primarily been provided through registration fee exemptions for BEVs since 2022. The domestic EV maker VinFast has captured nearly the entire market, and its small affordable models have been key enablers of mass-market adoption.",
+              "scope": "Vietnam national new electric cars, 2025 context; BEV purchase policies since 2022.",
+              "limits": "IEA interpretation and national manufacturer concentration, not Green SM market share, charging access or 2026 taxi unit economics.",
+              "quote_verified": true,
+              "evidence_id": "E-140"
+            }
+          ]
+        },
+        {
+          "key": "vingroup-2025b",
+          "file": "vingroup-2025b-xanh-sm-vinclub-lien-ket.pdf",
+          "staged_file": "04_references/_staging/vietnam/vingroup-2025-xanh-sm-vinclub-lien-ket.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-LOYAL-01",
+              "claim": "Vingroup announced VPoint accrual of 3%, 4.5% and 6% per Xanh SM trip for Gold, Platinum and Diamond members respectively, with redemption for trips or within its ecosystem.",
+              "type": "company claim",
+              "page": 2,
+              "quote": "Cụ thể, khách hàng sử dụng dịch vụ Xanh SM đạt hạng Gold, Platinum, Diamond sẽ được tự động tích điểm VPoint tương ứng 3% - 4,5% - 6% trên mỗi chuyến xe. Khách hàng có thể sử dụng điểm VPoint để hưởng ưu đãi giảm giá trực tiếp vào các chuyến xe Xanh hoặc tiêu dùng trong toàn hệ sinh thái Vingroup.",
+              "scope": "Company announcement 20 March 2025; Vietnam VinClub-linked Xanh SM accounts; Gold/Platinum/Diamond tiers.",
+              "limits": "Agent translation. Company claim about historical programme terms, not confirmation these rates remain current in September 2026 or proof of incremental retention.",
+              "quote_verified": true,
+              "evidence_id": "E-141"
+            },
+            {
+              "id": "VN-LOYAL-02",
+              "claim": "The same launch announced 30% off (maximum VND 50,000) plus 50 VPoint worth VND 50,000 for qualifying account linking during 20–31 March 2025.",
+              "type": "company claim",
+              "page": 2,
+              "quote": "Đặc biệt, từ ngày 20/03 – 31/03/2025, khách hàng liên kết tài khoản VinClub trên ứng dụng Xanh SM sẽ nhận ngay mã ưu đãi 30% (tối đa 50.000 đồng) khi sử dụng dịch vụ taxi Xanh SM, cùng 50 điểm VPoint trị giá 50.000 đồng.",
+              "scope": "Dated Vietnam launch promotion only, 20–31 March 2025.",
+              "limits": "Agent translation. Expired promotional illustration for sales-mechanism fit, not a current fare reduction, campaign cost benchmark or group commitment.",
+              "quote_verified": true,
+              "evidence_id": "E-142"
+            }
+          ]
+        },
+        {
+          "key": "vietjet-2024",
+          "file": "vietjet-2024-green-journey-xanh-sm-airports.pdf",
+          "staged_file": "04_references/_staging/vietnam/vietjet-2024-green-journey-xanh-sm-airports.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-AIRPORT-01",
+              "claim": "Vietjet advertised a 30 km Xanh SM airport package from VND 350,000 for Hanoi and several other airports, alongside a 15 km package from VND 200,000 elsewhere.",
+              "type": "company claim",
+              "page": 2,
+              "quote": "Accordingly, passengers can choose a 15km travel package at airports in Ho Chi Minh City, Hue, and Da Nang, with prices starting at just VND 200,000 (*), or a 30km travel package from VND 350,000 (*) at airports in Hanoi, Phu Quoc, Khanh Hoa, and Quang Ninh, saving up to 20% compared to the regular price.",
+              "scope": "Partner announcement 5 December 2024; 30 km package Hanoi/Phu Quoc/Khanh Hoa/Quang Ninh; 15 km HCMC/Hue/Da Nang.",
+              "limits": "Company claim, historical from-prices with asterisked conditions; up to 20% saving is promotional, not independently verified. No evidence all Hanoi trips cost this amount or offer remains current.",
+              "quote_verified": true,
+              "evidence_id": "E-143"
+            },
+            {
+              "id": "VN-AIRPORT-02",
+              "claim": "The offer could be arranged on Vietjet’s website or app, evidencing an airline-partner distribution route.",
+              "type": "company claim",
+              "page": 2,
+              "quote": "With just a few simple steps on the website www.vietjetair.com or the Vietjet Air app, passengers can easily plan their journeys, rest assured of affordable prices and quality services from the airport to their destination.",
+              "scope": "Vietjet partner offer announced December 2024.",
+              "limits": "Company-described channel capability, not observed conversion, sales volume or customer satisfaction.",
+              "quote_verified": true,
+              "evidence_id": "E-144"
+            }
+          ]
+        },
+        {
+          "key": "ngoc-linh-2026",
+          "file": "ngoc-linh-2026-1-cuoc-xe-be-grab-green-sm.pdf",
+          "staged_file": "04_references/_staging/vietnam/ngoc-linh-2026-1-cuoc-xe-be-grab-green-sm.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-FARE-01",
+              "claim": "For one discounted off-peak Hanoi route, the reporter found Green Mini VND 41,000 and Green Car VND 44,000, versus BeCar and GrabCar Saver VND 38,000 and standard GrabCar VND 41,000.",
+              "type": "reported single observation",
+              "page": 9,
+              "quote": "- Green Mini hết 41.000 đồng, Green Car hết 44.000 đồng, Green Premium hết 50.000 đồng, Limo 6 chỗ hết 59.000 đồng, và xe “VIP” hết 83.000 đồng. - BeCar hết 38.000 đồng, BeCar Plus hết 45.000 đồng - GrabCar Phổ Thông hết 41.000 đồng, GrabCar Tiết Kiệm hết 38.000 đồng, GrabCar Xe Điện hết 40.000 đồng",
+              "scope": "Single reporter, one Hanoi route from Vũ Trọng Phụng to Mễ Trì Hạ, 15:00 off-peak; article 28 April 2026; VND per displayed trip after the selected discounts.",
+              "limits": "Agent translation. A convenience observation with unequal service variants and app/promotion conditions; not a city fare average, like-for-like electric-car comparison, peak-time price, current tariff or general price-leadership proof. Use only as a narrow illustration of comparison/switching pressure.",
+              "quote_verified": true,
+              "evidence_id": "E-145"
+            }
+          ]
+        },
+        {
+          "key": "vinh-tho-ngoc-an-2026",
+          "file": "vinh-tho-ngoc-an-2026-competition-authority-asks-grab.pdf",
+          "staged_file": "04_references/_staging/vietnam/tuoi-tre-news-2026-competition-authority-asks-grab.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "VN-NCC-01",
+              "claim": "Vietnam’s competition authority requested pricing and fee information from Grab and other ride-hailing companies while reviewing complaints.",
+              "type": "reported fact",
+              "page": 1,
+              "quote": "Vietnam's National Competition Commission has asked Grab and several other ride-hailing companies to provide information and documents on their pricing and fee policies for passengers and driver partners as the authority reviews complaints over fares and other issues.",
+              "scope": "Vietnam national, reported 11 September 2026; passengers and driver partners.",
+              "limits": "News report of an authority request. Green SM is not named as a target in the quoted passage; no proven violation or sector-wide penalty inferred.",
+              "quote_verified": true,
+              "evidence_id": "E-146"
+            },
+            {
+              "id": "VN-NCC-02",
+              "claim": "The commission said a formal investigation would follow if it found signs of competition-law violations.",
+              "type": "reported fact",
+              "page": 2,
+              "quote": "If signs of violations of competition law are found, the commission will conduct an investigation and take action within its authority and in accordance with the law.",
+              "scope": "Conditional next step in September 2026 review.",
+              "limits": "Conditional language preserved: do not present this as a completed investigation, infringement finding or Green SM-specific compliance problem.",
+              "quote_verified": true,
+              "evidence_id": "E-147"
+            }
+          ]
+        }
+      ],
+      "excluded": [
+        {
+          "file": "04_references/_staging/vietnam/national-statistics-office-2026-nien-giam-tom-tat-2025-landing.pdf",
+          "reason": "Provenance reserve; original official statistical book selected. Cover/title and colophon provide actual author, publisher and publication year."
+        },
+        {
+          "file": "04_references/_staging/vietnam/tuoi-tre-2026-mordor-xanh-sm-dan-dau-15-thang.pdf",
+          "reason": "Secondary relay of opaque Mordor quarterly market-share estimates; not needed to establish the latest car-usage result, for which the original Decision Lab summary is selected. Retain reserve, not proven false."
+        },
+        {
+          "file": "04_references/_staging/vietnam/thuy-hanh-2026-cuc-dien-thi-truong-taxi.pdf",
+          "reason": "Secondary relay of Q4 2025 four-wheel/taxi GMV estimates. Does not share the broad whole-market denominator of the selected Mordor market-size page; no independently verified share series. Reserve only; do not strengthen confidence by counting repeated estimates as independent sources."
+        },
+        {
+          "file": "04_references/_staging/vietnam/genk-nd-thi-truong-ty-do-xanh-sm-cong-ty-da-quoc-gia.pdf",
+          "reason": "Undated secondary/republication of older opaque share estimates, redundant with explicit methodological challenge and better-scoped original survey summaries."
+        },
+        {
+          "file": "04_references/_staging/vietnam/minh-son-2024-vingroup-capital-gsm.pdf",
+          "reason": "Older 2023 share/corporate baseline with unnamed share-estimate source; latest car-category survey and parent company sources are more appropriate. Do not promote its financial figure without separate verification."
+        },
+        {
+          "file": "04_references/_staging/vietnam/snell-2024-vietnams-richest-man-grab.pdf",
+          "reason": "Sound independent historical context but older consumer preference and fleet figures; reserve because original newer survey evidence plus parent-held Reuters/company context cover the necessary decision criteria."
+        },
+        {
+          "file": "04_references/_staging/vietnam/government-of-vietnam-2020-decree-10-2020-vcci-text.pdf",
+          "reason": "Obsolete for current law: expressly repealed by Decree 158/2024 effective 1 January 2025. VCCI in-force label is not reliable current status. Historical reserve only."
+        },
+        {
+          "file": "04_references/_staging/vietnam/government-of-vietnam-2020-decree-10-2020-portal-record.pdf",
+          "reason": "Original historical legal provenance, but Decree 10/2020 is repealed. Do not promote as the current transport law."
+        },
+        {
+          "file": "04_references/_staging/vietnam/hai-yen-2026-grab-explain-fare-commission.pdf",
+          "reason": "Redundant coverage of September 2026 review; selected Tuoi Tre News report preserves conditional status without adding corporate commission/revenue figures unnecessary for the selection."
+        },
+        {
+          "file": "04_references/_staging/vietnam/pham-2026-sau-grab-be-tang-gia-cuoc.pdf",
+          "reason": "Competitor fee-change reserve. Current parent-captured Green SM fares, Rakuten spending and the explicitly narrow Hanoi fare illustration suffice; fee categories cannot be treated as comparable complete per-trip fares."
+        },
+        {
+          "file": "04_references/_staging/vietnam/tri-tuc-2026-cuoc-chien-goi-xe-ty-usd.pdf",
+          "reason": "Membership-competition commentary retained in research reserve; parent is separately integrating current Green SM membership originals. No need to duplicate original offer evidence."
+        },
+        {
+          "file": "04_references/_staging/vietnam/adcostly-nd-facebook-ads-cost-vietnam.pdf",
+          "reason": "Excluded as a budget benchmark: undated, undisclosed method and charts referring to 2019–2021; cannot justify a September/October 2026 Hanoi media budget, CPM or CPC."
+        },
+        {
+          "file": "04_references/_staging/vietnam/guarascio-nguyen-2026-gsm-us-eu-expansion-hong-kong-ipo.pdf",
+          "reason": "Common Reuters/company-objective source handled by parent; do not promote a duplicate Vietnam copy or treat global plans as approved Hanoi marketing objectives."
+        }
+      ]
+    },
+    {
+      "country": "Company",
+      "scoring_limits": [
+        "Company communications establish advertised mechanisms, not campaign effectiveness, actual prices, employment compliance, safety outcomes or financial performance.",
+        "Vietnam and India capabilities cannot be transferred to Europe as existing practice; no final market, segment, position or budget is approved.",
+        "Entries remain candidates for parent integration. Local PDF text inspection is not refs.py verification; no registry verification records are created here."
+      ],
+      "sources": [
+        {
+          "key": "green-sm-india-private-limited-nd",
+          "file": "green-sm-india-private-limited-nd-green-sm-limo.pdf",
+          "staged_file": "04_references/_staging/greensm-comet/comet-in-limo.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "CO-I01",
+              "claim": "India service-page footer identifies Green SM India Private Limited.",
+              "type": "company-claim",
+              "page": 4,
+              "quote": "GREEN SM INDIA PRIVATE LIMITED",
+              "scope": "India local entity disclosure, undated capture.",
+              "limits": "Company disclosure, not an independent company-register extract.",
+              "quote_verified": true,
+              "evidence_id": "E-148"
+            },
+            {
+              "id": "CO-I02",
+              "claim": "India Limo advertises advance booking up to 30 days.",
+              "type": "company-claim",
+              "page": 3,
+              "quote": "You can schedule rides up to 30 days in advance and cancel anytime before the driver arrives.",
+              "scope": "India Limo service page, accessed 27 September 2026.",
+              "limits": "No booking or cancellation was tested; not a pickup guarantee.",
+              "quote_verified": true,
+              "evidence_id": "E-149"
+            },
+            {
+              "id": "CO-I03",
+              "claim": "India Limo qualifies the payable trip cost by distance, tolls and additional fees.",
+              "type": "company-claim",
+              "page": 2,
+              "quote": "The actual trip cost depends on the actual distance, tolls (if any), and any additional fees (if any) incurred during the trip.",
+              "scope": "India pricing conditions, not a numeric fare quote.",
+              "limits": "No tariff absence or INR8/km price can be inferred.",
+              "quote_verified": true,
+              "evidence_id": "E-150"
+            }
+          ]
+        },
+        {
+          "key": "gsm-green-and-smart-mobility-joint-stock-company-ndb",
+          "file": "gsm-green-and-smart-mobility-joint-stock-company-ndb-green-sm-car.pdf",
+          "staged_file": "04_references/_staging/greensm-comet/comet-vn-car.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "CO-I04",
+              "claim": "Vietnam Car advertises a five-star transport-service promise.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "Choose Green SM Car to have experience 5-star transportation services",
+              "scope": "Vietnam Car messaging, accessed 27 September 2026.",
+              "limits": "Not a certification, app rating or observed service standard.",
+              "quote_verified": true,
+              "evidence_id": "E-151"
+            },
+            {
+              "id": "CO-I05",
+              "claim": "Vietnam Car advertises payment/promo-code entry and scheduling up to 30 days.",
+              "type": "company-claim",
+              "page": 3,
+              "quote": "Step 3: Select the payment method and enter any promotional codes (if available). Step 4: Click the 3-dot menu \"...\" next to \"Promotions\", select \"Schedule\" and choose the desired travel time -> click \"Update\". Step 5: Review the scheduled time and click \"Book\", the driver will proactively contact you and confirm the information. You can schedule a pickup up to 30 days in advance and can cancel the trip before the driver arrives.",
+              "scope": "Vietnam app-booking instructions.",
+              "limits": "No transaction, confirmation or conversion effect observed.",
+              "quote_verified": true,
+              "evidence_id": "E-152"
+            },
+            {
+              "id": "CO-I06",
+              "claim": "Vietnam Car app prices may include discounts and surcharges.",
+              "type": "company-claim",
+              "page": 2,
+              "quote": "Prices booked through the app are determined via the pricing software, according to the listed price policy and may include discounts (if any) and surcharge policies (if any) at each time.",
+              "scope": "Vietnam service-pricing conditions.",
+              "limits": "Not evidence of price leadership or a matched-route fare.",
+              "quote_verified": true,
+              "evidence_id": "E-153"
+            }
+          ]
+        },
+        {
+          "key": "gsm-green-and-smart-mobility-joint-stock-company-ndd",
+          "file": "gsm-green-and-smart-mobility-joint-stock-company-ndd-driver-platform.pdf",
+          "staged_file": "04_references/_staging/greensm-comet/comet-vn-platform.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "CO-I07",
+              "claim": "Vietnam Platform recruits vehicle owners for full- or part-time service.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "Green SM Platform connects electric vehicle owners who wish to offer ride services (either full-time or part-time) with customers in need of transportation",
+              "scope": "Vietnam owner-driver recruitment page.",
+              "limits": "Does not quantify fleet ownership or establish employment status.",
+              "quote_verified": true,
+              "evidence_id": "E-154"
+            },
+            {
+              "id": "CO-I08",
+              "claim": "Vietnam Platform advertises revenue sharing up to 87%.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "Receive up to 87% of the trip revenue",
+              "scope": "Vietnam recruitment maximum at capture date.",
+              "limits": "Not average take rate or a universal entitlement; separate text advertises loan purchase support up to 70%.",
+              "quote_verified": true,
+              "evidence_id": "E-155"
+            },
+            {
+              "id": "CO-I09",
+              "claim": "The Vietnam Platform registration form includes GSM–VinFast loan consultation.",
+              "type": "company-claim",
+              "page": 3,
+              "quote": "Register for GSM x VinFast loan consultation",
+              "scope": "Vietnam supply-side registration form.",
+              "limits": "No loan approval, completed recruitment or vehicle sale measured.",
+              "quote_verified": true,
+              "evidence_id": "E-156"
+            }
+          ]
+        },
+        {
+          "key": "gsm-green-and-smart-mobility-joint-stock-company-nda",
+          "file": "gsm-green-and-smart-mobility-joint-stock-company-nda-green-for-business.pdf",
+          "staged_file": "04_references/_staging/greensm-comet/comet-vn-business.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "CO-I10",
+              "claim": "Green Business offers self-sign-up aimed at SMEs or prepaid customers.",
+              "type": "company-claim",
+              "page": 3,
+              "quote": "Self-Sign Up Perfect for SMEs or prepaid customers. No complex process - get started in just a few simple steps.",
+              "scope": "Vietnam business-transport page.",
+              "limits": "Not completed sign-ups or a signed customer base.",
+              "quote_verified": true,
+              "evidence_id": "E-157"
+            },
+            {
+              "id": "CO-I11",
+              "claim": "Green Business advertises monthly booking and billing management.",
+              "type": "company-claim",
+              "page": 4,
+              "quote": "Easy monthly booking and billing management.",
+              "scope": "Vietnam car transportation service.",
+              "limits": "No measured savings, service delivery or client revenue.",
+              "quote_verified": true,
+              "evidence_id": "E-158"
+            },
+            {
+              "id": "CO-I12",
+              "claim": "The Vietnam business page advertises corporate cards.",
+              "type": "company-claim",
+              "page": 5,
+              "quote": "Cost-effective solutions via corporate cards.",
+              "scope": "Vietnam motorbike transportation section.",
+              "limits": "No verified 10% discount; no Europe availability established.",
+              "quote_verified": true,
+              "evidence_id": "E-159"
+            }
+          ]
+        },
+        {
+          "key": "gsm-green-and-smart-mobility-joint-stock-company-nde",
+          "file": "gsm-green-and-smart-mobility-joint-stock-company-nde-xanh-hoi-vien.pdf",
+          "staged_file": "04_references/_staging/greensm-comet/comet-vn-membership-vi.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "CO-I13",
+              "claim": "Vietnam membership is advertised as one purchase usable for 30 days or the package cycle.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "Mua 1 lần, sử dụng trong vòng 30 ngày hoặc theo chu kỳ gói",
+              "scope": "Vietnam membership product page; agent translation of Vietnamese.",
+              "limits": "Not unlimited trips, automatic renewal or retention improvement.",
+              "quote_verified": true,
+              "evidence_id": "E-160"
+            },
+            {
+              "id": "CO-I14",
+              "claim": "Some membership packages have their own validity periods.",
+              "type": "company-claim",
+              "page": 2,
+              "quote": "Một số Gói Hội viên sẽ có thời hạn sử dụng riêng theo từng thời điểm phát hành",
+              "scope": "Vietnam membership FAQ; agent translation.",
+              "limits": "Check specific package terms; captured FAQ ends mid-sentence later on this page.",
+              "quote_verified": true,
+              "evidence_id": "E-161"
+            }
+          ]
+        },
+        {
+          "key": "gsm-green-and-smart-mobility-joint-stock-company-2023",
+          "file": "gsm-green-and-smart-mobility-joint-stock-company-2023-taxi-fares.pdf",
+          "staged_file": "04_references/_staging/greensm-comet/comet-vn-fares-news.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "CO-I15",
+              "claim": "Vietnam fare article names Car, Premium, Limo and Mini car tiers.",
+              "type": "company-claim",
+              "page": 3,
+              "quote": "Green SM Car, Green SM Premium, Green SM Limo, Green SM Mini",
+              "scope": "Mutable article bearing 26 June 2023 publication header, captured September 2026.",
+              "limits": "Not the 2023 portfolio or proof all tiers are available in every city; Bike and Express are described separately on p. 2.",
+              "quote_verified": true,
+              "evidence_id": "E-162"
+            },
+            {
+              "id": "CO-I16",
+              "claim": "Article lists Hanoi Car opening fare VND30,500 for first 2 km, then VND14,700/13,800/11,900 per km across stated bands.",
+              "type": "company-claim",
+              "page": 4,
+              "quote": "Hà Nội 30,500 14,700 13,800 11,900",
+              "scope": "Hanoi row; VNĐ; first 2 km, next km through km12, next km through km25, from km26.",
+              "limits": "Text-layer table headings/row inspected, not an observed trip; mutable article does not establish 2023 rates.",
+              "quote_verified": true,
+              "evidence_id": "E-163"
+            },
+            {
+              "id": "CO-I17",
+              "claim": "Article lists Hanoi Premium opening fare VND34,400 for first 2 km.",
+              "type": "company-claim",
+              "page": 5,
+              "quote": "Hà Nội 34,400 16,000 14,900 12,900",
+              "scope": "Hanoi Premium table, same distance-band structure; remaining rates VND16,000/14,900/12,900.",
+              "limits": "Listed example, not verified app price or current-price comparison.",
+              "quote_verified": true,
+              "evidence_id": "E-164"
+            }
+          ]
+        },
+        {
+          "key": "gsm-green-and-smart-mobility-joint-stock-company-ndc",
+          "file": "gsm-green-and-smart-mobility-joint-stock-company-ndc-green-sm-mini.pdf",
+          "staged_file": "04_references/_staging/greensm-comet/comet-vn-mini-vi.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "CO-I18",
+              "claim": "Mini is promoted with the Vietnamese slogan Gọn Dáng Phố, Chuẩn Chất Mình.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "Green SM Mini Gọn Dáng Phố, Chuẩn Chất Mình",
+              "scope": "Vietnam Mini product page.",
+              "limits": "Brand wording, not demonstrated consumer preference.",
+              "quote_verified": true,
+              "evidence_id": "E-165"
+            },
+            {
+              "id": "CO-I19",
+              "claim": "Mini lists ten free waiting minutes, then VND1,000 per minute from minute 11.",
+              "type": "company-claim",
+              "page": 3,
+              "quote": "Phí thời gian chờ: 10 phút đầu khách hàng được miễn phí Bắt đầu từ phút thứ 11 tính 1.000 vnđ/phút/Green SM Mini",
+              "scope": "Vietnam Mini fee table; agent translation.",
+              "limits": "Service-specific listed fee, not an observed payable fare.",
+              "quote_verified": true,
+              "evidence_id": "E-166"
+            },
+            {
+              "id": "CO-I20",
+              "claim": "Mini lists driver overnight fees of VND500,000 in Hanoi/HCMC and VND300,000 elsewhere.",
+              "type": "company-claim",
+              "page": 3,
+              "quote": "Phụ phí lưu đêm tài xế nghỉ đêm tại Hà Nội, Hồ Chí Minh 500.000 vnđ/tài xế/đêm Phụ phí lưu đêm tài xế nghỉ đêm tại tỉnh/ thành phố khác 300.000 vnđ/tài xế/đêm",
+              "scope": "Vietnam Mini surcharge table; per driver per night; agent translation.",
+              "limits": "Do not generalise to all services; app discounts and surcharges are separately qualified.",
+              "quote_verified": true,
+              "evidence_id": "E-167"
+            }
+          ]
+        },
+        {
+          "key": "gsm-green-and-smart-mobility-joint-stock-company-2024b",
+          "file": "gsm-green-and-smart-mobility-joint-stock-company-2024b-membership-launch.pdf",
+          "staged_file": "04_references/_staging/greensm-comet/comet-vn-membership-launch-2024.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "CO-I21",
+              "claim": "Historical VND59,000 student package offered three Bike vouchers capped at VND30,000 each plus ten 30%-off Bike vouchers capped at VND50,000, valid 30 days.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "1. Gói Xanh Đi Học 59K: Chỉ với 59.000 VNĐ, tiết kiệm tới 600.000 VNĐ khi nhận bộ mã ưu đãi dành cho học sinh – sinh viên: 03 chuyến Green SM Bike miễn phí (tối đa 30.000 VNĐ/chuyến) 10 mã 30% khi đặt Green SM Bike (lên tới 50.000 VNĐ/chuyến) Thời hạn sử dụng ưu đãi: trong vòng 30 ngày kể từ khi đăng ký Gói Hội Viên",
+              "scope": "Article published 25 April 2024; Vietnam historical student package; agent translation.",
+              "limits": "The quoted saving up to VND600,000 is promotional, not realised; not September 2026 pricing.",
+              "quote_verified": true,
+              "evidence_id": "E-168"
+            },
+            {
+              "id": "CO-I22",
+              "claim": "Historical VND9,000 delivery package offered forty 25%-off Express vouchers capped at VND50,000 per trip.",
+              "type": "company-claim",
+              "page": 3,
+              "quote": "40 mã ưu đãi 25% cho Xanh Express (lên tới 50K/chuyến)",
+              "scope": "Gói Giao Hàng Xanh 9K section; price and heading on same page; 30-day validity; agent translation.",
+              "limits": "No redemption, realised savings or current seller pricing established.",
+              "quote_verified": true,
+              "evidence_id": "E-169"
+            },
+            {
+              "id": "CO-I23",
+              "claim": "The launch article says customers may buy another package after using all promotional codes.",
+              "type": "company-claim",
+              "page": 3,
+              "quote": "Quý khách có thể mua tiếp Gói hội viên mới khi đã sử dụng hết mã khuyến mại.",
+              "scope": "Historical Vietnam membership mechanics; agent translation.",
+              "limits": "Not proof of automatic subscription renewal.",
+              "quote_verified": true,
+              "evidence_id": "E-170"
+            }
+          ]
+        },
+        {
+          "key": "gsm-green-and-smart-mobility-joint-stock-company-2024c",
+          "file": "gsm-green-and-smart-mobility-joint-stock-company-2024c-xanh-family.pdf",
+          "staged_file": "04_references/_staging/greensm-comet/comet-vn-xanh-family.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "CO-I24",
+              "claim": "Xanh Family article promotes booking rides for relatives.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "việc đặt xe cho người thân sẽ thuận tiện hơn",
+              "scope": "Vietnam feature announcement, 19 June 2024; agent translation.",
+              "limits": "Not household acquisition or a current Europe feature.",
+              "quote_verified": true,
+              "evidence_id": "E-171"
+            },
+            {
+              "id": "CO-I25",
+              "claim": "Xanh Family advertises journey tracking through avatars.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "Theo dõi hành trình qua avatar",
+              "scope": "Vietnam feature announcement; agent translation.",
+              "limits": "Not evidence of child safety or a tested tracking function.",
+              "quote_verified": true,
+              "evidence_id": "E-172"
+            },
+            {
+              "id": "CO-I26",
+              "claim": "Xanh Family promotes linking and synchronising family members’ accounts.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "kết nối và đồng bộ tài khoản các thành viên",
+              "scope": "Vietnam feature announcement; agent translation.",
+              "limits": "Not active linked-account counts or repeat-use outcomes.",
+              "quote_verified": true,
+              "evidence_id": "E-173"
+            }
+          ]
+        },
+        {
+          "key": "gsm-green-and-smart-mobility-joint-stock-company-2024a",
+          "file": "gsm-green-and-smart-mobility-joint-stock-company-2024a-vietjet-airport-taxis.pdf",
+          "staged_file": "04_references/_staging/greensm-comet/comet-vn-vietjet.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "CO-I27",
+              "claim": "Green SM announces an airport-taxi flight-booking add-on with Vietjet starting 1 October 2024.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "Starting 1 October 2024, Green SM and Vietjet team up to make your journey even smoother! Now, you can easily add a Green SM x VJA airport taxi service to your flight booking.",
+              "scope": "Vietnam historical partner distribution; article published 4 October 2024.",
+              "limits": "Domestic Vietjet flights/participating Vietnamese airports, not a European agreement or sales outcome.",
+              "quote_verified": true,
+              "evidence_id": "E-174"
+            },
+            {
+              "id": "CO-I28",
+              "claim": "The described sales path uses Vietjet website/app purchase and an emailed taxi voucher.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "Step 1: Book a flight on Vietjet Air’s website or app; Step 2: Select the add-on “Airport taxi service”; Step 3: Choose an airport taxi package for your departure and/or return trip; Step 4: Complete the payment for the flight and add-on services; Step 5: Receive an email with flight details and a voucher code to use for the service.",
+              "scope": "Vietnam airline add-on instructions.",
+              "limits": "No transaction or incremental booking measured.",
+              "quote_verified": true,
+              "evidence_id": "E-175"
+            },
+            {
+              "id": "CO-I29",
+              "claim": "The Vietjet add-on article allows pre-booking from two years to three hours ahead.",
+              "type": "company-claim",
+              "page": 2,
+              "quote": "You can pre-book this service up to 2 years in advance, or as little as 3 hours before your flight.",
+              "scope": "Historical airport-transfer terms, Vietnam.",
+              "limits": "Seven-day voucher validity and extra-distance fees also apply on p. 2; not the ordinary 30-day app scheduling offer.",
+              "quote_verified": true,
+              "evidence_id": "E-176"
+            }
+          ]
+        },
+        {
+          "key": "gsm-green-and-smart-mobility-joint-stock-company-2026",
+          "file": "gsm-green-and-smart-mobility-joint-stock-company-2026-best-time-visit-vietnam.pdf",
+          "staged_file": "04_references/_staging/greensm-comet/comet-vn-seo-content.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "CO-I30",
+              "claim": "Green SM published a Vietnam travel guide dated 24 July 2026.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "24/07/2026 09:58 Best time to visit Vietnam? A Complete Guide from Locals",
+              "scope": "Vietnam English-language owned travel content.",
+              "limits": "One execution, not a longitudinal content-growth study.",
+              "quote_verified": true,
+              "evidence_id": "E-177"
+            },
+            {
+              "id": "CO-I31",
+              "claim": "The guide closes with app-download and Vietnam hotline calls to action.",
+              "type": "company-claim",
+              "page": 20,
+              "quote": "Download the Green SM app on the App Store or Google Play, or call hotline 1555 for 24/7 support.",
+              "scope": "Owned-content conversion invitation.",
+              "limits": "No rankings, traffic, paid-media spending or attributable bookings established.",
+              "quote_verified": true,
+              "evidence_id": "E-178"
+            }
+          ]
+        },
+        {
+          "key": "gsm-green-and-smart-mobility-joint-stock-company-2025",
+          "file": "gsm-green-and-smart-mobility-joint-stock-company-2025-driver-policy.pdf",
+          "staged_file": "04_references/_staging/greensm-comet/comet-vn-driver-policy.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "CO-I32",
+              "claim": "The May 2025 driver policy advertises an employment contract, regional base pay and specified insurance contributions from day one.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "bạn sẽ được ký hợp đồng lao động chính thức và hưởng mức lương cơ bản theo quy định từng vùng, đảm bảo đóng đầy đủ BHXH, BHYT, BHTN ngay từ ngày đầu làm việc.",
+              "scope": "Vietnam employed-driver recruitment; agent translation.",
+              "limits": "Not an audited employment contract or proof all platform drivers are employees.",
+              "quote_verified": true,
+              "evidence_id": "E-179"
+            },
+            {
+              "id": "CO-I33",
+              "claim": "The driver article explicitly makes actual income dependent on completed trips, service quality and operating area.",
+              "type": "company-claim",
+              "page": 3,
+              "quote": "Thu nhập thực tế phụ thuộc vào số cuốc xe hoàn thành, chất lượng phục vụ và khu vực tài xế hoạt động.",
+              "scope": "Vietnam May 2025 recruitment policy; agent translation.",
+              "limits": "Headline income ranges are not representative take-home earnings or September 2026 payroll.",
+              "quote_verified": true,
+              "evidence_id": "E-180"
+            }
+          ]
+        },
+        {
+          "key": "lewis-2026",
+          "file": "lewis-2026-vinfast-taxi-debuted-europe.pdf",
+          "staged_file": "04_references/_staging/denmark/lewis-2026-vinfast-taxi-debuted-europe.pdf",
+          "pack_source": null,
+          "claims": [
+            {
+              "id": "CO-I34",
+              "claim": "Electrek reports five new-customer vouchers for 25% off a Copenhagen trip, capped at DKK100 per ride, in a launch promotion running through 30 September 2026.",
+              "type": "reported-company-claim",
+              "page": 1,
+              "quote": "To encourage Copenhageners to give it a try, Green SM is offering new customers five vouchers for 25% off a trip, with a maximum discount of 100 Danish kroner (about $16) per ride. The launch promotion runs through September 30.",
+              "scope": "Copenhagen introductory offer, reported 31 July 2026.",
+              "limits": "Media report of company terms, not app redemption or an observed paid fare. No extension beyond 30 September assumed.",
+              "quote_verified": true,
+              "evidence_id": "E-181"
+            }
+          ]
+        }
+      ],
+      "excluded": [
+        {
+          "old_file": "04_references/_staging/greensm-comet/comet-vn-membership.pdf",
+          "reason": "Duplicate English membership capture; Vietnamese membership page selected."
+        },
+        {
+          "old_file": "04_references/_staging/greensm-comet/comet-in-launch-release.pdf",
+          "reason": "Duplicate launch release; existing green-sm-2026b already supplies the dated India launch."
+        },
+        {
+          "old_file": "04_references/_staging/greensm-comet/comet-dk-home.pdf",
+          "reason": "Generic home page not used for a unique dossier claim."
+        },
+        {
+          "old_file": "04_references/_staging/greensm-comet/comet-dk-news.pdf",
+          "reason": "News listing not used as the original article source."
+        },
+        {
+          "old_file": "04_references/_staging/greensm-comet/comet-nl-home.pdf",
+          "reason": "Generic home page not used for a unique dossier claim."
+        },
+        {
+          "old_file": "04_references/_staging/greensm-comet/comet-nl-news.pdf",
+          "reason": "News listing not used as the original article source."
+        },
+        {
+          "old_file": "04_references/_staging/india/businessline-2026-green-sm-india-bet.pdf",
+          "existing_key": "bl-mumbai-bureau-2026",
+          "existing_file": "bl-mumbai-bureau-2026-green-sm-india-bet.pdf",
+          "reason": "Already selected in india-integration.json and present in current registry; matched original staging path and URL. Reuse existing entry, not a second businessline author key. Publication 23 May, updated 24 May 2026."
+        },
+        {
+          "old_file": "04_references/_staging/vietnam/q-and-me-nd-car-ride-hailing-usage-habits-2024.pdf",
+          "existing_key": "q-and-me-nd",
+          "existing_file": "q-and-me-nd-car-ride-hailing-usage-habits-2024.pdf",
+          "reason": "Reuse existing registry/source-index entry; no new source. Original Q&Me summary inspected: p. 2 credits Q&Me as a product of Asia Plus Inc. and gives 600 respondents aged 22–55 in HCMC, Hanoi, Bac Ninh and Quang Ninh using app car ride-hailing at least weekly. Title contains 2024, not a publication date; n.d. retained, exact fieldwork dates not supplied. P. 1 satisfaction: Xanh SM 83%, Grab 80%, Be 68%. Restricted frequent-car-user sample, not national or European demand. Dossier adds method/satisfaction locators; existing country manifest owns the source claims."
+        }
+      ]
+    }
+  ]
+}

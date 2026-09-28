@@ -1,0 +1,3890 @@
+{
+  "prepared_on": "2026-09-28",
+  "status": "Unapproved agent evaluation of evidence fitness, NOT predicted academic marks, market attractiveness or probability of success.",
+  "base": {
+    "name": "base",
+    "weights": [
+      25,
+      20,
+      20,
+      15,
+      10,
+      10
+    ],
+    "scores": {
+      "Denmark": [
+        4.5,
+        4,
+        5,
+        5,
+        4.5,
+        5
+      ],
+      "Netherlands": [
+        4,
+        4,
+        4.5,
+        4.5,
+        4.5,
+        4
+      ],
+      "Vietnam": [
+        4.5,
+        4.5,
+        4.5,
+        4,
+        5,
+        4
+      ],
+      "India": [
+        3.5,
+        4,
+        3,
+        4.5,
+        4,
+        4.5
+      ]
+    },
+    "totals": {
+      "Denmark": 92.5,
+      "Netherlands": 84.5,
+      "Vietnam": 88.5,
+      "India": 76.0
+    },
+    "raw_winners": [
+      "Denmark"
+    ],
+    "eligible_european": [
+      "Denmark",
+      "Netherlands"
+    ],
+    "preferred_european": "Denmark",
+    "strongest_non_european": "Vietnam",
+    "non_european_margin": -4.0,
+    "challenger_exceeds_margin": false,
+    "per_run_policy_choice": "Denmark"
+  },
+  "sensitivity_runs": [
+    {
+      "name": "weight K1 x0.8",
+      "weights": [
+        20.0,
+        21.333333333333332,
+        21.333333333333332,
+        16.0,
+        10.666666666666666,
+        10.666666666666666
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.666667,
+        "Netherlands": 84.8,
+        "Vietnam": 88.4,
+        "India": 76.4
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.266667,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "weight K1 x1.2",
+      "weights": [
+        30.0,
+        18.666666666666668,
+        18.666666666666668,
+        14.0,
+        9.333333333333334,
+        9.333333333333334
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.333333,
+        "Netherlands": 84.2,
+        "Vietnam": 88.6,
+        "India": 75.6
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -3.733333,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "weight K2 x0.8",
+      "weights": [
+        26.25,
+        16.0,
+        21.0,
+        15.75,
+        10.5,
+        10.5
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 93.125,
+        "Netherlands": 84.725,
+        "Vietnam": 88.425,
+        "India": 75.8
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.7,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "weight K2 x1.2",
+      "weights": [
+        23.75,
+        24.0,
+        19.0,
+        14.25,
+        9.5,
+        9.5
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 91.875,
+        "Netherlands": 84.275,
+        "Vietnam": 88.575,
+        "India": 76.2
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -3.3,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "weight K3 x0.8",
+      "weights": [
+        26.25,
+        21.0,
+        16.0,
+        15.75,
+        10.5,
+        10.5
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.125,
+        "Netherlands": 84.225,
+        "Vietnam": 88.425,
+        "India": 76.8
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -3.7,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "weight K3 x1.2",
+      "weights": [
+        23.75,
+        19.0,
+        24.0,
+        14.25,
+        9.5,
+        9.5
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.875,
+        "Netherlands": 84.775,
+        "Vietnam": 88.575,
+        "India": 75.2
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.3,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "weight K4 x0.8",
+      "weights": [
+        25.882352941176475,
+        20.705882352941178,
+        20.705882352941178,
+        12.0,
+        10.352941176470589,
+        10.352941176470589
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.235294,
+        "Netherlands": 84.305882,
+        "Vietnam": 88.8,
+        "India": 75.505882
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -3.435294,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "weight K4 x1.2",
+      "weights": [
+        24.11764705882353,
+        19.294117647058822,
+        19.294117647058822,
+        18.0,
+        9.647058823529411,
+        9.647058823529411
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.764706,
+        "Netherlands": 84.694118,
+        "Vietnam": 88.2,
+        "India": 76.494118
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.564706,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "weight K5 x0.8",
+      "weights": [
+        25.555555555555554,
+        20.444444444444443,
+        20.444444444444443,
+        15.333333333333332,
+        8.0,
+        10.222222222222221
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.555556,
+        "Netherlands": 84.377778,
+        "Vietnam": 88.244444,
+        "India": 75.911111
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.311111,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "weight K5 x1.2",
+      "weights": [
+        24.444444444444443,
+        19.555555555555554,
+        19.555555555555554,
+        14.666666666666666,
+        12.0,
+        9.777777777777777
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.444444,
+        "Netherlands": 84.622222,
+        "Vietnam": 88.755556,
+        "India": 76.088889
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -3.688889,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "weight K6 x0.8",
+      "weights": [
+        25.555555555555554,
+        20.444444444444443,
+        20.444444444444443,
+        15.333333333333332,
+        10.222222222222221,
+        8.0
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.333333,
+        "Netherlands": 84.6,
+        "Vietnam": 88.688889,
+        "India": 75.688889
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -3.644444,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "weight K6 x1.2",
+      "weights": [
+        24.444444444444443,
+        19.555555555555554,
+        19.555555555555554,
+        14.666666666666666,
+        9.777777777777777,
+        12.0
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.666667,
+        "Netherlands": 84.4,
+        "Vietnam": 88.311111,
+        "India": 76.311111
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.355556,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "equal weights",
+      "weights": [
+        16.666666666666668,
+        16.666666666666668,
+        16.666666666666668,
+        16.666666666666668,
+        16.666666666666668,
+        16.666666666666668
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 93.333333,
+        "Netherlands": 85.0,
+        "Vietnam": 88.333333,
+        "India": 78.333333
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -5.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Denmark K1 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          3.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 87.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Vietnam"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": 1.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Denmark K1 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 95.0,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -6.5,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Denmark K2 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          3,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 88.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark",
+        "Vietnam"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": 0.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Denmark K2 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          5,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 96.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -8.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Denmark K3 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          4,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 88.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark",
+        "Vietnam"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": 0.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Denmark K4 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          4,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 89.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -1.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Denmark K5 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          3.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 90.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -2.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Denmark K5 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 93.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -5.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Denmark K6 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          4
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 90.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -2.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Netherlands K1 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          3,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 79.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Netherlands K1 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          5,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 89.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Netherlands K2 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          3,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 80.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Netherlands K2 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          5,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 88.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Netherlands K3 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          3.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 80.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Netherlands K3 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 86.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Netherlands K4 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          3.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 81.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Netherlands K4 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 86.0,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Netherlands K5 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          3.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 82.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Netherlands K5 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 85.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Netherlands K6 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          3
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 82.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Netherlands K6 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          5
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 86.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Vietnam K1 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          3.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 83.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -9.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Vietnam K1 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 91.0,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -1.5,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Vietnam K2 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          3.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 84.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -8.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Vietnam K2 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 90.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -2.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Vietnam K3 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          3.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 84.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -8.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Vietnam K3 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 90.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -2.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Vietnam K4 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          3,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 85.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -7.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Vietnam K4 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          5,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 91.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -1.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Vietnam K5 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          4,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 86.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -6.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Vietnam K6 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          3
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 86.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -6.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score Vietnam K6 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          5
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 90.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -2.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score India K1 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          2.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 71.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score India K1 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          4.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 81.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score India K2 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          3,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 72.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score India K2 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          5,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 80.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score India K3 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          2,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 72.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score India K3 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          4,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 80.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score India K4 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          3.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 73.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score India K4 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 77.5
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score India K5 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          3,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 74.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score India K5 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          5,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 78.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score India K6 -1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          3.5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 74.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "score India K6 +1, clipped",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          5
+        ]
+      },
+      "totals": {
+        "Denmark": 92.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 77.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -4.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    }
+  ],
+  "sensitivity_summary": {
+    "runs": 57,
+    "raw_winner_counts": {
+      "Denmark": 54,
+      "Vietnam": 1,
+      "Denmark / Vietnam": 2
+    },
+    "per_run_policy_choice_counts": {
+      "Denmark": 57
+    },
+    "raw_rank_reversals_or_ties": [
+      "score Denmark K1 -1, clipped",
+      "score Denmark K2 -1, clipped",
+      "score Denmark K3 -1, clipped"
+    ],
+    "strongest_non_european_override_runs": 0
+  },
+  "joint_stress_cases_excluded_from_majority_rule": [
+    {
+      "name": "DK customer-evidence downgrade",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          3.5,
+          4,
+          5,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 87.5,
+        "Netherlands": 84.5,
+        "Vietnam": 88.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Vietnam"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": 1.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    },
+    {
+      "name": "DK customer and budget downgrades; VN budget upgrade",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          3.5,
+          4,
+          4,
+          5,
+          4.5,
+          5
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          4
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          5,
+          4,
+          5,
+          4
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          4.5
+        ]
+      },
+      "totals": {
+        "Denmark": 83.5,
+        "Netherlands": 84.5,
+        "Vietnam": 90.5,
+        "India": 76.0
+      },
+      "raw_winners": [
+        "Vietnam"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Netherlands",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": 6.0,
+      "challenger_exceeds_margin": true,
+      "per_run_policy_choice": "Vietnam"
+    },
+    {
+      "name": "Remove distinctiveness preference: equal K6",
+      "weights": [
+        25,
+        20,
+        20,
+        15,
+        10,
+        10
+      ],
+      "scores": {
+        "Denmark": [
+          4.5,
+          4,
+          5,
+          5,
+          4.5,
+          3
+        ],
+        "Netherlands": [
+          4,
+          4,
+          4.5,
+          4.5,
+          4.5,
+          3
+        ],
+        "Vietnam": [
+          4.5,
+          4.5,
+          4.5,
+          4,
+          5,
+          3
+        ],
+        "India": [
+          3.5,
+          4,
+          3,
+          4.5,
+          4,
+          3
+        ]
+      },
+      "totals": {
+        "Denmark": 88.5,
+        "Netherlands": 82.5,
+        "Vietnam": 86.5,
+        "India": 73.0
+      },
+      "raw_winners": [
+        "Denmark"
+      ],
+      "eligible_european": [
+        "Denmark",
+        "Netherlands"
+      ],
+      "preferred_european": "Denmark",
+      "strongest_non_european": "Vietnam",
+      "non_european_margin": -2.0,
+      "challenger_exceeds_margin": false,
+      "per_run_policy_choice": "Denmark"
+    }
+  ],
+  "joint_score_bounds_not_confidence_intervals": {
+    "Denmark": {
+      "all_scores_minus_one": 72.5,
+      "all_scores_plus_one": 100.0
+    },
+    "Netherlands": {
+      "all_scores_minus_one": 64.5,
+      "all_scores_plus_one": 100.0
+    },
+    "Vietnam": {
+      "all_scores_minus_one": 68.5,
+      "all_scores_plus_one": 100.0
+    },
+    "India": {
+      "all_scores_minus_one": 56.0,
+      "all_scores_plus_one": 93.5
+    }
+  },
+  "agent_recommendation_not_group_decision": "Denmark",
+  "interpretation": "Deterministic ordinal stress tests, not probabilities, statistical confidence or predicted marks. Joint stress cases are additional diagnostics, not extra votes in the frozen sensitivity rule."
+}

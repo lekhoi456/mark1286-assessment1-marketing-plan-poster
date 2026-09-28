@@ -1,0 +1,10 @@
+{
+  "date": "2026-09-27",
+  "base_checker": {
+    "path": "~/.claude/skills/mba-writing-style/scripts/draftcheck.py",
+    "before_from_worker_notes": "5934dba184903e6dfe0859059e7691728a5c3da53308c311d948e854c45d6f6b",
+    "after": "5934dba184903e6dfe0859059e7691728a5c3da53308c311d948e854c45d6f6b",
+    "unchanged": true
+  },
+  "scope_limit": "No full-tree before manifest survived the worker interruption. No full detector-tree before/after guarantee is claimed. Existing protected skill and detector trees were not intentionally edited."
+}

@@ -1,0 +1,18 @@
+# Source PDFs, course decks and documents are copyrighted and stay local in iCloud only.
+# The registry (04_references/references.json) records every file name, URL and hash.
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.mp4
+*.zip
+*.jpg
+*.jpeg
+~$*
+
+# Local tooling residue
+.DS_Store
+__pycache__/
+*.pyc
+*.json.tmp
