@@ -4,7 +4,7 @@ Read first each session, with AGENTS.md, the decision log and open questions. Ch
 
 ## Current state — 28 September 2026
 
-**Chosen: Copenhagen, Denmark** (D-031), segment S1, positioning P1, DKK600,000 12-month market-entry budget (D-032); integrated plan approved with A1–A9 (D-033). **Poster copy v02 is ready for the group to read** ([poster-v02-2026-09-28.md](07_drafts/poster-v02-2026-09-28.md)), after two independent mock reviews of v01 ([integrated review and fix log](07_drafts/reviews/poster-v01-review.md)). Next: group reads/approves v02 wording (G5) and supplies the contribution statement (Q-S5); then P6 pitch/Q&A and P7 design.
+**Chosen: Copenhagen, Denmark** (D-031), segment S1, positioning P1, DKK600,000 12-month market-entry budget (D-032); integrated plan approved with A1–A9 (D-033). Poster direction chosen (D-034: hybrid taxi-route concept, A0 landscape, numeric KPI targets, decision lines, 📌/✏️ markers). **Poster copy v05 is the current draft** ([poster-v05-2026-09-28.md](07_drafts/poster-v05-2026-09-28.md), 1,424 words) with [design concept v03](07_drafts/design/design-concept-v03.md). Review trail: v01 and v03 each mock-marked by two independent reviewers, v04 verified ([v03 fix log](07_drafts/reviews/poster-v03-review.md), [v04 verification and v05 disposition](07_drafts/reviews/poster-v04-verification.md)). Latest estimate ≈73.5–74 (v04, before v05 fixes). Next: group reads/approves v05 (G5) and supplies the contribution statement (Q-S5); then P6 pitch/Q&A and P7 A0 proof.
 
 A1 only. Handbook deadline: **14 October 2026**; internal upload target: 13 October. Pitch date/Moodle time remain deliberately blank under D-026. Do not reopen settled questions or restart completed research because an older session log says otherwise.
 
@@ -15,13 +15,13 @@ A1 only. Handbook deadline: **14 October 2026**; internal upload target: 13 Octo
 | P2 | Complete: Copenhagen chosen (D-031) after the four-finalist comparison |
 | P3 | Four market packs, integrated company dossier, source/claim registry, Perplexity reconciliations and explicit evidence gaps complete for this decision packet |
 | P4 | Complete: plan approved (D-033) |
-| P5 | In progress: blueprint (`05_plans/poster-blueprint.md`), v01 reviewed, v02 revised; 1,581 counted words; gates below. Waiting on group approval and contributions |
+| P5 | In progress: blueprint; v01 and v03 mock-marked (≈67–68 → ≈71–72), v04 verified (≈73.5–74), v05 current (1,424 words); concept v03 with fit estimate. Waiting on group approval and contributions |
 | P6 | Pitch and Q&A not started; no speaking allocation invented |
 | P7–P9 | Design, actual-A0 proof, final assessment review and submission not started. The hand-drawn-style production route itself is already agreed |
 
 ## Read these first
 
-1. [Poster copy v02](07_drafts/poster-v02-2026-09-28.md) and [v01 review/fix log](07_drafts/reviews/poster-v01-review.md) — read first. [Integrated Copenhagen plan](02_research/marketing-plan/integrated-plan-copenhagen.md) holds the full reasoning behind each panel.
+1. [Poster copy v05](07_drafts/poster-v05-2026-09-28.md), [design concept v03](07_drafts/design/design-concept-v03.md) and [v04 verification](07_drafts/reviews/poster-v04-verification.md) — read first. [Integrated Copenhagen plan](02_research/marketing-plan/integrated-plan-copenhagen.md) holds the full reasoning behind each panel.
 2. [Focus-market recommendation and sensitivity](02_research/business-selection/focus-market-selection.md).
 3. [Segment and positioning alternatives](02_research/marketing-plan/segment-positioning-options.md).
 4. [Budget/KPI scenarios and financial challenge](02_research/marketing-plan/budget-kpi-scenarios.md).
@@ -107,13 +107,17 @@ The 17 advisory reference warnings are retained transparently: 13 stable acronym
 
 ## Genuine next decisions and evidence gates
 
-Copenhagen, S1/P1, the DKK600,000 envelope and plan A1–A9 are settled (D-031–D-033). Poster v02 gates: `refs.py check-draft` 0 errors, reference list identical (14 cited sources); presentcheck detector ran, anti-slop 0, module scope 0, budget table 600000/100.00, 9 KPI rows, one hard stop that is the frozen base checker's inability to parse the digits in "TAXA 4x35" (recorded, not suppressed). Next: group approves v02 wording and supplies the contribution statement; re-letter year suffixes for the final cited set before P8; then pitch/Q&A (P6) and design (P7).
+Copenhagen, S1/P1, the DKK600,000 envelope and plan A1–A9 are settled (D-031–D-033). Poster v05 gates: `refs.py check-draft` 0 errors, reference list identical (14 cited sources); presentcheck detector ran, anti-slop 0, module scope 0, budget table 600000/100.00, 9 KPI rows, one hard stop that is the frozen base checker's inability to parse the digits in "TAXA 4x35" (recorded, not suppressed). Fit: at 20 pt body only column 2 overflows (≈30 mm) by estimate; confirm on an A0 proof. Next: group approves v05 wording and supplies the contribution statement; re-letter year suffixes for the final cited set before P8; then pitch/Q&A (P6) and design (P7).
 
 Still unavailable: representative chosen-city need/willingness-to-pay evidence; actual matched app fares and full operative terms; verified local service/account capacity; company conversion/retention/net-receipt/cost baselines; final supplier/tax quotes; and precise applicable legal/claims/privacy controls. These are evidence prerequisites, not figures the student should invent. Optional historical promotions and unused non-finalist leads need not be exhaustively collected.
 
 Group-specific work remains theirs: authentic contributions/speaking responsibility, final wording/design approval and eventual submission. Upload/reference packaging, final AI-disclosure requirements and other unresolved local administration remain in `01_context/open-questions.md`. Do not fabricate lecturer answers. Requirements/rubric criteria are intentionally not marked achieved by a research packet; actual poster/rehearsal/upload proof is still required.
 
 ## Session log
+
+### 28 September 2026 — poster direction D-034; v03 to v05
+
+The student chose the hybrid taxi-route concept, A0 landscape, numeric KPI targets, ~1,400 words, decision lines, 📌/✏️ markers and the KFST p. 151 safety motive (D-034; E-187 added and page-verified). Plan §10 targets updated to match. v03 was mock-marked by two independent reviewers (≈71 and ≈72): safeguards lost in compression, misplaced 📌 markers, gate outcomes contradicting plan §10, and copy overflowing the v01 concept's grid. v04 fixed these at 1,397 words; one verification reviewer confirmed 13 of 16 fixes (≈73.5–74) and found remaining wording issues, a Branding 📌 that overstated the rebrand, and a still-optimistic fit statement. v05 (1,424 words) applies all of them; design concept v03 resizes the grid and states the fit estimate honestly. v05 has not been re-reviewed. No commit made.
 
 ### 28 September 2026 — plan approved; poster blueprint, v01 review and v02
 
