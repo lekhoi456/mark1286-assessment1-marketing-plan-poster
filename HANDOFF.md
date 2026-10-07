@@ -12,6 +12,8 @@ Numbers come from [scale-plan model v02](poster/scale-plan-v02-2026-10-07-model.
 
 [Script v05](poster/presentation-script-v05-2026-10-07.md) and [study guide v05](poster/presentation-study-guide-v05-2026-10-07.md): 1,687 words, about 13 minutes spoken; not rehearsed.
 
+[Independent examiners](plans/reports/2026-10-07-independent-examiners-final-v07/synthesis.md) gave v07 72.5, 71 and 72.5 (mean 72.0; v03 68.3). Agreed gaps: no B2B sales steps, the edge is not a rider benefit, segments 1/2 overlap, 590 vs 450 cars, the launch date vs Nov plan.
+
 Proofs v01–v06 (D-158–D-165) and the last student-accepted baseline `poster-references-v04-2026-10-07` (copy v42) are preserved. Git now tracks SVG/PNG, and PDF/DOCX in `poster/` and `08_final/`.
 
 ## Next action
