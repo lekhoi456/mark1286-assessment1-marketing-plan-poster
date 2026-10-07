@@ -10,6 +10,10 @@ Section 10 v02 and its canonical heading are accepted D-147. D-148 revises the g
 
 ![Latest full A0 with header](poster-references-v04-2026-10-07.png)
 
+## Content upgrade proposal — mock marker feedback
+
+D-157: [proposal v01](content-upgrade-proposal-v01-2026-10-07.md) triages the Claude mock marking and lists label-level edits inside existing cells, decisions D1–D7 and Q&A answers. It is a proposal only; copy v42 and all artwork below remain current.
+
 ## Presentation materials
 
 [Full English presentation script: DOCX](presentation-script-v01-2026-10-05.docx) · [Markdown](presentation-script-v01-2026-10-05.md) · [Study guide: DOCX](presentation-study-guide-v01-2026-10-05.docx) · [Markdown](presentation-study-guide-v01-2026-10-05.md) · [Pitch checks](presentation-script-v01-2026-10-05-checks.json) · [Production notes](presentation-script-v01-2026-10-05-notes.md).
