@@ -5,15 +5,14 @@
 *.pptx
 *.doc
 *.docx
+# Poster outputs (renders, A0 PDFs, speaking-material DOCX) are tracked (student request, 7 October 2026).
+!poster/*.pdf
+!poster/*.docx
 *.mp4
 *.zip
 *.jpg
 *.jpeg
 ~$*
-
-# Poster artwork renders are large and stay local in iCloud only.
-*.png
-*.svg
 
 # Local tooling residue
 .DS_Store
