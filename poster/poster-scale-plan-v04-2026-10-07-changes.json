@@ -1,0 +1,644 @@
+{
+ "source": "poster.svg",
+ "base": "proof v03 build",
+ "copy": "10-sections-scale-copy-v46-2026-10-07.md",
+ "changes": [
+  {
+   "from": "Green SM Taxi: app-booked electric taxi rides in Copenhagen",
+   "to": "App-booked electric taxi rides · Denmark = 1st EU market",
+   "width": 211.7
+  },
+  {
+   "from": "Copenhagen residents aged 25–44",
+   "to": "Focus: Copenhagen residents aged 25–44",
+   "width": 152.4
+  },
+  {
+   "from": "Later: visitors · business accounts",
+   "to": null
+  },
+  {
+   "from": "Within the service area",
+   "to": null
+  },
+  {
+   "from": "Recurring trips → repeat rides",
+   "to": null
+  },
+  {
+   "shape": "Section 2 pin icon removed (service area folded into the focus line)"
+  },
+  {
+   "from": "Proposed rider profile",
+   "to": "Rider profile",
+   "width": 43.8
+  },
+  {
+   "shape": "Section 2 four-segment ladder"
+  },
+  {
+   "from": "Price-conscious",
+   "to": "Price-conscious · 57%",
+   "width": 70.2
+  },
+  {
+   "from": "Expects fair treatment",
+   "to": "Green by habit · 41%",
+   "width": 69.8
+  },
+  {
+   "from": "Cleaner · Quieter · More reliable",
+   "to": "For green, fair-fare riders: 100% electric · one company runs app, car + driver",
+   "width": 274.1
+  },
+  {
+   "from": "Company promise",
+   "to": null
+  },
+  {
+   "from": "Taxi partners operate rides",
+   "to": "Partner operators · Uber + Dantaxi 40–50%",
+   "width": 141.9
+  },
+  {
+   "from": "Shared: App booking · Electric options · Similar fares (Dantaxi/Drivr)",
+   "to": "Parity: app booking · electric options · Dantaxi/Drivr fares",
+   "width": 202.7
+  },
+  {
+   "from": "Proposed edge:",
+   "to": "Edge:",
+   "width": 16.6
+  },
+  {
+   "from": "Danish first · English second",
+   "to": "Campaign: Copenhagen, meet Green SM",
+   "width": 126.0
+  },
+  {
+   "from": null,
+   "to": "Danish first: København, mød Green SM",
+   "x": 1402,
+   "y": 385.0,
+   "width": 125.4
+  },
+  {
+   "from": "40–50%",
+   "to": "70–90%",
+   "width": 35.1
+  },
+  {
+   "from": "one app",
+   "to": "0–1 taxi apps",
+   "width": 43.1
+  },
+  {
+   "shape": "Section 5 bar to 70%"
+  },
+  {
+   "shape": "Section 5 range to 90%"
+  },
+  {
+   "from": "Search / social",
+   "to": "Channel plan →",
+   "width": 45.6
+  },
+  {
+   "from": "/ reminders",
+   "to": null
+  },
+  {
+   "from": "Omni Channel · Search / SEO / Social",
+   "to": "Omnichannel: page → app → ride",
+   "width": 108.7
+  },
+  {
+   "from": "/ Content",
+   "to": null
+  },
+  {
+   "from": "Ride + help",
+   "to": null
+  },
+  {
+   "shape": "Section 5 taxi illustration removed (continues into Section 6)"
+  },
+  {
+   "shape": "Section 5 phone-to-taxi arrow removed"
+  },
+  {
+   "shape": "Section 5 channel → KPI table"
+  },
+  {
+   "from": "Post-launch · 400 riders · 1 each",
+   "to": "1 per rider · ≤DKK30",
+   "width": 57.9
+  },
+  {
+   "from": "30-day paid",
+   "to": null
+  },
+  {
+   "from": "30",
+   "to": null
+  },
+  {
+   "shape": "Section 5 pass calendar removed"
+  },
+  {
+   "shape": "Section 5 launch-campaign box"
+  },
+  {
+   "from": "DATA",
+   "to": "LAUNCH CAMPAIGN",
+   "width": 62.2
+  },
+  {
+   "from": "Opt-in",
+   "to": null
+  },
+  {
+   "from": "CDP join → Big Data patterns",
+   "to": "Copenhagen, meet Green SM",
+   "width": 81.7
+  },
+  {
+   "from": "Marketing AI reminders · human review",
+   "to": "city screens · video · social · search",
+   "width": 99.3
+  },
+  {
+   "from": "M1–2 Verify",
+   "to": "M1–3 Test",
+   "width": 28.2
+  },
+  {
+   "from": "M3–6 Test · M4/M6 checks",
+   "to": "M4 / M6 gates",
+   "width": 41.9
+  },
+  {
+   "from": "Search/social → leads",
+   "to": "Campaign · search · social → lead",
+   "width": 111.4
+  },
+  {
+   "from": "· CTR, CPC",
+   "to": null
+  },
+  {
+   "from": "Fare check → prospect",
+   "to": "Fare check → app install",
+   "width": 81.9
+  },
+  {
+   "from": "· app installs",
+   "to": null
+  },
+  {
+   "from": "App booking → completed trip",
+   "to": "Book now or pre-book 30 days",
+   "width": 102.5
+  },
+  {
+   "from": "· conversion",
+   "to": null
+  },
+  {
+   "from": "First-ride voucher",
+   "to": "First-ride offer DKK15/30",
+   "width": 86.9
+  },
+  {
+   "from": "Check app · driver · car · care",
+   "to": "One standard: app · driver · car · care",
+   "width": 128.7
+  },
+  {
+   "from": "Post-ride feedback + rating",
+   "to": "Rating → fix issues",
+   "width": 63.8
+  },
+  {
+   "from": "Unpaid review: well-rated/resolved",
+   "to": "Invite unpaid reviews",
+   "width": 70.7
+  },
+  {
+   "from": "Opt-in reminders + voucher pilots",
+   "to": "Reminders · referral credit",
+   "width": 90.7
+  },
+  {
+   "from": "Tailored monthly paid bundle pilots",
+   "to": "Commuter pass test",
+   "width": 65.8
+  },
+  {
+   "from": null,
+   "to": "Channels: app · B2B via LinkedIn (M4+) · partners (M6+)",
+   "x": 638,
+   "y": 590.5,
+   "width": 158.4
+  },
+  {
+   "from": "Proposed DKK600,000",
+   "to": "Proposed DKK30.0M",
+   "width": 92.6
+  },
+  {
+   "from": "Local delivery first · Search/social drive trial",
+   "to": "Objective-and-task · about 6% of base revenue*",
+   "width": 150.0
+  },
+  {
+   "from": "Team",
+   "to": "Search + app",
+   "width": 48.8
+  },
+  {
+   "from": "Search",
+   "to": "Social",
+   "width": 20.7
+  },
+  {
+   "from": "Social",
+   "to": "Screens/video",
+   "width": 50.8
+  },
+  {
+   "from": "Screens",
+   "to": "Incentives",
+   "width": 37.0
+  },
+  {
+   "from": "Tools",
+   "to": "Team/creative",
+   "width": 51.7
+  },
+  {
+   "from": "Vouchers",
+   "to": "B2B sales",
+   "width": 34.9
+  },
+  {
+   "from": "Contingency",
+   "to": "CRM/research",
+   "width": 52.1
+  },
+  {
+   "from": "276,000 / 46%",
+   "to": "7.0M / 23%",
+   "width": 42.4
+  },
+  {
+   "from": "108,000 / 18%",
+   "to": "6.0M / 20%",
+   "width": 42.3
+  },
+  {
+   "from": "90,000 / 15%",
+   "to": "5.0M / 17%",
+   "width": 42.2
+  },
+  {
+   "from": "43,195 / 7.2%",
+   "to": "4.6M / 15%",
+   "width": 42.5
+  },
+  {
+   "from": "30,000 / 5%",
+   "to": "2.4M / 8%",
+   "width": 37.5
+  },
+  {
+   "from": "12,000 / 2%",
+   "to": "2.0M / 7%",
+   "width": 37.6
+  },
+  {
+   "from": "40,805 / 6.8%",
+   "to": "1.0M / 3%",
+   "width": 36.9
+  },
+  {
+   "from": null,
+   "to": "Contingency",
+   "x": 866,
+   "y": 542,
+   "width": 44.3
+  },
+  {
+   "from": null,
+   "to": "2.0M / 7%",
+   "x": 996,
+   "y": 542,
+   "width": 37.6
+  },
+  {
+   "from": "400 riders",
+   "to": null
+  },
+  {
+   "shape": "bar 443.5"
+  },
+  {
+   "shape": "bar 456.5"
+  },
+  {
+   "shape": "bar 469.5"
+  },
+  {
+   "shape": "bar 482.5"
+  },
+  {
+   "shape": "bar 495.5"
+  },
+  {
+   "shape": "bar 508.5"
+  },
+  {
+   "shape": "bar 521.5"
+  },
+  {
+   "shape": "bar row 8"
+  },
+  {
+   "from": "Unit check: DKK165 CAC repaid in about 2.4 rides",
+   "to": null
+  },
+  {
+   "from": "at an assumed DKK68 contribution per ride",
+   "to": "*Base case, assumed: 450 cars × 15 trips/day × DKK200",
+   "width": 183.1
+  },
+  {
+   "from": "460h × DKK600/h*",
+   "to": "People",
+   "width": 22.0
+  },
+  {
+   "from": "Checks",
+   "to": "Analytics",
+   "width": 28.4
+  },
+  {
+   "from": "60h",
+   "to": "CRM tools",
+   "width": 34.9
+  },
+  {
+   "from": "Creative/",
+   "to": "Creative",
+   "width": 24.7
+  },
+  {
+   "from": "localisation",
+   "to": "+ agency",
+   "width": 25.8
+  },
+  {
+   "from": "120h",
+   "to": null
+  },
+  {
+   "from": "160h",
+   "to": "3 FTE",
+   "width": 18.6
+  },
+  {
+   "from": "CRM/help",
+   "to": "B2B sales",
+   "width": 28.6
+  },
+  {
+   "from": "120h",
+   "to": "2 FTE",
+   "width": 18.9
+  },
+  {
+   "from": "*Planning allowance",
+   "to": null
+  },
+  {
+   "from": "Budget reviews · cumulative commitments",
+   "to": "Budget reviews · cumulative caps",
+   "width": 101.2
+  },
+  {
+   "from": "DKK177,000",
+   "to": "DKK7.5M",
+   "width": 31.8
+  },
+  {
+   "from": "DKK265,000",
+   "to": "DKK13.5M",
+   "width": 37.1
+  },
+  {
+   "from": "Remaining DKK335,000",
+   "to": "DKK16.5M",
+   "width": 30.0
+  },
+  {
+   "from": "M6: 265,000 + 335,000 = 600,000",
+   "to": null
+  },
+  {
+   "from": "Consideration survey:",
+   "to": "Awareness survey:",
+   "width": 55.3
+  },
+  {
+   "from": "+10 pp",
+   "to": "≥50%",
+   "width": 31.2
+  },
+  {
+   "from": "Consideration",
+   "to": "Aided awareness",
+   "width": 46.4
+  },
+  {
+   "from": "1,200",
+   "to": "150,000",
+   "width": 41.5
+  },
+  {
+   "from": "Distinct first paid",
+   "to": "First paid",
+   "width": 25.8
+  },
+  {
+   "from": "riders*",
+   "to": "riders",
+   "width": 16.0
+  },
+  {
+   "from": "2,500",
+   "to": "2.5M",
+   "width": 29.8
+  },
+  {
+   "from": "Paid rides*",
+   "to": "Paid trips",
+   "width": 26.5
+  },
+  {
+   "from": null,
+   "to": "15/car/day average",
+   "x": 1330.2,
+   "y": 484.0,
+   "width": 53.4
+  },
+  {
+   "from": "≤DKK165",
+   "to": "≤DKK100",
+   "width": 49.9
+  },
+  {
+   "from": "Cost / first",
+   "to": "Media CAC per",
+   "width": 42.0
+  },
+  {
+   "from": "paid rider*",
+   "to": "first rider",
+   "width": 27.4
+  },
+  {
+   "from": "*Paid-campaign riders only, not all Green SM trips",
+   "to": "Media CAC = (search + social) / first paid riders",
+   "width": 135.0
+  },
+  {
+   "from": "≥200 first paid riders",
+   "to": "≥25,000 first paid riders",
+   "width": 68.6
+  },
+  {
+   "from": "Both counts cumulative",
+   "to": "Media CAC ≤DKK120",
+   "width": 57.2
+  },
+  {
+   "from": "≥450 first paid riders",
+   "to": "≥55,000 first paid riders",
+   "width": 68.7
+  },
+  {
+   "from": "≤DKK175 paid acquisition",
+   "to": "≥10 trips per car per day",
+   "width": 72.1
+  },
+  {
+   "from": "BRAND UPSIDE",
+   "to": "B2B",
+   "width": 12.3
+  },
+  {
+   "shape": "Section 8 B2B briefcase icon replaces the brand-upside leaf"
+  },
+  {
+   "from": "Organic · referrals ·",
+   "to": "≥100 business",
+   "width": 38.8
+  },
+  {
+   "from": "extra rides",
+   "to": "accounts by M12",
+   "width": 46.9
+  },
+  {
+   "from": "Track separately",
+   "to": null
+  },
+  {
+   "from": "Ads + trips + dispatch/help",
+   "to": "Ads → app → trips → help",
+   "width": 75.1
+  },
+  {
+   "from": "Consented first-party data",
+   "to": "Weather + night triggers",
+   "width": 74.5
+  },
+  {
+   "from": "Big Data + AI",
+   "to": "Consented app data",
+   "width": 63.4
+  },
+  {
+   "from": "Relevant reminders",
+   "to": "Timed offers",
+   "width": 41.0
+  },
+  {
+   "from": "Match time · Fulfilment",
+   "to": "Wait time · fulfilment",
+   "width": 63.2
+  },
+  {
+   "from": "Needs-matched prepaid/monthly",
+   "to": "commuter monthly pass",
+   "width": 66.3
+  },
+  {
+   "from": "Unpriced dispatch/chatbot/subscription: cost separately",
+   "to": "Unpriced pilots: cost separately",
+   "width": 89.3
+  },
+  {
+   "from": "Neuro cue test: calm-ride vs fare-first ads → attention (CTR) · recall (survey)",
+   "to": "Neuro test: calm-ride vs fare-first ads → attention · recall",
+   "width": 167.4
+  },
+  {
+   "from": "Service + 90-day repeat → scale",
+   "to": "Service gates before scale",
+   "width": 78.6
+  },
+  {
+   "from": "Search / social → paid trial",
+   "to": "Copenhagen, meet Green SM",
+   "width": 85.6
+  },
+  {
+   "from": "Screens after service +",
+   "to": "≥50% aided awareness",
+   "width": 67.2
+  },
+  {
+   "from": "90-day repeat checks",
+   "to": null
+  },
+  {
+   "from": "App-booked electric rides",
+   "to": "100% electric app-booked rides",
+   "width": 94.3
+  },
+  {
+   "from": "Retention + contribution",
+   "to": "Repeat + trips per car",
+   "width": 67.1
+  },
+  {
+   "from": "Repeat before expansion",
+   "to": "Scale only through M4/M6 gates",
+   "width": 97.5
+  },
+  {
+   "from": "Consideration · paid trial · service · 90-day repeat · contribution",
+   "to": "awareness · riders · trips/car · repeat · CAC",
+   "width": 127.7
+  },
+  {
+   "from": "Entry investment · first-year break-even not required",
+   "to": "Entry investment: about 6% of base revenue",
+   "width": 128.9
+  },
+  {
+   "shape": "connectors"
+  }
+ ]
+}

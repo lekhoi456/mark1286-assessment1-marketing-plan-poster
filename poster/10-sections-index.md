@@ -10,7 +10,11 @@ Section 10 v02 and its canonical heading are accepted D-147. D-148 revises the g
 
 ![Latest full A0 with header](poster-references-v04-2026-10-07.png)
 
-## Content-upgrade proof v03 — awaiting review (D-160)
+## Scaled-plan proof v04 — awaiting review (D-163)
+
+Rebuild as a proposed DKK30.0M gated market-entry plan: four segments with 25–44 as the focus, campaign *Copenhagen, meet Green SM* with *Go Green / For a Green Future.*, a Section 5 channel plan, new Section 7 bars and caps, new Section 8 targets, and ten cyan dashed arrows linking cells. Back of chart: 21 references. [Front v04 preview](poster-scale-plan-v04-2026-10-07-preview.png) · [Front A0 PDF](poster-scale-plan-v04-2026-10-07.pdf) · [Front SVG](poster-scale-plan-v04-2026-10-07.svg) · [Back preview](poster-scale-plan-v04-2026-10-07-back-preview.png) · [Back A0 PDF](poster-scale-plan-v04-2026-10-07-back.pdf) · [Checks](poster-scale-plan-v04-2026-10-07-checks.json) · [Brief](poster-scale-plan-v04-2026-10-07-prompt.md) · [Copy v46](10-sections-scale-copy-v46-2026-10-07.md) · [Model](scale-plan-v01-2026-10-07-model.py) · [Budget analysis](budget-scale-analysis-v01-2026-10-07.md). Speaking materials: [script v03](presentation-script-v03-2026-10-07.md) ([DOCX](presentation-script-v03-2026-10-07.docx)) · [study guide v03](presentation-study-guide-v03-2026-10-07.md) ([DOCX](presentation-study-guide-v03-2026-10-07.docx)).
+
+## Content-upgrade proof v03 — preserved (D-160)
 
 Visual pass on v02: vector colours harmonised to Cyan #28bdbf / Yellow #e3bb42 (tints, white, one ink; flags/logos unchanged), repeated lines removed in Sections 6 and 10, legible Section 5 search box. [Front v03 preview](poster-content-upgrade-v03-2026-10-07-preview.png) · [Front v03 A0 PDF](poster-content-upgrade-v03-2026-10-07.pdf) · [Front v03 SVG](poster-content-upgrade-v03-2026-10-07.svg) · [v03 checks](poster-content-upgrade-v03-2026-10-07-checks.json) · [v03 brief](poster-content-upgrade-v03-2026-10-07-prompt.md) · [Copy v45](10-sections-current-copy-v45-2026-10-07.md). Back of chart unchanged (v01).
 

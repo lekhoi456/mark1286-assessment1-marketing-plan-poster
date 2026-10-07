@@ -1,0 +1,102 @@
+{
+ "assumptions": {
+  "registered_cars": 590,
+  "avg_active_cars_year1": 450,
+  "trips_per_car_day": {
+   "low": 10,
+   "base": 15,
+   "high": 20
+  },
+  "avg_fare_dkk": 200,
+  "trips_per_active_rider_year": 24,
+  "first_to_active_ratio": 1.5,
+  "dooh_cpm_dkk": 191,
+  "dooh_impressions": 20000000,
+  "adults_copenhagen": 560069,
+  "core_25_44": 269277
+ },
+ "budget_dkk_m": {
+  "Search & app ads": 7.0,
+  "Social": 6.0,
+  "City screens & video": 5.0,
+  "Rider incentives": 4.6,
+  "Team & creative": 2.4,
+  "B2B sales": 2.0,
+  "CRM & research": 1.0,
+  "Contingency": 2.0
+ },
+ "gates_dkk_m": {
+  "M3 test": 4.5,
+  "M4 cumulative cap": 7.5,
+  "M6 cumulative cap": 13.5,
+  "M7-12 scale release": 14.5,
+  "contingency held": 2.0
+ },
+ "kpi": {
+  "first_paid_riders_m12": 150000,
+  "first_paid_riders_m4": 25000,
+  "first_paid_riders_m6": 55000,
+  "paid_trips_year1": 2500000,
+  "trips_per_car_day_m6": 10,
+  "trips_per_car_day_avg_year1": 15,
+  "repeat_90d_m6": 0.35,
+  "repeat_90d_m12": 0.5,
+  "media_cac_cap_m4_m6": 120,
+  "media_cac_cap_m12": 100,
+  "aided_awareness_m12": 0.5,
+  "business_accounts_m12": 100
+ },
+ "budget_total_dkk_m": 30.0,
+ "budget_shares_pct": {
+  "Search & app ads": 23,
+  "Social": 20,
+  "City screens & video": 17,
+  "Rider incentives": 15,
+  "Team & creative": 8,
+  "B2B sales": 7,
+  "CRM & research": 3,
+  "Contingency": 7
+ },
+ "scenarios": {
+  "low": {
+   "trips": 1642500,
+   "revenue_dkk_m": 328.5,
+   "budget_share_of_revenue_pct": 9.1,
+   "old_600k_share_pct": 0.18
+  },
+  "base": {
+   "trips": 2463750,
+   "revenue_dkk_m": 492.8,
+   "budget_share_of_revenue_pct": 6.1,
+   "old_600k_share_pct": 0.12
+  },
+  "high": {
+   "trips": 3285000,
+   "revenue_dkk_m": 657.0,
+   "budget_share_of_revenue_pct": 4.6,
+   "old_600k_share_pct": 0.09
+  }
+ },
+ "checks": {
+  "budget_total_30": true,
+  "shares_sum_100": true,
+  "gates_reconcile": true,
+  "gate_order": true,
+  "trips_target_matches_base": true,
+  "m6_floor_below_plan_average": true,
+  "media_cac_m12_dkk": 86.7,
+  "media_cac_within_cap": true,
+  "all_in_cost_per_first_rider_dkk": 200,
+  "incentive_ceiling_dkk_m": 4.5,
+  "incentive_ceiling_within_line": true,
+  "dooh_cost_dkk_m": 3.82,
+  "dooh_within_brand_line": true,
+  "active_riders_base": 102656,
+  "first_riders_base": 153984,
+  "first_rider_target_matches_base": true,
+  "active_share_of_core_25_44_pct": 38.1,
+  "active_share_of_copenhagen_adults_pct": 18.3,
+  "fleet_capacity_590_at_15_per_day": 3230250
+ },
+ "pass": true
+}

@@ -6,21 +6,20 @@ Date: 7 October 2026. Talk Vietnamese; files English (UK). Formal submission: 14
 
 Last accepted baseline: `poster-references-v04-2026-10-07` with copy v42 (panel acceptances D-136–D-147; header D-156 still awaiting review).
 
-**D-160 proof v03** is the current candidate: [front v03](poster/poster-content-upgrade-v03-2026-10-07-preview.png) = v02 with colours harmonised to Cyan #28bdbf / Yellow #e3bb42 (flags/logos unchanged), repeated lines removed in Sections 6 and 10, and a legible Section 5 search box; [copy v45](poster/10-sections-current-copy-v45-2026-10-07.md). [Three independent examiners](plans/reports/2026-10-07-independent-examiners-content-upgrade-v03/synthesis.md) (brief + handbook + poster only) gave 69, 65 and 71 (mean 68.3); weakest: C3 digital/sales specifics, C2 positioning statement, untraceable survey source, shorthand, media-only CAC.
+**D-163 proof v04** is the current candidate: [front](poster/poster-scale-plan-v04-2026-10-07-preview.png), [back](poster/poster-scale-plan-v04-2026-10-07-back-preview.png), [brief](poster/poster-scale-plan-v04-2026-10-07-prompt.md). It is a proposed DKK30.0M gated plan (caps DKK7.5M at M4, DKK13.5M at M6), with four segments (25–44 focus), the campaign *Copenhagen, meet Green SM* with *Go Green / For a Green Future.*, and ten cyan dashed arrows linking cells. The back carries 21 references. Every figure comes from the [scale-plan model](poster/scale-plan-v01-2026-10-07-model.py). Base-case assumptions shown on the poster: 450 cars × 15 trips/day × DKK200. The M6 floor of ≥10 trips/car/day is a release minimum; the plan average is 15. Checks pass. Lettered words: 712 (v03: 681).
 
-**D-159 proof v02** [front v02](poster/poster-content-upgrade-v02-2026-10-07-preview.png) = v01 without the Member contributions strip (LG-005: lecturer says none is needed); the approved background shows below the car. The student states that hand-drawing quality is not assessed. [Copy v44](poster/10-sections-current-copy-v44-2026-10-07.md).
+[Script v03](poster/presentation-script-v03-2026-10-07.md) and [study guide v03](poster/presentation-study-guide-v03-2026-10-07.md) (with DOCX) match v04: 1,613 words, about 13.4 minutes. They have not been rehearsed.
 
-**D-158 proof v01** applied the D-157 triage ([proposal](poster/content-upgrade-proposal-v01-2026-10-07.md), [back preview](poster/poster-content-upgrade-v01-2026-10-07-back-preview.png)). Voucher test is now DKK15 vs DKK30 within the unchanged DKK12,000 reserve. References move to the back (19 sources, adding KFST 2026a and Green SM Denmark ApS no date a). Cloud previews lack the external car/harbour background; the SVG keeps its links.
+Earlier proofs v01–v03 (D-158–D-160) are preserved. Independent examiners scored v03 at a mean of 68.3.
 
-[Script v02](poster/presentation-script-v02-2026-10-07.md) and [study guide v02](poster/presentation-study-guide-v02-2026-10-07.md) (with DOCX) match proof v01 content; no rehearsal. E-213 records fare parity (re-read KFST p.49 locally). `presentcheck.py` was unavailable in the cloud session; no copy check is claimed.
-
-SVG/PNG/PDF/DOCX are git-ignored; this cloud session sent them to the student directly. Copy them into the local `poster/` folder.
+SVG/PNG/PDF/DOCX are git-ignored; the cloud session sent them directly, so copy them into the local `poster/` folder.
 
 ## Next action
 
-1. Student decides on the [budget scale analysis](poster/budget-scale-analysis-v01-2026-10-07.md) (D-162: DKK600,000 vs ≈DKK30M gated, four segments, city-wide campaign, connected cells); content plan v02's campaign is withdrawn. Then rewrite content, render v04 and re-run the examiners.
-2. Native Danish check: Elektrisk taxa. Tjek prisen. Book i appen.
-3. Locally: render v03 with the real background (check colours and the area below the car), run `presentcheck.py`, check the cloud's Chalkboard SE fit and actual-size legibility.
-4. After acceptance: print front and back for the hand-drawn copy.
+1. Student reviews proof v04 (numbers, segments, campaign, arrows, text density); optional cuts listed in the session reply.
+2. Optionally re-run the three independent examiners on v04.
+3. Native Danish check: København, mød Green SM; Elektrisk taxa. Tjek prisen. Book i appen.
+4. Locally: render v04 with the real background (arrows over the art, area below the car), run `presentcheck.py`, check the cloud's Chalkboard SE fit, actual-size legibility, and re-read KFST p.49 (E-213).
+5. After acceptance: print front and back for the hand-drawn copy.
 
 Whole-poster/group/print acceptance and submission remain separate; do not infer approval or submit.
