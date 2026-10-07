@@ -1,16 +1,16 @@
 # Draft review checklist
 
-Copy into the relevant version review under `07_drafts/reviews/`; tick only after observing the evidence. Source requirements: brief, rubric Part A, requirements matrix. Rubric Part B is an operational interpretation, not an official band grid.
+Use for an explicit complete-draft review or final assembly. For a panel edit, use only relevant checks and report them briefly; do not create a duplicate checklist/report (D-078). Tick only after observing the evidence. Source requirements: brief, rubric Part A, requirements matrix. Rubric Part B is an operational interpretation, not an official band grid.
 
 ## Inputs and mechanical checks
 
 - [ ] Correct business, offer, country, period and group-approved plan used; no decision assumed from silence.
-- [ ] Poster contains all eleven exact element headings and all three names/numbers.
+- [ ] All eleven required elements are identifiable through approved display headings plus the identity cloud; all three names/numbers are exact.
 - [ ] Panel budgets established and counted; no imported diary word limit.
 - [ ] Budget lines reconcile to total and 100%; shares correspond to amounts; currency and period explicit.
 - [ ] Every budget basis resolves to a source or explicitly approved assumption; cost × quantity calculations checked.
 - [ ] KPI table links objective, meaningful target, tracking tool and review rhythm; units/periods/baselines handled accurately.
-- [ ] Reference registry/build/check-draft run on the actual version; every cited work has a readable verified PDF.
+- [ ] Internal source/citation mappings checked against the registry; every cited work has a readable verified PDF. Poster face remains citation-free under D-055; changed sources trigger targeted verification.
 - [ ] Claim-level PDF passages and locators manually checked; projections, assumptions and results distinguished.
 - [ ] Concept register/list checked; outside concepts flagged and PDF-backed; interpretation not passed off as quotation.
 - [ ] Presentation gate and anti-slop detector ran; findings resolved or narrow genre exceptions recorded with reasons.

@@ -1393,3 +1393,36 @@ Use: the brief asks about "long-term sustainability and growth potential"; the m
 Definition: not given in module.
 Primary work named on slide: none (s9); Zahay et al., (2022) (`w05-lecture` s4) — unverified lead.
 Outside: no.
+
+
+## Outside concepts added for the current poster
+
+### `marketing-mix-4ps` — Marketing mix and the 4Ps
+
+> known as the 4Ps: product, price, place, and promotion (see Figure 1.4). Let’s look more closely.
+— `openstax-2023` p. 1
+
+Panels: Digital Marketing Tactics.
+Use: organise the Copenhagen offer as app-booked electric taxi service (product), a capped first-trip offer and clear fare terms (price), verified service coverage and app access (place), and the planned search, social and outdoor mix (promotion). The framework structures decisions; it does not validate the proposed mix.
+Outside: yes.
+
+### `customer-data-platform` — Customer Data Platform (CDP)
+
+> Customer Data Platform is defined by the CDP Institute, as of 2026, as “software that
+> creates and maintains a persistent, unified customer record that is accessible to
+> other systems. The CDP assumes primary responsibility for defining and maintaining
+— `customer-data-platform-institute-nd` p. 1
+
+Panels: Digital Marketing Tactics; Creativity and Innovation.
+Use: use consented first-party app, trip, offer and service signals to inform segments and next messages only after privacy, data quality, access and system readiness are checked. CDP is a proposed capability, not a claim that Green SM currently operates one.
+Outside: yes.
+
+### `ride-hailing-dispatch-rl` — Reinforcement learning for ride-hailing task allocation
+
+> We propose a special decomposition for the MDP actions by
+> sequentially assigning tasks to the drivers.
+— `feng-et-al-2020` p. 1
+
+Panels: Creativity and Innovation.
+Use: a research-backed concept for a separately costed dispatch pilot that tests driver-task assignment against a local baseline. The cited numerical experiment uses Didi data; it does not prove faster booking-to-driver matching, Copenhagen results or Green SM readiness.
+Outside: yes.

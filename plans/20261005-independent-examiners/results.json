@@ -1,0 +1,58 @@
+{
+  "criteria": [
+    "Company Background and Country Context",
+    "Target Market, Segmentation & Branding",
+    "Digital Marketing & Sales Strategies",
+    "Budget & Resource Allocation",
+    "KPIs & Success Metrics",
+    "Creativity & Emerging Concepts",
+    "Visual Appeal & Presentation Quality"
+  ],
+  "maxima": [
+    10,
+    15,
+    20,
+    15,
+    10,
+    10,
+    20
+  ],
+  "scores": [
+    [
+      8,
+      12,
+      15.5,
+      11,
+      7.5,
+      8,
+      14
+    ],
+    [
+      9,
+      12,
+      16,
+      12,
+      8,
+      7,
+      14
+    ],
+    [
+      8.5,
+      11,
+      14.5,
+      11,
+      8,
+      7.5,
+      14
+    ]
+  ],
+  "totals": [
+    76.0,
+    78,
+    74.5
+  ],
+  "mean": 76.16666666666667,
+  "confidence": "moderate",
+  "scope": "poster only",
+  "input_hashes_unchanged": true
+}

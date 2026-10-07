@@ -36,6 +36,17 @@
               "limits": "Existing advertised feature, not a tested fulfilment guarantee or newly invented group proposal.",
               "quote_verified": true,
               "evidence_id": "E-016"
+            },
+            {
+              "id": "DK-BOOK",
+              "claim": "The Danish product page advertises booking through the Green SM App and instructs riders to open the app.",
+              "type": "company-claim",
+              "page": 1,
+              "quote": "Hassle-free booking and exciting promos await - only with the Green SM App!",
+              "scope": "Denmark product page; Comet snapshot accessed 27 September 2026, locally inspected 3 October 2026.",
+              "limits": "Advertised app instructions, not a tested booking, capacity proof or evidenced website checkout. Supporting step-one instruction is on PDF p.2.",
+              "quote_verified": true,
+              "evidence_id": "E-188"
             }
           ]
         },

@@ -160,3 +160,8 @@ alignment with objectives
 Aligning marketing with business goals and objectives
 long term sustainable growth
 Long-term sustainability and growth
+marketing mix 4ps
+Marketing mix and the 4Ps
+customer data platform
+ride hailing dispatch rl
+Reinforcement learning for ride-hailing task allocation

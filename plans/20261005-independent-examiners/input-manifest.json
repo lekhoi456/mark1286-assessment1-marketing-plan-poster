@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-05",
+  "poster_version": "poster-references-v02-2026-10-05",
+  "packet": "/tmp/mark1286-independent-examination-20261005",
+  "agent_context": "fork_turns none; identical requests; only brief, official rubric and poster; no conversation, internal checklist, memory or examiner reports supplied",
+  "files": {
+    "assignment-brief.txt": "cfaea28b826db94aa5e6754566b5883cbdacf983563ded0724af40d10200d140",
+    "official-rubric.txt": "9ff5b8c0cd28d25f01d42c25251933ae04321946731ee7ad2439f6e476fd323b",
+    "poster.pdf": "049c93988cc17c5a1eaa9e1f3444a09ebb886ff8517bef14590e558b41c93e1b",
+    "poster.png": "0bd5fb4f114b76dbaf759d1ecb1a335901f89bf6a116d17e93bf712095d0a179"
+  }
+}

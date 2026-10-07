@@ -2,6 +2,10 @@
 
 Prepared 28 September 2026. Research baseline, not poster copy or an approved strategy. Company footprint is **eight markets as at 26 September 2026, including the Netherlands pilot** (D-024); country, segment, position, budget and targets remain for group approval. Supports C1 and the current-practice baseline for C3–C6 without selecting a market.
 
+> Current correction, 3 October 2026 — D-064: remove United States from the poster's established launch/pilot country row. The student supplies the dated Znews expansion-plan report (E-202) and states no official US launch. E-197–E-198 still verify a US-facing website/operator/promotional offer, not operating-service status; the earlier nine-presence display addition is superseded. Use eight established launch/pilot countries with Netherlands qualified. Vingroup backing/foundation callout E-199 remains selected.
+
+> Historical display update, superseded by D-064 — D-061 (3 October 2026): the current poster country-presence row now includes the United States. Official US homepage/car pages identify Green Future USA Inc., a California address, US-localised service/app invitations and booking instructions (E-197–E-198; registered keys green-future-usa-inc-ndb / green-future-usa-inc-nda). Nine displayed market presences includes the separately qualified Dutch pilot. This does not establish nine completed commercial launches or a precise US launch date. The eight-market September baseline and Reuters expansion-intention record below remain historical evidence.
+
 ## 1. Evidence contract
 
 - Root PDFs and bibliography are controlled by `04_references/references.json`; selected quotations, local claim IDs and E IDs by `02_research/business-selection/market-source-index.json` and `02_research/evidence-log.md`. **Integration is complete:** the 12 selected Comet captures and one Electrek article are among 97 registered candidates; their 34 company quotations are indexed. Old `comet-` labels below preserve acquisition provenance and resolve through §1.1, not temporary files.

@@ -4,7 +4,9 @@ Authority: `../AGENTS.md`, source brief/rubric, and append-only decisions. Reuse
 
 ## 1. Session and phase protocol
 
-Start with HANDOFF, decision log, open questions and the current master-plan phase. State the phase purpose, available inputs, outputs and group decisions before substantive work. Do not silently move from setup into selection or drafting. At session end update HANDOFF, plan status, decisions, questions and any requirement statuses supported by completed work.
+Read HANDOFF once at session start, then the requested panel/file. Search specific decisions, questions or evidence only when relevant; do not load the full control bundle. Follow the lightweight routine in `../AGENTS.md` (D-078). Update HANDOFF when state changes, append actual new decisions, and update plan/requirements/questions only when their subject changes. This document is a reference, not a checklist to run on every prompt.
+
+Scope checks to the change: inspect altered artwork; check changed wording and supporting claims; recalculate changed figures. Use the complete review checklist for an explicit full review or final assembly. Preserve earlier validation of unchanged inputs without describing it as a new run. No automatic full-registry verification, concept-register audit, independent review or extra report for a local edit.
 
 Source precedence: current assessment documents plus documented local lecturer instructions. Preserve conflicting original wording and explain which instruction controls. Group choices are not lecturer permission. Agent operational tests are not official rubric descriptors.
 
@@ -54,9 +56,9 @@ Use actual filenames, not the symbolic example. Inspect title, authors, year, lo
 
 ### Poster copy
 
-Use the exact eleven headings in `00_brief_and_criteria/poster-headings.txt` as H2 headings, in brief order for the working Markdown. Layout order can be decided later without renaming required elements. Each panel has one `<!-- budget: N -->` comment. Budgets are internal readability limits, not an official assessment word limit. Count heading words as well as panel text; all budgets are established in P5, not invented at setup.
+For complete internal Markdown checks, map all eleven elements to the canonical headings in `00_brief_and_criteria/poster-headings.txt`. The poster face uses the approved numbered display headings plus identity cloud (D-036–D-037, D-056, D-077), not eleven compulsory verbatim headings. Each checked panel has one `<!-- budget: N -->` comment. Budgets are internal readability limits, not an official assessment word limit. Check the changed panel rather than rebuilding the full draft for a local edit.
 
-Use evidence comments such as `<!-- E-001 -->` and visible Harvard citations. Include all three identities and the confirmed contribution statement. The References section follows the panels and comes from the registry.
+Retain evidence comments such as `<!-- E-001 -->` and Harvard/source mappings internally. No visible citations or source footers on the poster face (D-055/LG-004). Preserve the exact approved identity cloud; contribution records must be truthful, with final contribution/reference packaging resolved at finalisation. Generate any reference list from the registry.
 
 Style (D-022): each panel names the module concept it applies and shows it working for Green SM in the focus market; a concept is never a bare label. Use short, complete statements wherever a claim, a reason or a causal link is made, and bullet fragments only for genuine lists (channels, KPIs, budget lines). The UK moderator may see only the poster, so the argument must be readable without the pitch. Do not copy the Tesla mini-case's structure; the eleven brief headings and the rubric govern.
 
@@ -142,9 +144,9 @@ At P8 reviewers inspect the actual rendered poster/export as well as copy. If on
 
 ## 9. Versioning, finalisation and submission
 
-Draft names: `poster-vNN-YYYY-MM-DD.md`, `pitch-vNN-YYYY-MM-DD.md`, `qa-vNN-YYYY-MM-DD.md`. Reviews: `07_drafts/reviews/<artefact>-vNN-review.md`. Design sources/proofs: `07_drafts/design/`. Final approved package: `08_final/`.
+New working versions belong in `poster/`, using descriptive panel/version names. Never edit historical content through a shortcut. Existing drafts, renderers and their inputs are preserved in `archive/`; `07_drafts` is a compatibility symlink. Keep a renderer with the relative inputs it needs. Save a separate report only when a substantial review needs one; routine check results can be reported in chat. Final approved package: `08_final/`.
 
-Use checklists before reviews and submission. All three members upload the same approved poster independently; retain all three receipts and inspect the submitted preview. Agent does not send lecturer messages, submit work, claim permissions, or record contribution completion without instruction/evidence.
+Use the full checklist for complete-artefact reviews and submission, not every panel adjustment. All three members upload the same approved poster independently; retain all three receipts and inspect the submitted preview. Agent does not send lecturer messages, submit work, claim permissions, or record contribution completion without instruction/evidence.
 
 ## 10. What tools do not prove
 

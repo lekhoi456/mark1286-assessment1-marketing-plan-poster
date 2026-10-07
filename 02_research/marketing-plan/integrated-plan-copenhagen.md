@@ -1,6 +1,6 @@
 # Integrated marketing plan: Green SM in Copenhagen — v01, approved (D-033)
 
-Prepared 28 September 2026. **Status: approved by the group on 28 September 2026 (D-033), as relayed by the student; approvals A1–A9 in §13 accepted as proposed.** Earlier decisions: Copenhagen, app-booked electric taxi rides (D-031); segment S1, positioning P1, DKK600,000 over 12 months with a market-entry objective (D-032). Targets and funnel rates remain planning assumptions. This is plan content, not poster copy: P5 compresses it into the eleven panels.
+Prepared 28 September 2026. **Status: approved by the group on 28 September 2026 (D-033), as relayed by the student; approvals A1–A9 in §13 accepted as proposed.** Earlier decisions: Copenhagen, app-booked electric taxi rides (D-031); segment S1, positioning P1, DKK600,000 over 12 months with a market-entry objective (D-032). Targets and funnel rates remain planning assumptions. **Age-scope amendment, 3 October 2026 (D-043):** the student approved ages **25–44** within S1; this supersedes the earlier 18+/no-age-cut-off proposal below. Budget/KPI values are unchanged, and the funnel has not been revalidated for the narrower range. This is plan content, not poster copy: P5 compresses it into the eleven panels.
 
 **Conventions.** E-numbers point to `02_research/evidence-log.md`; each has a saved, verified PDF and a page. Backticked IDs are module concepts in `03_course_materials/concept-register.md`, quoted there with slide locators. **F** = sourced fact; **P** = proposal; **A** = assumption; **U** = unknown that the plan must not hide. Money is DKK, excluding VAT, for M1–M12 (start date not yet set).
 
@@ -247,3 +247,9 @@ Concepts: `alignment-with-objectives` (w06-lecture s7), `long-term-sustainable-g
 - Whether S1 residents value clarity and help enough to switch: tested in M1–M2 and at Gate A, not assumed.
 
 Next step after approval: P5 poster blueprint — map §2–§12 to the eleven panels with word budgets and the visuals (budget pie, staged-release bar, journey diagram, KPI table).
+
+## Age-scope amendment — 3 October 2026, D-043
+
+Following the lecturer's age-segmentation guidance reported by the student (D-042/LG-003), the student approved **25–44** as the priority age range within S1. The current target is Copenhagen residents aged 25–44 in the usable service area, already taking recurring local taxi trips and paying personally. This replaces the earlier broad 18+ planning boundary while preserving the payer/occasion/geography focus.
+
+The age choice is a group-approved planning scope; source-backed city population and qualitative booking-channel evidence do not establish that it is the best-performing or most profitable age group. No occupation/income/household restriction or secondary campaign is adopted. Review reach and funnel assumptions before treating earlier model values as validated for this refined scope. Full poster wording and infographic remain under sequential review.
