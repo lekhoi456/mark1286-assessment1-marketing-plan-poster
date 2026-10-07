@@ -1,0 +1,31 @@
+{
+ "v05_checks_pass": true,
+ "v06_equals_v05_with_line_dropped": true,
+ "group_proposals_line_absent": true,
+ "cloud_lines": [
+  "Green SM | Copenhagen",
+  "Market-Entry Plan",
+  "MARK1286 | Assessment 1",
+  "001545326 - Nguyen Phi Giao",
+  "001545344 - Le Quoc Khoi",
+  "001545423 - Nguyen Ho Khanh Vy",
+  "Lecturer: Dr Luu Tien Thuan"
+ ],
+ "cloud_baselines": [
+  40.0,
+  52.5,
+  65.0,
+  77.5,
+  90.0,
+  102.5,
+  115.0
+ ],
+ "pass": true,
+ "not_checked_here": [
+  "car/harbour background PNGs are external and absent from the cloud session; previews omit them",
+  "Chalkboard SE rendering of the cloud text (macOS font) — verify locally",
+  "mba-presentation-style presentcheck.py on changed copy — run locally",
+  "native Danish check: København, mød Green SM; Elektrisk taxa. Tjek prisen. Book i appen.",
+  "actual-size print legibility"
+ ]
+}

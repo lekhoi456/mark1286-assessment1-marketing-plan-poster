@@ -965,3 +965,7 @@ The student chooses: (1) scale the budget to about DKK30M with gates; (2) show f
 ### D-164 — Remove the connecting arrows (2026-10-07, the student)
 
 The student finds the cyan dashed arrows linking cells (D-163 item 4) useless and cluttered and asks for them to be removed. Proof v05 is proof v04 without the connected-cells group; all other artwork, copy and figures are unchanged, and the back of chart stays v04. Script and study guide v04 drop the arrow cues. This reverses only D-163 item 4; no acceptance is inferred.
+
+### D-165 — Remove the cloud line on group proposals (2026-10-07, the student)
+
+The student asks to remove *All targets and pilots are group proposals* from the identity cloud. Proof v06 is proof v05 without that line; the other seven cloud lines move down 2 units to stay centred. The spoken script still says that figures are proposed targets or labelled assumptions. No other change; no acceptance is inferred.

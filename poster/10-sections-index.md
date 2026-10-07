@@ -10,7 +10,11 @@ Section 10 v02 and its canonical heading are accepted D-147. D-148 revises the g
 
 ![Latest full A0 with header](poster-references-v04-2026-10-07.png)
 
-## Scaled-plan proof v05 — awaiting review (D-164)
+## Scaled-plan proof v06 — awaiting review (D-165)
+
+Proof v05 without the cloud line *All targets and pilots are group proposals*; everything else is unchanged and the back stays v04. [Front v06 preview](poster-scale-plan-v06-2026-10-07-preview.png) · [Front A0 PDF](poster-scale-plan-v06-2026-10-07.pdf) · [Front SVG](poster-scale-plan-v06-2026-10-07.svg) · [Checks](poster-scale-plan-v06-2026-10-07-checks.json) · [Brief](poster-scale-plan-v06-2026-10-07-prompt.md). Speaking materials: script and study guide v04 (unchanged).
+
+## Scaled-plan proof v05 — preserved (D-164)
 
 Proof v04 without the ten connecting arrows (student: useless and cluttered); everything else is unchanged and the back stays v04. [Front v05 preview](poster-scale-plan-v05-2026-10-07-preview.png) · [Front A0 PDF](poster-scale-plan-v05-2026-10-07.pdf) · [Front SVG](poster-scale-plan-v05-2026-10-07.svg) · [Back preview](poster-scale-plan-v04-2026-10-07-back-preview.png) · [Back A0 PDF](poster-scale-plan-v04-2026-10-07-back.pdf) · [Checks](poster-scale-plan-v05-2026-10-07-checks.json) · [Brief](poster-scale-plan-v05-2026-10-07-prompt.md). Speaking materials: [script v04](presentation-script-v04-2026-10-07.md) ([DOCX](presentation-script-v04-2026-10-07.docx)) · [study guide v04](presentation-study-guide-v04-2026-10-07.md) ([DOCX](presentation-study-guide-v04-2026-10-07.docx)).
 
