@@ -13,4 +13,4 @@ Open **[poster/](poster/README.md)** for the working files and **[HANDOFF.md](HA
 | `08_final/` | Final submission files when approved |
 | `09_feedback/` | Lecturer feedback |
 
-`07_drafts` is a compatibility shortcut to `archive/`; existing links and renderer paths remain available. Default `rg` searches exclude reference/history stores via `.ignore`. Search an explicit folder when evidence is needed. Git ignore rules are unchanged.
+`07_drafts` is a compatibility shortcut to `archive/`; existing links and renderer paths remain available. Default `rg` searches exclude reference/history stores via `.ignore`. Search an explicit folder when evidence is needed. Git tracks SVG/PNG everywhere and PDF/DOCX only in `poster/` and `08_final/`; source PDFs and course documents stay local.

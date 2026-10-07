@@ -969,3 +969,7 @@ The student finds the cyan dashed arrows linking cells (D-163 item 4) useless an
 ### D-165 — Remove the cloud line on group proposals (2026-10-07, the student)
 
 The student asks to remove *All targets and pilots are group proposals* from the identity cloud. Proof v06 is proof v05 without that line; the other seven cloud lines move down 2 units to stay centred. The spoken script still says that figures are proposed targets or labelled assumptions. No other change; no acceptance is inferred.
+
+### D-166 — Final version; remaining decisions delegated (2026-10-07, the student)
+
+The student wants one final version rather than further rounds and delegates the remaining decisions to Claude. Claude's decisions, applied in poster v07 with [scale-plan model v02](../poster/scale-plan-v02-2026-10-07-model.py): the 2.5M trips target is the M12 annualised run-rate (a cohort model gives about 1.16M trips in year one and a 2.62M pace at M12); the 6% budget logic refers to run-rate revenue (13% of modelled year-one revenue, stated in the script); the M6 floor becomes ≥2,500 paid trips a day; DKK1.0M moves from Social to Team & creative (media CAC DKK80); regular riders are half of first paid riders at 2.7 trips a month (assumptions). No text cuts. Final package in `08_final/`; script and study guide v05. Group acceptance, the hand-drawn copy, printing and submission remain separate.

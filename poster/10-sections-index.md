@@ -10,7 +10,11 @@ Section 10 v02 and its canonical heading are accepted D-147. D-148 revises the g
 
 ![Latest full A0 with header](poster-references-v04-2026-10-07.png)
 
-## Scaled-plan proof v06 — awaiting review (D-165)
+## Final poster v07 (D-166)
+
+The final version requested by the student, with the remaining decisions delegated to Claude: proof v06 plus the number corrections from [model v02](scale-plan-v02-2026-10-07-model.py) (2.5M trips = M12 run-rate; 6% of run-rate revenue; M6 floor ≥2,500 paid trips a day; Social 5.0M, Team/creative 3.4M). [Front preview](poster-scale-plan-v07-2026-10-07-preview.png) · [Front + back A0 PDF](poster-final-2026-10-07-front-and-back.pdf) · [Front SVG](poster-scale-plan-v07-2026-10-07.svg) · [Checks](poster-scale-plan-v07-2026-10-07-checks.json) · [Brief](poster-scale-plan-v07-2026-10-07-prompt.md) · [Copy v47](10-sections-scale-copy-v47-2026-10-07.md) · [Script v05](presentation-script-v05-2026-10-07.md) ([DOCX](presentation-script-v05-2026-10-07.docx)) · [Study guide v05](presentation-study-guide-v05-2026-10-07.md) ([DOCX](presentation-study-guide-v05-2026-10-07.docx)) · Package: [08_final](../08_final/README.md). Group acceptance, printing and submission remain separate.
+
+## Scaled-plan proof v06 — preserved (D-165)
 
 Proof v05 without the cloud line *All targets and pilots are group proposals*; everything else is unchanged and the back stays v04. [Front v06 preview](poster-scale-plan-v06-2026-10-07-preview.png) · [Front A0 PDF](poster-scale-plan-v06-2026-10-07.pdf) · [Front SVG](poster-scale-plan-v06-2026-10-07.svg) · [Checks](poster-scale-plan-v06-2026-10-07-checks.json) · [Brief](poster-scale-plan-v06-2026-10-07-prompt.md). Speaking materials: script and study guide v04 (unchanged).
 

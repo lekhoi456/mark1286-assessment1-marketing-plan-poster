@@ -1,0 +1,126 @@
+{
+ "assumptions": {
+  "registered_cars": 590,
+  "cars_in_service_run_rate": 450,
+  "trips_per_car_day": {
+   "low": 10,
+   "base": 15,
+   "high": 20
+  },
+  "avg_fare_dkk": 200,
+  "regular_share_of_first_riders": 0.5,
+  "trips_per_regular_rider_month": 2.7,
+  "first_ride_offer_dkk": [
+   15,
+   30
+  ],
+  "dooh_cpm_dkk": 191,
+  "dooh_impressions": 20000000,
+  "adults_copenhagen": 560069,
+  "core_25_44": 269277,
+  "days_per_month": 30.416666666666668
+ },
+ "budget_dkk_m": {
+  "Search & app ads": 7.0,
+  "Social": 5.0,
+  "City screens & video": 5.0,
+  "Rider incentives": 4.6,
+  "Team & creative": 3.4,
+  "B2B sales": 2.0,
+  "CRM & research": 1.0,
+  "Contingency": 2.0
+ },
+ "gates_dkk_m": {
+  "M3 test": 4.5,
+  "M4 cumulative cap": 7.5,
+  "M6 cumulative cap": 13.5,
+  "M7-12 scale release": 14.5,
+  "contingency held": 2.0
+ },
+ "kpi": {
+  "first_paid_riders_m12": 150000,
+  "first_paid_riders_m4": 25000,
+  "first_paid_riders_m6": 55000,
+  "paid_trips_run_rate_m12": 2500000,
+  "paid_trips_per_day_m6_floor": 2500,
+  "repeat_90d_m6": 0.35,
+  "repeat_90d_m12": 0.5,
+  "media_cac_cap_m4_m6": 120,
+  "media_cac_cap_m12": 100,
+  "aided_awareness_m12": 0.5,
+  "business_accounts_m12": 100
+ },
+ "budget_total_dkk_m": 30.0,
+ "budget_shares_pct": {
+  "Search & app ads": 23,
+  "Social": 17,
+  "City screens & video": 17,
+  "Rider incentives": 15,
+  "Team & creative": 11,
+  "B2B sales": 7,
+  "CRM & research": 3,
+  "Contingency": 7
+ },
+ "scenarios": {
+  "low": {
+   "run_rate_trips": 1642500,
+   "run_rate_revenue_dkk_m": 328.5,
+   "budget_share_of_run_rate_revenue_pct": 9.1
+  },
+  "base": {
+   "run_rate_trips": 2463750,
+   "run_rate_revenue_dkk_m": 492.8,
+   "budget_share_of_run_rate_revenue_pct": 6.1
+  },
+  "high": {
+   "run_rate_trips": 3285000,
+   "run_rate_revenue_dkk_m": 657.0,
+   "budget_share_of_run_rate_revenue_pct": 4.6
+  }
+ },
+ "cohort_first_riders_by_month": [
+  6250,
+  6250,
+  6250,
+  6250,
+  15000,
+  15000,
+  15833,
+  15833,
+  15833,
+  15833,
+  15833,
+  15833
+ ],
+ "checks": {
+  "budget_total_30": true,
+  "shares_sum_100": true,
+  "gates_reconcile": true,
+  "gate_order": true,
+  "run_rate_target_matches_base_case": true,
+  "cohort_run_rate_m12": 2620000,
+  "cohort_run_rate_supports_target": true,
+  "cohort_trips_per_day_m12": 7178,
+  "cohort_trips_per_car_day_m12_at_450": 16.0,
+  "cohort_trips_per_day_m6": 2934,
+  "m6_floor_below_cohort_path": true,
+  "year_one_trips_plan_riders": 1155750,
+  "year_one_revenue_dkk_m": 231.2,
+  "budget_share_of_year_one_revenue_pct": 13.0,
+  "budget_share_of_run_rate_revenue_pct": 6.1,
+  "regular_riders_m12": 75000,
+  "regular_share_of_25_44_pct": 27.9,
+  "regular_share_of_copenhagen_adults_pct": 13.4,
+  "regular_share_within_repeat_target": true,
+  "media_cac_m12_dkk": 80.0,
+  "media_cac_within_cap": true,
+  "all_in_cost_per_first_rider_dkk": 200,
+  "incentive_ceiling_dkk_m": 4.5,
+  "incentive_ceiling_within_line": true,
+  "incentive_expected_dkk_m": 3.375,
+  "referral_headroom_at_expected_dkk_m": 1.225,
+  "dooh_cost_dkk_m": 3.82,
+  "dooh_within_screens_line": true
+ },
+ "pass": true
+}

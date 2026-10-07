@@ -8,6 +8,8 @@
 # Poster outputs (renders, A0 PDFs, speaking-material DOCX) are tracked (student request, 7 October 2026).
 !poster/*.pdf
 !poster/*.docx
+!08_final/*.pdf
+!08_final/*.docx
 *.mp4
 *.zip
 *.jpg
