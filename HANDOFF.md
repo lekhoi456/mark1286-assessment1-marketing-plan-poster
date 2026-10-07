@@ -4,19 +4,19 @@ Date: 7 October 2026. Talk Vietnamese; files English (UK). Formal submission: 14
 
 ## Current checkpoint
 
-Accepted panel bodies/art: 1 D-141; 2 D-142; 3 D-143; 4 D-145; 5 D-137; 6 D-136; 7 D-138; 8 D-139; 9 D-140; 10 and its canonical heading D-147. D-146 requests exact assignment headings; other heading fits remain available for review.
+Last accepted baseline: `poster-references-v04-2026-10-07` with copy v42 (panel acceptances D-136–D-147; header D-156 still awaiting review).
 
-[Latest full A0](poster/poster-references-v04-2026-10-07.png) puts **12‑Month Marketing Plan for Electric Taxi Launch** above **[Denmark flag] Copenhagen, meet [Green SM logo]** (D-156). The revised header proof still awaits student review.
+**D-158 content-upgrade proof v01** applies the D-157 triage of the Claude mock marking ([proposal](poster/content-upgrade-proposal-v01-2026-10-07.md)). [Front preview](poster/poster-content-upgrade-v01-2026-10-07-preview.png), [back preview](poster/poster-content-upgrade-v01-2026-10-07-back-preview.png), [copy v43](poster/10-sections-current-copy-v43-2026-10-07.md), [brief](poster/poster-content-upgrade-v01-2026-10-07-prompt.md). Label-level edits sit inside the ten existing cells; lettering reuses the approved glyph outlines (`poster/glyph-reuse-lettering.py`); 244 unchanged strings are byte-identical and checks pass. Voucher test is now DKK15 vs DKK30 within the unchanged DKK12,000 reserve. References move to the back (19 sources, adding KFST 2026a and Green SM Denmark ApS no date a). The footer band holds a Member contributions strip with pending slots. Cloud previews lack the external car/harbour background; the SVG keeps its links.
 
-**D-157 content upgrade.** The Claude mock marker feedback was re-analysed. [Proposal v01](poster/content-upgrade-proposal-v01-2026-10-07.md) records marker reading errors, rejected fixes with reasons, about fifteen label-level edits inside existing cells (Tier 1/Tier 2), decisions D1–D7 and Q&A answers. It also flags two gaps the feedback missed: the DKK30 cap compresses the 20% voucher arm, and the consideration survey is not costed. E-213 (fare parity with Dantaxi/Drivr) was added from Denmark pack DK-32; re-read KFST p.49 locally. Nothing is accepted; copy v42 and all artwork are unchanged. `presentcheck.py` was unavailable in the cloud session, so no copy check is claimed.
+[Script v02](poster/presentation-script-v02-2026-10-07.md) and [study guide v02](poster/presentation-study-guide-v02-2026-10-07.md) (with DOCX) follow the new content: about 14:03 by the v01 word-count convention, 13:02 excluding citations; no rehearsal. E-213 records fare parity (re-read KFST p.49 locally). `presentcheck.py` was unavailable in the cloud session; no copy check is claimed.
 
-[Index](poster/10-sections-index.md) links current exports, copy v42, header/footer close-ups and presentation materials. D-153's saved v02 bundle and the [hand-drawn style proposal](poster/hand-drawn-style-review-2026-10-05.md) are unchanged. Presentation script/study guide and the illustrations-only variant (D-155) are unchanged; no rehearsal, speaking allocation or contribution is recorded.
+SVG/PNG/PDF/DOCX are git-ignored; this cloud session sent them to the student directly. Copy them into the local `poster/` folder.
 
 ## Next action
 
-1. Student/group decide D1–D7 and confirm member contributions (U-02, required by the brief).
-2. Native Danish check for U-10.
-3. Locally: run `presentcheck.py` on changed passages, create copy v43 and new cell versions, render and check the full A0.
-4. Update the presentation materials for any accepted voucher, neuromarketing, unit-economics or calendar change.
+1. Student reviews the proof; group supplies one confirmed contribution line per member (D6).
+2. Native Danish check: Elektrisk taxa. Tjek prisen. Book i appen.
+3. Locally: render with the real background, run `presentcheck.py`, check the cloud's Chalkboard SE fit and actual-size legibility.
+4. After acceptance: print front and back and redraw by hand.
 
-Whole-poster/group/actual-size print acceptance and submission remain separate; do not infer approval or submit.
+Whole-poster/group/print acceptance and submission remain separate; do not infer approval or submit.

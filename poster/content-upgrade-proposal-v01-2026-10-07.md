@@ -2,7 +2,7 @@
 
 7 October 2026. D-157. Source: [mock marker feedback](../09_feedback/claude_MARK1286_A1_GreenSM_marker_feedback_2026-10-07.md), a Claude mock marking, not lecturer guidance. Baseline: full A0 `poster-references-v04-2026-10-07` and [copy v42](10-sections-current-copy-v42-2026-10-07.md).
 
-Status: **proposal awaiting student/group decision**. No copy, artwork, contribution statement or reference move is accepted. Every edit below stays inside an existing cell; no cell geometry, budget line or KPI target changes unless decisions D1–D7 say so.
+Status: **recommendations adopted for a proof by D-158** ([proof v01 brief](poster-content-upgrade-v01-2026-10-07-prompt.md)); the proof awaits student review and D6 awaits group input. Placement changes during fitting: U-05 reads *Owned fleet (590 registered)*; U-07 sits on the Shared line as *Similar fares (Dantaxi/Drivr)*; U-15 sits in the +10 pp card; U-18 begins *Unit check: DKK165 CAC*. Originally: No copy, artwork, contribution statement or reference move is accepted. Every edit below stays inside an existing cell; no cell geometry, budget line or KPI target changes unless decisions D1–D7 say so.
 
 ## 1. Verdict on the feedback
 

@@ -10,9 +10,11 @@ Section 10 v02 and its canonical heading are accepted D-147. D-148 revises the g
 
 ![Latest full A0 with header](poster-references-v04-2026-10-07.png)
 
-## Content upgrade proposal — mock marker feedback
+## Content-upgrade proof v01 — awaiting review (D-158)
 
-D-157: [proposal v01](content-upgrade-proposal-v01-2026-10-07.md) triages the Claude mock marking and lists label-level edits inside existing cells, decisions D1–D7 and Q&A answers. It is a proposal only; copy v42 and all artwork below remain current.
+[Front preview](poster-content-upgrade-v01-2026-10-07-preview.png) · [Front A0 PDF](poster-content-upgrade-v01-2026-10-07.pdf) · [Front SVG](poster-content-upgrade-v01-2026-10-07.svg) · [Back preview](poster-content-upgrade-v01-2026-10-07-back-preview.png) · [Back A0 PDF](poster-content-upgrade-v01-2026-10-07-back.pdf) · [Back References](poster-content-upgrade-v01-2026-10-07-references.md) · [Copy v43](10-sections-current-copy-v43-2026-10-07.md) · [Checks](poster-content-upgrade-v01-2026-10-07-checks.json) · [Production brief](poster-content-upgrade-v01-2026-10-07-prompt.md) · [Proposal v01](content-upgrade-proposal-v01-2026-10-07.md)
+
+The D-157 triage of the Claude mock marking is applied as label-level edits inside the existing ten cells, using the approved glyph outlines; 244 unchanged lettering strings are byte-identical. References move to the back of the chart; the former footer band holds a Member contributions strip awaiting group input (D6). Cloud previews omit the external car/harbour background, which the SVG still links. Speaking materials: [script v02](presentation-script-v02-2026-10-07.md) ([DOCX](presentation-script-v02-2026-10-07.docx)) · [study guide v02](presentation-study-guide-v02-2026-10-07.md) ([DOCX](presentation-study-guide-v02-2026-10-07.docx)). The v04 poster and copy v42 below remain the last accepted baseline until the student accepts this proof.
 
 ## Presentation materials
 
