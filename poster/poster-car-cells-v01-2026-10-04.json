@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "status": "Step 1 candidate awaiting student review; proportions approved D-094",
+  "canvas_px": [
+    1672,
+    941
+  ],
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "a0_viewbox": [
+    1672,
+    1182.6341463414635
+  ],
+  "a0_art_y": 120.81707317073176,
+  "row_shares_height": [
+    32,
+    40,
+    28
+  ],
+  "row_shares_width": [
+    [
+      24,
+      25,
+      29,
+      22
+    ],
+    [
+      28,
+      18,
+      26,
+      28
+    ],
+    [
+      55,
+      45
+    ]
+  ],
+  "content_padding_px": 16,
+  "divider_gap_target_px": 8,
+  "cells": [
+    {
+      "id": 1,
+      "heading": "Meet Green SM",
+      "row": "top",
+      "box": [
+        320,
+        230,
+        283.2,
+        160
+      ],
+      "path": "M490 230 C470 231 451 240 431 256 L342 354 Q319 379 323 384 Q328 390 349 390 H581 Q601 390 603 369 L607 250 Q607 230 585 230 Z",
+      "safe_box": [
+        416,
+        292,
+        172,
+        82
+      ]
+    },
+    {
+      "id": 2,
+      "heading": "Target Market",
+      "row": "top",
+      "box": [
+        611.2,
+        230,
+        295,
+        160
+      ],
+      "path": "M636 230 H884 Q904 230 906 250 V370 Q906 390 884 390 H633 Q611 390 611 370 L615 250 Q615 230 636 230 Z",
+      "safe_box": [
+        628,
+        246,
+        262,
+        128
+      ]
+    },
+    {
+      "id": 3,
+      "heading": "Why Green SM?",
+      "row": "top",
+      "box": [
+        914.2,
+        230,
+        342.2,
+        160
+      ],
+      "path": "M938 230 H1227 Q1247 230 1250 250 L1257 370 Q1259 390 1237 390 H936 Q914 390 914 370 V250 Q914 230 938 230 Z",
+      "safe_box": [
+        930,
+        246,
+        306,
+        128
+      ]
+    },
+    {
+      "id": 4,
+      "heading": "Branding & Identity",
+      "row": "top",
+      "box": [
+        1264.4,
+        230,
+        259.6,
+        160
+      ],
+      "path": "M1286 231 Q1354 234 1401 250 Q1436 261 1456 287 L1497 367 Q1512 389 1495 390 H1293 Q1272 390 1271 370 L1264 251 Q1263 231 1286 231 Z",
+      "safe_box": [
+        1288,
+        269,
+        158,
+        105
+      ]
+    },
+    {
+      "id": 5,
+      "heading": "Digital Marketing",
+      "row": "middle",
+      "box": [
+        260,
+        400,
+        350.56,
+        198
+      ],
+      "path": "M309 400 H587 Q610 400 611 423 V575 Q611 598 587 598 H374 Q338 598 310 578 Q260 541 260 499 Q260 448 285 419 Q296 400 309 400 Z",
+      "safe_box": [
+        292,
+        449,
+        301,
+        124
+      ]
+    },
+    {
+      "id": 6,
+      "heading": "From Clicks to Rides",
+      "row": "middle",
+      "box": [
+        618.56,
+        400,
+        225.36,
+        198
+      ],
+      "path": "M642 400 H821 Q844 400 844 423 V575 Q844 598 821 598 H642 Q619 598 619 575 V423 Q619 400 642 400 Z",
+      "safe_box": [
+        635,
+        416,
+        193,
+        166
+      ]
+    },
+    {
+      "id": 7,
+      "heading": "Budget & Resources",
+      "row": "middle",
+      "box": [
+        851.92,
+        400,
+        325.52,
+        198
+      ],
+      "path": "M875 400 H1154 Q1177 400 1177 423 V575 Q1177 598 1154 598 H875 Q852 598 852 575 V423 Q852 400 875 400 Z",
+      "safe_box": [
+        868,
+        416,
+        293,
+        166
+      ]
+    },
+    {
+      "id": 8,
+      "heading": "Success Dashboard",
+      "row": "middle",
+      "box": [
+        1185.44,
+        400,
+        350.56,
+        198
+      ],
+      "path": "M1211 400 H1497 Q1518 400 1532 426 Q1549 452 1536 482 L1500 544 Q1491 559 1476 558 Q1397 532 1330 552 Q1293 562 1264 592 Q1256 598 1243 598 H1209 Q1185 598 1185 575 V423 Q1185 400 1211 400 Z",
+      "safe_box": [
+        1202,
+        416,
+        304,
+        130
+      ]
+    },
+    {
+      "id": 9,
+      "heading": "Ride Innovation",
+      "row": "bottom",
+      "box": [
+        378,
+        608,
+        480.7,
+        139
+      ],
+      "path": "M400 608 H836 Q859 608 859 631 V724 Q859 747 835 747 H430 Q409 747 401 728 L379 637 Q373 608 400 608 Z",
+      "safe_box": [
+        415,
+        624,
+        428,
+        105
+      ]
+    },
+    {
+      "id": 10,
+      "heading": "Business Goals & Growth",
+      "row": "bottom",
+      "box": [
+        866.7,
+        608,
+        393.3,
+        139
+      ],
+      "path": "M890 608 H1240 Q1269 608 1258 636 L1224 725 Q1217 747 1193 747 H890 Q867 747 867 724 V631 Q867 608 890 608 Z",
+      "safe_box": [
+        883,
+        624,
+        332,
+        105
+      ]
+    }
+  ],
+  "limits": "Box shares are design envelopes; sloping edges/wheel arches reduce usable area. Safe boxes are conservative starter regions, not an instruction to reduce content.",
+  "background": "poster-draft-car-background-v09-2026-10-04.svg",
+  "a0_svg": "poster-a0-layout-v01-2026-10-04.svg",
+  "a0_pdf": "poster-a0-layout-v01-2026-10-04.pdf"
+}

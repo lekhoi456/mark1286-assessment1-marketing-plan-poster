@@ -1,0 +1,1323 @@
+{
+  "base": "poster-references-v01-2026-10-05.svg",
+  "base_sha256": "f5c322120b89c5b26060ba5f76a91f8eaae8ea797718bf5e715c8924a5674159",
+  "ten_cells_and_background_layers_preserved_exactly": true,
+  "existing_header_letters_and_logos_preserved": true,
+  "greenwich_box": [
+    45,
+    10,
+    355,
+    115
+  ],
+  "title_and_subtitle_shift_y": 42,
+  "white_footer_y": 1020,
+  "footer_lettering_native": 7.2,
+  "footer_lettering_a0_pt": 14.51,
+  "reference_count": 17,
+  "reference_source_states": {
+    "afa-decaux-2026": "match",
+    "aurora-vietnam-and-inspace-creative-2026": "match",
+    "customer-data-platform-institute-nd": "match",
+    "drivr-nd": "match",
+    "feng-et-al-2020": "match",
+    "green-future-usa-inc-ndc": "match",
+    "green-sm-2026a": "match",
+    "green-sm-2026d": "match",
+    "green-sm-nd": "match",
+    "green-sm-denmark-aps-ndc": "match",
+    "gsm-green-and-smart-mobility-joint-stock-company-2024b": "accepted-manual",
+    "konkurrence-og-forbrugerstyrelsen-2026b": "match",
+    "openstax-2023": "match",
+    "statistics-denmark-2026b": "accepted-manual",
+    "vietnamplus-2023a": "match",
+    "viggo-2025": "match",
+    "vingroup-2025-annual-report-2024": "accepted-manual"
+  },
+  "placements": [
+    {
+      "key": "afa-decaux-2026",
+      "column": 1,
+      "first_baseline": 1049,
+      "last_baseline": 1066.2800000000002,
+      "lines": 3,
+      "display_suffix": ""
+    },
+    {
+      "key": "aurora-vietnam-and-inspace-creative-2026",
+      "column": 1,
+      "first_baseline": 1079.6000000000004,
+      "last_baseline": 1088.2400000000005,
+      "lines": 2,
+      "display_suffix": ""
+    },
+    {
+      "key": "customer-data-platform-institute-nd",
+      "column": 1,
+      "first_baseline": 1101.5600000000006,
+      "last_baseline": 1110.2000000000007,
+      "lines": 2,
+      "display_suffix": ""
+    },
+    {
+      "key": "drivr-nd",
+      "column": 1,
+      "first_baseline": 1123.520000000001,
+      "last_baseline": 1123.520000000001,
+      "lines": 1,
+      "display_suffix": ""
+    },
+    {
+      "key": "feng-et-al-2020",
+      "column": 1,
+      "first_baseline": 1136.840000000001,
+      "last_baseline": 1145.4800000000012,
+      "lines": 2,
+      "display_suffix": ""
+    },
+    {
+      "key": "green-future-usa-inc-ndc",
+      "column": 2,
+      "first_baseline": 1049,
+      "last_baseline": 1057.64,
+      "lines": 2,
+      "display_suffix": ""
+    },
+    {
+      "key": "green-sm-2026a",
+      "column": 2,
+      "first_baseline": 1070.9600000000003,
+      "last_baseline": 1096.8800000000006,
+      "lines": 4,
+      "display_suffix": "a"
+    },
+    {
+      "key": "green-sm-2026d",
+      "column": 2,
+      "first_baseline": 1110.2000000000007,
+      "last_baseline": 1127.480000000001,
+      "lines": 3,
+      "display_suffix": "b"
+    },
+    {
+      "key": "green-sm-nd",
+      "column": 2,
+      "first_baseline": 1140.800000000001,
+      "last_baseline": 1149.4400000000012,
+      "lines": 2,
+      "display_suffix": ""
+    },
+    {
+      "key": "green-sm-denmark-aps-ndc",
+      "column": 3,
+      "first_baseline": 1049,
+      "last_baseline": 1057.64,
+      "lines": 2,
+      "display_suffix": ""
+    },
+    {
+      "key": "gsm-green-and-smart-mobility-joint-stock-company-2024b",
+      "column": 3,
+      "first_baseline": 1070.9600000000003,
+      "last_baseline": 1096.8800000000006,
+      "lines": 4,
+      "display_suffix": ""
+    },
+    {
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "column": 3,
+      "first_baseline": 1110.2000000000007,
+      "last_baseline": 1118.8400000000008,
+      "lines": 2,
+      "display_suffix": ""
+    },
+    {
+      "key": "openstax-2023",
+      "column": 3,
+      "first_baseline": 1132.160000000001,
+      "last_baseline": 1149.4400000000012,
+      "lines": 3,
+      "display_suffix": ""
+    },
+    {
+      "key": "statistics-denmark-2026b",
+      "column": 4,
+      "first_baseline": 1049,
+      "last_baseline": 1074.9200000000003,
+      "lines": 4,
+      "display_suffix": ""
+    },
+    {
+      "key": "vietnamplus-2023a",
+      "column": 4,
+      "first_baseline": 1088.2400000000005,
+      "last_baseline": 1105.5200000000007,
+      "lines": 3,
+      "display_suffix": ""
+    },
+    {
+      "key": "viggo-2025",
+      "column": 4,
+      "first_baseline": 1118.8400000000008,
+      "last_baseline": 1136.120000000001,
+      "lines": 3,
+      "display_suffix": ""
+    },
+    {
+      "key": "vingroup-2025-annual-report-2024",
+      "column": 4,
+      "first_baseline": 1149.4400000000012,
+      "last_baseline": 1166.7200000000014,
+      "lines": 3,
+      "display_suffix": ""
+    }
+  ],
+  "lettering_bounds": [
+    {
+      "text": "References",
+      "bbox": [
+        24.3375,
+        1027.75,
+        83.33749999999999,
+        1038.519117647059
+      ],
+      "font": "MarkerFelt-Wide",
+      "italic": false,
+      "a0_pt": 25.19732132765701
+    },
+    {
+      "text": "AFA Decaux (2026) ",
+      "bbox": [
+        24.145794680714378,
+        1043.4866298342542,
+        86.30983425414365,
+        1050.2011863913929
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Prisliste 2026",
+      "bbox": [
+        89.38077348066297,
+        1043.9719337016575,
+        133.54342541436463,
+        1049.2466298342542
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". Available at: ",
+      "bbox": [
+        134.3310497237569,
+        1043.9639779005524,
+        177.0457458563536,
+        1049.2428859278518
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://www.afajcd.dk/da/jcdecaux/download-file?url=public%3A//blocks/downloadable_file/2026-09/20260914_AFA",
+      "bbox": [
+        31.445524861878454,
+        1052.0391160220995,
+        410.8417679558011,
+        1059.5812154696134
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "%20Decaux_Prisliste%202026.pdf",
+      "bbox": [
+        31.445524861878454,
+        1060.8223204419892,
+        141.3469613259669,
+        1068.2212154696135
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": " (Accessed: 27 September 2026).",
+      "bbox": [
+        144.1314917127072,
+        1060.7666298342544,
+        249.36287292817684,
+        1068.2212154696135
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Aurora Vietnam and InSpace Creative (2026) ",
+      "bbox": [
+        24.145794680714378,
+        1074.0866298342546,
+        169.55138121546963,
+        1081.5412154696137
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Xanh SM - Rebranding",
+      "bbox": [
+        172.90872928176793,
+        1074.524198895028,
+        246.1816574585635,
+        1081.546278252135
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". Available at: ",
+      "bbox": [
+        246.97723756906075,
+        1074.5639779005528,
+        289.69193370165743,
+        1079.8428859278522
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://www.behance.net/gallery/248521783/Xanh-SM-Rebranding",
+      "bbox": [
+        31.445524861878454,
+        1082.6391160220999,
+        245.40088397790055,
+        1090.186278252135
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": " (Accessed: 5 October 2026).",
+      "bbox": [
+        248.6309392265194,
+        1082.7266298342547,
+        341.2841988950277,
+        1089.4411863913933
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Customer Data Platform Institute (no date) ",
+      "bbox": [
+        24.27049723756906,
+        1096.0466298342549,
+        162.91624309392265,
+        1102.7611863913935
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "What is a customer data platform (CDP)?",
+      "bbox": [
+        165.9076243093922,
+        1096.0466298342549,
+        299.59690607734797,
+        1103.501215469614
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": " Available at: ",
+      "bbox": [
+        302.24877810612855,
+        1096.523977900553,
+        341.34895027624293,
+        1101.8028859278525
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://www.cdpinstitute.org/what-is-a-cdp/",
+      "bbox": [
+        31.445524861878454,
+        1104.5991160221001,
+        173.48044198895028,
+        1112.1462782521353
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": " (Accessed: 4 October 2026).",
+      "bbox": [
+        176.84574585635355,
+        1104.686629834255,
+        269.49900552486184,
+        1111.4011863913936
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "DRIVR (no date) ",
+      "bbox": [
+        24.015911602209943,
+        1118.0066298342551,
+        75.86386740331491,
+        1124.7211863913938
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Om DRIVR",
+      "bbox": [
+        79.09392265193371,
+        1118.4441988950284,
+        113.1367955801105,
+        1123.7188950276252
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". Available at: ",
+      "bbox": [
+        114.01988950276244,
+        1118.4839779005533,
+        156.7345856353591,
+        1123.7628859278527
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://drivr.com/om-drivr/",
+      "bbox": [
+        160.4579005524862,
+        1117.9191160221003,
+        246.7544751381216,
+        1125.4612154696142
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": " (Accessed: 5 October 2026).",
+      "bbox": [
+        250.11977900552486,
+        1118.0066298342551,
+        342.77303867403316,
+        1124.7211863913938
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Feng, J., Gluzman, M. and Dai, J.G. (2020) ",
+      "bbox": [
+        24.182983425414363,
+        1131.3266298342553,
+        158.77127071823205,
+        1138.7862782521356
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Scalable deep reinforcement learning for ride-hailing",
+      "bbox": [
+        162.1286187845304,
+        1131.5653038674043,
+        334.3558011049724,
+        1138.7862782521356
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". arXiv:2009.14679v1. ",
+      "bbox": [
+        335.1513812154696,
+        1131.8596685082885,
+        405.4886187845304,
+        1137.0707182320452
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Available at: ",
+      "bbox": [
+        31.145794680714378,
+        1140.4439779005536,
+        70.24596685082872,
+        1145.722885927853
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://arxiv.org/abs/2009.14679",
+      "bbox": [
+        73.9692817679558,
+        1139.8791160221006,
+        179.98277943051426,
+        1147.4262782521357
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": " (Accessed: 4 October 2026).",
+      "bbox": [
+        183.36950276243104,
+        1139.9666298342554,
+        276.02276243093934,
+        1146.681186391394
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Green Future USA Inc. (no date) ",
+      "bbox": [
+        435.2307182320442,
+        1043.4866298342542,
+        539.1175690607735,
+        1050.2011863913929
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Story and humanity",
+      "bbox": [
+        542.4749171270718,
+        1043.9241988950275,
+        606.36,
+        1050.6388950276244
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". Available at: ",
+      "bbox": [
+        607.0680662983425,
+        1043.9639779005524,
+        649.7827624309392,
+        1049.2428859278518
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://www.greensm.com/us-en/about",
+      "bbox": [
+        653.5060773480662,
+        1043.3991160220994,
+        777.0437569060773,
+        1050.9462782521346
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": " (Accessed: ",
+      "bbox": [
+        780.1624309392265,
+        1043.4866298342542,
+        813.5370165745857,
+        1050.2011863913929
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "3 October 2026).",
+      "bbox": [
+        442.62850828729285,
+        1052.1266298342543,
+        498.00088397790057,
+        1058.8297538925165
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Green SM (2026a) ",
+      "bbox": [
+        435.2307182320442,
+        1065.4466298342545,
+        494.326408839779,
+        1072.1611863913931
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Green SM begins pilot operations in the Netherlands, further expanding its presence in Europe",
+      "bbox": [
+        497.484861878453,
+        1065.6853038674035,
+        807.1564640883978,
+        1072.9062782521348
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". ",
+      "bbox": [
+        807.8247513812153,
+        1070.0450828729283,
+        808.9146961325965,
+        1070.9918232044201
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Available at: ",
+      "bbox": [
+        442.1457946807144,
+        1074.5639779005528,
+        481.2459668508287,
+        1079.8428859278522
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://www.greensm.com/vn-en/news/green-sm-van-hanh-thu-nghiem-tai-ha-lan-mo-rong-hien-dien-tai-chau-au",
+      "bbox": [
+        442.4455248618784,
+        1082.6391160220999,
+        810.4729281767957,
+        1090.186278252135
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "(Accessed: 27 September 2026).",
+      "bbox": [
+        442.2068508287293,
+        1091.3666298342548,
+        547.4382320441989,
+        1098.821215469614
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Green SM (2026b) ",
+      "bbox": [
+        435.2307182320442,
+        1104.686629834255,
+        494.0718232044199,
+        1111.4011863913936
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Green SM officially launches fully electric taxi service in Denmark",
+      "bbox": [
+        497.2302762430939,
+        1104.8696132596692,
+        714.0099447513812,
+        1111.838895027625
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". Available at: ",
+      "bbox": [
+        714.7816574585635,
+        1105.1639779005532,
+        757.4963535911602,
+        1110.4428859278526
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://www.greensm.com/dk-en/news/green-sm-officially-launches-fully-electric-taxi-service-in-denmark",
+      "bbox": [
+        442.4455248618784,
+        1113.2391160221002,
+        786.4384530386742,
+        1120.7862782521354
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "(Accessed: 27 September 2026).",
+      "bbox": [
+        442.2068508287293,
+        1121.9666298342552,
+        547.4382320441989,
+        1129.4212154696143
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Green SM (no date) ",
+      "bbox": [
+        435.2307182320442,
+        1135.2866298342553,
+        497.4132596685083,
+        1142.001186391394
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "The story and brand of Green",
+      "bbox": [
+        500.42787182320444,
+        1135.5253038674043,
+        597.6802209944752,
+        1142.4388950276254
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". Available at: ",
+      "bbox": [
+        598.5235359116022,
+        1135.7639779005535,
+        641.2382320441989,
+        1141.042885927853
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://www.greensm.com/vn-en/about",
+      "bbox": [
+        644.9615469613259,
+        1135.1991160221005,
+        768.9686187845303,
+        1142.7462782521357
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": " (Accessed: 27 ",
+      "bbox": [
+        772.0872928176796,
+        1135.2866298342553,
+        816.6556906077349,
+        1142.001186391394
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "September 2026).",
+      "bbox": [
+        442.4296132596685,
+        1143.9266298342554,
+        499.6318232044199,
+        1151.3812154696145
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Green SM Denmark ApS (no date) ",
+      "bbox": [
+        846.2307182320442,
+        1043.4866298342542,
+        954.1113812154696,
+        1050.9412154696133
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Story and humanity",
+      "bbox": [
+        957.468729281768,
+        1043.9241988950275,
+        1021.3538121546962,
+        1050.6388950276244
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". Available at: ",
+      "bbox": [
+        1022.0618784530387,
+        1043.9639779005524,
+        1064.7765745856354,
+        1049.2428859278518
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://www.greensm.com/dk-en/about",
+      "bbox": [
+        1068.4998895027627,
+        1043.3991160220994,
+        1192.9763535911604,
+        1050.9462782521346
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": " (Accessed:",
+      "bbox": [
+        1196.0950276243095,
+        1043.4866298342542,
+        1229.4696132596687,
+        1050.2011863913929
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "27 September 2026).",
+      "bbox": [
+        853.5171270718232,
+        1052.1266298342543,
+        921.5790055248619,
+        1059.5812154696134
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "GSM Green and Smart Mobility Joint Stock Company (2024) ",
+      "bbox": [
+        846.2307182320442,
+        1065.4466298342545,
+        1042.1900552486188,
+        1072.9012154696136
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Ra mắt Gói Hội Viên siêu hời: Mua ưu đãi Xanh, đặt xe ",
+      "bbox": [
+        1045.292817679558,
+        1064.2771270718235,
+        1223.5664088397791,
+        1072.773922651934
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "thả phanh",
+      "bbox": [
+        853.5171270718232,
+        1073.8240883977903,
+        885.555138121547,
+        1081.5412154696137
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". Available at: ",
+      "bbox": [
+        886.4461878453038,
+        1074.5639779005528,
+        929.1608839779005,
+        1079.8428859278522
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://www.greensm.com/vn-vi/news/ra-mat-goi-hoi-vien-sieu-tien-loi-mua-uu-dai-xanh-dat-xe-tha-phanh",
+      "bbox": [
+        853.4455248618784,
+        1082.6391160220999,
+        1201.9573480662984,
+        1090.186278252135
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "(Accessed: 27 September 2026).",
+      "bbox": [
+        853.2068508287293,
+        1091.3666298342548,
+        958.4382320441989,
+        1098.821215469614
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Konkurrence- og Forbrugerstyrelsen (2026) ",
+      "bbox": [
+        846.286408839779,
+        1104.686629834255,
+        987.6450828729282,
+        1112.1462782521353
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Ubers køb af Dantaxi",
+      "bbox": [
+        991.1058563535911,
+        1104.925303867404,
+        1059.6053038674033,
+        1111.2103867403323
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". Available at: ",
+      "bbox": [
+        1060.6395580110495,
+        1105.1639779005532,
+        1103.3542541436464,
+        1110.4428859278526
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://kfst.dk/media/dhqlgp33/20260824-uber-dantaxi.pdf",
+      "bbox": [
+        853.4455248618784,
+        1113.2391160221002,
+        1046.0316022099448,
+        1120.805082872929
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": " (Accessed: 27 September 2026).",
+      "bbox": [
+        1048.816132596685,
+        1113.326629834255,
+        1154.0475138121546,
+        1120.7812154696142
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "OpenStax (2023) ",
+      "bbox": [
+        846.302320441989,
+        1126.6466298342552,
+        900.8950276243094,
+        1134.1012154696143
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "1.2 The marketing mix and the 4Ps of marketing",
+      "bbox": [
+        904.9445303867403,
+        1126.8853038674042,
+        1062.4534806629833,
+        1134.1062782521356
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". Available at: ",
+      "bbox": [
+        1063.2490607734806,
+        1127.1239779005534,
+        1105.9637569060774,
+        1132.4028859278528
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://openstax.org/books/principles-marketing/pages/1-2-the-marketing-mix-and-the-4ps-of-marketing",
+      "bbox": [
+        853.4455248618784,
+        1135.1991160221005,
+        1196.7144751381215,
+        1142.7462782521357
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "(Accessed: 4 October 2026).",
+      "bbox": [
+        853.2068508287293,
+        1143.9266298342554,
+        945.8601104972377,
+        1150.641186391394
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Statistics Denmark (2026) ",
+      "bbox": [
+        1257.4296132596685,
+        1043.4866298342542,
+        1341.0769060773482,
+        1050.2011863913929
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Population at the first day of the quarter by region, sex, age, marital status and time",
+      "bbox": [
+        1344.1478453038676,
+        1043.6696132596685,
+        1625.2740331491714,
+        1050.9650828729282
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". ",
+      "bbox": [
+        1625.942320441989,
+        1048.085082872928,
+        1627.0322651933704,
+        1049.0318232044199
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Available at: ",
+      "bbox": [
+        1264.1457946807143,
+        1052.6039779005525,
+        1303.2459668508288,
+        1057.882885927852
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://api.statbank.dk/v1/data/FOLK1A/HTML5?lang=en&OMR%C3%85DE=084,101&K%C3%98N=TOT&ALDER=*&CIV",
+      "bbox": [
+        1264.4455248618785,
+        1060.4165745856355,
+        1642.8870718232047,
+        1068.2262782521348
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "ILSTAND=TOT&Tid=2026K3",
+      "bbox": [
+        1264.3818784530388,
+        1069.8441988950278,
+        1352.4525966850829,
+        1075.1268508287296
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": " (Accessed: 27 September 2026).",
+      "bbox": [
+        1355.9054143646408,
+        1069.4066298342545,
+        1461.1367955801104,
+        1076.8612154696136
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "VietnamPlus (2023) ‘First electric taxi service launched in Hanoi’, 14 April. Available at: ",
+      "bbox": [
+        1257.1511602209944,
+        1082.5595580110503,
+        1542.2313812154696,
+        1090.1812154696138
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://en.vietnamplus.vn/first-electric-taxi-service-launched-in-hanoi-post251560.vnp",
+      "bbox": [
+        1264.4455248618785,
+        1091.2791160221,
+        1543.3122651933704,
+        1098.821215469614
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": " (Accessed: 27 September ",
+      "bbox": [
+        1546.5661878453038,
+        1091.3666298342548,
+        1628.8291712707182,
+        1098.821215469614
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "2026).",
+      "bbox": [
+        1264.517127071823,
+        1100.006629834255,
+        1284.2713812154695,
+        1106.709753892517
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Viggo (2025) ",
+      "bbox": [
+        1257.1511602209944,
+        1113.326629834255,
+        1298.3383425414365,
+        1120.7862782521354
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Bolt enter Danish taxi market with acquisition of Viggo",
+      "bbox": [
+        1301.4808839779007,
+        1113.565303867404,
+        1479.7067403314918,
+        1120.805082872929
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". Available at: ",
+      "bbox": [
+        1480.3113812154695,
+        1113.8039779005533,
+        1523.0260773480663,
+        1119.0828859278527
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://via.ritzau.dk/pressemeddelelse/14320449/bolt-enter-danish-taxi-market-with-acquisition-of-viggo?lang=da",
+      "bbox": [
+        1264.4455248618785,
+        1121.8791160221003,
+        1634.3965571387032,
+        1129.445082872929
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "(Accessed: 5 October 2026).",
+      "bbox": [
+        1264.2068508287293,
+        1130.6066298342553,
+        1356.8601104972377,
+        1137.321186391394
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Vingroup Joint Stock Company (2025) ",
+      "bbox": [
+        1257.1511602209944,
+        1143.9266298342554,
+        1380.0444198895027,
+        1151.3862782521358
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "Annual Report 2024",
+      "bbox": [
+        1383.117949376847,
+        1144.3641988950287,
+        1448.7586740331494,
+        1151.3812154696145
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": true,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": ". Available at: ",
+      "bbox": [
+        1449.5144751381217,
+        1144.4039779005536,
+        1492.2291712707186,
+        1149.682885927853
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "https://ircdn.vingroup.net/storage/Uploads/0_Bao%20cao%20thuong%20nien/2024/ENG_%20Vingroup%20AR24_250",
+      "bbox": [
+        1264.4455248618785,
+        1152.4791160221007,
+        1642.8791160220997,
+        1160.0262782521359
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": "418.pdf",
+      "bbox": [
+        1264.294364640884,
+        1161.4453038674046,
+        1288.8141436464089,
+        1168.6612154696147
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    },
+    {
+      "text": " (Accessed: 4 October 2026).",
+      "bbox": [
+        1291.598674033149,
+        1161.2066298342556,
+        1384.2519337016574,
+        1167.9211863913943
+      ],
+      "font": "ChalkboardSE-Regular",
+      "italic": false,
+      "a0_pt": 14.513657084730438
+    }
+  ],
+  "registry_build": "0 errors; existing 20 warnings and 20 informational notes retained in central registry report",
+  "review": "pending",
+  "pdfinfo": "Producer:        cairo 1.18.4 (https://cairographics.org)\nCreationDate:    Mon Oct  5 16:33:54 2026 +07\nCustom Metadata: no\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           1\nEncrypted:       no\nPage size:       3370.39 x 2383.94 pts (A0)\nPage rot:        0\nFile size:       17544637 bytes\nOptimized:       no\nPDF version:     1.7\n",
+  "only_greenwich_placement_changed": true,
+  "title_subtitle_cells_and_references_preserved_exactly": true,
+  "logo_payload_preserved": true,
+  "visual_review": "Pass: Greenwich at upper left near top; title/subtitle remain centred; white footer below wheels; reference columns legible in enlarged proof. Physical A0 reading/colouring remains untested."
+}

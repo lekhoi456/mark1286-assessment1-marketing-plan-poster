@@ -1,0 +1,13 @@
+{
+  "source": "poster-references-v03-2026-10-05.svg",
+  "source_sha256": "ce3af6ba4a3413e53864a3ad7c2f69f57c5c9434e4f9887786546390865e6be4",
+  "removed_visible_lettering_groups": 367,
+  "text_elements_remaining": 0,
+  "wordmarks_removed": true,
+  "ten_cells_retained": 10,
+  "textful_master_unchanged": true,
+  "symbol_asset_ready": true,
+  "pdfinfo": "Producer:        cairo 1.18.4 (https://cairographics.org)\nCreationDate:    Mon Oct  5 20:24:44 2026 +07\nCustom Metadata: no\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           1\nEncrypted:       no\nPage size:       3370.39 x 2383.94 pts (A0)\nPage rot:        0\nFile size:       12978802 bytes\nOptimized:       no\nPDF version:     1.7\n",
+  "visual_review": "Controller reviewed full PNG: illustrations, flags, chart bars, symbols and ten-cell geometry retained; no visible words or numbers found. Student review pending.",
+  "pdf_extractable_text_characters": 0
+}

@@ -1,0 +1,472 @@
+{
+  "status": "Section 9 v02 improvement candidate; copy and image pending student review",
+  "base": "08-cell-fit-v02-2026-10-05-poster.svg",
+  "base_sha256": "7d5e4e9ec3229a15845e50c7f757a8e8942ba8b4ff174febbefdd3e005cd6804",
+  "other_nine_cells_and_background_byte_for_byte_preserved": true,
+  "cell_path": "M400 608 H836 Q859 608 859 631 V724 Q859 747 835 747 H430 Q409 747 401 728 L379 637 Q373 608 400 608 Z",
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "visible_text": [
+    {
+      "text": "9. Ride Innovation",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 10.5,
+      "size_pt_a0": 21.17,
+      "bbox": [
+        401.6405,
+        617.2115,
+        482.98400000000004,
+        626.5627222222222
+      ],
+      "advance_width": 82.19400000000002
+    },
+    {
+      "text": "PROPOSED PILOTS · Local performance untested",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.5,
+      "size_pt_a0": 15.12,
+      "bbox": [
+        561.1491712707183,
+        620.5055248618785,
+        729.1325966850828,
+        628.0220994475138
+      ],
+      "advance_width": 168.4806629834254
+    },
+    {
+      "text": "AI targeting",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8,
+      "size_pt_a0": 16.13,
+      "bbox": [
+        407.03525925925925,
+        644.448,
+        448.952,
+        652.544
+      ],
+      "advance_width": 42.056
+    },
+    {
+      "text": "Consented first-party data",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        407.24419889502764,
+        690.1878453038674,
+        484.4023553358535,
+        696.7524861878453
+      ],
+      "advance_width": 77.6121546961326
+    },
+    {
+      "text": "Big Data + AI",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        407.21480662983424,
+        700.9958011049724,
+        450.3193370165746,
+        707.9462782521346
+      ],
+      "advance_width": 43.709171270718244
+    },
+    {
+      "text": "Relevant reminders",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        407.1750276243094,
+        711.9241988950276,
+        468.8086187845304,
+        717.2428859278518
+      ],
+      "advance_width": 62.07911602209945
+    },
+    {
+      "text": "AI dispatch",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8,
+      "size_pt_a0": 16.13,
+      "bbox": [
+        522.0352592592593,
+        644.2492631578947,
+        561.0375384615385,
+        652.896
+      ],
+      "advance_width": 39.199999999999996
+    },
+    {
+      "text": "Booking → AI match → taxi",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        522.1939226519337,
+        688.4104972375691,
+        604.2160220994475,
+        694.7570567553993
+      ],
+      "advance_width": 82.67569060773481
+    },
+    {
+      "text": "Test vs local baseline",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        522.0784309392266,
+        696.453591160221,
+        583.746408839779,
+        701.2192720181995
+      ],
+      "advance_width": 61.875690607734796
+    },
+    {
+      "text": "Match time · Fulfilment",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        522.1580110497238,
+        704.1878453038674,
+        591.3309392265194,
+        709.2192720181995
+      ],
+      "advance_width": 69.47458563535912
+    },
+    {
+      "text": "Cancellations · Fairness",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        522.2441988950276,
+        712.4823204419889,
+        589.9447513812155,
+        717.2192720181995
+      ],
+      "advance_width": 68.1889502762431
+    },
+    {
+      "text": "Connected care",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8,
+      "size_pt_a0": 16.13,
+      "bbox": [
+        636.104,
+        644.392,
+        689.6433684210526,
+        651.368
+      ],
+      "advance_width": 53.80000000000001
+    },
+    {
+      "text": "One trip ID",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        660.1625,
+        654.644,
+        689.9325,
+        661.5405
+      ],
+      "advance_width": 30.049499999999995
+    },
+    {
+      "text": "App · Driver/car · Support",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        636.1316201978672,
+        689.9436464088398,
+        714.2082872928177,
+        696.7524861878453
+      ],
+      "advance_width": 78.35193370165747
+    },
+    {
+      "text": "Ratings",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        636.1580110497238,
+        698.4176795580111,
+        657.3243093922651,
+        704.7570567553993
+      ],
+      "advance_width": 21.56850828729282
+    },
+    {
+      "text": "Test FAQ bot",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        636.0784309392266,
+        705.453591160221,
+        674.6337016574586,
+        710.5566298342542
+      ],
+      "advance_width": 38.77734806629834
+    },
+    {
+      "text": "→ Human hand-off",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        636,
+        712.2381215469613,
+        692.553591160221,
+        717.2154696132596
+      ],
+      "advance_width": 56.39558011049724
+    },
+    {
+      "text": "Personalised packages",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.7,
+      "size_pt_a0": 15.52,
+      "bbox": [
+        750.1530375,
+        644.6398,
+        825.383,
+        652.8249
+      ],
+      "advance_width": 75.5447
+    },
+    {
+      "text": "First: frequency + contribution",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        750.1601104972376,
+        655.3846408839779,
+        837.1836464088398,
+        661.7194475138122
+      ],
+      "advance_width": 87.46209944751385
+    },
+    {
+      "text": "Pay-per-trip vs",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        750.1292817679558,
+        688.460773480663,
+        795.3707182320442,
+        694.7524861878453
+      ],
+      "advance_width": 45.614917127071834
+    },
+    {
+      "text": "Needs-matched prepaid/monthly",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        750.2575690607734,
+        696.099226519337,
+        841.5205524861879,
+        702.6985635359116
+      ],
+      "advance_width": 91.6806629834254
+    },
+    {
+      "text": "Retention + margin",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        750.1580110497238,
+        704.4176795580111,
+        805.3325966850829,
+        710.7570567553993
+      ],
+      "advance_width": 55.61988950276244
+    },
+    {
+      "text": "Stop if either falls",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        750.3878453038674,
+        712.2381215469613,
+        804.7723756906078,
+        718.7524861878453
+      ],
+      "advance_width": 55.01657458563536
+    },
+    {
+      "text": "Feedback: Measure / refine",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        419.0760740740741,
+        725.5518415841584,
+        497.32123684210524,
+        731.338
+      ],
+      "advance_width": 78.44849999999998
+    },
+    {
+      "text": "Unpriced dispatch/chatbot/subscription: cost separately",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        554.466408839779,
+        726.099226519337,
+        711.0127071823205,
+        732.6985635359116
+      ],
+      "advance_width": 157.17281767955805
+    },
+    {
+      "text": "DKK600,000 excludes app/platform build + vehicle/driver/frontline operations",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        419.0139226519337,
+        736.099226519337,
+        639.9942541436465,
+        742.6985635359116
+      ],
+      "advance_width": 221.23093922651947
+    }
+  ],
+  "word_bearing_tokens": 75,
+  "minimum_size_pt_a0": 12.7,
+  "heading_size_pt_a0": 21.17,
+  "all_hand_drawn_font_resolutions": [
+    "ChalkboardSE-Regular",
+    "MarkerFelt-Wide",
+    "Native vector arrow"
+  ],
+  "glyph_bbox_corners_outside_native_cell": [],
+  "pairwise_text_overlaps": [],
+  "raster_images_added": 0,
+  "cross_lane_pipeline_arrows": 0,
+  "local_mechanism_arrows_only": true,
+  "feedback_explicitly_labelled": true,
+  "pdf_measured_mm": [
+    1188.999,
+    841.001
+  ],
+  "copy_matches_visible_surface": true,
+  "manual_visual_review": "Producing agent inspected standalone, fitted close-up and full A0 PNGs: no observed icon/text overlap or curved-edge clipping. Physical A0 proof untested.",
+  "fragment_presentcheck": {
+    "exit": 2,
+    "genre_words": 74,
+    "detector_status": "ran",
+    "detector_score": 0,
+    "effective_base_hard_by_category": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "out_of_scope_whole_poster_tables": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ]
+  },
+  "controller_visual_review": "Final standalone, fitted close-up and full A0 inspected on 5 October 2026; no clipped lettering or icon/text obstruction found. Student and physical-print acceptance pending."
+}

@@ -1,0 +1,24 @@
+{
+  "panel": 4,
+  "status": "review candidate; section copy update follows approved direction and latest student instructions",
+  "dimensions": [
+    1800,
+    1360
+  ],
+  "copy": [
+    "4. Branding & Identity",
+    "Green SM = Green and Smart Mobility",
+    "Go Green For a Green Future.",
+    "New Cyan \u00b7 #28bdbf \u00b7 Pantone 319 C",
+    "New Yellow \u00b7 #e3bb42",
+    "Xanh Display 2.0",
+    "Modern Liquid Glass UI/UX",
+    "Clear terms. Local care.",
+    "Danish first \u00b7 English second"
+  ],
+  "shared_logo_sha256": "36a99749e3cc9585573fedda5fb1dbcf6a76483872cadc2d0f6651ec95430db9",
+  "text_as_handdrawn_glyph_paths": true,
+  "generated_or_external_art": false,
+  "visible_citations": false,
+  "local_tagline_occurrences": 1
+}

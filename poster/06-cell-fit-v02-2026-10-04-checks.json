@@ -1,0 +1,359 @@
+{
+  "status": "User approved revised prospecting wording and retained v01 design. Changed rendering awaits visual check.",
+  "base": "05-cell-fit-v04-2026-10-04-poster.svg",
+  "base_sha256": "bbf8d5b8f76c0e61159bb3fbabf99872be512e5f5d7522d6bcb8239e53d3ea11",
+  "base_byte_for_byte_preserved": true,
+  "cell_path": "M642 400 H821 Q844 400 844 423 V575 Q844 598 821 598 H642 Q619 598 619 575 V423 Q619 400 642 400 Z",
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "art_translation_y": 120.817073,
+  "visible_text": [
+    {
+      "text": "6. From Clicks to Rides",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 12.2,
+      "size_pt_a0": 24.59,
+      "bbox": [
+        633.8418,
+        409.7642,
+        750.9617999999999,
+        420.6344
+      ],
+      "advance_width": 118.21799999999996
+    },
+    {
+      "text": "Sales Strategy · proposed",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        633.37591160221,
+        428.55867403314915,
+        706.45591160221,
+        434.7029934706178
+      ],
+      "advance_width": 73.74828729281766
+    },
+    {
+      "text": "Awareness",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8,
+      "size_pt_a0": 16.13,
+      "bbox": [
+        692.0352592592593,
+        435.448,
+        729.624,
+        442.3376
+      ],
+      "advance_width": 37.791999999999994
+    },
+    {
+      "text": "Copenhagen visibility → leads",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        692.2479558011049,
+        445.347182320442,
+        780.2139226519337,
+        451.7840883977901
+      ],
+      "advance_width": 88.46187845303866
+    },
+    {
+      "text": "Fare-checking prospects → trial offer",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        692.1677348066298,
+        452.86486187845304,
+        806.4243093922652,
+        459.48408839779006
+      ],
+      "advance_width": 114.37325966850828
+    },
+    {
+      "text": "Book",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8,
+      "size_pt_a0": 16.13,
+      "bbox": [
+        692.2,
+        466.296,
+        709.2567619047619,
+        473.31889655172415
+      ],
+      "advance_width": 17.312
+    },
+    {
+      "text": "Green SM app booking → completed,",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        692.2114917127071,
+        476.33988950276245,
+        801.9100552486187,
+        482.7840883977901
+      ],
+      "advance_width": 110.14342541436463
+    },
+    {
+      "text": "paid trip = sale",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        692.3938121546961,
+        484.047182320442,
+        737.4342541436464,
+        490.47944751381215
+      ],
+      "advance_width": 45.56552486187845
+    },
+    {
+      "text": "First-ride test: 10% vs 20% · max DKK30",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        692.1677348066298,
+        491.3971270718232,
+        816.4738121546961,
+        496.6406629834254
+      ],
+      "advance_width": 124.65613259668508
+    },
+    {
+      "text": "Experience",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8,
+      "size_pt_a0": 16.13,
+      "bbox": [
+        692.264,
+        500.31573333333336,
+        730.0033684210526,
+        508.896
+      ],
+      "advance_width": 38.16
+    },
+    {
+      "text": "App / driver / car / care",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        692.1336451239882,
+        509.86585635359114,
+        768.6620994475138,
+        516.7794475138121
+      ],
+      "advance_width": 76.79337016574587
+    },
+    {
+      "text": "Target quality after checks",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        692.0796375690608,
+        517.8648618784531,
+        773.2711602209945,
+        524.5013259668509
+      ],
+      "advance_width": 81.51911602209942
+    },
+    {
+      "text": "Feedback",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8,
+      "size_pt_a0": 16.13,
+      "bbox": [
+        692.0936296296296,
+        529.2945742574258,
+        724.4487619047619,
+        536.416
+      ],
+      "advance_width": 32.504000000000005
+    },
+    {
+      "text": "Post-ride feedback",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        692.131270718232,
+        539.164861878453,
+        748.0234254143646,
+        544.2260773480663
+      ],
+      "advance_width": 56.24950276243092
+    },
+    {
+      "text": "Unpaid review after resolved/well-rated ride",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        692.4886187845303,
+        546.5658563535912,
+        825.9180110497236,
+        553.4794475138121
+      ],
+      "advance_width": 134.0492817679558
+    },
+    {
+      "text": "Repeat",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8,
+      "size_pt_a0": 16.13,
+      "bbox": [
+        692.216,
+        556.44,
+        716.184,
+        564.896
+      ],
+      "advance_width": 24.311999999999998
+    },
+    {
+      "text": "Opt-in reminders · voucher pilots*",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        692.2771270718232,
+        565.6251933701658,
+        794.3474033149171,
+        572.7794475138121
+      ],
+      "advance_width": 102.5734806629834
+    },
+    {
+      "text": "Tailored monthly paid bundle pilots*",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        692.0796375690608,
+        573.3251933701658,
+        799.2408839779006,
+        580.4794475138121
+      ],
+      "advance_width": 107.46696132596682
+    },
+    {
+      "text": "*After frequency/unit economics test",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6,
+      "size_pt_a0": 12.09,
+      "bbox": [
+        692.2055248618784,
+        582.1138121546961,
+        792.3955801104972,
+        588.6375690607734
+      ],
+      "advance_width": 100.52817679558005
+    },
+    {
+      "text": "Separate costing",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6,
+      "size_pt_a0": 12.09,
+      "bbox": [
+        692.3580110497237,
+        589.8298342541436,
+        736.4331491712708,
+        595.6218985434455
+      ],
+      "advance_width": 44.6585635359116
+    }
+  ],
+  "word_bearing_tokens": 65,
+  "minimum_size_pt_a0": 12.09,
+  "all_hand_drawn_font_resolutions": [
+    "ChalkboardSE-Regular",
+    "MarkerFelt-Wide",
+    "Native vector arrow"
+  ],
+  "raster_images_added": 0,
+  "glyph_bbox_corners_inside_native_cell": true,
+  "pairwise_text_overlap_count": 0,
+  "pdf_measured_mm": [
+    1188.999,
+    841.001
+  ],
+  "manual_visual_review": "Close-up inspected. A0 reading distance and acceptance require human review.",
+  "changed_string_only": true,
+  "changed_string": "Fare-checking prospects → trial offer",
+  "changed_line_size_pt_a0": 13.3,
+  "all_other_glyph_records_identical_to_v01": true,
+  "all_other_section6_markup_identical_to_v01": true,
+  "voucher_numbers_identical_to_v01": true,
+  "tactic_status": "Proposed prospecting tactic, not verified customer behaviour."
+}

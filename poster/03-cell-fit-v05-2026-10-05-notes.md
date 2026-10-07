@@ -1,0 +1,5 @@
+# Section 3 fitted v05 — restore the rival operating-model caption
+
+D-124 requests the missing exact wording Taxi partners operate rides. Restore it immediately under Uber / Bolt, above the two named provider-routing diagrams. Shift the Uber branch down eight native units and the Bolt branch down six to maintain clear spacing. All other Section 3 strings, reduced heading, absent graphic logo, artwork and positioning remain as v04. Its competitive argument and source boundaries remain in 03-cell-fit-v04-2026-10-05-notes.md; E-184 supports the restored caption.
+
+49 scoped words. Native fonts resolve as requested; minimum ordinary lettering 13.71 pt at A0. No overlapping text boxes or glyph corners outside the curved cell. Controller inspected the new close-up; other full-assembly layers remain byte-for-byte unchanged. Scoped copy checker: zero effective base hard stops, detector score 0; exit 2 only for full-poster budget/KPI markers absent from the fragment. No new facts or sources. New copy/art await student review; do not start Section 4. No group/full-poster/physical-print acceptance is inferred.

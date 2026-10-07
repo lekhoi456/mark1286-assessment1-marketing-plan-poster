@@ -1,0 +1,20 @@
+[
+  {
+    "output": "presentation-script-v01-2026-10-05.docx",
+    "source": "presentation-script-v01-2026-10-05.md",
+    "source_sha256": "ba8f75507a694b78db8ef879abd0fe85d150faf29499b147b66f84e301db2858",
+    "docx_sha256": "986f2d034d875b1d72e837bbe75b51122881d56eb532dbceea28c92f9748007f",
+    "paragraphs": 107,
+    "tables": 0,
+    "content_preserved": true
+  },
+  {
+    "output": "presentation-study-guide-v01-2026-10-05.docx",
+    "source": "presentation-study-guide-v01-2026-10-05.md",
+    "source_sha256": "bc66028f0473dcb15d3b88d0f1079030dcff00438ecdb914ab489dbbd91befd3",
+    "docx_sha256": "b3e968961362efe5cfef7b93b97e2034b8a11f7b44f7ca5f1ce4db046d01b435",
+    "paragraphs": 72,
+    "tables": 3,
+    "content_preserved": true
+  }
+]

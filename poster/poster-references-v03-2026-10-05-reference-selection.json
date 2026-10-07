@@ -1,0 +1,737 @@
+{
+  "registry": "../04_references/references.json",
+  "entries": [
+    {
+      "key": "afa-decaux-2026",
+      "type": "report",
+      "status": "cited",
+      "year": "2026",
+      "title": "Prisliste 2026",
+      "url": "https://www.afajcd.dk/da/jcdecaux/download-file?url=public%3A//blocks/downloadable_file/2026-09/20260914_AFA%20Decaux_Prisliste%202026.pdf",
+      "accessed": "2026-09-27",
+      "file": "afa-decaux-2026-prisliste.pdf",
+      "retrieval": {
+        "method": "open-access",
+        "from": "https://www.afajcd.dk/da/jcdecaux/download-file?url=public%3A//blocks/downloadable_file/2026-09/20260914_AFA%20Decaux_Prisliste%202026.pdf",
+        "date": "2026-09-27"
+      },
+      "used_for": [
+        "Target Market",
+        "Digital Marketing Strategies"
+      ],
+      "notes": "Denmark pack S18; company (media owner; independent of Green SM). Research candidate, not approved poster citation. Metadata checked against saved PDF cover/heading and author attribution on28September2026; claims and caveats recorded in the integration index. AFA Decaux author logo visually inspected on cover; p3DOOH, p4Abribus; excludes VAT/production.",
+      "organisation": "AFA Decaux",
+      "publisher": "AFA Decaux",
+      "verification": {
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-03",
+          "title_words": "2/2",
+          "author_found": true,
+          "pages_checked": "1-2",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "953b91e513d0c5ba32d817e8dec3cd03d130dc915e8f7d5a85e2950890b93e53",
+          "identity_sha256": "8503813cc284f88bf17f0dbb13e3a395cfbd329169c119ea94c12115045d588f"
+        },
+        "checked_on": "2026-10-03",
+        "notes": "28 September 2026: source PDF identity, scope and selected claim quotations checked; see market-source-index.json for locators and limitations."
+      },
+      "suffix": ""
+    },
+    {
+      "key": "aurora-vietnam-and-inspace-creative-2026",
+      "type": "webpage",
+      "status": "cited",
+      "organisation": "Aurora Vietnam and InSpace Creative",
+      "year": "2026",
+      "title": "Xanh SM - Rebranding",
+      "url": "https://www.behance.net/gallery/248521783/Xanh-SM-Rebranding",
+      "accessed": "2026-10-05",
+      "file": "aurora-vietnam-and-inspace-creative-2026-xanh-sm-rebranding.pdf",
+      "retrieval": {
+        "method": "web-snapshot",
+        "from": "https://www.behance.net/gallery/248521783/Xanh-SM-Rebranding",
+        "date": "2026-10-05"
+      },
+      "used_for": [
+        "Poster Section 4: corporate visual identity; Harvard footer"
+      ],
+      "notes": "5 October 2026: saved and read 27-page project snapshot. Physical p.1 title; p.22 explicitly credits collaboration by Aurora Vietnam & InSpace Creative, specifying leading agency and branding studio; p.26 page publication date 30 April 2026. Internal project panel p.23 says Published: 2024; distinguish project date from Behance webpage publication year 2026. The bibliography credits the explicitly named collaborative studios, not an invented individual author. Brand boards are visual source material; no new corporate-performance claim.",
+      "verification": {
+        "notes": "5 October 2026: manual title/credited collaborative studios/date check, physical pp.1/22/23/26. Page publication 30 April 2026; internal project date 2024. See E-212.",
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-05",
+          "title_words": "2/2",
+          "author_found": true,
+          "pages_checked": "1-2 (title); publisher found later in the document",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "e5cd3beb3b73cb399500249e841da99b9b8d367b2cb81fbf09bc2e73c117fddf",
+          "identity_sha256": "595121252f0f8dfc1634c1cfa5b4d98f9799920cee3632bfafac472cb26ad321"
+        },
+        "checked_on": "2026-10-05"
+      },
+      "suffix": ""
+    },
+    {
+      "key": "customer-data-platform-institute-nd",
+      "type": "webpage",
+      "status": "cited",
+      "organisation": "Customer Data Platform Institute",
+      "year": "no date",
+      "title": "What is a customer data platform (CDP)?",
+      "url": "https://www.cdpinstitute.org/what-is-a-cdp/",
+      "accessed": "2026-10-04",
+      "file": "customer-data-platform-institute-nd-what-is-a-cdp.pdf",
+      "retrieval": {
+        "method": "web-snapshot",
+        "from": "https://www.cdpinstitute.org/what-is-a-cdp/",
+        "date": "2026-10-04"
+      },
+      "used_for": [
+        "Digital Marketing Tactics",
+        "Creativity and Innovation"
+      ],
+      "outside": true,
+      "notes": "CDP Institute definition snapshot. No publication date displayed; footer copyright does not establish publication date. Concept definition only. It does not establish Green SM has a CDP or sufficient data/system capability.",
+      "verification": {
+        "notes": "",
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-04",
+          "title_words": "4/4",
+          "author_found": true,
+          "pages_checked": "1-2",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "d8af85f8fde5fa8b2dbfbb1e5c72bbdb0965bccf94edd84e8a6387507f221de9",
+          "identity_sha256": "8c330fc042464315a652ffde9585f60aa362fe318f4c904da277a8aca97dec4e"
+        },
+        "checked_on": "2026-10-04"
+      },
+      "suffix": ""
+    },
+    {
+      "key": "drivr-nd",
+      "type": "webpage",
+      "status": "cited",
+      "organisation": "DRIVR",
+      "year": "n.d.",
+      "title": "Om DRIVR",
+      "url": "https://drivr.com/om-drivr/",
+      "accessed": "2026-10-05",
+      "file": "drivr-nd-about-drivr-2026-10-05.pdf",
+      "retrieval": {
+        "method": "web-snapshot",
+        "from": "https://drivr.com/om-drivr/",
+        "date": "2026-10-05",
+        "browser": "Google Chrome headless; public open-access competitor source"
+      },
+      "used_for": [
+        "Positioning Strategy"
+      ],
+      "notes": "Official DRIVR About page. No full publication date for the page is shown. Parent read original public page and rendered saved PDF p.2: 100% electric taxi rides available via Uber and DRIVR apps; p.1 company also promotes professional service/comfort/reliability. E-210 is a competitor offer counterexample, not independent service-quality proof. Exclude zero-valued dynamic counters from evidence; their animation did not populate in print. No Comet retrieval is claimed.",
+      "verification": {
+        "notes": "",
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-05",
+          "title_words": "1/1",
+          "author_found": true,
+          "pages_checked": "1-2",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "26d322fe050df25f70ae8cad4d554b6ed3ecfe1e0c2c08dfd17a9d8b7cd983f5",
+          "identity_sha256": "43dedf99c7bef60ddc495acce1d2370319c3df7586515f9389492ea0e5cf3baf"
+        },
+        "checked_on": "2026-10-05"
+      },
+      "suffix": ""
+    },
+    {
+      "key": "feng-et-al-2020",
+      "type": "report",
+      "status": "cited",
+      "authors": [
+        {
+          "given": "Jiekun",
+          "family": "Feng"
+        },
+        {
+          "given": "Mark",
+          "family": "Gluzman"
+        },
+        {
+          "given": "J. G.",
+          "family": "Dai"
+        }
+      ],
+      "year": "2020",
+      "title": "Scalable deep reinforcement learning for ride-hailing",
+      "publisher": "arXiv",
+      "report_number": "arXiv:2009.14679v1",
+      "url": "https://arxiv.org/abs/2009.14679",
+      "accessed": "2026-10-04",
+      "file": "feng-et-al-2020-scalable-deep-reinforcement-learning-for-ride-hailing.pdf",
+      "retrieval": {
+        "method": "open-access",
+        "from": "https://arxiv.org/pdf/2009.14679",
+        "date": "2026-10-04"
+      },
+      "used_for": [
+        "Creativity and Innovation"
+      ],
+      "outside": true,
+      "notes": "arXiv preprint v1 dated 27 September 2020. The paper proposes a reinforcement-learning task-allocation decomposition and evaluates a numerical experiment on real Didi data. It does not establish shorter driver-match times, Copenhagen performance, Green SM system capability or local feasibility.",
+      "verification": {
+        "notes": "",
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-04",
+          "title_words": "6/6",
+          "author_found": true,
+          "pages_checked": "1-2",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "c29f01cd7253e2028c9a8ee9d98aad810409641d5590a8eb160b741abc3c2df7",
+          "identity_sha256": "5fb54eb12b6b20a27cab7c1887b0d378a74ffcde66819a2a11c9b30d8940d7f6"
+        },
+        "checked_on": "2026-10-04"
+      },
+      "suffix": ""
+    },
+    {
+      "key": "green-future-usa-inc-ndc",
+      "type": "webpage",
+      "status": "cited",
+      "organisation": "Green Future USA Inc.",
+      "year": "n.d.",
+      "suffix": "",
+      "title": "Story and humanity",
+      "url": "https://www.greensm.com/us-en/about",
+      "accessed": "2026-10-03",
+      "file": "green-future-usa-inc-ndc-story-and-humanity.pdf",
+      "retrieval": {
+        "method": "web-snapshot",
+        "from": "https://www.greensm.com/us-en/about",
+        "date": "2026-10-03",
+        "browser": "Comet (headed, D-025)",
+        "print_repairs": {
+          "banners": 1,
+          "hidden": 3,
+          "pinned": 1,
+          "grown": 1
+        }
+      },
+      "used_for": [
+        "Company/Business Introduction",
+        "Branding and Identity",
+        "Alignment with Business Objectives"
+      ],
+      "notes": "Student requested source review for possible panel-1 additions on 3 October 2026. Parent directly read official US About page in a dedicated headed Comet tab, closed afterwards, and saved a dated seven-page snapshot. Website publication date absent; copyright 2026 is not a publication date. Local operator is named in p.7 footer. P.2 states Vingroup backing and foundation in March 2023; p.3 states exclusive VinFast EV service and direct-tailpipe/noise qualifications. Company statements are not an independently verified ownership chart, completed-ride count or current headcount audit. Proposed additions are not student-approved panel wording. Earlier D-061 v08 remains current.",
+      "verification": {
+        "notes": "Parent read the full official page in a dedicated headed Comet tab, inspected the dated seven-page PDF and rendered physical pp.2–3 on 3 October 2026. Title Story and humanity verified in page title/header; local corporate operator appears in footer p.7. E-199–E-201 retain company-self-report scope and exact physical locators. Automatic PDF identity match does not independently prove ownership/headcount/performance. No publication date shown.",
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-03",
+          "title_words": "2/2",
+          "author_found": true,
+          "pages_checked": "1-2 (title); publisher found later in the document",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "98c36654c2bf1e69e1aceafe69d46310754349f9179eaecd5ddd5a73eeab09eb",
+          "identity_sha256": "c1f6b77012acaff3717b24f4ab7af8ad9b7befbf18daee52263532f0f962ee93"
+        },
+        "checked_on": "2026-10-03"
+      }
+    },
+    {
+      "key": "green-sm-2026a",
+      "type": "webpage",
+      "status": "cited",
+      "organisation": "Green SM",
+      "year": "2026",
+      "title": "Green SM begins pilot operations in the Netherlands, further expanding its presence in Europe",
+      "url": "https://www.greensm.com/vn-en/news/green-sm-van-hanh-thu-nghiem-tai-ha-lan-mo-rong-hien-dien-tai-chau-au",
+      "accessed": "2026-09-27",
+      "file": "green-sm-2026a-netherlands-pilot.pdf",
+      "retrieval": {
+        "method": "web-snapshot",
+        "from": "https://www.greensm.com/vn-en/news/green-sm-van-hanh-thu-nghiem-tai-ha-lan-mo-rong-hien-dien-tai-chau-au",
+        "date": "2026-09-27",
+        "browser": "Comet (headed, D-025)"
+      },
+      "used_for": [
+        "Company/Business Introduction"
+      ],
+      "notes": "Company press release dated 26 September 2026 about a technical opening on 25 September 2026. Pilot phase, not a full launch. Manual check 2026-09-27: organisation, title, date and E-009 wording on PDF p. 1. Re-captured in the student's Comet browser (headed) on 27 September 2026 under D-025; the earlier headless capture was replaced.",
+      "suffix": "a",
+      "verification": {
+        "notes": "",
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-03",
+          "title_words": "9/9",
+          "author_found": true,
+          "pages_checked": "1-2",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "94c700b0f552ad67830c06255a5300a787f0801a577a58cb41ac39297375265d",
+          "identity_sha256": "27fe69ebd2aa6553d8681742ea690921b2166a9c4c720bb4b54f4d14ae2a6497"
+        },
+        "checked_on": "2026-10-03"
+      }
+    },
+    {
+      "key": "green-sm-2026d",
+      "type": "webpage",
+      "status": "cited",
+      "organisation": "Green SM",
+      "year": "2026",
+      "title": "Green SM officially launches fully electric taxi service in Denmark",
+      "url": "https://www.greensm.com/dk-en/news/green-sm-officially-launches-fully-electric-taxi-service-in-denmark",
+      "accessed": "2026-09-27",
+      "file": "green-sm-2026d-denmark-launch.pdf",
+      "retrieval": {
+        "method": "web-snapshot",
+        "from": "https://www.greensm.com/dk-en/news/green-sm-officially-launches-fully-electric-taxi-service-in-denmark",
+        "date": "2026-09-27",
+        "browser": "Comet (headed, D-025)"
+      },
+      "used_for": [
+        "Company/Business Introduction"
+      ],
+      "notes": "Company release (Denmark site) posted 4 August 2026 about the 30 July 2026 launch. Manual check 2026-09-27: E-008 wording p. 1; six-country boilerplate p. 4 not updated for Denmark (C-002); fleet ownership model p. 2. Re-captured in the student's Comet browser (headed) on 27 September 2026 under D-025; the earlier headless capture was replaced.",
+      "suffix": "b",
+      "verification": {
+        "notes": "",
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-03",
+          "title_words": "8/8",
+          "author_found": true,
+          "pages_checked": "1-2",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "3913ee2f316d3ea75f561723c2f7f8d3f99b6a257b524071efc340f32a499a0e",
+          "identity_sha256": "e642fc3421e821a26c7c083d2abfef3ce3b9c14841a49cb28df4cb58893e31d2"
+        },
+        "checked_on": "2026-10-03"
+      }
+    },
+    {
+      "key": "green-sm-nd",
+      "type": "webpage",
+      "status": "cited",
+      "organisation": "Green SM",
+      "year": "n.d.",
+      "title": "The story and brand of Green",
+      "url": "https://www.greensm.com/vn-en/about",
+      "accessed": "2026-09-27",
+      "file": "green-sm-nd-about.pdf",
+      "retrieval": {
+        "method": "web-snapshot",
+        "from": "https://www.greensm.com/vn-en/about",
+        "date": "2026-09-27",
+        "browser": "Comet (headed, D-025)"
+      },
+      "used_for": [
+        "Company/Business Introduction",
+        "Branding and Identity",
+        "Alignment with Business Objectives"
+      ],
+      "notes": "Company 'About' page, no publication date shown (n.d.). Vision, mission, core values p. 1; founding announcement p. 2 (E-001); undated company claims such as employee numbers and 'first electric taxi service' p. 3 must be attributed and dated 'accessed 27 September 2026'. Re-captured in the student's Comet browser (headed) on 27 September 2026 under D-025; the earlier headless capture was replaced.",
+      "verification": {
+        "notes": "",
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-03",
+          "title_words": "3/3",
+          "author_found": true,
+          "pages_checked": "1-2",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "23f1ed786692318d9004d030b742a2e619cfc1a46fc82169a7d200bf6ba730bb",
+          "identity_sha256": "9af75b2136b50c23aa32aa31ef5c212c60ac756395c1d49551c1afa58c4663ae"
+        },
+        "checked_on": "2026-10-03"
+      },
+      "suffix": ""
+    },
+    {
+      "key": "green-sm-denmark-aps-ndc",
+      "type": "webpage",
+      "status": "cited",
+      "organisation": "Green SM Denmark ApS",
+      "year": "n.d.",
+      "suffix": "",
+      "title": "Story and humanity",
+      "url": "https://www.greensm.com/dk-en/about",
+      "accessed": "2026-09-27",
+      "file": "green-sm-denmark-aps-ndc-story-and-humanity.pdf",
+      "retrieval": {
+        "method": "web-snapshot",
+        "from": "https://www.greensm.com/dk-en/about",
+        "date": "2026-09-27",
+        "browser": "Comet (headed, D-025)"
+      },
+      "used_for": [
+        "Branding and Identity",
+        "Company/Business Introduction",
+        "Positioning Strategy"
+      ],
+      "notes": "Denmark site 'About' page. Vision, mission and localised core values p. 1; environmental wording p. 3 (E-012, E-013). Re-read on 5 October 2026 for Section 3: corporate positioning promise at physical p.2 and exclusive VinFast EV/tailpipe/driver-training statements at physical p.3; current live text agrees with the existing 27 September Comet snapshot. Registered PDF hash rechecked and pp.2–3 rendered and manually inspected; no new snapshot or changed accessed date is claimed. E-208–E-209 retain corporate-promise/operating-emissions boundaries.",
+      "verification": {
+        "notes": "",
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-05",
+          "title_words": "2/2",
+          "author_found": true,
+          "pages_checked": "1-2 (title); publisher found later in the document",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "d836ff7cf0fbd96b5935514d79d7978e93b6db8b0c56fce0d7e694ab2c346187",
+          "identity_sha256": "a26ba978916975f7b0335917efda2afb9401e5ccf6812e008209b45aa6144eed"
+        },
+        "checked_on": "2026-10-05"
+      }
+    },
+    {
+      "key": "gsm-green-and-smart-mobility-joint-stock-company-2024b",
+      "type": "webpage",
+      "status": "cited",
+      "organisation": "GSM Green and Smart Mobility Joint Stock Company",
+      "year": "2024",
+      "title": "Ra mắt Gói Hội Viên siêu hời: Mua ưu đãi Xanh, đặt xe thả phanh",
+      "url": "https://www.greensm.com/vn-vi/news/ra-mat-goi-hoi-vien-sieu-tien-loi-mua-uu-dai-xanh-dat-xe-tha-phanh",
+      "accessed": "2026-09-27",
+      "file": "gsm-green-and-smart-mobility-joint-stock-company-2024b-membership-launch.pdf",
+      "retrieval": {
+        "method": "web-snapshot",
+        "from": "https://www.greensm.com/vn-vi/news/ra-mat-goi-hoi-vien-sieu-tien-loi-mua-uu-dai-xanh-dat-xe-tha-phanh",
+        "date": "2026-09-27",
+        "browser": "Comet (headed, D-025)"
+      },
+      "used_for": [
+        "Target Market Analysis",
+        "Sales Strategies"
+      ],
+      "notes": "Footer p. 6: CÔNG TY CỔ PHẦN DI CHUYỂN XANH VÀ THÔNG MINH GSM; English corporate name used consistently for the same legal entity, identified by business ID 0110269067 in the Vietnamese and English footers. Body header is 25 April 2024, 21:08 (p. 1), not 24 April. Historical capped-voucher offer, not a current package price or realised saving. Mutable page uses current Green SM brand wording. Re-purchase clause p. 3 does not establish automatic renewal. Metadata and claim passages inspected in the saved PDF text on 28 September 2026; no refs.py or human manual-verification status is asserted. Legal-entity attribution is kept distinct from the existing Green SM press-release keys; this is not independent corroboration.",
+      "suffix": "",
+      "day_month": "25 April",
+      "verification": {
+        "pdf_text": {
+          "status": "mismatch",
+          "checked_on": "2026-10-03",
+          "title_words": "4/4",
+          "author_found": false,
+          "pages_checked": "1-2",
+          "details": [
+            "first author/organisation 'GSM Green and Smart Mobility Joint Stock Company' not found on pages 1-2 or anywhere in the snapshot"
+          ],
+          "mismatch_fields": [
+            "author"
+          ],
+          "sha256": "84b47936f96cf751121db282501822ffdc84c80cddd3b4557f1eefc1e308a498",
+          "identity_sha256": "8a4024f4bc2e09f25866b44dbe95bb44bd7385697e3413b32a3e372635345314"
+        },
+        "checked_on": "2026-10-03",
+        "notes": "28 September2026: inspected corporate identity, displayed date, claim text and scope; quotes in market-source-index.json Company section."
+      },
+      "pdf_identity_accept": {
+        "sha256": "84b47936f96cf751121db282501822ffdc84c80cddd3b4557f1eefc1e308a498",
+        "identity_sha256": "8a4024f4bc2e09f25866b44dbe95bb44bd7385697e3413b32a3e372635345314",
+        "fields": [
+          "author"
+        ],
+        "checked_on": "2026-09-28",
+        "verified_by": "Parent research agent; local corporate-identity and PDF text inspection",
+        "locator": "Vietnamese corporate footer p.6, business ID p.7; English legal-name counterpart green-sm-nd-about.pdf p.9",
+        "evidence": "Vietnamese footer names CÔNG TY CỔ PHẦN DI CHUYỂN XANH VÀ THÔNG MINH GSM with business ID0110269067. Official English About page p.9 names GSM GREEN AND SMART MOBILITY JOINT STOCK COMPANY with the same business ID. Registry consistently uses that published English legal name, not an invented translation.",
+        "reason": "Vietnamese-language page does not print the official English legal name; attribution is cross-checked by identical disclosed business ID. Date/title and accessed stamp remain automatically checked."
+      }
+    },
+    {
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "type": "report",
+      "status": "cited",
+      "year": "2026",
+      "title": "Ubers køb af Dantaxi",
+      "url": "https://kfst.dk/media/dhqlgp33/20260824-uber-dantaxi.pdf",
+      "accessed": "2026-09-27",
+      "file": "konkurrence-og-forbrugerstyrelsen-2026b-uber-dantaxi-afgoerelse.pdf",
+      "retrieval": {
+        "method": "open-access",
+        "from": "https://kfst.dk/media/dhqlgp33/20260824-uber-dantaxi.pdf",
+        "date": "2026-09-27"
+      },
+      "used_for": [
+        "Target Market",
+        "Digital Marketing Strategies"
+      ],
+      "notes": "Denmark pack S11; official (competition authority); provisional public version with confidential figures shown as [xxx] or ranges. Research candidate, not approved poster citation. Metadata checked against saved PDF cover/heading and author attribution on28September2026; claims and caveats recorded in the integration index. Public decision version redacts confidential figures; title on cover is Ubers køb af Dantaxi, not the longer landing-page label.",
+      "organisation": "Konkurrence- og Forbrugerstyrelsen",
+      "suffix": "",
+      "publisher": "Konkurrence- og Forbrugerstyrelsen",
+      "verification": {
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-03",
+          "title_words": "2/2",
+          "author_found": true,
+          "pages_checked": "1-2",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "309669803ffbe59f7d14609b297dc0945df9dc3f457664645e240645dece3ffb",
+          "identity_sha256": "80b2134089f8948b8860a577587f94422e0a3aa0dbdfdcc362b1c7cf491e58d6"
+        },
+        "checked_on": "2026-10-03",
+        "notes": "28 September 2026: source PDF identity, scope and selected claim quotations checked; see market-source-index.json for locators and limitations."
+      }
+    },
+    {
+      "key": "openstax-2023",
+      "type": "webpage",
+      "status": "cited",
+      "organisation": "OpenStax",
+      "year": "2023",
+      "title": "1.2 The marketing mix and the 4Ps of marketing",
+      "url": "https://openstax.org/books/principles-marketing/pages/1-2-the-marketing-mix-and-the-4ps-of-marketing",
+      "accessed": "2026-10-04",
+      "file": "openstax-2023-marketing-mix.pdf",
+      "retrieval": {
+        "method": "web-snapshot",
+        "from": "https://openstax.org/books/principles-marketing/pages/1-2-the-marketing-mix-and-the-4ps-of-marketing",
+        "date": "2026-10-04"
+      },
+      "used_for": [
+        "Digital Marketing Tactics"
+      ],
+      "outside": true,
+      "notes": "Official OpenStax textbook section. The OpenStax preface gives book publication date 25 January 2023 and authors; section snapshot used for the 4Ps definition. Concept framework only, not Copenhagen market evidence.",
+      "verification": {
+        "notes": "",
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-04",
+          "title_words": "2/2",
+          "author_found": true,
+          "pages_checked": "1-2",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "fb439a201070dd584e112ff612aa1098f54a5f6d72b9912580c122d59bf4e3cb",
+          "identity_sha256": "a2a87d4be376246e38665b30e559f298f402a87253bb78f73d32e8b3da69cdd1"
+        },
+        "checked_on": "2026-10-04"
+      },
+      "suffix": ""
+    },
+    {
+      "key": "statistics-denmark-2026b",
+      "type": "dataset",
+      "status": "cited",
+      "year": "2026",
+      "title": "Population at the first day of the quarter by region, sex, age, marital status and time",
+      "url": "https://api.statbank.dk/v1/data/FOLK1A/HTML5?lang=en&OMR%C3%85DE=084,101&K%C3%98N=TOT&ALDER=*&CIVILSTAND=TOT&Tid=2026K3",
+      "accessed": "2026-09-27",
+      "file": "statistics-denmark-2026b-population-quarter-age.pdf",
+      "retrieval": {
+        "method": "web-snapshot",
+        "from": "https://api.statbank.dk/v1/data/FOLK1A/HTML5?lang=en&OMR%C3%85DE=084,101&K%C3%98N=TOT&ALDER=*&CIVILSTAND=TOT&Tid=2026K3",
+        "date": "2026-09-27"
+      },
+      "used_for": [
+        "Target Market",
+        "Digital Marketing Strategies"
+      ],
+      "notes": "Denmark pack S19; official. Research candidate, not approved poster citation. Metadata checked against saved PDF cover/heading and author attribution on28September2026; claims and caveats recorded in the integration index.",
+      "organisation": "Statistics Denmark",
+      "suffix": "",
+      "verification": {
+        "pdf_text": {
+          "status": "mismatch",
+          "checked_on": "2026-10-03",
+          "title_words": "7/7",
+          "author_found": false,
+          "pages_checked": "1-2",
+          "details": [
+            "first author/organisation 'Statistics Denmark' not found on pages 1-2"
+          ],
+          "mismatch_fields": [
+            "author"
+          ],
+          "sha256": "21fb094d568fb803213ada1640ecb2903d548379dee0ca87ff9b68666038f0b0",
+          "identity_sha256": "65ae2353baa41f43925145db14155064736abe15c266bf536e1b0088a52902a6"
+        },
+        "checked_on": "2026-10-03",
+        "notes": "28 September 2026: source PDF identity, scope and selected claim quotations checked; see market-source-index.json for locators and limitations."
+      },
+      "pdf_identity_accept": {
+        "sha256": "21fb094d568fb803213ada1640ecb2903d548379dee0ca87ff9b68666038f0b0",
+        "identity_sha256": "65ae2353baa41f43925145db14155064736abe15c266bf536e1b0088a52902a6",
+        "fields": [
+          "author"
+        ],
+        "checked_on": "2026-09-28",
+        "verified_by": "Parent research agent; direct saved-PDF and provenance inspection",
+        "locator": "Dataset PDF table and api.statbank.dk footer; _staging/denmark/statbank-api-provenance-20260928.pdf pp.1–2",
+        "evidence": "Official dst.dk API guide p.1 explicitly calls it Danmarks Statistiks API and Statistics Denmark open data; p.2 names https://api.statbank.dk as base URL. Dataset title/query/footer match this endpoint. Original table visually inspected.",
+        "reason": "API HTML prints the table and source URL but no publisher prose. Statistics Denmark is the official organisation, not an invented author added for matching."
+      }
+    },
+    {
+      "key": "vietnamplus-2023a",
+      "type": "news-article",
+      "status": "cited",
+      "organisation": "VietnamPlus",
+      "year": "2023",
+      "title": "First electric taxi service launched in Hanoi",
+      "url": "https://en.vietnamplus.vn/first-electric-taxi-service-launched-in-hanoi-post251560.vnp",
+      "accessed": "2026-09-27",
+      "file": "vietnamplus-2023a-hanoi-launch.pdf",
+      "retrieval": {
+        "method": "web-snapshot",
+        "from": "https://en.vietnamplus.vn/first-electric-taxi-service-launched-in-hanoi-post251560.vnp",
+        "date": "2026-09-27"
+      },
+      "used_for": [
+        "Company/Business Introduction"
+      ],
+      "notes": "Vietnam News Agency report published on VietnamPlus, 14 April 2023 (dateline p. 1). No personal author: newspaper title in author position (Cite Them Right). Independent of GSM (state news agency). E-002.",
+      "suffix": "",
+      "container": "VietnamPlus",
+      "day_month": "14 April",
+      "verification": {
+        "notes": "",
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-03",
+          "title_words": "6/6",
+          "author_found": true,
+          "pages_checked": "1-2",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "9a5b0ced0e5907798abea9cc0bea3e0f96f4f592d4ef2e0bb1e200b19c3dd998",
+          "identity_sha256": "a211e77a8089ac7eaf0065ada01f1713534734ca69b3369cdeb95b3cc37252fe"
+        },
+        "checked_on": "2026-10-03"
+      }
+    },
+    {
+      "key": "viggo-2025",
+      "type": "webpage",
+      "status": "cited",
+      "organisation": "Viggo",
+      "year": "2025",
+      "title": "Bolt enter Danish taxi market with acquisition of Viggo",
+      "url": "https://via.ritzau.dk/pressemeddelelse/14320449/bolt-enter-danish-taxi-market-with-acquisition-of-viggo?lang=da",
+      "accessed": "2026-10-05",
+      "file": "viggo-2025-bolt-acquisition-electric-fleet.pdf",
+      "retrieval": {
+        "method": "web-snapshot",
+        "from": "https://via.ritzau.dk/pressemeddelelse/14320449/bolt-enter-danish-taxi-market-with-acquisition-of-viggo?lang=da",
+        "date": "2026-10-05",
+        "browser": "Google Chrome headless; public company press release"
+      },
+      "used_for": [
+        "Positioning Strategy"
+      ],
+      "notes": "Primary company press release published 24 March 2025, distributed by Ritzau under Viggo. Parent read original page and rendered saved PDF p.2; p.1 confirms publication date/publisher/title. Existing acquired electric fleet and continuing fully electric rides supply E-211. Company quality/user/fleet counts are not independent performance verification or current 2026 inventory; only electric-option parity is used. KFST decision p.119 supplies the separate 2026 operator relationships. Anders Rohlin Olsen is an image credit, not assigned article author.",
+      "verification": {
+        "notes": "",
+        "pdf_text": {
+          "status": "match",
+          "checked_on": "2026-10-05",
+          "title_words": "7/7",
+          "author_found": true,
+          "pages_checked": "1-2",
+          "details": [],
+          "mismatch_fields": [],
+          "sha256": "77a04689c1d6a4f2cc5fe1d0fbcd13ca2fc78f7078020cdd9ef7d30b19d1674e",
+          "identity_sha256": "a3663af5d336009f8cee640994acf87d91733e5e851ce8294bc095723373a3a3"
+        },
+        "checked_on": "2026-10-05"
+      },
+      "suffix": ""
+    },
+    {
+      "key": "vingroup-2025-annual-report-2024",
+      "type": "report",
+      "status": "cited",
+      "organisation": "Vingroup Joint Stock Company",
+      "publisher": "Vingroup Joint Stock Company",
+      "year": "2025",
+      "title": "Annual Report 2024",
+      "url": "https://ircdn.vingroup.net/storage/Uploads/0_Bao%20cao%20thuong%20nien/2024/ENG_%20Vingroup%20AR24_250418.pdf",
+      "accessed": "2026-10-04",
+      "file": "vingroup-2025-annual-report-2024-report.pdf",
+      "retrieval": {
+        "method": "open-access",
+        "from": "https://cmsv5.fiingroup.vn/medialib/FG/2025/2025-04/2025-04-22/20250422_VIC-250422-Annual-Report-2024.pdf",
+        "date": "2026-10-04"
+      },
+      "used_for": [
+        "Success Dashboard — group-level data capability rationale"
+      ],
+      "notes": "4 October 2026: annual-report identity and claim manually inspected in saved PDF. Physical p.26 is a spread of printed pp.48–49; Smart Data Services statement appears on printed p.49, lower right. Corporate 2024 implementation for GSM, not proof of Copenhagen feeds, deployment or results. Official CDN retrieval returned 403; actual saved report came from FIINGroup public mirror. No byte identity with the inaccessible issuer copy is claimed. See E-207. Publication year is 2025: the signed disclosure letter on physical p.1 is dated 18 April 2025. 2024 is the reporting period, not the publication year.",
+      "verification": {
+        "notes": "4 October 2026: manually checked report identity and printed p.49 / physical p.26 Smart Data Services paragraph in context; group-level capability only. Saved mirror retrieval is disclosed.",
+        "pdf_text": {
+          "status": "mismatch",
+          "checked_on": "2026-10-04",
+          "title_words": "0/3",
+          "author_found": false,
+          "pages_checked": "1-2",
+          "details": [
+            "title words missing from pages 1-2: annual, report, 2024",
+            "first author/organisation 'Vingroup Joint Stock Company' not found on pages 1-2"
+          ],
+          "mismatch_fields": [
+            "author",
+            "title"
+          ],
+          "sha256": "a45d56457de0ff885d927da8ccb8365346acf13625108c2fd8d32f070adfd3e8",
+          "identity_sha256": "4c8f658bae58e2494c3820af24a17d7fb1a5bd756b2fcb118f673a73e92f187d"
+        },
+        "checked_on": "2026-10-04"
+      },
+      "pdf_identity_accept": {
+        "sha256": "a45d56457de0ff885d927da8ccb8365346acf13625108c2fd8d32f070adfd3e8",
+        "identity_sha256": "4c8f658bae58e2494c3820af24a17d7fb1a5bd756b2fcb118f673a73e92f187d",
+        "fields": [
+          "author",
+          "title"
+        ],
+        "checked_on": "2026-10-04",
+        "verified_by": "Parent Codex agent; independent visual inspection of saved PDF",
+        "locator": "Physical p.1 signed disclosure letter, upper-left corporate heading and annual-report subject; physical p.26 printed pp.48–49 running title and Smart Data Services panel",
+        "evidence": "Physical p.1 visibly identifies Vingroup Joint Stock Company and its 2024 Annual Report, with signed disclosure dated 18 April 2025. Physical p.26 displays ANNUAL REPORT | 2024 and the VinBigdata Smart Data Services paragraph. Corporate organisation and report identity were visually inspected from rendered pages of the saved PDF.",
+        "reason": "The disclosure letter and opening cover on physical pp.1–2 are images without extractable text; pdftotext starts substantive text on physical p.3. The automatic author/title mismatch is preserved."
+      },
+      "suffix": ""
+    }
+  ],
+  "selection": "Current ten-panel evidence and concepts only; group proposals are not historical outcomes",
+  "canonical_keys": [
+    "afa-decaux-2026",
+    "aurora-vietnam-and-inspace-creative-2026",
+    "customer-data-platform-institute-nd",
+    "drivr-nd",
+    "feng-et-al-2020",
+    "green-future-usa-inc-ndc",
+    "green-sm-2026a",
+    "green-sm-2026d",
+    "green-sm-nd",
+    "green-sm-denmark-aps-ndc",
+    "gsm-green-and-smart-mobility-joint-stock-company-2024b",
+    "konkurrence-og-forbrugerstyrelsen-2026b",
+    "openstax-2023",
+    "statistics-denmark-2026b",
+    "vietnamplus-2023a",
+    "viggo-2025",
+    "vingroup-2025-annual-report-2024"
+  ]
+}

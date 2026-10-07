@@ -1,0 +1,276 @@
+{
+  "status": "Fitting authorised; reduced copy/art pending student review",
+  "base": "02-cell-fit-v03-2026-10-05-poster.svg",
+  "base_sha256": "d57f8faa91f2a590ff97f8a421d38199d7cac8f8ecdb58bb9bba59bc19245808",
+  "base_byte_for_byte_preserved": true,
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "cell_path": "M938 230 H1227 Q1247 230 1250 250 L1257 370 Q1259 390 1237 390 H936 Q914 390 914 370 V250 Q914 230 938 230 Z",
+  "visible_text": [
+    {
+      "text": "3. Why Green SM?",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 12,
+      "size_pt_a0": 24.19,
+      "bbox": [
+        933.8395,
+        240.87389473684212,
+        1028.721966101695,
+        253.376
+      ],
+      "advance_width": 95.99999999999999
+    },
+    {
+      "text": "Positioning Strategy",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.8,
+      "size_pt_a0": 15.72,
+      "bbox": [
+        933.155138121547,
+        262.5529281767956,
+        1002.8380110497237,
+        270.10846810647917
+      ],
+      "advance_width": 70.03624309392264
+    },
+    {
+      "text": "Company promise",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        1135.2667403314917,
+        263.0888397790055,
+        1189.8229834254143,
+        269.9142541436464
+      ],
+      "advance_width": 54.96419889502762
+    },
+    {
+      "text": "Cleaner · Quieter · More reliable rides",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 11.3,
+      "size_pt_a0": 22.78,
+      "bbox": [
+        933.1469,
+        276.6662,
+        1113.9356,
+        286.52211794871795
+      ],
+      "advance_width": 181.1729000000001
+    },
+    {
+      "text": "100% electric",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 9,
+      "size_pt_a0": 18.14,
+      "bbox": [
+        934.386,
+        296.53,
+        987.891,
+        304.4070571428571
+      ],
+      "advance_width": 54.96299999999999
+    },
+    {
+      "text": "Smart app booking",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.6,
+      "size_pt_a0": 17.34,
+      "bbox": [
+        1039.1566695652175,
+        296.8752185185185,
+        1110.0876,
+        306.0382
+      ],
+      "advance_width": 71.1994
+    },
+    {
+      "text": "Professional care",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.6,
+      "size_pt_a0": 17.34,
+      "bbox": [
+        1147.170925,
+        296.905,
+        1211.3832210526316,
+        304.3889657142857
+      ],
+      "advance_width": 64.55160000000001
+    },
+    {
+      "text": "Zero tailpipe",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        960.278453038674,
+        315.9958011049724,
+        1001.5929281767956,
+        322.94121546961327
+      ],
+      "advance_width": 41.73613259668508
+    },
+    {
+      "text": "emissions",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        960.2943646408839,
+        328.0196685082873,
+        989.2057458563536,
+        333.23867403314915
+      ],
+      "advance_width": 29.47624309392265
+    },
+    {
+      "text": "Quieter EV rides",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.8,
+      "size_pt_a0": 15.72,
+      "bbox": [
+        933.3318232044198,
+        344.50121546961327,
+        992.0990055248619,
+        350.667955801105
+      ],
+      "advance_width": 59.39204419889502
+    },
+    {
+      "text": "App → electric taxi",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        1040.1437697545934,
+        354.0653038674033,
+        1103.178232044199,
+        360.9142541436464
+      ],
+      "advance_width": 63.68033149171271
+    },
+    {
+      "text": "Trained drivers",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        1168.085670718232,
+        316.9946961325967,
+        1215.7386740331492,
+        322.1569060773481
+      ],
+      "advance_width": 48.005414364640885
+    },
+    {
+      "text": "Service standards",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        1168.4236464088399,
+        328.9946961325967,
+        1224.4391160220994,
+        334.1578867403315
+      ],
+      "advance_width": 56.70585635359117
+    },
+    {
+      "text": "Customer support",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.8,
+      "size_pt_a0": 15.72,
+      "bbox": [
+        1147.2930386740331,
+        344.57878453038677,
+        1209.4603314917126,
+        352.1029834254144
+      ],
+      "advance_width": 62.63270718232043
+    },
+    {
+      "text": "Plan: Owned fleet · Employed drivers → Service control",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        933.1611049723757,
+        369.9675138121547,
+        1138.7847513812153,
+        378.18386740331493
+      ],
+      "advance_width": 206.44707182320445
+    },
+    {
+      "text": "Uber / Bolt: Taxi partners operate rides",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        933.5330386740332,
+        381.39911602209946,
+        1064.350276243094,
+        388.94121546961327
+      ],
+      "advance_width": 131.620773480663
+    }
+  ],
+  "glyph_bbox_corners_outside_native_cell": [],
+  "pairwise_text_overlaps": [],
+  "minimum_ordinary_lettering_pt_a0": 14.31,
+  "logo": "Approved shared hand-drawn Green SM logo reused unchanged; new simple native phone/taxi and service icons",
+  "manual_visual_review": "Controller inspected final close-up and full A0 preview on 5 October 2026; student review pending. No physical print proof."
+}

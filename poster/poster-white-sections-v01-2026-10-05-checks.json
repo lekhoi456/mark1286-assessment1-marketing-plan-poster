@@ -1,0 +1,93 @@
+{
+  "base": "poster-global-header-v02-2026-10-05.svg",
+  "base_sha256": "00041b6e13bfd2da7215371187099f7f86c259c498804b7b1c845a6c4354a7c1",
+  "neutral_fills_changed": 112,
+  "scope": "Ten main cell paper fills; 101 cream neutral diagram/icon fills; one group-cloud paper fill. No brand colour, heading, figure, geometry or image payload changed.",
+  "change_only_fill_attributes_restores_base_exactly": true,
+  "sections": [
+    {
+      "section": 1,
+      "white_panel": "01-white-bg-v01-2026-10-05-panel.svg",
+      "transparent_layer": "01-white-bg-v01-2026-10-05-transparent.svg",
+      "cream_fills_changed": 8,
+      "display_labels_preserved": true,
+      "embedded_images_preserved": true
+    },
+    {
+      "section": 2,
+      "white_panel": "02-white-bg-v01-2026-10-05-panel.svg",
+      "transparent_layer": "02-white-bg-v01-2026-10-05-transparent.svg",
+      "cream_fills_changed": 23,
+      "display_labels_preserved": true,
+      "embedded_images_preserved": true
+    },
+    {
+      "section": 3,
+      "white_panel": "03-white-bg-v01-2026-10-05-panel.svg",
+      "transparent_layer": "03-white-bg-v01-2026-10-05-transparent.svg",
+      "cream_fills_changed": 6,
+      "display_labels_preserved": true,
+      "embedded_images_preserved": true
+    },
+    {
+      "section": 4,
+      "white_panel": "04-white-bg-v01-2026-10-05-panel.svg",
+      "transparent_layer": "04-white-bg-v01-2026-10-05-transparent.svg",
+      "cream_fills_changed": 3,
+      "display_labels_preserved": true,
+      "embedded_images_preserved": true
+    },
+    {
+      "section": 5,
+      "white_panel": "05-white-bg-v01-2026-10-05-panel.svg",
+      "transparent_layer": "05-white-bg-v01-2026-10-05-transparent.svg",
+      "cream_fills_changed": 10,
+      "display_labels_preserved": true,
+      "embedded_images_preserved": true
+    },
+    {
+      "section": 6,
+      "white_panel": "06-white-bg-v01-2026-10-05-panel.svg",
+      "transparent_layer": "06-white-bg-v01-2026-10-05-transparent.svg",
+      "cream_fills_changed": 5,
+      "display_labels_preserved": true,
+      "embedded_images_preserved": true
+    },
+    {
+      "section": 7,
+      "white_panel": "07-white-bg-v01-2026-10-05-panel.svg",
+      "transparent_layer": "07-white-bg-v01-2026-10-05-transparent.svg",
+      "cream_fills_changed": 8,
+      "display_labels_preserved": true,
+      "embedded_images_preserved": true
+    },
+    {
+      "section": 8,
+      "white_panel": "08-white-bg-v01-2026-10-05-panel.svg",
+      "transparent_layer": "08-white-bg-v01-2026-10-05-transparent.svg",
+      "cream_fills_changed": 6,
+      "display_labels_preserved": true,
+      "embedded_images_preserved": true
+    },
+    {
+      "section": 9,
+      "white_panel": "09-white-bg-v01-2026-10-05-panel.svg",
+      "transparent_layer": "09-white-bg-v01-2026-10-05-transparent.svg",
+      "cream_fills_changed": 26,
+      "display_labels_preserved": true,
+      "embedded_images_preserved": true
+    },
+    {
+      "section": 10,
+      "white_panel": "10-white-bg-v01-2026-10-05-panel.svg",
+      "transparent_layer": "10-white-bg-v01-2026-10-05-transparent.svg",
+      "cream_fills_changed": 16,
+      "display_labels_preserved": true,
+      "embedded_images_preserved": true
+    }
+  ],
+  "transparent_layer_rule": "Main cell fill none; existing icon whites retained; outside all native cells remains transparent. Full A0 uses white paper fills, not cyan-through transparent cells.",
+  "pdfinfo": "Producer:        cairo 1.18.4 (https://cairographics.org)\nCreationDate:    Mon Oct  5 15:22:18 2026 +07\nCustom Metadata: no\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           1\nEncrypted:       no\nPage size:       3370.39 x 2383.94 pts (A0)\nPage rot:        0\nFile size:       13430334 bytes\nOptimized:       no\nPDF version:     1.7\n",
+  "visual_review": "Controller inspected full A0: ten white cells and matching white group-cloud paper, unchanged header/vehicle/lettering. Standalone PNG alpha verified with sips; transparent overlay main-cell fill none. Physical print not tested.",
+  "student_review": "pending"
+}

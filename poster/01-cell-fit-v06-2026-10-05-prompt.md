@@ -1,0 +1,3 @@
+# Section 1 v06 production brief
+
+Use the neighbouring native render.py. Preserve the established v05 heading/wordmark baseline and corporate-icon alignment. Arrange top to bottom: heading with right-hand Vingroup-backed/Founded block; simple phone → cyan taxi with full VinFast door identity; Owned fleet · Employed drivers; two rows of four country flags; one single line “Green SM Taxi: app-booked electric taxi rides in Copenhagen” at the foot of the cell. Enlarge Denmark slightly; preserve its yellow frame/date, Vietnam home/date and Netherlands pilot. Keep hand-drawn lettering, broad flat colour regions and the existing artwork. Preserve background and Sections 5–8. Return the fitted cell for student review.

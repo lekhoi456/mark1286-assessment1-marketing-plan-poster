@@ -1,0 +1,3 @@
+# Remove decorative left cloud
+
+Student request: remove the left background cloud. Preserve University of Greenwich logo, header, all ten white sections, group information cloud at right, car, harbour, flags and page framing. Built-in imagegen edits the original empty-cell background: remove only the decorative white-outline upper-left cloud and its horizontal white strokes, continuing the surrounding cyan sky. Keep all other elements unchanged. The assembly uses only a feathered bounded patch x=0–330, y=90–255 in the original 1672-wide frame; generated pixels elsewhere are not used. Native content/header artwork and original raster remain unchanged outside this patch. Return full A0 proof and reusable blank-cell background.

@@ -1,0 +1,5 @@
+# Section 9 fitting brief — v01
+
+Fit the student-selected archive/09-candidate-v03-2026-10-04.svg into native cell 9 of the accepted Section 4 v01 assembly. Convert its four proposed-pilot blocks into four horizontal illustrated lanes: Target S1 → Dispatch AI → Connect care → Test retention, with a Measure/refine learning return. Retain source meaning, advertised-versus-proposed distinctions, testing measures, stop rule and common readiness/cost exclusions. Exact surface text is in the matching display-copy file.
+
+Use controlled hand-drawn lettering, navy outlines, cream background and broad flat cyan/yellow regions. Simplify database, AI network, reminder phone, taxi, support person and calendar; preserve the one-trip-ID branching and compare pay-per-trip with monthly packages. No micro grids, shading, photographic assets, extra Green SM logos or invented results. Underline only the heading width. Preserve other assembly layers and true A0 landscape dimensions. Check fonts, curved-cell bounds, text overlaps and actual close-up/full rendering; return for student review and stop before Section 10.

@@ -1,0 +1,5 @@
+# Header and References footer production brief
+
+Move the existing hand-drawn University of Greenwich logo to the centre above the title. Preserve the existing Denmark flag / Copenhagen meet / Green SM title, subtitle and shared logo payloads, shifting their complete row and subtitle down 42 native units. Leave ten white cells, body copy/numbers, vehicle, harbour, flags, right identity cloud and bounded left-cloud-removal patch unchanged.
+
+Cover only the paving below native y=1020 with pure white through the A0 page edge. Add References in four alphabetical columns using controlled Chalkboard SE hand-drawn lettering, italic work titles, full clickable URLs and actual access dates. Render the selected verified references from the registry, normalising year suffixes within this selection while retaining canonical keys internally. Proposed budgets/KPIs/pilots are group proposals. No visible in-cell citation labels added. References are authorised by the latest student request, superseding the earlier no-visible-source decision for this footer. Produce full A0 PNG/PDF/SVG, header and References close-ups for human review.

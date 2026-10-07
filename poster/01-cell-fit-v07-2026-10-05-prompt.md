@@ -1,0 +1,5 @@
+# Section 1 v07 reconciliation brief
+
+Authorised by the sequential D-134 improvement plan after Section 9 acceptance. Preserve the accepted Section 1 v06 vertical sequence, exact copy, dates, eight country identities, Vietnam home cue, Denmark four-sided gold frame, Netherlands pilot and full VinFast identity on the taxi centre door. Reuse the exact embedded Green SM and Vingroup logo images. Replace only Section 1 in the Section 9 v02 assembly.
+
+Anchor pilot directly below Netherlands. Align flag rows and date sizes. Remove nonessential flag-band hatching by preserving original band shapes and colours as broad flat fills, with all stars, cross, wheel, sun, eagle and ornamental symbols retained. Match navy/cyan/gold/cream and rounded native outlines. Aim for 21 pt heading and at least 12.5 pt ordinary lettering. Widen the exact one-line bottom introduction towards the lower left and inspect the foreground mirror against its glyphs. No new facts, sources, image regeneration, content removal or other-section edits. v06 D-115 remains accepted fallback until v07 acceptance.

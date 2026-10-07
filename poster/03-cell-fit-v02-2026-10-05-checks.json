@@ -1,0 +1,342 @@
+{
+  "status": "Fitting authorised; reduced copy/art pending student review",
+  "base": "02-cell-fit-v03-2026-10-05-poster.svg",
+  "base_sha256": "d57f8faa91f2a590ff97f8a421d38199d7cac8f8ecdb58bb9bba59bc19245808",
+  "base_byte_for_byte_preserved": true,
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "cell_path": "M938 230 H1227 Q1247 230 1250 250 L1257 370 Q1259 390 1237 390 H936 Q914 390 914 370 V250 Q914 230 938 230 Z",
+  "visible_text": [
+    {
+      "text": "3. Why Green SM?",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 12,
+      "size_pt_a0": 24.19,
+      "bbox": [
+        933.8395,
+        240.87389473684212,
+        1028.721966101695,
+        253.376
+      ],
+      "advance_width": 95.99999999999999
+    },
+    {
+      "text": "Positioning Strategy",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.8,
+      "size_pt_a0": 15.72,
+      "bbox": [
+        933.155138121547,
+        260.5529281767956,
+        1002.8380110497237,
+        268.10846810647917
+      ],
+      "advance_width": 70.03624309392264
+    },
+    {
+      "text": "Proposed position",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.3,
+      "size_pt_a0": 14.72,
+      "bbox": [
+        1145.1451933701658,
+        260.85370165745854,
+        1201.7948066298343,
+        267.9681767955801
+      ],
+      "advance_width": 57.117458563535905
+    },
+    {
+      "text": "Clear terms",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 9.2,
+      "size_pt_a0": 18.55,
+      "bbox": [
+        938.1196,
+        287.45516363636364,
+        984.6164,
+        295.41610285714285
+      ],
+      "advance_width": 46.80960000000001
+    },
+    {
+      "text": "Local care",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 9.2,
+      "size_pt_a0": 18.55,
+      "bbox": [
+        1149.1748,
+        287.4008,
+        1189.7874736842105,
+        295.41610285714285
+      ],
+      "advance_width": 40.967600000000004
+    },
+    {
+      "text": "Service area",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        955.4296132596685,
+        302.0196685082873,
+        995.8672753707473,
+        307.16011049723755
+      ],
+      "advance_width": 41.099668508287294
+    },
+    {
+      "text": "Operating hours",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        955.302320441989,
+        313.9958011049724,
+        1007.2218784530387,
+        320.9462782521346
+      ],
+      "advance_width": 52.49237569060776
+    },
+    {
+      "text": "Fare terms",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        955.1829834254144,
+        325.9958011049724,
+        989.846408839779,
+        331.15911602209945
+      ],
+      "advance_width": 35.11690607734807
+    },
+    {
+      "text": "Trip reference",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        1165.0868773480663,
+        301.72530386740334,
+        1211.0322651933702,
+        308.94121546961327
+      ],
+      "advance_width": 46.175469613259686
+    },
+    {
+      "text": "A clear route",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        1165.1457946807143,
+        314.9958011049724,
+        1207.889723756906,
+        320.24288592785183
+      ],
+      "advance_width": 43.03292817679557
+    },
+    {
+      "text": "to local help",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        1165.517127071823,
+        325.9958011049724,
+        1205.1211049723756,
+        332.94121546961327
+      ],
+      "advance_width": 40.415469613259674
+    },
+    {
+      "text": "App-booked electric rides",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.3,
+      "size_pt_a0": 14.72,
+      "bbox": [
+        1047.1478196068354,
+        335.84563535911605,
+        1132.1478453038674,
+        342.9681767955801
+      ],
+      "advance_width": 85.42209944751377
+    },
+    {
+      "text": "Generally quieter than combustion-engine vehicles",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        933.2179005524862,
+        344.24375690607735,
+        1087.9723756906078,
+        350.85591160220997
+      ],
+      "advance_width": 155.22784530386735
+    },
+    {
+      "text": "Green SM: Owned fleet \u00b7 Employed drivers",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        933.2307182320442,
+        353.6377900552486,
+        1072.966408839779,
+        360.94121546961327
+      ],
+      "advance_width": 140.2369060773481
+    },
+    {
+      "text": "Uber / Bolt: Taxi partners operate rides",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        1114.5034254143645,
+        353.7102762430939,
+        1238.0530386740331,
+        360.83337016574586
+      ],
+      "advance_width": 124.3085082872928
+    },
+    {
+      "text": "Company service approach",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.3,
+      "size_pt_a0": 14.72,
+      "bbox": [
+        933.2742541436464,
+        362.95049723756904,
+        1019.6965745856353,
+        369.9681767955801
+      ],
+      "advance_width": 87.06762430939226
+    },
+    {
+      "text": "Trained drivers",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        947.0868773480663,
+        374.42419889502764,
+        995.411049723757,
+        379.65911602209945
+      ],
+      "advance_width": 48.68154696132598
+    },
+    {
+      "text": "Operational standards",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        1053.302320441989,
+        374.42419889502764,
+        1123.838453038674,
+        381.44121546961327
+      ],
+      "advance_width": 71.10895027624309
+    },
+    {
+      "text": "Customer service procedures",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.580705166145263,
+      "size_pt_a0": 13.27,
+      "bbox": [
+        1161.2472309123193,
+        374.8607846453031,
+        1246.7527690876807,
+        381.27424537076183
+      ],
+      "advance_width": 86.00000000000001
+    },
+    {
+      "text": "Delivery plan: Use direct fleet and driver control to support clear terms and local help.",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        933.0145856353591,
+        382.0846408839779,
+        1195.6508287292818,
+        388.77944751381216
+      ],
+      "advance_width": 263.1175690607733
+    }
+  ],
+  "glyph_bbox_corners_outside_native_cell": [],
+  "pairwise_text_overlaps": [],
+  "minimum_ordinary_lettering_pt_a0": 13.27,
+  "logo": "Approved shared hand-drawn Green SM asset reused unchanged; phone/taxi artwork reused from archive/03-approved.svg",
+  "manual_visual_review": "Controller inspected final close-up; student acceptance pending",
+  "copy_words": 70,
+  "approved_source": "archive/03-approved.svg",
+  "removed_duplicate": "Target Market audience/age/behavioural positioning strip",
+  "copy_check": "Zero effective base hard stops; two whole-poster table markers outside this fragment"
+}

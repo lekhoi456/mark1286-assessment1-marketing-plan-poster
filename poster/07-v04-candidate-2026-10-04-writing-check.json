@@ -1,0 +1,191 @@
+{
+  "exit_code": 2,
+  "result": {
+    "version": "1.0.0",
+    "genre": {
+      "mode": "poster",
+      "budget": {
+        "total": "600000",
+        "allocated": "600000",
+        "share_total": "100.00"
+      },
+      "kpi_rows": 0,
+      "sections": [
+        {
+          "heading": "7. Budget & Resources",
+          "words": 252,
+          "budget": 270
+        }
+      ],
+      "total_words": 252,
+      "speakers": {},
+      "errors": [
+        "Expected exactly one <!-- kpi-table --> marker; found 0"
+      ]
+    },
+    "base": {
+      "version": "2.0.0",
+      "total_words": 256,
+      "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+      "limit": {},
+      "sections": [
+        {
+          "name": "7. Budget & Resources",
+          "words": 256,
+          "budget": null,
+          "is_refs": false,
+          "first_person": 0
+        }
+      ],
+      "references": {
+        "citations": 0,
+        "entries": 0,
+        "hard": [],
+        "review": [],
+        "keys": []
+      },
+      "figures": {
+        "figures": 0,
+        "tables": 0,
+        "caption_words": 0,
+        "hard": [],
+        "review": []
+      },
+      "template_echo": {},
+      "anti_slop": {
+        "status": "ran",
+        "context": "general",
+        "source_mode": "rendered-markdown",
+        "score": 2,
+        "label": "Minimal AI signals",
+        "hard": [],
+        "review": [
+          {
+            "type": "cross-para-burstiness",
+            "text": "Sentence-rhythm uniform across paragraphs (σCV=0.07)",
+            "severity": "medium",
+            "suggestion": "Every paragraph has the same internal rhythm. Humans vary cadence between terse and discursive paragraphs.",
+            "why": "review (stylometric, wordiness or house-overridden)"
+          }
+        ],
+        "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+      },
+      "module_scope": {
+        "named": {},
+        "outside": []
+      },
+      "hard_stops": 3,
+      "hard_by_category": {
+        "integrity": 0,
+        "grammar": 3,
+        "style": 0,
+        "referencing": 0,
+        "figures": 0,
+        "anti_slop": 0,
+        "word_limit": 0,
+        "module_scope": 0
+      },
+      "findings": {
+        "ai_fingerprints": [],
+        "placeholders": [],
+        "numeric_markers": [],
+        "bypass_chars": [],
+        "speculation": [],
+        "vague_attribution": [],
+        "dashes": [],
+        "semicolons": [],
+        "banned": [],
+        "reflective_cliches": [],
+        "banned_soft": [],
+        "banned_in_quotation": [],
+        "banned_allowed": [],
+        "us_spelling": [],
+        "hedges": [],
+        "hedge_stacks": [],
+        "universals": [],
+        "mechanical_transitions": [],
+        "stance_openers": [],
+        "cleft_openers": [],
+        "double_connectives": [],
+        "duplicated_phrases": [],
+        "verbless_sentences": [
+          "Street screens wait for repeat evidence."
+        ],
+        "label_colons": [
+          "People: 460 company hours across research/service checks, local creative, campaign management and CRM/help-rou",
+          "Screens: 200,000 planned impressions ÷ 1,000 × published DKK191 CPM = DKK38,200, plus DKK4,995 setup. This use",
+          "Before Gate A at M4: DKK177,000 exposed. Before Gate B at M6: DKK265,000 exposed. Fail: hold, fix, retest."
+        ],
+        "comma_splices": [],
+        "sentence_count": 16,
+        "sentence_mean": 16.8,
+        "sentence_min": 3,
+        "sentence_max": 98,
+        "short_sentences": 8,
+        "long_sentences": 1,
+        "uniform_sentence_runs": [],
+        "paragraph_count": 9,
+        "paragraph_lengths": [
+          14,
+          76,
+          14,
+          20,
+          11,
+          23,
+          25,
+          48,
+          38
+        ],
+        "uniform_paragraphs": [],
+        "repeated_openings": [],
+        "colons_total": 16,
+        "colons_per_100w": 5.95,
+        "colons_per_paragraph": [
+          1,
+          9,
+          1,
+          2,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "colon_heavy_paragraphs": [
+          2
+        ],
+        "colon_quota_rhythm": true,
+        "colon_absent": false
+      }
+    },
+    "effective_base_hard_by_category": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "genre_review": [
+      {
+        "type": "label_colon",
+        "text": "People: 460 company hours across research/service checks, local creative, campaign management and CRM/help-rou",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      },
+      {
+        "type": "label_colon",
+        "text": "Screens: 200,000 planned impressions ÷ 1,000 × published DKK191 CPM = DKK38,200, plus DKK4,995 setup. This use",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      },
+      {
+        "type": "label_colon",
+        "text": "Before Gate A at M4: DKK177,000 exposed. Before Gate B at M6: DKK265,000 exposed. Fail: hold, fix, retest.",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      }
+    ],
+    "hard_stops": 1,
+    "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+  }
+}

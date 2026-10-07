@@ -1,0 +1,364 @@
+{
+  "status": "Section 4 v03 candidate: student-requested slogan line-break adjustment only; student review pending",
+  "base": "04-cell-fit-v02-2026-10-05-poster.svg",
+  "base_sha256": "84fd12e2e174cca1f59065f556ba57e9882a26109324ff08d5dc5c54968024e3",
+  "other_nine_cells_and_background_byte_for_byte_preserved": true,
+  "restored_base_sha256": "84fd12e2e174cca1f59065f556ba57e9882a26109324ff08d5dc5c54968024e3",
+  "replacement_layer_id": "section-04-v03-candidate",
+  "old_layer_occurrences_after_replacement": 0,
+  "new_layer_occurrences": 1,
+  "cell_path": "M1286 231 Q1354 234 1401 250 Q1436 261 1456 287 L1497 367 Q1512 389 1495 390 H1293 Q1272 390 1271 370 L1264 251 Q1263 231 1286 231 Z",
+  "native_cell_unchanged": true,
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "pdf_measured_mm": [
+    1188.999,
+    841.001
+  ],
+  "pdf_page_count": 1,
+  "visible_text": [
+    {
+      "text": "4. Branding & Identity",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 10.5,
+      "size_pt_a0": 21.17,
+      "bbox": [
+        1277.895,
+        247.148,
+        1378.8945,
+        258.079
+      ],
+      "advance_width": 100.99949999999998,
+      "maximum_width": 120
+    },
+    {
+      "text": "Green SM =",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.4,
+      "size_pt_a0": 14.92,
+      "bbox": [
+        1278.111,
+        288.8693740740741,
+        1314.556,
+        295.296
+      ],
+      "advance_width": 36.8742,
+      "maximum_width": 106
+    },
+    {
+      "text": "Green and Smart Mobility",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.4,
+      "size_pt_a0": 14.92,
+      "bbox": [
+        1278.2371270718231,
+        301.7832044198895,
+        1364.502320441989,
+        308.68441988950275
+      ],
+      "advance_width": 86.69038674033153,
+      "maximum_width": 114
+    },
+    {
+      "text": "Go Green",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 9.2,
+      "size_pt_a0": 18.55,
+      "bbox": [
+        1278.138,
+        311.4652,
+        1313.3648,
+        319.36673103448277
+      ],
+      "advance_width": 35.54880000000001,
+      "maximum_width": 114
+    },
+    {
+      "text": "For a Green Future.",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 9.2,
+      "size_pt_a0": 18.55,
+      "bbox": [
+        1278.107674074074,
+        323.2887603960396,
+        1353.1019000000001,
+        331.4784
+      ],
+      "advance_width": 75.2284,
+      "maximum_width": 114
+    },
+    {
+      "text": "Primary",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1394.1312707182321,
+        270.3909392265193,
+        1417.2349171270719,
+        276.50232044198896
+      ],
+      "advance_width": 23.402651933701662,
+      "maximum_width": 45
+    },
+    {
+      "text": "New Cyan",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        1408.1065,
+        280.17735454545453,
+        1437.9549,
+        287.4058
+      ],
+      "advance_width": 30.096899999999998,
+      "maximum_width": 46
+    },
+    {
+      "text": "#28bdbf",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1394.1677348066298,
+        293.16486187845305,
+        1420.8375690607734,
+        298.2771270718232
+      ],
+      "advance_width": 26.677127071823207,
+      "maximum_width": 62
+    },
+    {
+      "text": "Pantone 319 C",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1394.1312707182321,
+        305.3909392265193,
+        1437.1078453038674,
+        310.2260773480663
+      ],
+      "advance_width": 43.28287292817679,
+      "maximum_width": 65
+    },
+    {
+      "text": "Secondary",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1394.3938121546962,
+        317.347182320442,
+        1424.8923756906077,
+        323.50232044198896
+      ],
+      "advance_width": 31.060110497237574,
+      "maximum_width": 65
+    },
+    {
+      "text": "New Yellow",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        1408.1065,
+        329.1195294117647,
+        1442.0871,
+        335.3211228571429
+      ],
+      "advance_width": 34.158100000000005,
+      "maximum_width": 68
+    },
+    {
+      "text": "#e3bb42",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1408.1677348066298,
+        342.38364640883975,
+        1435.041767955801,
+        347.2771270718232
+      ],
+      "advance_width": 27.39182320441989,
+      "maximum_width": 62
+    },
+    {
+      "text": "Xanh Display 2.0",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.5,
+      "size_pt_a0": 15.12,
+      "bbox": [
+        1317.4475138121547,
+        336.7955801104972,
+        1373.9254143646408,
+        344.0220994475138
+      ],
+      "advance_width": 57.13259668508287,
+      "maximum_width": 82
+    },
+    {
+      "text": "Modern Liquid Glass UI/UX",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.3,
+      "size_pt_a0": 14.72,
+      "bbox": [
+        1317.219,
+        348.9483,
+        1403.3475567567568,
+        356.4527
+      ],
+      "advance_width": 86.40280000000001,
+      "maximum_width": 153
+    },
+    {
+      "text": "Layered · soft · clear",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.0,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        1317.3635359116022,
+        361.8718232044199,
+        1385.406629834254,
+        368.59337016574585
+      ],
+      "advance_width": 68.3524861878453,
+      "maximum_width": 153
+    },
+    {
+      "text": "Danish first · English second",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.0,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        1357.3624309392264,
+        375.81767955801104,
+        1446.32817679558,
+        382.8922149673531
+      ],
+      "advance_width": 89.30607734806632,
+      "maximum_width": 170
+    }
+  ],
+  "glyph_bbox_corners_outside_native_cell": [],
+  "pairwise_text_overlaps": [],
+  "width_violations": [],
+  "minimum_ordinary_lettering_pt_a0": 13.3,
+  "heading_size_pt_a0": 21.17,
+  "exact_display_copy_multiset_matches": true,
+  "all_other_v02_displayed_strings_preserved": true,
+  "slogan_line_break_before": [
+    "Go Green For",
+    "a Green Future."
+  ],
+  "slogan_line_break_after": [
+    "Go Green",
+    "For a Green Future."
+  ],
+  "slogan_joined_string_exactly_preserved": true,
+  "slogan_joined_sha256": "40459b8eabed5579c8fd3bd38b4269b71fc20f2481583e91aed9b4dbbbc35b5b",
+  "all_other_v02_text_geometry_preserved": true,
+  "global_tagline_retained_in_notes_for_later_header_assembly": "Clear terms. Local care.",
+  "global_tagline_not_added_to_other_cells_or_header": true,
+  "logo_embedded_payload_unchanged": true,
+  "logo_embedded_payload_sha256": "f04958b914b7b185e23bcf67f532c9e5efd7bfd36c9ea1b4a84c197eafabbf19",
+  "logo_matches_approved_archive_source": true,
+  "all_other_embedded_images_byte_for_byte_preserved": true,
+  "artwork_geometry_boxes_inside_cell": true,
+  "layered_phone_native_box": [
+    1280,
+    337,
+    1306,
+    377
+  ],
+  "heading_underline_width_native": 100.99949999999998,
+  "heading_underline_matches_text_width": true,
+  "language_line_size_pt_a0": 14.11,
+  "language_line_bottom_clearance_native": 7.107785032646916,
+  "palette": {
+    "navy": "#173a47",
+    "cyan": "#28bdbf",
+    "gold": "#e3bb42",
+    "cream": "#fdfbef"
+  },
+  "fragment_presentcheck": {
+    "exit": 2,
+    "genre_words": 39,
+    "detector_status": "ran",
+    "detector_score": 0,
+    "effective_base_hard_by_category": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "whole_poster_tables_outside_fragment": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ]
+  },
+  "manual_visual_review": "Producer inspected actual final panel: Go Green occupies the upper slogan line and For a Green Future. the lower line, with the same size/baselines and clear separation from the palette and lower UI; controller/student review pending.",
+  "all_other_v02_svg_artwork_preserved": true,
+  "slogan_size_pt_a0": {
+    "Go Green": 18.55,
+    "For a Green Future.": 18.55
+  },
+  "slogan_size_px_retained": true,
+  "controller_visual_review": "Controller inspected final panel on 5 October 2026: exact requested slogan wrap, unchanged font sizes/baselines and clear palette/UI separation. No clipping. Other artwork preserved by focused checks."
+}

@@ -1,0 +1,615 @@
+{
+  "status": "HUMAN-REVIEW candidate; no copy or image acceptance",
+  "base": "poster-a0-layout-v02-2026-10-04.svg",
+  "base_sha256": "3fe72f9972f81ce4cb86726efe8591b2059806dfcb6181c484ac84b661325ee7",
+  "cell_path": "M309 400 H587 Q610 400 611 423 V575 Q611 598 587 598 H374 Q338 598 310 578 Q260 541 260 499 Q260 448 285 419 Q296 400 309 400 Z",
+  "background_source_prefix_unchanged": true,
+  "visible_text": [
+    {
+      "text": "5. Digital Marketing",
+      "requested_size_px": 14,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 14,
+      "size_pt_a0": 28.22,
+      "bbox": [
+        350.8225,
+        411.14,
+        473.102,
+        425.702
+      ],
+      "advance_width": 123.28399999999998
+    },
+    {
+      "text": "40–50%",
+      "requested_size_px": 10,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 10,
+      "size_pt_a0": 20.16,
+      "bbox": [
+        349.9,
+        433.5285714285714,
+        387.25,
+        442.69
+      ],
+      "advance_width": 37.3
+    },
+    {
+      "text": "one app",
+      "requested_size_px": 7,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        402.17790055248616,
+        438.5425414364641,
+        426.4961325966851,
+        443.88729281767957
+      ],
+      "advance_width": 24.78232044198895
+    },
+    {
+      "text": "57% lower price · 22% usual app",
+      "requested_size_px": 6.5,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        480.381875,
+        436.4396111111111,
+        570.9155,
+        443.5405
+      ],
+      "advance_width": 91.04549999999998
+    },
+    {
+      "text": "DK · n=1,005",
+      "requested_size_px": 5.7,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        350.0125966850829,
+        447.1806850828729,
+        383.14187845303866,
+        451.75580110497236
+      ],
+      "advance_width": 33.42530386740332
+    },
+    {
+      "text": "Capital · n=79 · multi-select",
+      "requested_size_px": 5.7,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        480.21414364640884,
+        447.03834254143646,
+        552.2923756906077,
+        452.5367955801105
+      ],
+      "advance_width": 72.41834254143649
+    },
+    {
+      "text": "Separate samples · not 25–44-specific",
+      "requested_size_px": 5.7,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        350.34011049723756,
+        460.78011049723756,
+        449.0918232044199,
+        466.5367955801105
+      ],
+      "advance_width": 99.29337016574586
+    },
+    {
+      "text": "Marketing Mix",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        283.198,
+        448.5748,
+        327.59549285714286,
+        455.2738
+      ],
+      "advance_width": 44.6292
+    },
+    {
+      "text": "4Ps*",
+      "requested_size_px": 7,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        282.93,
+        457.09866666666665,
+        298.51835185185183,
+        463.4776
+      ],
+      "advance_width": 15.658999999999999
+    },
+    {
+      "text": "Product",
+      "requested_size_px": 7,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        298.139125,
+        467.218,
+        321.898,
+        473.322
+      ],
+      "advance_width": 24.01
+    },
+    {
+      "text": "Electric + service",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        281.26254143646406,
+        479.41281767955803,
+        333.0561325966851,
+        484.22264543386416
+      ],
+      "advance_width": 52.187403314917134
+    },
+    {
+      "text": "Price",
+      "requested_size_px": 7,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        293.139125,
+        492.225,
+        308.31194736842104,
+        498.31596551724135
+      ],
+      "advance_width": 15.449000000000003
+    },
+    {
+      "text": "Clear fare + trial",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        277.247955801105,
+        503.16486187845305,
+        328.2393370165746,
+        508.22264543386416
+      ],
+      "advance_width": 51.7790055248619
+    },
+    {
+      "text": "Place",
+      "requested_size_px": 7,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        297.139125,
+        516.225,
+        313.03294736842105,
+        522.3166
+      ],
+      "advance_width": 16.17
+    },
+    {
+      "text": "Page → app",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        281.13127071823203,
+        527.3909392265193,
+        316.8733701657459,
+        533.78408839779
+      ],
+      "advance_width": 36.1432044198895
+    },
+    {
+      "text": "Promotion",
+      "requested_size_px": 7,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        307.139125,
+        540.225,
+        338.5,
+        546.3159655172414
+      ],
+      "advance_width": 31.640000000000004
+    },
+    {
+      "text": "Search / social",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        296.39381215469615,
+        550.8658563535912,
+        340.945635359116,
+        556.5032044198895
+      ],
+      "advance_width": 45.48530386740332
+    },
+    {
+      "text": "/ reminders",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        305.3646408839779,
+        559.8658563535912,
+        340.2170165745856,
+        565.5032044198895
+      ],
+      "advance_width": 35.4649723756906
+    },
+    {
+      "text": "*Proposed",
+      "requested_size_px": 5.7,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        308.19524861878455,
+        568.3581215469613,
+        333.8861878453039,
+        574.5367955801105
+      ],
+      "advance_width": 26.150718232044202
+    },
+    {
+      "text": "Omni Channel · Search / SEO / Social",
+      "requested_size_px": 7.1,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        350.1775,
+        469.0087210526316,
+        464.97740000000005,
+        475.3763
+      ],
+      "advance_width": 115.11939999999997
+    },
+    {
+      "text": "Copenhagen page",
+      "requested_size_px": 7,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        352.091,
+        537.0931052631579,
+        404.85294736842104,
+        544.659
+      ],
+      "advance_width": 52.98999999999999
+    },
+    {
+      "text": "Green SM app",
+      "requested_size_px": 6.5,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        433.0975,
+        537.6149907407407,
+        472.1495,
+        544.5405
+      ],
+      "advance_width": 39.279500000000006
+    },
+    {
+      "text": "Ride + help",
+      "requested_size_px": 7.5,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.5,
+      "size_pt_a0": 15.12,
+      "bbox": [
+        510.2025,
+        536.6711842105263,
+        544.9275,
+        544.7775
+      ],
+      "advance_width": 35.07750000000001
+    },
+    {
+      "text": "Same fares / offers / help",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        377.39381215469615,
+        545.8658563535912,
+        458.3076243093923,
+        552.7794475138121
+      ],
+      "advance_width": 81.57745856353591
+    },
+    {
+      "text": "10% vs 20%",
+      "requested_size_px": 8.6,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.6,
+      "size_pt_a0": 17.34,
+      "bbox": [
+        369.3244,
+        558.733,
+        413.279,
+        566.4908142857142
+      ],
+      "advance_width": 45.321999999999996
+    },
+    {
+      "text": "First paid ride",
+      "requested_size_px": 6.3,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        364.07373333333334,
+        569.7194772277228,
+        401.96645263157893,
+        576.4931
+      ],
+      "advance_width": 38.089800000000004
+    },
+    {
+      "text": "30-day paid*",
+      "requested_size_px": 6.3,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        467.4407375,
+        571.7070224137931,
+        505.49241666666666,
+        578.4931
+      ],
+      "advance_width": 38.619
+    },
+    {
+      "text": "Max DKK30 · 400 cap · 1/rider",
+      "requested_size_px": 5.7,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        346.1385635359116,
+        579.5659668508288,
+        427.387182320442,
+        585.5367955801105
+      ],
+      "advance_width": 81.34309392265193
+    },
+    {
+      "text": "CDP join → Big Data patterns → Marketing AI remind",
+      "requested_size_px": 5.7,
+      "resolved_font_names": [
+        "MarkerFelt-Wide",
+        "Native vector arrow"
+      ],
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        467.0741,
+        555.2234,
+        599.7549826086956,
+        561.3509
+      ],
+      "advance_width": 132.95250000000001
+    },
+    {
+      "text": "Opt-in · human review · proposed",
+      "requested_size_px": 5.7,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        467.2393370165746,
+        563.9816574585635,
+        553.1550276243094,
+        569.5367955801105
+      ],
+      "advance_width": 86.41955801104976
+    },
+    {
+      "text": "M1–2",
+      "requested_size_px": 6.1,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.1,
+      "size_pt_a0": 12.3,
+      "bbox": [
+        378.183,
+        586.8455,
+        393.67827674418606,
+        592.3481357142857
+      ],
+      "advance_width": 15.9942
+    },
+    {
+      "text": "Verify",
+      "requested_size_px": 5.7,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        401.1196685082873,
+        587.8241988950276,
+        416.4624309392265,
+        593.2974585635359
+      ],
+      "advance_width": 15.607292817679559
+    },
+    {
+      "text": "M3–6",
+      "requested_size_px": 6.1,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.1,
+      "size_pt_a0": 12.3,
+      "bbox": [
+        451.183,
+        586.8750534482758,
+        467.0613,
+        592.3418975609756
+      ],
+      "advance_width": 16.47
+    },
+    {
+      "text": "Test · M4/M6 gates",
+      "requested_size_px": 5.7,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        474.0687779005525,
+        587.5659668508288,
+        524.6323756906078,
+        593.5408036162733
+      ],
+      "advance_width": 50.846519337016574
+    },
+    {
+      "text": "M7–12",
+      "requested_size_px": 6.1,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.1,
+      "size_pt_a0": 12.3,
+      "bbox": [
+        534.183,
+        586.7817888888889,
+        554.3630767441861,
+        592.3782
+      ],
+      "advance_width": 20.679
+    },
+    {
+      "text": "Scale if gates",
+      "requested_size_px": 5.7,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        557.3401104972376,
+        587.8241988950276,
+        591.6975690607735,
+        593.5408036162733
+      ],
+      "advance_width": 34.91171270718232
+    }
+  ],
+  "min_pt": 11.49,
+  "actual_resolved_letter_fonts": [
+    "ChalkboardSE-Regular",
+    "MarkerFelt-Wide",
+    "Native vector arrow"
+  ],
+  "font_fallback_policy": "Letters resolve to actual named fonts. Unicode arrows use deliberate native vector outlines, replacing automatic STSongti fallback.",
+  "visible_copy_identical_to_v02": true,
+  "actual_plaintext_word_tokens": 90,
+  "heading_underline_start": 350,
+  "heading_underline_end": 473.284,
+  "glyph_bbox_corners_inside_native_cell": true,
+  "out_of_cell_strings": [],
+  "pdf_page_mm": null,
+  "raster_sizes": {
+    "poster": [
+      1672,
+      1183
+    ],
+    "close-up": [
+      1600,
+      921
+    ]
+  },
+  "body_font_shrinking_needed": false,
+  "background_source_reconstruction_assertion": true,
+  "copy_gate": "Not rerun; exact v02 copy retained. v02 focused gate has only standalone absent whole-poster budget/KPI tables.",
+  "artwork_changes": "None. Same v02 composition and same v09 raster art with native masks."
+}

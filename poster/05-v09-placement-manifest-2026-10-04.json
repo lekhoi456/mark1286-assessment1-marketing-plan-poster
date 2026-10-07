@@ -1,0 +1,1036 @@
+{
+  "panel": 5,
+  "version": "v09",
+  "dimensions": [
+    1800,
+    1400
+  ],
+  "copy_source": "05-v09-copy-2026-10-04.md",
+  "approval_decision": "D-089",
+  "controlled_lettering": "CoreText glyph outlines with aria-label metadata",
+  "palette": {
+    "paper": "#fffdf5",
+    "navy": "#173a47",
+    "New Cyan": "#28bdbf",
+    "New Yellow": "#e3bb42"
+  },
+  "visible_text": [
+    {
+      "id": "text-00",
+      "text": "5. Digital Marketing",
+      "font": "MarkerFelt-Wide",
+      "size": 60,
+      "role": "heading",
+      "bbox": [
+        75.53,
+        43.17,
+        599.58,
+        105.58
+      ]
+    },
+    {
+      "id": "text-01",
+      "text": "Copenhagen · ages 25–44 · repeat self-paying taxi riders",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        75.23,
+        116.37,
+        778.12,
+        143.19
+      ]
+    },
+    {
+      "id": "text-02",
+      "text": "5.1 CUSTOMER INSIGHT",
+      "font": "MarkerFelt-Wide",
+      "size": 29,
+      "role": "heading",
+      "bbox": [
+        74.7,
+        152.43,
+        369.32,
+        179.0
+      ]
+    },
+    {
+      "id": "text-03",
+      "text": "DENMARK · INSTALLED TAXI APPS · n=1,005",
+      "font": "ChalkboardSE",
+      "size": 24,
+      "role": "body",
+      "bbox": [
+        88.93,
+        202.35,
+        589.57,
+        223.56
+      ]
+    },
+    {
+      "id": "text-04",
+      "text": "CAPITAL REGION · last-trip app-choice reasons · n=79",
+      "font": "ChalkboardSE",
+      "size": 24,
+      "role": "body",
+      "bbox": [
+        797.05,
+        202.32,
+        1382.45,
+        225.0
+      ]
+    },
+    {
+      "id": "text-05",
+      "text": "40–50%",
+      "font": "MarkerFelt-Wide",
+      "size": 57,
+      "role": "heading",
+      "bbox": [
+        84.43,
+        233.71,
+        297.33,
+        285.93
+      ]
+    },
+    {
+      "id": "text-06",
+      "text": "have one app.",
+      "font": "ChalkboardSE",
+      "size": 30,
+      "role": "body",
+      "bbox": [
+        305.93,
+        251.41,
+        491.46,
+        279.25
+      ]
+    },
+    {
+      "id": "text-07",
+      "text": "57%",
+      "font": "MarkerFelt-Wide",
+      "size": 53,
+      "role": "heading",
+      "bbox": [
+        798.11,
+        232.66,
+        897.02,
+        281.66
+      ]
+    },
+    {
+      "id": "text-08",
+      "text": "lower price",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        906.87,
+        249.92,
+        1039.16,
+        275.84
+      ]
+    },
+    {
+      "id": "text-09",
+      "text": "·",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        1069.06,
+        258.67,
+        1072.56,
+        262.17
+      ]
+    },
+    {
+      "id": "text-10",
+      "text": "22%",
+      "font": "MarkerFelt-Wide",
+      "size": 53,
+      "role": "heading",
+      "bbox": [
+        1103.34,
+        233.22,
+        1202.03,
+        281.02
+      ]
+    },
+    {
+      "id": "text-11",
+      "text": "usual app",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        1212.75,
+        249.92,
+        1331.37,
+        275.84
+      ]
+    },
+    {
+      "id": "text-12",
+      "text": "· multi-select.",
+      "font": "ChalkboardSE",
+      "size": 24,
+      "role": "body",
+      "bbox": [
+        1371.77,
+        252.79,
+        1509.2,
+        270.48
+      ]
+    },
+    {
+      "id": "text-13",
+      "text": "Separate samples · not specific to ages 25–44.",
+      "font": "ChalkboardSE",
+      "size": 23,
+      "role": "caveat",
+      "bbox": [
+        88.11,
+        291.09,
+        563.1,
+        313.09
+      ]
+    },
+    {
+      "id": "text-14",
+      "text": "5.2 MARKETING MIX · 4Ps",
+      "font": "MarkerFelt-Wide",
+      "size": 29,
+      "role": "heading",
+      "bbox": [
+        74.7,
+        318.43,
+        412.27,
+        345.0
+      ]
+    },
+    {
+      "id": "text-15",
+      "text": "PRODUCT",
+      "font": "MarkerFelt-Wide",
+      "size": 28,
+      "role": "heading",
+      "bbox": [
+        146.56,
+        363.69,
+        259.85,
+        388.26
+      ]
+    },
+    {
+      "id": "text-16",
+      "text": "ELECTRIC RIDE +",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        89.39,
+        399.37,
+        323.44,
+        420.52
+      ]
+    },
+    {
+      "id": "text-17",
+      "text": "CONTROLLED SERVICE*",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        88.23,
+        431.37,
+        418.26,
+        452.59
+      ]
+    },
+    {
+      "id": "text-18",
+      "text": "PRICE",
+      "font": "MarkerFelt-Wide",
+      "size": 28,
+      "role": "heading",
+      "bbox": [
+        569.56,
+        363.61,
+        639.37,
+        388.48
+      ]
+    },
+    {
+      "id": "text-19",
+      "text": "CLEAR FARE +",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        511.23,
+        399.37,
+        707.59,
+        420.52
+      ]
+    },
+    {
+      "id": "text-20",
+      "text": "TRIAL OFFER*",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        510.45,
+        431.37,
+        700.67,
+        452.59
+      ]
+    },
+    {
+      "id": "text-21",
+      "text": "PLACE",
+      "font": "MarkerFelt-Wide",
+      "size": 28,
+      "role": "heading",
+      "bbox": [
+        991.56,
+        363.61,
+        1067.67,
+        388.48
+      ]
+    },
+    {
+      "id": "text-22",
+      "text": "COPENHAGEN PAGE →",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        933.23,
+        399.37,
+        1247.57,
+        420.59
+      ]
+    },
+    {
+      "id": "text-23",
+      "text": "GREEN SM APP",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        933.35,
+        431.4,
+        1142.34,
+        452.59
+      ]
+    },
+    {
+      "id": "text-24",
+      "text": "PROMOTION",
+      "font": "MarkerFelt-Wide",
+      "size": 28,
+      "role": "heading",
+      "bbox": [
+        1409.56,
+        363.69,
+        1560.51,
+        388.27
+      ]
+    },
+    {
+      "id": "text-25",
+      "text": "SEARCH + SOCIAL +",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        1351.35,
+        399.37,
+        1623.57,
+        420.59
+      ]
+    },
+    {
+      "id": "text-26",
+      "text": "REMINDERS",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        1352.46,
+        431.41,
+        1516.7,
+        452.59
+      ]
+    },
+    {
+      "id": "text-27",
+      "text": "*Proposed service and trial offer.",
+      "font": "ChalkboardSE",
+      "size": 23,
+      "role": "caveat",
+      "bbox": [
+        88.88,
+        464.27,
+        417.93,
+        485.8
+      ]
+    },
+    {
+      "id": "text-28",
+      "text": "5.3 OMNI CHANNEL",
+      "font": "MarkerFelt-Wide",
+      "size": 31,
+      "role": "heading",
+      "bbox": [
+        75.82,
+        486.74,
+        340.73,
+        515.14
+      ]
+    },
+    {
+      "id": "text-29",
+      "text": "consent",
+      "font": "ChalkboardSE",
+      "size": 23,
+      "role": "safeguard",
+      "bbox": [
+        1314.66,
+        497.61,
+        1394.02,
+        513.46
+      ]
+    },
+    {
+      "id": "text-30",
+      "text": "privacy",
+      "font": "ChalkboardSE",
+      "size": 23,
+      "role": "safeguard",
+      "bbox": [
+        1475.33,
+        496.5,
+        1546.58,
+        517.93
+      ]
+    },
+    {
+      "id": "text-31",
+      "text": "access",
+      "font": "ChalkboardSE",
+      "size": 23,
+      "role": "safeguard",
+      "bbox": [
+        1634.92,
+        500.62,
+        1704.75,
+        513.46
+      ]
+    },
+    {
+      "id": "text-32",
+      "text": "PAID SEARCH",
+      "font": "MarkerFelt-Wide",
+      "size": 27,
+      "role": "heading",
+      "bbox": [
+        102.54,
+        536.44,
+        255.82,
+        560.43
+      ]
+    },
+    {
+      "id": "text-33",
+      "text": "“electric taxi Copenhagen”",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        138.07,
+        571.37,
+        463.1,
+        598.19
+      ]
+    },
+    {
+      "id": "text-34",
+      "text": "SEO",
+      "font": "MarkerFelt-Wide",
+      "size": 27,
+      "role": "heading",
+      "bbox": [
+        158.49,
+        620.44,
+        201.52,
+        644.43
+      ]
+    },
+    {
+      "id": "text-35",
+      "text": "fare / area / booking FAQs",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        158.38,
+        651.37,
+        483.84,
+        678.19
+      ]
+    },
+    {
+      "id": "text-36",
+      "text": "SOCIAL CONTENT",
+      "font": "MarkerFelt-Wide",
+      "size": 27,
+      "role": "heading",
+      "bbox": [
+        167.49,
+        705.44,
+        370.82,
+        729.43
+      ]
+    },
+    {
+      "id": "text-37",
+      "text": "short electric-ride +",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        167.9,
+        738.85,
+        405.03,
+        759.56
+      ]
+    },
+    {
+      "id": "text-38",
+      "text": "booking demos",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        168.61,
+        768.85,
+        355.89,
+        795.19
+      ]
+    },
+    {
+      "id": "text-39",
+      "text": "COPENHAGEN PAGE",
+      "font": "MarkerFelt-Wide",
+      "size": 29,
+      "role": "heading",
+      "bbox": [
+        660.38,
+        762.77,
+        901.6,
+        788.54
+      ]
+    },
+    {
+      "id": "text-40",
+      "text": "GREEN SM APP",
+      "font": "MarkerFelt-Wide",
+      "size": 29,
+      "role": "heading",
+      "bbox": [
+        1020.43,
+        762.77,
+        1212.7,
+        788.54
+      ]
+    },
+    {
+      "id": "text-41",
+      "text": "RIDE + HELP",
+      "font": "MarkerFelt-Wide",
+      "size": 29,
+      "role": "heading",
+      "bbox": [
+        1430.78,
+        762.77,
+        1579.47,
+        788.54
+      ]
+    },
+    {
+      "id": "text-42",
+      "text": "Consistent fares, offers and help across channels.",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        89.23,
+        809.37,
+        705.98,
+        835.84
+      ]
+    },
+    {
+      "id": "text-43",
+      "text": "Trip history",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        120.73,
+        862.85,
+        257.39,
+        889.0
+      ]
+    },
+    {
+      "id": "text-44",
+      "text": "likely need",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        475.72,
+        862.85,
+        604.32,
+        889.0
+      ]
+    },
+    {
+      "id": "text-45",
+      "text": "opt-in reminder",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        815.66,
+        862.85,
+        1002.82,
+        888.84
+      ]
+    },
+    {
+      "id": "text-46",
+      "text": "paid repeat.",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        1210.67,
+        862.85,
+        1354.42,
+        888.84
+      ]
+    },
+    {
+      "id": "text-47",
+      "text": "CDP* · join trip, app and",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        88.23,
+        937.37,
+        385.55,
+        963.91
+      ]
+    },
+    {
+      "id": "text-48",
+      "text": "consent records",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        87.81,
+        969.85,
+        285.2,
+        990.56
+      ]
+    },
+    {
+      "id": "text-49",
+      "text": "Big Data* · identify repeat",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        647.06,
+        937.63,
+        961.86,
+        964.19
+      ]
+    },
+    {
+      "id": "text-50",
+      "text": "patterns at scale",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        646.61,
+        969.92,
+        849.23,
+        995.84
+      ]
+    },
+    {
+      "id": "text-51",
+      "text": "Marketing AI* · suggest",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        1194.06,
+        937.92,
+        1479.29,
+        964.19
+      ]
+    },
+    {
+      "id": "text-52",
+      "text": "reminder timing/message",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        1193.87,
+        969.85,
+        1505.13,
+        996.19
+      ]
+    },
+    {
+      "id": "text-53",
+      "text": "*Proposed after data/system checks · human review.",
+      "font": "ChalkboardSE",
+      "size": 23,
+      "role": "caveat",
+      "bbox": [
+        88.88,
+        1003.27,
+        621.58,
+        1024.93
+      ]
+    },
+    {
+      "id": "text-54",
+      "text": "5.4 VOUCHER + 30-DAY PACKAGE",
+      "font": "MarkerFelt-Wide",
+      "size": 29,
+      "role": "heading",
+      "bbox": [
+        76.7,
+        1039.43,
+        493.5,
+        1066.0
+      ]
+    },
+    {
+      "id": "text-55",
+      "text": "Vietnam mechanics → Copenhagen pilot.",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        88.71,
+        1077.37,
+        600.16,
+        1104.19
+      ]
+    },
+    {
+      "id": "text-56",
+      "text": "10–20%",
+      "font": "MarkerFelt-Wide",
+      "size": 53,
+      "role": "heading",
+      "bbox": [
+        200.16,
+        1129.21,
+        389.42,
+        1177.02
+      ]
+    },
+    {
+      "id": "text-57",
+      "text": "OFF ONE RIDE",
+      "font": "ChalkboardSE",
+      "size": 29,
+      "role": "body",
+      "bbox": [
+        194.13,
+        1187.63,
+        397.74,
+        1209.61
+      ]
+    },
+    {
+      "id": "text-58",
+      "text": "30-DAY PACKAGE",
+      "font": "MarkerFelt-Wide",
+      "size": 36,
+      "role": "heading",
+      "bbox": [
+        731.52,
+        1125.75,
+        1008.79,
+        1158.02
+      ]
+    },
+    {
+      "id": "text-59",
+      "text": "proposed paid offer",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        731.61,
+        1175.63,
+        970.46,
+        1201.84
+      ]
+    },
+    {
+      "id": "text-60",
+      "text": "Measure redemption +",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        1222.06,
+        1119.85,
+        1500.1,
+        1145.84
+      ]
+    },
+    {
+      "id": "text-61",
+      "text": "paid repeats.",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        1221.61,
+        1152.85,
+        1379.36,
+        1178.84
+      ]
+    },
+    {
+      "id": "text-62",
+      "text": "Cost cap: align Sections 6/7.",
+      "font": "ChalkboardSE",
+      "size": 28,
+      "role": "body",
+      "bbox": [
+        1221.23,
+        1193.37,
+        1572.34,
+        1220.19
+      ]
+    },
+    {
+      "id": "text-63",
+      "text": "5.5 TIMELINE",
+      "font": "MarkerFelt-Wide",
+      "size": 29,
+      "role": "heading",
+      "bbox": [
+        76.7,
+        1249.43,
+        247.29,
+        1276.0
+      ]
+    },
+    {
+      "id": "text-64",
+      "text": "M1–2",
+      "font": "MarkerFelt-Wide",
+      "size": 34,
+      "role": "heading",
+      "bbox": [
+        102.02,
+        1293.27,
+        188.39,
+        1323.94
+      ]
+    },
+    {
+      "id": "text-65",
+      "text": "verify service/data",
+      "font": "ChalkboardSE",
+      "size": 27,
+      "role": "body",
+      "bbox": [
+        101.15,
+        1331.36,
+        318.0,
+        1356.79
+      ]
+    },
+    {
+      "id": "text-66",
+      "text": "M3–6",
+      "font": "MarkerFelt-Wide",
+      "size": 34,
+      "role": "heading",
+      "bbox": [
+        662.02,
+        1293.43,
+        750.52,
+        1323.91
+      ]
+    },
+    {
+      "id": "text-67",
+      "text": "test content/offers · M4/M6 gates",
+      "font": "ChalkboardSE",
+      "size": 27,
+      "role": "body",
+      "bbox": [
+        661.3,
+        1331.36,
+        1052.74,
+        1356.97
+      ]
+    },
+    {
+      "id": "text-68",
+      "text": "M7–12",
+      "font": "MarkerFelt-Wide",
+      "size": 34,
+      "role": "heading",
+      "bbox": [
+        1224.02,
+        1292.91,
+        1336.5,
+        1324.11
+      ]
+    },
+    {
+      "id": "text-69",
+      "text": "refine · scale after gates",
+      "font": "ChalkboardSE",
+      "size": 27,
+      "role": "body",
+      "bbox": [
+        1224.81,
+        1331.36,
+        1510.18,
+        1356.97
+      ]
+    }
+  ],
+  "illustration_placements": [
+    {
+      "asset": "05-v09-illustration-atlas-2026-10-04.png",
+      "name": "Copenhagen information page and FAQs",
+      "source_viewbox": [
+        30,
+        78,
+        525,
+        491
+      ],
+      "destination": [
+        673,
+        557,
+        246,
+        194
+      ],
+      "stretch": false
+    },
+    {
+      "asset": "05-v09-illustration-atlas-2026-10-04.png",
+      "name": "Green SM app route and booking screen",
+      "source_viewbox": [
+        632,
+        64,
+        276,
+        491
+      ],
+      "destination": [
+        1021,
+        535,
+        214,
+        215
+      ],
+      "stretch": false
+    },
+    {
+      "asset": "05-v09-illustration-atlas-2026-10-04.png",
+      "name": "Electric taxi ride and help",
+      "source_viewbox": [
+        919,
+        95,
+        617,
+        440
+      ],
+      "destination": [
+        1368,
+        554,
+        329,
+        197
+      ],
+      "stretch": false
+    },
+    {
+      "asset": "05-v09-illustration-atlas-2026-10-04.png",
+      "name": "Trip record and relevant reminder illustration",
+      "source_viewbox": [
+        1027,
+        578,
+        509,
+        370
+      ],
+      "destination": [
+        1467,
+        834,
+        220,
+        98
+      ],
+      "stretch": false
+    },
+    {
+      "asset": "05-v09-illustration-atlas-2026-10-04.png",
+      "name": "One-ride discount voucher",
+      "source_viewbox": [
+        24,
+        643,
+        550,
+        289
+      ],
+      "destination": [
+        79,
+        1112,
+        451,
+        129
+      ],
+      "stretch": true
+    },
+    {
+      "asset": "05-v09-illustration-atlas-2026-10-04.png",
+      "name": "Paid 30-day package calendar",
+      "source_viewbox": [
+        580,
+        582,
+        440,
+        377
+      ],
+      "destination": [
+        596,
+        1124,
+        113,
+        106
+      ],
+      "stretch": false
+    }
+  ],
+  "generated_art": "05-v09-illustration-atlas-2026-10-04.png",
+  "builtin_imagegen": true,
+  "scope": "Section 5 only; visual candidate, no group/A0/print acceptance claim"
+}

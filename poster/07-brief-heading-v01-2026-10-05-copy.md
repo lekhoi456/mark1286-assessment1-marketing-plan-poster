@@ -1,0 +1,82 @@
+## 7. Budget and Resource Allocation
+<!-- budget: 120 -->
+
+Proposed DKK600,000
+
+12 months · excluding VAT
+
+Local delivery first · Search/social drive trial
+
+Team
+
+276,000 / 46%
+
+Search
+
+108,000 / 18%
+
+Social
+
+90,000 / 15%
+
+Screens
+
+43,195 / 7.2%
+
+Tools
+
+30,000 / 5%
+
+Vouchers
+
+12,000 / 2%
+
+400 riders
+
+Contingency
+
+40,805 / 6.8%
+
+DKK / % · bars: 0–300,000
+
+460h × DKK600/h*
+
+Checks
+
+60h
+
+Creative/
+
+localisation
+
+120h
+
+Campaigns
+
+160h
+
+CRM/help
+
+120h
+
+*Planning allowance
+
+Outside budget: cars, drivers,
+
+charging / frontline support
+
+Budget reviews · cumulative commitments
+
+M4 review
+
+DKK177,000
+
+M6 review
+
+DKK265,000
+
+Held at M6
+
+Remaining DKK335,000
+
+M6: 265,000 + 335,000 = 600,000

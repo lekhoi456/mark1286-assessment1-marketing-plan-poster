@@ -1,0 +1,7 @@
+# Section 7 v03 production brief
+
+5 October 2026. User authorises the next image after approving D-105 content direction. Use the existing native Section 5–6 A0 assembly and add only cell 7. Native chart/icons and controlled vector lettering preserve exact budget numbers. This is a reproducible native SVG render, not image-model lettering.
+
+Move the proposed total beside the heading with a visible gap. Place period/VAT directly beneath total. Raise/enlarge the budget chart. Keep all seven amounts/shares, common DKK0–300,000 scale, four resource icons/hours and declared planning cost rate. Put 400 riders without a border in the voucher bar's unused region. Put the scale legend beneath Contingency. Add a short allocation reason and a compact, readable M4/M6 review route with cumulative committed budgets and held remainder. Remove cohort forecasts, repeat conditions and payback figures from this cell. Those outcomes belong to Section 8 and retained financial notes. Use verified hand-drawn lettering, flat cyan/yellow/cream regions, navy outlines and an underline matching heading width. No logo or raster asset added.
+
+Preserve all original/background and Section 5–6 bytes. Current copy basis: 07-v06-copy-2026-10-04.md. The retained 07-cell-fit-v02-2026-10-04-glyphs.swift is a production dependency, not latest content. New condensed lettering and arrangement await human visual review.

@@ -1,0 +1,218 @@
+{
+  "version": "1.0.0",
+  "genre": {
+    "mode": "poster",
+    "budget": {},
+    "kpi_rows": 0,
+    "sections": [
+      {
+        "heading": "10. Business Goals & Growth",
+        "words": 144,
+        "budget": 150
+      }
+    ],
+    "total_words": 144,
+    "speakers": {},
+    "errors": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ]
+  },
+  "base": {
+    "version": "2.0.0",
+    "total_words": 144,
+    "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+    "limit": {},
+    "sections": [
+      {
+        "name": "10. Business Goals & Growth",
+        "words": 37,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "Consideration → paid trial → stable service → repeat use",
+        "words": 7,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "Build consideration locally",
+        "words": 14,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "Win paid trial",
+        "words": 14,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "Protect stable service",
+        "words": 15,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "Grow through repeat",
+        "words": 20,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "Intended business outcome",
+        "words": 37,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      }
+    ],
+    "references": {
+      "citations": 0,
+      "entries": 0,
+      "hard": [],
+      "review": [],
+      "keys": []
+    },
+    "figures": {
+      "figures": 0,
+      "tables": 0,
+      "caption_words": 0,
+      "hard": [],
+      "review": []
+    },
+    "template_echo": {},
+    "anti_slop": {
+      "status": "ran",
+      "context": "general",
+      "source_mode": "rendered-markdown",
+      "score": 0,
+      "label": "Clean",
+      "hard": [],
+      "review": [],
+      "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+    },
+    "module_scope": {
+      "named": {},
+      "outside": []
+    },
+    "hard_stops": 1,
+    "hard_by_category": {
+      "integrity": 0,
+      "grammar": 1,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "findings": {
+      "ai_fingerprints": [],
+      "placeholders": [],
+      "numeric_markers": [],
+      "bypass_chars": [],
+      "speculation": [],
+      "vague_attribution": [],
+      "dashes": [],
+      "semicolons": [],
+      "banned": [],
+      "reflective_cliches": [],
+      "banned_soft": [],
+      "banned_in_quotation": [],
+      "banned_allowed": [],
+      "us_spelling": [],
+      "hedges": [],
+      "hedge_stacks": [],
+      "universals": [],
+      "mechanical_transitions": [],
+      "stance_openers": [],
+      "cleft_openers": [],
+      "double_connectives": [],
+      "duplicated_phrases": [],
+      "verbless_sentences": [
+        "Target vs M1–2 baseline by M12."
+      ],
+      "label_colons": [
+        "M12: Renew · Revise · Stop.\n\nReview consideration, first paid riders, service, mature repeat and contribution."
+      ],
+      "comma_splices": [],
+      "sentence_count": 11,
+      "sentence_mean": 11.6,
+      "sentence_min": 6,
+      "sentence_max": 18,
+      "short_sentences": 3,
+      "long_sentences": 0,
+      "uniform_sentence_runs": [
+        {
+          "at_sentence": 6,
+          "lengths": [
+            13,
+            18,
+            13
+          ]
+        }
+      ],
+      "paragraph_count": 11,
+      "paragraph_lengths": [
+        8,
+        9,
+        18,
+        10,
+        12,
+        11,
+        17,
+        10,
+        6,
+        10,
+        11
+      ],
+      "uniform_paragraphs": [],
+      "repeated_openings": [],
+      "colons_total": 0,
+      "colons_per_100w": 0.0,
+      "colons_per_paragraph": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "colon_heavy_paragraphs": [],
+      "colon_quota_rhythm": false,
+      "colon_absent": false
+    }
+  },
+  "effective_base_hard_by_category": {
+    "integrity": 0,
+    "grammar": 0,
+    "style": 0,
+    "referencing": 0,
+    "figures": 0,
+    "anti_slop": 0,
+    "word_limit": 0,
+    "module_scope": 0
+  },
+  "genre_review": [
+    {
+      "type": "label_colon",
+      "text": "M12: Renew · Revise · Stop.\n\nReview consideration, first paid riders, service, mature repeat and contribution.",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    }
+  ],
+  "hard_stops": 2,
+  "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+}

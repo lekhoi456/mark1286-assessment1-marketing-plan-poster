@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-04",
+  "section": 9,
+  "version": 3,
+  "surface_words": 90,
+  "previous_surface_words": 162,
+  "reduction_percent": 44.4,
+  "word_count_convention": "All visible strings including numbered headings; punctuation-only tokens excluded",
+  "checker_words": 89,
+  "text_objects": 41,
+  "portable_and_native_svg_text_matches_manifest": true,
+  "copy_generated_from_same_display_strings": true,
+  "source_hashes_match_v02": true,
+  "source_pdf_content_reaudited": false,
+  "text_outside_frame": 0,
+  "intersecting_text_boxes": 0,
+  "visual_review": "Full-size and 900 x 850 previews inspected; no clipping or text/art overlap found",
+  "writing_gate_exit": 2,
+  "writing_gate_effective_base_hard_by_category": {
+    "integrity": 0,
+    "grammar": 0,
+    "style": 0,
+    "referencing": 0,
+    "figures": 0,
+    "anti_slop": 0,
+    "word_limit": 0,
+    "module_scope": 0
+  },
+  "expected_fragment_errors": [
+    "Expected exactly one <!-- budget-table --> marker; found 0",
+    "Expected exactly one <!-- kpi-table --> marker; found 0"
+  ],
+  "detector_status": "ran",
+  "full_dimensions": [
+    1800,
+    1700
+  ],
+  "small_dimensions": [
+    900,
+    850
+  ],
+  "physical_a0_verified": false,
+  "user_visual_acceptance": true,
+  "group_approval_claimed": false,
+  "student_acceptance_date": "2026-10-04",
+  "student_acceptance_message": "được"
+}

@@ -1,0 +1,3 @@
+# Section 1 v04 alignment brief
+
+Preserve v03 sizes, content, flags, dates, lower artwork, full VinFast identity and the other poster sections. Align 1. Meet and the visible GREEN SM wordmark on a common word baseline. Calculate this from visible letters, accounting for the original logo's taller emblem and transparent padding. Do not reshape or repaint the logo. Centre Vingroup emblem and calendar icon on their corresponding text lines; use one icon-column centre and one corporate-text left edge. Retain the hand-drawn lettering, flat colours and text-width underline. Produce native SVG/A0 exports plus a header proof, inspect them and wait for student review. Reproduce with the neighbouring render.py using python3 -B.

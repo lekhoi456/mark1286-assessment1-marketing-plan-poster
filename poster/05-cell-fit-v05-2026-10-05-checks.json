@@ -1,0 +1,629 @@
+{
+  "status": "D-134 Section 5 improvement candidate awaiting student review. Accepted Section 6 v04 D-136 preserved.",
+  "base": "06-cell-fit-v04-2026-10-05-poster.svg",
+  "base_sha256": "8e8bc81374107d012212e34c9b25b74be801cafd6e75afe0d29795a87001a22e",
+  "other_nine_cells_and_background_byte_for_byte_preserved": true,
+  "cell_path": "M309 400 H587 Q610 400 611 423 V575 Q611 598 587 598 H374 Q338 598 310 578 Q260 541 260 499 Q260 448 285 419 Q296 400 309 400 Z",
+  "visible_text": [
+    {
+      "text": "5. Digital Marketing",
+      "requested_size_px": 10.5,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 10.5,
+      "size_pt_a0": 21.17,
+      "bbox": [
+        350.616875,
+        411.105,
+        442.3265,
+        422.0265
+      ],
+      "advance_width": 92.46300000000001
+    },
+    {
+      "text": "Denmark · n=1,005",
+      "requested_size_px": 6.2,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        350.01370165745857,
+        430.62232044198896,
+        402.58696132596685,
+        435.82209944751384
+      ],
+      "advance_width": 52.89524861878452
+    },
+    {
+      "text": "40–50%",
+      "requested_size_px": 9.5,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 9.5,
+      "size_pt_a0": 19.15,
+      "bbox": [
+        349.905,
+        439.95214285714286,
+        385.3875,
+        448.6555
+      ],
+      "advance_width": 35.435
+    },
+    {
+      "text": "one app",
+      "requested_size_px": 7,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        407.17790055248616,
+        444.5425414364641,
+        431.4961325966851,
+        449.88729281767957
+      ],
+      "advance_width": 24.78232044198895
+    },
+    {
+      "text": "Capital Region · n=79",
+      "requested_size_px": 6.2,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        469.23292817679555,
+        430.62917127071825,
+        528.3850913727157,
+        436.675961828227
+      ],
+      "advance_width": 59.75292817679558
+    },
+    {
+      "text": "Lower price",
+      "requested_size_px": 6.8,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        469.35314917127073,
+        441.2963535911602,
+        504.96861878453035,
+        447.83337016574586
+      ],
+      "advance_width": 36.103867403314915
+    },
+    {
+      "text": "57%",
+      "requested_size_px": 8,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8,
+      "size_pt_a0": 16.13,
+      "bbox": [
+        578.47,
+        439.15644444444445,
+        593.4,
+        446.552
+      ],
+      "advance_width": 15.440000000000001
+    },
+    {
+      "text": "Usual app",
+      "requested_size_px": 6.8,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        469.50342541436464,
+        457.28132596685083,
+        498.7847513812155,
+        463.83337016574586
+      ],
+      "advance_width": 30.06276243093923
+    },
+    {
+      "text": "22%",
+      "requested_size_px": 8,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8,
+      "size_pt_a0": 16.13,
+      "bbox": [
+        578.504,
+        455.24,
+        593.4,
+        462.4565714285714
+      ],
+      "advance_width": 15.440000000000001
+    },
+    {
+      "text": "Marketing Mix",
+      "requested_size_px": 6.9,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.9,
+      "size_pt_a0": 13.91,
+      "bbox": [
+        282.207,
+        448.3282,
+        328.6225607142857,
+        455.3317
+      ],
+      "advance_width": 46.657799999999995
+    },
+    {
+      "text": "4Ps*",
+      "requested_size_px": 7.5,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.5,
+      "size_pt_a0": 15.12,
+      "bbox": [
+        281.925,
+        456.6771428571429,
+        298.62680555555556,
+        463.5117142857143
+      ],
+      "advance_width": 16.7775
+    },
+    {
+      "text": "Product",
+      "requested_size_px": 7.1,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        298.1411125,
+        466.1354,
+        322.2394,
+        472.3266
+      ],
+      "advance_width": 24.353
+    },
+    {
+      "text": "Electric + service",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        280.26254143646406,
+        478.41281767955803,
+        332.0561325966851,
+        483.22264543386416
+      ],
+      "advance_width": 52.187403314917134
+    },
+    {
+      "text": "Price",
+      "requested_size_px": 7.1,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        293.1411125,
+        492.1425,
+        308.5306894736842,
+        498.3204793103448
+      ],
+      "advance_width": 15.6697
+    },
+    {
+      "text": "Clear fare + trial",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        277.247955801105,
+        503.16486187845305,
+        328.2393370165746,
+        508.22264543386416
+      ],
+      "advance_width": 51.7790055248619
+    },
+    {
+      "text": "Place",
+      "requested_size_px": 7.1,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        297.1411125,
+        516.1425,
+        313.2619894736842,
+        522.3211228571429
+      ],
+      "advance_width": 16.401
+    },
+    {
+      "text": "Page → app",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        281.13127071823203,
+        527.3909392265193,
+        316.8733701657459,
+        533.78408839779
+      ],
+      "advance_width": 36.1432044198895
+    },
+    {
+      "text": "Promotion",
+      "requested_size_px": 7.1,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        307.1411125,
+        540.1425,
+        338.95,
+        546.3204793103448
+      ],
+      "advance_width": 32.092000000000006
+    },
+    {
+      "text": "Search / social",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        300.39381215469615,
+        550.8658563535912,
+        344.945635359116,
+        556.5032044198895
+      ],
+      "advance_width": 45.48530386740332
+    },
+    {
+      "text": "/ reminders",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        306.3646408839779,
+        559.8658563535912,
+        341.2170165745856,
+        565.5032044198895
+      ],
+      "advance_width": 35.4649723756906
+    },
+    {
+      "text": "*Proposed",
+      "requested_size_px": 6.2,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        315.21237569060776,
+        567.9509392265194,
+        343.1569060773481,
+        574.6716022099447
+      ],
+      "advance_width": 28.444640883977907
+    },
+    {
+      "text": "Omni Channel · Search / SEO / Social",
+      "requested_size_px": 7.6,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.6,
+      "size_pt_a0": 15.32,
+      "bbox": [
+        350.19,
+        472.5868,
+        473.0744,
+        479.4028
+      ],
+      "advance_width": 123.22640000000001
+    },
+    {
+      "text": "Copenhagen page",
+      "requested_size_px": 7.1,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        350.0923,
+        534.0087210526316,
+        403.6079894736842,
+        541.6827
+      ],
+      "advance_width": 53.74699999999999
+    },
+    {
+      "text": "Green SM app",
+      "requested_size_px": 7.1,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        435.1065,
+        534.1179129629629,
+        477.7633,
+        541.6827
+      ],
+      "advance_width": 42.9053
+    },
+    {
+      "text": "Ride + help",
+      "requested_size_px": 7.5,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.5,
+      "size_pt_a0": 15.12,
+      "bbox": [
+        516.2025,
+        533.6711842105263,
+        550.9275,
+        541.7775
+      ],
+      "advance_width": 35.07750000000001
+    },
+    {
+      "text": "Same fares / offers / help",
+      "requested_size_px": 6.8,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        391.4057458563536,
+        542.710276243094,
+        474.7714917127072,
+        549.8333701657458
+      ],
+      "advance_width": 84.04950276243095
+    },
+    {
+      "text": "10% vs 20%",
+      "requested_size_px": 8.3,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.3,
+      "size_pt_a0": 16.73,
+      "bbox": [
+        363.2782,
+        558.9865,
+        405.6995,
+        566.4736928571429
+      ],
+      "advance_width": 43.741
+    },
+    {
+      "text": "First paid ride",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        360.07724444444443,
+        571.4680237623762,
+        399.7743789473684,
+        578.5642
+      ],
+      "advance_width": 39.903600000000004
+    },
+    {
+      "text": "30",
+      "requested_size_px": 9,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 9,
+      "size_pt_a0": 18.14,
+      "bbox": [
+        445.629625,
+        562.4386034482759,
+        456.07,
+        570.5044390243902
+      ],
+      "advance_width": 11.7
+    },
+    {
+      "text": "30-day paid*",
+      "requested_size_px": 6.2,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        433.43374166666666,
+        574.7910379310345,
+        470.8814259259259,
+        581.4694
+      ],
+      "advance_width": 38.00600000000001
+    },
+    {
+      "text": "Max DKK30 · 400 cap · 1/rider",
+      "requested_size_px": 6.2,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        343.1507182320442,
+        581.1770165745857,
+        431.526408839779,
+        587.6716022099447
+      ],
+      "advance_width": 88.47845303867403
+    },
+    {
+      "text": "DATA*",
+      "requested_size_px": 7,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        478.301,
+        555.1728888888889,
+        497.50835185185184,
+        561.294
+      ],
+      "advance_width": 19.649
+    },
+    {
+      "text": "Opt-in · proposed",
+      "requested_size_px": 6.2,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        523.2603314917127,
+        556.6291712707182,
+        571.675138121547,
+        562.6716022099447
+      ],
+      "advance_width": 48.96287292817679
+    },
+    {
+      "text": "CDP join → Big Data patterns",
+      "requested_size_px": 6.6,
+      "resolved_font_names": [
+        "MarkerFelt-Wide",
+        "Native vector arrow"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        478.0858,
+        565.4692,
+        561.1732,
+        572.5642
+      ],
+      "advance_width": 83.3118
+    },
+    {
+      "text": "Marketing AI reminders · human review",
+      "requested_size_px": 6.2,
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        478.1507182320442,
+        575.1223204419889,
+        589.6701690942575,
+        581.1759618282271
+      ],
+      "advance_width": 111.73016574585637
+    },
+    {
+      "text": "M1–2 Verify",
+      "requested_size_px": 6.2,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        377.186,
+        590.261,
+        411.6456,
+        596.7276
+      ],
+      "advance_width": 34.7076
+    },
+    {
+      "text": "M3–6 Test · M4/M6 checks",
+      "requested_size_px": 6.2,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        436.186,
+        590.2681789473684,
+        512.4522,
+        595.9230171428571
+      ],
+      "advance_width": 76.5824
+    },
+    {
+      "text": "M7–12 Scale if OK",
+      "requested_size_px": 6.2,
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        537.186,
+        590.1962444444445,
+        588.548195,
+        595.8844
+      ],
+      "advance_width": 51.6026
+    }
+  ],
+  "glyph_bbox_corners_outside_native_cell": [],
+  "pairwise_text_overlaps": [],
+  "min_pt": 12.5,
+  "pdf_measured_mm": [
+    1188.999,
+    841.001
+  ],
+  "new_raster_assets": 0,
+  "source_scope": "Denmark n=1005; Capital Region n=79; separate samples, not age-25–44-specific. Independent multiselect 57%/22%, not a 100% split.",
+  "manual_visual_review": "Standalone, full A0 and final assembled close-up inspected. Marketing Mix lowered to clear the actual car mirror, and Omni Channel lettering lifted to clear phone. Text containment/pair checks passed. Student/physical-print acceptance pending."
+}

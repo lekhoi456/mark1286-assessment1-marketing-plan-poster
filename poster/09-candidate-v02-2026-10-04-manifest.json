@@ -1,0 +1,812 @@
+{
+  "section": 9,
+  "version": 2,
+  "heading": "9. Ride Innovation",
+  "status": "Candidate for parent review; no group approval or budget revision claimed",
+  "canvas": {
+    "width": 1800,
+    "height": 1700,
+    "physical_a0_verified": false
+  },
+  "copy_file": "09-copy-v02-2026-10-04.md",
+  "text_objects": [
+    {
+      "id": "s9-text-00",
+      "text": "9. Ride Innovation",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 76,
+      "role": "exact required heading",
+      "lines": [
+        {
+          "text": "9. Ride Innovation",
+          "bbox": [
+            74.332,
+            45.984,
+            588.3294999999999,
+            111.648
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-01",
+      "text": "VERIFIED IN COPENHAGEN",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 38,
+      "role": "evidence status",
+      "lines": [
+        {
+          "text": "VERIFIED IN COPENHAGEN",
+          "bbox": [
+            100.076,
+            220.27,
+            472.02245161290324,
+            253.824
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-02",
+      "text": "App booking and pre-booking up to 30 days advertised.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 28,
+      "role": "verified advertised feature",
+      "lines": [
+        {
+          "text": "App booking and pre-booking up to 30 days advertised.",
+          "bbox": [
+            100.35,
+            275.745,
+            697.1350000000001,
+            309.52
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-03",
+      "text": "Licensed dispatch-office register: Green SM Denmark ApS. Performance untested.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 28,
+      "role": "verified register status and performance limit",
+      "lines": [
+        {
+          "text": "Licensed dispatch-office register: Green SM Denmark ApS. Performance untested.",
+          "bbox": [
+            100.7,
+            312.64,
+            983.4000000000001,
+            346.52
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-04",
+      "text": "PROPOSED ROADMAP",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 43,
+      "role": "roadmap heading",
+      "lines": [
+        {
+          "text": "PROPOSED ROADMAP",
+          "bbox": [
+            71.548,
+            382.095,
+            433.135,
+            420.107
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-05",
+      "text": "01 Target S1",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 34,
+      "role": "roadmap stage 1",
+      "lines": [
+        {
+          "text": "01 Target S1",
+          "bbox": [
+            91.972,
+            607.0478787878787,
+            260.034,
+            641.28575
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-06",
+      "text": "Repeat self-paying taxi riders, 25–44, service area. Big Data + marketing AI use consented first-party trip data for targeting and personalised reminders. Check purpose/quality/access. No bought/sensitive profiles.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 29,
+      "role": "roadmap stage 1 mechanism and gate",
+      "lines": [
+        {
+          "text": "Repeat self-paying taxi riders,",
+          "bbox": [
+            92.3625,
+            670.95125,
+            426.5427205882353,
+            705.86
+          ]
+        },
+        {
+          "text": "25–44, service area. Big",
+          "bbox": [
+            92.725,
+            708.1800000000001,
+            386.24125,
+            741.675
+          ]
+        },
+        {
+          "text": "Data + marketing AI use",
+          "bbox": [
+            93.0875,
+            745.01,
+            365.43375,
+            778.795
+          ]
+        },
+        {
+          "text": "consented first-party trip data",
+          "bbox": [
+            92.90625,
+            782.38375,
+            432.06125,
+            817.22
+          ]
+        },
+        {
+          "text": "for targeting and personalised",
+          "bbox": [
+            93.19625,
+            819.4675,
+            422.30999999999995,
+            854.34
+          ]
+        },
+        {
+          "text": "reminders. Check",
+          "bbox": [
+            92.90625,
+            856.4425,
+            280.06499999999994,
+            883.73875
+          ]
+        },
+        {
+          "text": "purpose/quality/access. No",
+          "bbox": [
+            92.90625,
+            893.7075,
+            396.39124999999996,
+            928.58
+          ]
+        },
+        {
+          "text": "bought/sensitive profiles.",
+          "bbox": [
+            92.90625,
+            930.8275,
+            368.37,
+            965.7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-07",
+      "text": "02 Dispatch AI",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 34,
+      "role": "roadmap stage 2",
+      "lines": [
+        {
+          "text": "02 Dispatch AI",
+          "bbox": [
+            526.972,
+            606.746,
+            716.624,
+            642.412
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-08",
+      "text": "Future Big Data + AI driver-task pilot, separately costed. Gate data/privacy, tech/ops checks, approval. Test booking-to-driver-match time, fulfilment, cancellations, fairness vs local baseline. Gain unproven.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 29,
+      "role": "roadmap stage 2 mechanism and gate",
+      "lines": [
+        {
+          "text": "Future Big Data + AI",
+          "bbox": [
+            527.435,
+            670.77,
+            761.03,
+            704.555
+          ]
+        },
+        {
+          "text": "driver-task pilot, separately",
+          "bbox": [
+            527.90625,
+            708.035,
+            830.1263157894737,
+            742.98
+          ]
+        },
+        {
+          "text": "costed. Gate data/privacy,",
+          "bbox": [
+            527.90625,
+            745.155,
+            823.2989705882353,
+            780.1
+          ]
+        },
+        {
+          "text": "tech/ops checks, approval.",
+          "bbox": [
+            527.90625,
+            782.275,
+            822.365,
+            817.22
+          ]
+        },
+        {
+          "text": "Test booking-to-driver-match",
+          "bbox": [
+            527.5075,
+            819.395,
+            853.6125,
+            853.035
+          ]
+        },
+        {
+          "text": "time, fulfilment, cancellations,",
+          "bbox": [
+            527.90625,
+            856.5875,
+            847.6227205882353,
+            887.7625
+          ]
+        },
+        {
+          "text": "fairness vs local baseline. Gain",
+          "bbox": [
+            528.19625,
+            893.635,
+            860.6812500000001,
+            920.2787500000001
+          ]
+        },
+        {
+          "text": "unproven.",
+          "bbox": [
+            527.9141304347826,
+            938.2587500000001,
+            630.6025000000001,
+            965.7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-09",
+      "text": "03 Connect care",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 34,
+      "role": "roadmap stage 3",
+      "lines": [
+        {
+          "text": "03 Connect care",
+          "bbox": [
+            961.972,
+            607.256,
+            1171.1709090909092,
+            636.632
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-10",
+      "text": "One trip reference across app, driver, car, support. Invite ratings. Human-review issues. Test chatbot FAQs with human hand-off.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 29,
+      "role": "roadmap stage 3 mechanism and gate",
+      "lines": [
+        {
+          "text": "One trip reference across app,",
+          "bbox": [
+            962.87,
+            671.02375,
+            1300.6389705882352,
+            705.86
+          ]
+        },
+        {
+          "text": "driver, car, support. Invite",
+          "bbox": [
+            962.90625,
+            708.3975,
+            1243.59,
+            742.98
+          ]
+        },
+        {
+          "text": "ratings. Human-review issues.",
+          "bbox": [
+            962.90625,
+            745.0825,
+            1289.555,
+            778.795
+          ]
+        },
+        {
+          "text": "Test chatbot FAQs with human",
+          "bbox": [
+            962.5075,
+            782.4200000000001,
+            1308.405,
+            812.18125
+          ]
+        },
+        {
+          "text": "hand-off.",
+          "bbox": [
+            962.61625,
+            819.50375,
+            1062.2675,
+            846.03875
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-11",
+      "text": "04 Test retention",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 34,
+      "role": "roadmap stage 4",
+      "lines": [
+        {
+          "text": "04 Test retention",
+          "bbox": [
+            1396.972,
+            606.9159999999999,
+            1621.78425,
+            636.632
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-12",
+      "text": "Measure frequency and contribution first. Cohort-test needs-matched prepaid/monthly bundles vs pay-per-trip. Track retention, margin. Stop if either falls.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 29,
+      "role": "roadmap stage 4 mechanism and gate",
+      "lines": [
+        {
+          "text": "Measure frequency and",
+          "bbox": [
+            1398.26875,
+            670.95125,
+            1656.55,
+            705.715
+          ]
+        },
+        {
+          "text": "contribution first.",
+          "bbox": [
+            1397.90625,
+            708.14375,
+            1587.63875,
+            734.3525
+          ]
+        },
+        {
+          "text": "Cohort-test needs-matched",
+          "bbox": [
+            1397.725,
+            745.0825,
+            1700.81125,
+            771.79875
+          ]
+        },
+        {
+          "text": "prepaid/monthly bundles vs",
+          "bbox": [
+            1397.90625,
+            782.3475,
+            1695.9175,
+            817.22
+          ]
+        },
+        {
+          "text": "pay-per-trip. Track",
+          "bbox": [
+            1397.90625,
+            819.395,
+            1608.4825,
+            854.34
+          ]
+        },
+        {
+          "text": "retention, margin. Stop if",
+          "bbox": [
+            1397.90625,
+            856.5875,
+            1672.7175,
+            891.46
+          ]
+        },
+        {
+          "text": "either falls.",
+          "bbox": [
+            1397.90625,
+            893.7075,
+            1515.4650000000001,
+            920.2787500000001
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-13",
+      "text": "FEEDBACK LOOP",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 41,
+      "role": "loop heading",
+      "lines": [
+        {
+          "text": "FEEDBACK LOOP",
+          "bbox": [
+            71.94870588235294,
+            1010.765,
+            320.305,
+            1046.7802631578948
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-14",
+      "text": "CONSENT",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 32,
+      "role": "feedback-loop node",
+      "lines": [
+        {
+          "text": "CONSENT",
+          "bbox": [
+            95.63930434782608,
+            1094.568,
+            209.75199999999998,
+            1122.248
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-15",
+      "text": "Trip data",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 27,
+      "role": "feedback-loop detail",
+      "lines": [
+        {
+          "text": "Trip data",
+          "bbox": [
+            95.4725,
+            1150.9825,
+            188.96,
+            1183.18
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-16",
+      "text": "CHECK",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 32,
+      "role": "feedback-loop node",
+      "lines": [
+        {
+          "text": "CHECK",
+          "bbox": [
+            530.639304347826,
+            1094.376,
+            606.896,
+            1122.536
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-17",
+      "text": "Purpose, quality, access",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 27,
+      "role": "feedback-loop detail",
+      "lines": [
+        {
+          "text": "Purpose, quality, access",
+          "bbox": [
+            531.0125,
+            1150.67875,
+            777.8937500000001,
+            1183.18
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-18",
+      "text": "TARGET",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 32,
+      "role": "feedback-loop node",
+      "lines": [
+        {
+          "text": "TARGET",
+          "bbox": [
+            965.32,
+            1094.6921212121213,
+            1063.112,
+            1122.248
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-19",
+      "text": "S1 + care",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 27,
+      "role": "feedback-loop detail",
+      "lines": [
+        {
+          "text": "S1 + care",
+          "bbox": [
+            965.675,
+            1150.7125,
+            1062.1325000000002,
+            1175.45125
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-20",
+      "text": "MEASURE",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 32,
+      "role": "feedback-loop node",
+      "lines": [
+        {
+          "text": "MEASURE",
+          "bbox": [
+            1401.536,
+            1094.696,
+            1528.032,
+            1122.568
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-21",
+      "text": "Match, rating, repeat",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 27,
+      "role": "feedback-loop detail",
+      "lines": [
+        {
+          "text": "Match, rating, repeat",
+          "bbox": [
+            1401.18125,
+            1150.67875,
+            1616.43875,
+            1183.18
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-22",
+      "text": "REFINE",
+      "kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_size": 27,
+      "role": "feedback action",
+      "lines": [
+        {
+          "text": "REFINE",
+          "bbox": [
+            726.84375,
+            1318.5775,
+            824.6175,
+            1342.70875
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-23",
+      "text": "FUNDING BOUNDARY",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 38,
+      "role": "guardrail heading",
+      "lines": [
+        {
+          "text": "FUNDING BOUNDARY",
+          "bbox": [
+            71.80611764705883,
+            1392.612,
+            377.34875,
+            1425.65
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-24",
+      "text": "Strategic subscription change. Group approval and separate costing needed.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 28,
+      "role": "subscription approval and measurement gate",
+      "lines": [
+        {
+          "text": "Strategic subscription change. Group approval and separate costing needed.",
+          "bbox": [
+            96.7,
+            1473.78,
+            899.8100000000002,
+            1507.52
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-25",
+      "text": "DKK600,000 excludes app/platform build and vehicle/driver/frontline operations. AI dispatch/chatbot unpriced.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 27,
+      "role": "budget and feasibility boundary",
+      "lines": [
+        {
+          "text": "DKK600,000 excludes app/platform build and vehicle/driver/frontline operations. AI dispatch/chatbot unpriced.",
+          "bbox": [
+            97.0125,
+            1524.51,
+            1271.7150000000001,
+            1557.18
+          ]
+        }
+      ]
+    }
+  ],
+  "typography": {
+    "helper": "09-candidate-v01-2026-10-04-lettering.py",
+    "portable_outlines": true,
+    "native_editable_companion": true,
+    "font_files_redistributed": false
+  },
+  "art": {
+    "type": "hand-drawn SVG vector marks",
+    "generated_art": false,
+    "shared_logo_modified": false
+  },
+  "source_mapping": {
+    "E-016": {
+      "file": "../04_references/green-sm-denmark-aps-ndb-green-sm-car.pdf",
+      "page": 3,
+      "claim": "Up-to-30-day pre-booking is advertised; not a fulfilment claim.",
+      "sha256": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b"
+    },
+    "E-027": {
+      "file": "../04_references/faerdselsstyrelsen-nd-find-koerselskontor.pdf",
+      "page": 2,
+      "claim": "Green SM Denmark ApS is listed as a nationally licensed dispatch office; licence does not prove service performance.",
+      "sha256": "614b1a908d6a3b045109e95238f40002bbefaae62ca29e227af7eb04cee15838"
+    },
+    "E-188": {
+      "file": "../04_references/green-sm-denmark-aps-ndb-green-sm-car.pdf",
+      "pages": "1–2",
+      "claim": "The company advertises app booking and gives app booking instructions; no booking was tested.",
+      "sha256": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b"
+    },
+    "E-205": {
+      "file": "../04_references/feng-et-al-2020-scalable-deep-reinforcement-learning-for-ride-hailing.pdf",
+      "page": 1,
+      "claim": "Research proposes sequential driver-task assignment and demonstrates a numerical experiment on Didi data; no local speed or Copenhagen result.",
+      "sha256": "c29f01cd7253e2028c9a8ee9d98aad810409641d5590a8eb160b741abc3c2df7"
+    }
+  },
+  "registered_concepts": [
+    "consumer-insights-and-big-data",
+    "artificial-intelligence",
+    "personalisation",
+    "omnichannel",
+    "ai-chatbots",
+    "subscription-model",
+    "subscription-challenges",
+    "ride-hailing-dispatch-rl"
+  ],
+  "proposal_limits": [
+    "Marketing AI and personalisation are proposals using consented first-party trip data only.",
+    "AI-assisted driver-task allocation is a separate conditional operations pilot, not established Copenhagen practice or an evidenced performance result. Compare booking-to-match time, fulfilment, cancellations and fairness against a local baseline.",
+    "The registered outside concept ride-hailing-dispatch-rl uses Feng et al. (2020) p.1 for sequential driver-task allocation. Its numerical experiment uses Didi data only and establishes no Copenhagen outcome or faster local matching.",
+    "No observed local reminder, joined system, rating process, chatbot, retention effect or AI dispatch outcome is claimed.",
+    "Subscription test is a strategic-change recommendation, requires separate cost and group approval, and is not added to DKK600,000.",
+    "Dispatch AI and chatbot integration are unpriced; app/platform development and vehicle, driver and frontline operations remain outside the approved marketing budget."
+  ],
+  "alignment": {
+    "O3": "Repeat use remains an intended outcome, to be measured against mature cohorts.",
+    "S5": "Consented follow-up and campaign targeting.",
+    "S6": "Local after-sales help, ratings and human escalation.",
+    "S8": "Repeat, completion, rating and contribution measures.",
+    "S10": "Scale only when service and contribution evidence support it."
+  }
+}

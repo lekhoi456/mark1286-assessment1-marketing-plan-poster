@@ -1,0 +1,372 @@
+{
+  "status": "Displayed copy/art accepted for assembly D-132",
+  "base": "09-cell-fit-v01-2026-10-05-poster.svg",
+  "base_sha256": "dd10ef1cd808420cba6d16d66045b47d52f94bc63370508aa0d36e5f75b0d306",
+  "base_byte_for_byte_preserved": true,
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "cell_path": "M890 608 H1240 Q1269 608 1258 636 L1224 725 Q1217 747 1193 747 H890 Q867 747 867 724 V631 Q867 608 890 608 Z",
+  "visible_text": [
+    {
+      "text": "10. Business Goals & Growth",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 10.5,
+      "size_pt_a0": 21.17,
+      "bbox": [
+        884.617,
+        619.1396578947368,
+        1013.0602692307692,
+        628.4749
+      ],
+      "advance_width": 130.27349999999998
+    },
+    {
+      "text": "Green · smart · sustainable mobility",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        883.2114917127071,
+        635.3836464088398,
+        989.6137016574585,
+        641.5023204419889
+      ],
+      "advance_width": 106.78143646408836
+    },
+    {
+      "text": "Proposed 12-month plan",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1115.1312707182321,
+        619.347182320442,
+        1186.8342541436464,
+        625.7794475138121
+      ],
+      "advance_width": 72.12596685082873
+    },
+    {
+      "text": "Local outcomes untested",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1115.3427624309393,
+        630.347182320442,
+        1187.6437569060774,
+        635.2226454338642
+      ],
+      "advance_width": 72.95005524861877
+    },
+    {
+      "text": "Repeat: full 90-day follow-up",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.4,
+      "size_pt_a0": 12.9,
+      "bbox": [
+        1115.1555801104973,
+        639.3113812154696,
+        1202.0682872928178,
+        645.7255248618784
+      ],
+      "advance_width": 87.32994475138125
+    },
+    {
+      "text": "Stable local operation",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        920.1475608695653,
+        647.28945,
+        997.0634,
+        655.9197
+      ],
+      "advance_width": 77.22540000000002
+    },
+    {
+      "text": "Owned fleet + employed drivers",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        920.2771270718232,
+        661.084640883978,
+        1015.8130386740331,
+        667.7794475138121
+      ],
+      "advance_width": 96.0609944751381
+    },
+    {
+      "text": "Service + 90-day repeat → scale",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        920.3938121546961,
+        673.347182320442,
+        1020.0866298342542,
+        679.7794475138121
+      ],
+      "advance_width": 100.2179005524862
+    },
+    {
+      "text": "Become known locally",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        1110.2025,
+        647.2122,
+        1188.4566,
+        655.6038
+      ],
+      "advance_width": 78.53759999999998
+    },
+    {
+      "text": "Search / social → paid trial",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1110.3938121546962,
+        660.8658563535912,
+        1194.4654143646408,
+        667.7794475138121
+      ],
+      "advance_width": 85.00508287292817
+    },
+    {
+      "text": "Screens after service +",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1110.3938121546962,
+        671.164861878453,
+        1179.9381215469614,
+        676.2114917127071
+      ],
+      "advance_width": 70.2006629834254
+    },
+    {
+      "text": "90-day repeat checks",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1110.2698342541437,
+        680.3398895027624,
+        1175.8249723756905,
+        686.7794475138121
+      ],
+      "advance_width": 66.07292817679559
+    },
+    {
+      "text": "Green & smart mobility",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        928.1215,
+        692.3256,
+        1011.0817,
+        700.6038
+      ],
+      "advance_width": 83.16270000000002
+    },
+    {
+      "text": "App-booked electric rides",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        928.1336451239882,
+        705.3398895027624,
+        1004.9829834254144,
+        711.7794475138121
+      ],
+      "advance_width": 77.23093922651934
+    },
+    {
+      "text": "Easy to understand + use",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        928.2625414364641,
+        714.347182320442,
+        1003.9401104972376,
+        720.5023204419889
+      ],
+      "advance_width": 76.0713812154696
+    },
+    {
+      "text": "Sustainable growth",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        1110.1475608695653,
+        692.1648789473684,
+        1178.4020076923077,
+        700.5633
+      ],
+      "advance_width": 68.56650000000002
+    },
+    {
+      "text": "Retention + contribution",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1110.1604419889502,
+        705.347182320442,
+        1181.8780110497237,
+        710.2187845303868
+      ],
+      "advance_width": 72.16972375690607
+    },
+    {
+      "text": "Repeat before expansion",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1110.1604419889502,
+        714.164861878453,
+        1183.2709392265194,
+        720.7794475138121
+      ],
+      "advance_width": 73.56265193370166
+    },
+    {
+      "text": "M12 review:",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        889.198,
+        726.423,
+        924.46345,
+        732.3766714285714
+      ],
+      "advance_width": 35.60699999999999
+    },
+    {
+      "text": "Consideration · paid trial · service · 90-day repeat · contribution",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.4,
+      "size_pt_a0": 12.9,
+      "bbox": [
+        936.2404419889502,
+        727.4881767955801,
+        1126.0835359116022,
+        733.7255248618784
+      ],
+      "advance_width": 190.36640883977904
+    },
+    {
+      "text": "Renew · Revise · Stop",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        889.1944,
+        735.0350666666667,
+        952.864,
+        742.7064
+      ],
+      "advance_width": 64.00800000000001
+    },
+    {
+      "text": "Entry investment · first-year break-even not required",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.4,
+      "size_pt_a0": 12.9,
+      "bbox": [
+        1000.2545856353591,
+        736.2618784530387,
+        1155.9124861878454,
+        742.7467403314918
+      ],
+      "advance_width": 156.209502762431
+    }
+  ],
+  "glyph_bbox_corners_outside_native_cell": [],
+  "pairwise_text_overlaps": [],
+  "minimum_ordinary_lettering_pt_a0": 12.9,
+  "logo": "None in Section 10; source-inspired simple original vector diagrams",
+  "manual_visual_review": "Controller inspected close-up/full A0. Student accepted fitted Section 10 copy/art D-132. Physical print untested."
+}

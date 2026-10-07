@@ -1,0 +1,555 @@
+{
+  "section": 10,
+  "version": "v03",
+  "status": "Student-accepted Section 10 v03 text and artwork on 4 October 2026; use for assembly; group approval and A0/print acceptance unverified",
+  "copy_source": "10-v03-copy.md",
+  "copy_sha256": "6c70fe52e4d2755e42e57b4c52a17023802f715bb0397033f49d3f2baf027862",
+  "canvas_px": [
+    2400,
+    1800
+  ],
+  "text_objects": [
+    {
+      "id": "text-000",
+      "text": "10. Business Goals & Growth",
+      "font": "MarkerFelt-Thin",
+      "font_size": 88,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "heading",
+      "owner": null,
+      "lines": [
+        {
+          "text": "10. Business Goals & Growth",
+          "bbox": [
+            92.384,
+            58.872,
+            1086.8719999999998,
+            136.224
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-001",
+      "text": "Proposed 12-month Copenhagen plan · targets, not results.",
+      "font": "Noteworthy-Light",
+      "font_size": 38,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "proposal-status",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Proposed 12-month Copenhagen plan · targets, not results.",
+          "bbox": [
+            87.425,
+            187.035,
+            913.3549999999999,
+            232.92
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-002",
+      "text": "Green, smart and sustainable mobility are Green SM’s strengths.",
+      "font": "MarkerFelt-Thin",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "company-strength",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Green, smart and sustainable mobility are Green SM’s strengths.",
+          "bbox": [
+            116.72,
+            312.084,
+            1048.748,
+            348.768
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-003",
+      "text": "The proposed controlled fleet and driver model can support “Clear terms. Local care.” Copenhagen service outcomes remain untested.",
+      "font": "Noteworthy-Light",
+      "font_size": 29,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "local-promise-and-limit",
+      "owner": null,
+      "lines": [
+        {
+          "text": "The proposed controlled fleet and driver model can support “Clear terms. Local care.” Copenhagen service outcomes remain untested.",
+          "bbox": [
+            116.5075,
+            368.1175,
+            1563.4624999999996,
+            403.86
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-004",
+      "text": "Consideration → paid trial → stable service → repeat use",
+      "font": "MarkerFelt-Thin",
+      "font_size": 30,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "strategy-route-heading",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Consideration → paid trial → stable service → repeat use",
+          "bbox": [
+            116.59934782608696,
+            523.58,
+            814.7272727272724,
+            554.54
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-005",
+      "text": "Build consideration locally",
+      "font": "MarkerFelt-Thin",
+      "font_size": 29,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "business-objective",
+      "owner": "local-consideration",
+      "lines": [
+        {
+          "text": "Build consideration locally",
+          "bbox": [
+            88.667,
+            772.394,
+            389.79031249999997,
+            801.452
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-006",
+      "text": "+10 pp",
+      "font": "MarkerFelt-Thin",
+      "font_size": 72,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "proposed-target",
+      "owner": "local-consideration",
+      "lines": [
+        {
+          "text": "+10 pp",
+          "bbox": [
+            89.44,
+            846.2108387096774,
+            280.384,
+            920.696
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-007",
+      "text": "Search/social → local page. Target vs M1–2 baseline by M12.",
+      "font": "Noteworthy-Light",
+      "font_size": 30,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target-explanation",
+      "owner": "local-consideration",
+      "lines": [
+        {
+          "text": "Search/social → local page. Target vs",
+          "bbox": [
+            88.75,
+            944.125,
+            517.75,
+            980.2
+          ]
+        },
+        {
+          "text": "M1–2 baseline by M12.",
+          "bbox": [
+            89.3125,
+            982.4875,
+            345.62499999999994,
+            1017.5124999999999
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-008",
+      "text": "Win paid trial",
+      "font": "MarkerFelt-Thin",
+      "font_size": 29,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "business-objective",
+      "owner": "paid-trial",
+      "lines": [
+        {
+          "text": "Win paid trial",
+          "bbox": [
+            665.261,
+            771.756,
+            827.98,
+            802.322
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-009",
+      "text": "378",
+      "font": "MarkerFelt-Thin",
+      "font_size": 72,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "proposed-target",
+      "owner": "paid-trial",
+      "lines": [
+        {
+          "text": "378",
+          "bbox": [
+            668.96,
+            845.6632727272728,
+            781.352,
+            907.52
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-010",
+      "text": "App booking → new riders complete a first paid trip · M1–12.",
+      "font": "Noteworthy-Light",
+      "font_size": 30,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target-explanation",
+      "owner": "paid-trial",
+      "lines": [
+        {
+          "text": "App booking → new riders complete a",
+          "bbox": [
+            665.375,
+            944.05,
+            1095.65,
+            980.2
+          ]
+        },
+        {
+          "text": "first paid trip · M1–12.",
+          "bbox": [
+            666.2375,
+            982.4875,
+            908.1125,
+            1018.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-011",
+      "text": "Protect stable service",
+      "font": "MarkerFelt-Thin",
+      "font_size": 29,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "business-objective",
+      "owner": "stable-service",
+      "lines": [
+        {
+          "text": "Protect stable service",
+          "bbox": [
+            1241.044,
+            771.785,
+            1493.3703636363637,
+            797.247
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-012",
+      "text": "HOLD SCALE",
+      "font": "MarkerFelt-Thin",
+      "font_size": 50,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "service-gate",
+      "owner": "stable-service",
+      "lines": [
+        {
+          "text": "HOLD SCALE",
+          "bbox": [
+            1241.3555555555556,
+            863.4,
+            1473.5,
+            907.4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-013",
+      "text": "Pass service and mature-repeat gates before growth · see Section 8.",
+      "font": "Noteworthy-Light",
+      "font_size": 30,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target-explanation",
+      "owner": "stable-service",
+      "lines": [
+        {
+          "text": "Pass service and mature-repeat gates",
+          "bbox": [
+            1241.125,
+            944.0875,
+            1666.7875,
+            980.2
+          ]
+        },
+        {
+          "text": "before growth · see Section 8.",
+          "bbox": [
+            1240.9375,
+            982.525,
+            1574.875,
+            1017.25
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-014",
+      "text": "Grow through repeat",
+      "font": "MarkerFelt-Thin",
+      "font_size": 29,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "business-objective",
+      "owner": "repeat-growth",
+      "lines": [
+        {
+          "text": "Grow through repeat",
+          "bbox": [
+            1815.58,
+            771.901,
+            2058.397,
+            802.322
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-015",
+      "text": "≥35%",
+      "font": "MarkerFelt-Thin",
+      "font_size": 72,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "proposed-target",
+      "owner": "repeat-growth",
+      "lines": [
+        {
+          "text": "≥35%",
+          "bbox": [
+            1817.016,
+            846.248,
+            1973.184,
+            908.8230054054054
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-016",
+      "text": "Feedback + consented reminders. Paid repeat within 90 days, among first riders with a full observation window.",
+      "font": "Noteworthy-Light",
+      "font_size": 30,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target-explanation",
+      "owner": "repeat-growth",
+      "lines": [
+        {
+          "text": "Feedback + consented reminders. Paid",
+          "bbox": [
+            1815.45,
+            944.05,
+            2251.275,
+            972.2125
+          ]
+        },
+        {
+          "text": "repeat within 90 days, among first riders",
+          "bbox": [
+            1815.9375,
+            982.5625,
+            2277.975,
+            1018.6
+          ]
+        },
+        {
+          "text": "with a full observation window.",
+          "bbox": [
+            1815.9375,
+            1020.925,
+            2154.525,
+            1048.4125
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-017",
+      "text": "Intended business outcome",
+      "font": "MarkerFelt-Thin",
+      "font_size": 25,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "business-outcome-label",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Intended business outcome",
+          "bbox": [
+            116.675,
+            1229.75,
+            381.27272727272725,
+            1251.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-018",
+      "text": "Retention over acquisition supports stable local operation and sustainable growth.",
+      "font": "MarkerFelt-Thin",
+      "font_size": 37,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "business-outcome",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Retention over acquisition supports stable local operation and sustainable growth.",
+          "bbox": [
+            116.925,
+            1294.253,
+            1339.4666666666667,
+            1333.066
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-019",
+      "text": "M12: Renew · Revise · Stop.",
+      "font": "MarkerFelt-Thin",
+      "font_size": 40,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "m12-decision",
+      "owner": null,
+      "lines": [
+        {
+          "text": "M12: Renew · Revise · Stop.",
+          "bbox": [
+            117.92,
+            1447.12,
+            557.8666666666667,
+            1488.72
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-020",
+      "text": "Review consideration, first paid riders, service, mature repeat and contribution.",
+      "font": "Noteworthy-Light",
+      "font_size": 30,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "m12-review-basis",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Review consideration, first paid riders, service, mature repeat and contribution.",
+          "bbox": [
+            116.375,
+            1534.0875,
+            1000.0250000000002,
+            1570.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-021",
+      "text": "Capped market-entry investment · illustrative year-one model does not break even.",
+      "font": "Noteworthy-Light",
+      "font_size": 29,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "economic-limit",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Capped market-entry investment · illustrative year-one model does not break even.",
+          "bbox": [
+            116.725,
+            1654.8425,
+            1004.1250000000002,
+            1689.86
+          ]
+        }
+      ]
+    }
+  ],
+  "frames": [
+    {
+      "id": "outer-pen-frame",
+      "bounds": [
+        30,
+        30,
+        2370,
+        1770
+      ]
+    },
+    {
+      "id": "mobility-foundation-band",
+      "bounds": [
+        78,
+        280,
+        2322,
+        470
+      ]
+    },
+    {
+      "id": "business-outcome-band",
+      "bounds": [
+        78,
+        1190,
+        2322,
+        1385
+      ]
+    }
+  ],
+  "art_asset": null,
+  "render_source": "10-v03-render.py",
+  "layout_source": "10-v03-layout.py",
+  "glyph_source": "10-v03-glyphs.swift",
+  "native_image_calls": 0,
+  "citation_visible": false,
+  "logo_used": false,
+  "objective_mapping": {
+    "local-consideration": "become known in the Copenhagen market",
+    "paid-trial": "turn awareness into first paid riders",
+    "stable-service": "protect stable local operation through service and mature-repeat gates",
+    "repeat-growth": "use mature 90-day repeat as the long-term growth test",
+    "business-outcome": "retention sets the growth test; stable operation supports sustainable growth"
+  },
+  "source_claim_boundaries": [
+    "Targets are proposed, not achieved results",
+    "Green, smart and sustainable mobility are company strengths; local performance is not established here",
+    "The controlled fleet/driver model is framed as a proposed capability that may support the promise",
+    "No customer demand, emissions saving or Copenhagen service outcome is claimed",
+    "The illustrative year-one model does not break even"
+  ],
+  "cross_panel_basis": {
+    "S6": "completed, paid first trip defines a sale",
+    "S7": "capped market-entry spend and non-break-even illustrative model",
+    "S8": "proposed consideration, rider, repeat and service targets",
+    "integrated-plan-12": "business-objective alignment and sustainable-growth rationale"
+  },
+  "whole_poster_or_print_verified": false
+}

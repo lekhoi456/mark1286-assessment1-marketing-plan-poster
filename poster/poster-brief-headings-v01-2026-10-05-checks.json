@@ -1,0 +1,328 @@
+{
+  "status": "All ten brief headings candidate; body copy preserved; Section10 v02 layout also awaits review",
+  "base": "10-cell-fit-v02-2026-10-05-poster.svg",
+  "base_sha256": "5c208ddc26d3bb36c62188268fa2ae1556737eb1a546b041e5a88a92df8e037f",
+  "restore_original_headers_and_logo_reposition_restores_base_bytes": true,
+  "pdfinfo": "Producer:        cairo 1.18.4 (https://cairographics.org)\nCreationDate:    Mon Oct  5 14:49:57 2026 +07\nCustom Metadata: no\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           1\nEncrypted:       no\nPage size:       3370.39 x 2383.94 pts (A0)\nPage rot:        0\nFile size:       11293295 bytes\nOptimized:       no\nPDF version:     1.7\n",
+  "sections": [
+    {
+      "section": 1,
+      "heading": "1. Company/Business Introduction",
+      "heading_records": [
+        {
+          "text": "1. Company/Business",
+          "font": "MarkerFelt-Wide",
+          "resolved_font_names": [
+            "MarkerFelt-Wide"
+          ],
+          "size_px": 8.4,
+          "size_pt_a0": 16.93,
+          "bbox": [
+            449.2936,
+            247.9608,
+            526.3552000000001,
+            256.9908
+          ],
+          "advance_width": 78.53160000000004
+        },
+        {
+          "text": "Introduction",
+          "font": "MarkerFelt-Wide",
+          "resolved_font_names": [
+            "MarkerFelt-Wide"
+          ],
+          "size_px": 8.4,
+          "size_pt_a0": 16.93,
+          "bbox": [
+            448.21,
+            258.0616,
+            493.4776,
+            265.3864
+          ],
+          "advance_width": 45.645600000000016
+        }
+      ],
+      "old_heading": "1. Meet",
+      "duplicate_subtitle_removed": [],
+      "body_text_geometry_preserved": true,
+      "heading_containment_failures": [],
+      "heading_text_overlap_failures": [],
+      "green_sm_logo_repositioned": true,
+      "cell_path": "M490 230 C470 231 451 240 431 256 L342 354 Q319 379 323 384 Q328 390 349 390 H581 Q601 390 603 369 L607 250 Q607 230 585 230 Z",
+      "source_prefix": "01-cell-fit-v07-2026-10-05"
+    },
+    {
+      "section": 2,
+      "heading": "2. Target Market Analysis",
+      "heading_records": [
+        {
+          "text": "2. Target Market Analysis",
+          "font": "MarkerFelt-Wide",
+          "resolved_font_names": [
+            "MarkerFelt-Wide"
+          ],
+          "size_px": 10.5,
+          "size_pt_a0": 21.17,
+          "bbox": [
+            629.6615,
+            241.1275,
+            749.2565000000001,
+            252.079
+          ],
+          "advance_width": 120.47700000000003
+        }
+      ],
+      "old_heading": "2. Target Market",
+      "duplicate_subtitle_removed": [],
+      "body_text_geometry_preserved": true,
+      "heading_containment_failures": [],
+      "heading_text_overlap_failures": [],
+      "green_sm_logo_repositioned": false,
+      "cell_path": "M636 230 H884 Q904 230 906 250 V370 Q906 390 884 390 H633 Q611 390 611 370 L615 250 Q615 230 636 230 Z",
+      "source_prefix": "02-cell-fit-v04-2026-10-05"
+    },
+    {
+      "section": 3,
+      "heading": "3. Positioning Strategy",
+      "heading_records": [
+        {
+          "text": "3. Positioning Strategy",
+          "font": "MarkerFelt-Wide",
+          "resolved_font_names": [
+            "MarkerFelt-Wide"
+          ],
+          "size_px": 10.5,
+          "size_pt_a0": 21.17,
+          "bbox": [
+            933.7345625,
+            241.17837068965517,
+            1037.4225000000001,
+            252.079
+          ],
+          "advance_width": 104.52749999999999
+        }
+      ],
+      "old_heading": "3. Why Green SM?",
+      "duplicate_subtitle_removed": [
+        "Positioning Strategy"
+      ],
+      "body_text_geometry_preserved": true,
+      "heading_containment_failures": [],
+      "heading_text_overlap_failures": [],
+      "green_sm_logo_repositioned": false,
+      "cell_path": "M938 230 H1227 Q1247 230 1250 250 L1257 370 Q1259 390 1237 390 H936 Q914 390 914 370 V250 Q914 230 938 230 Z",
+      "source_prefix": "03-cell-fit-v07-2026-10-05"
+    },
+    {
+      "section": 4,
+      "heading": "4. Branding and Identity",
+      "heading_records": [
+        {
+          "text": "4. Branding and Identity",
+          "font": "MarkerFelt-Wide",
+          "resolved_font_names": [
+            "MarkerFelt-Wide"
+          ],
+          "size_px": 10.5,
+          "size_pt_a0": 21.17,
+          "bbox": [
+            1277.895,
+            247.148,
+            1389.426,
+            258.079
+          ],
+          "advance_width": 111.53099999999996
+        }
+      ],
+      "old_heading": "4. Branding & Identity",
+      "duplicate_subtitle_removed": [],
+      "body_text_geometry_preserved": true,
+      "heading_containment_failures": [],
+      "heading_text_overlap_failures": [],
+      "green_sm_logo_repositioned": false,
+      "cell_path": "M1286 231 Q1354 234 1401 250 Q1436 261 1456 287 L1497 367 Q1512 389 1495 390 H1293 Q1272 390 1271 370 L1264 251 Q1263 231 1286 231 Z",
+      "source_prefix": "04-cell-fit-v03-2026-10-05"
+    },
+    {
+      "section": 5,
+      "heading": "5. Digital Marketing Tactics",
+      "heading_records": [
+        {
+          "text": "5. Digital Marketing Tactics",
+          "font": "MarkerFelt-Wide",
+          "resolved_font_names": [
+            "MarkerFelt-Wide"
+          ],
+          "size_px": 10.5,
+          "size_pt_a0": 21.17,
+          "bbox": [
+            350.616875,
+            411.105,
+            477.0185,
+            422.0265
+          ],
+          "advance_width": 127.23900000000002
+        }
+      ],
+      "old_heading": "5. Digital Marketing",
+      "duplicate_subtitle_removed": [],
+      "body_text_geometry_preserved": true,
+      "heading_containment_failures": [],
+      "heading_text_overlap_failures": [],
+      "green_sm_logo_repositioned": false,
+      "cell_path": "M309 400 H587 Q610 400 611 423 V575 Q611 598 587 598 H374 Q338 598 310 578 Q260 541 260 499 Q260 448 285 419 Q296 400 309 400 Z",
+      "source_prefix": "05-cell-fit-v05-2026-10-05"
+    },
+    {
+      "section": 6,
+      "heading": "6. Sales Strategies",
+      "heading_records": [
+        {
+          "text": "6. Sales Strategies",
+          "font": "MarkerFelt-Wide",
+          "resolved_font_names": [
+            "MarkerFelt-Wide"
+          ],
+          "size_px": 10.5,
+          "size_pt_a0": 21.17,
+          "bbox": [
+            633.7245,
+            411.1905,
+            716.3175,
+            422.0265
+          ],
+          "advance_width": 83.53799999999998
+        }
+      ],
+      "old_heading": "6. From Clicks to Rides",
+      "duplicate_subtitle_removed": [],
+      "body_text_geometry_preserved": true,
+      "heading_containment_failures": [],
+      "heading_text_overlap_failures": [],
+      "green_sm_logo_repositioned": false,
+      "cell_path": "M642 400 H821 Q844 400 844 423 V575 Q844 598 821 598 H642 Q619 598 619 575 V423 Q619 400 642 400 Z",
+      "source_prefix": "06-cell-fit-v04-2026-10-05"
+    },
+    {
+      "section": 7,
+      "heading": "7. Budget and Resource Allocation",
+      "heading_records": [
+        {
+          "text": "7. Budget and Resource Allocation",
+          "font": "MarkerFelt-Wide",
+          "resolved_font_names": [
+            "MarkerFelt-Wide"
+          ],
+          "size_px": 9.1,
+          "size_pt_a0": 18.34,
+          "bbox": [
+            866.3458,
+            412.21545555555554,
+            1000.8802000000001,
+            421.7563
+          ],
+          "advance_width": 135.0622
+        }
+      ],
+      "old_heading": "7. Budget & Resources",
+      "duplicate_subtitle_removed": [],
+      "body_text_geometry_preserved": true,
+      "heading_containment_failures": [],
+      "heading_text_overlap_failures": [],
+      "green_sm_logo_repositioned": false,
+      "cell_path": "M875 400 H1154 Q1177 400 1177 423 V575 Q1177 598 1154 598 H875 Q852 598 852 575 V423 Q852 400 875 400 Z",
+      "source_prefix": "07-cell-fit-v04-2026-10-05"
+    },
+    {
+      "section": 8,
+      "heading": "8. Measurement and Evaluation",
+      "heading_records": [
+        {
+          "text": "8. Measurement and Evaluation",
+          "font": "MarkerFelt-Wide",
+          "resolved_font_names": [
+            "MarkerFelt-Wide"
+          ],
+          "size_px": 10.5,
+          "size_pt_a0": 21.17,
+          "bbox": [
+            1202.126,
+            411.0855,
+            1347.257,
+            420.609
+          ],
+          "advance_width": 145.467
+        }
+      ],
+      "old_heading": "8. Success Dashboard",
+      "duplicate_subtitle_removed": [],
+      "body_text_geometry_preserved": true,
+      "heading_containment_failures": [],
+      "heading_text_overlap_failures": [],
+      "green_sm_logo_repositioned": false,
+      "cell_path": "M1211 400 H1497 Q1518 400 1532 426 Q1549 452 1536 482 L1500 544 Q1491 559 1476 558 Q1397 532 1330 552 Q1293 562 1264 592 Q1256 598 1243 598 H1209 Q1185 598 1185 575 V423 Q1185 400 1211 400 Z",
+      "source_prefix": "08-cell-fit-v02-2026-10-05"
+    },
+    {
+      "section": 9,
+      "heading": "9. Creativity and Innovation",
+      "heading_records": [
+        {
+          "text": "9. Creativity and Innovation",
+          "font": "MarkerFelt-Wide",
+          "resolved_font_names": [
+            "MarkerFelt-Wide"
+          ],
+          "size_px": 10.5,
+          "size_pt_a0": 21.17,
+          "bbox": [
+            401.6405,
+            617.2115,
+            530.6120000000001,
+            628.079
+          ],
+          "advance_width": 129.822
+        }
+      ],
+      "old_heading": "9. Ride Innovation",
+      "duplicate_subtitle_removed": [],
+      "body_text_geometry_preserved": true,
+      "heading_containment_failures": [],
+      "heading_text_overlap_failures": [],
+      "green_sm_logo_repositioned": false,
+      "cell_path": "M400 608 H836 Q859 608 859 631 V724 Q859 747 835 747 H430 Q409 747 401 728 L379 637 Q373 608 400 608 Z",
+      "source_prefix": "09-cell-fit-v02-2026-10-05"
+    },
+    {
+      "section": 10,
+      "heading": "10. Alignment with Business Objectives",
+      "heading_records": [
+        {
+          "text": "10. Alignment with Business Objectives",
+          "font": "MarkerFelt-Wide",
+          "resolved_font_names": [
+            "MarkerFelt-Wide"
+          ],
+          "size_px": 10.5,
+          "size_pt_a0": 21.17,
+          "bbox": [
+            884.617,
+            619.1396578947368,
+            1062.907,
+            630.0685
+          ],
+          "advance_width": 180.1275
+        }
+      ],
+      "old_heading": "10. Business Goals & Growth",
+      "duplicate_subtitle_removed": [],
+      "body_text_geometry_preserved": true,
+      "heading_containment_failures": [],
+      "heading_text_overlap_failures": [],
+      "green_sm_logo_repositioned": false,
+      "cell_path": "M890 608 H1240 Q1269 608 1258 636 L1224 725 Q1217 747 1193 747 H890 Q867 747 867 724 V631 Q867 608 890 608 Z",
+      "source_prefix": "10-cell-fit-v02-2026-10-05"
+    }
+  ],
+  "manual_visual_review": "Controller inspected full A0 and Section1/7 standalone after heading alignment. Heading1 underline now clears car roof; caption/total spacing retained. Section10 candidate inspected. Physical print not tested."
+}

@@ -1,0 +1,22 @@
+{
+  "base": "poster-references-v03-2026-10-05.svg",
+  "base_sha256": "ce3af6ba4a3413e53864a3ad7c2f69f57c5c9434e4f9887786546390865e6be4",
+  "primary_title": "12‑Month Marketing Plan for Electric Taxi Launch",
+  "secondary_title": "Copenhagen, meet Green SM",
+  "main_font": "MarkerFelt-Wide",
+  "main_font_size": 34,
+  "main_advance_bounds": [
+    456.7810000000001,
+    1215.2189999999998
+  ],
+  "main_baseline": 167,
+  "secondary_row_scale": 0.62,
+  "secondary_text_baseline": 231,
+  "both_centred_at": 836,
+  "restoration_to_base_exact": true,
+  "ten_panels_cloud_footer_background_greenwich_unchanged": true,
+  "pdfinfo": "Producer:        cairo 1.18.4 (https://cairographics.org)\nCreationDate:    Wed Oct  7 11:03:03 2026 +07\nCustom Metadata: no\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           1\nEncrypted:       no\nPage size:       3370.39 x 2383.94 pts (A0)\nPage rot:        0\nFile size:       17538538 bytes\nOptimized:       no\nPDF version:     1.7\n",
+  "student_review": "pending",
+  "attached_v02_non_header_artwork_matches": true,
+  "controller_header_visual_review": "Pass: both lines centred, full wording/logo/flag visible, no collision with university logo or identity cloud. Student approval pending."
+}

@@ -1,0 +1,306 @@
+{
+  "status": "Displayed copy/art accepted for assembly D-128",
+  "base": "03-cell-fit-v06-2026-10-05-poster.svg",
+  "base_sha256": "d6c6adab4ca4cceee0184bfb7c19509365a3a66ecf5b3ee14f672d5eeae5924e",
+  "base_byte_for_byte_preserved": true,
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "cell_path": "M1286 231 Q1354 234 1401 250 Q1436 261 1456 287 L1497 367 Q1512 389 1495 390 H1293 Q1272 390 1271 370 L1264 251 Q1263 231 1286 231 Z",
+  "visible_text": [
+    {
+      "text": "4. Branding & Identity",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 9.2,
+      "size_pt_a0": 18.55,
+      "bbox": [
+        1277.908,
+        248.2439619047619,
+        1366.4027999999998,
+        257.8216
+      ],
+      "advance_width": 88.49479999999998
+    },
+    {
+      "text": "Green SM =",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.4,
+      "size_pt_a0": 14.92,
+      "bbox": [
+        1278.111,
+        288.8693740740741,
+        1314.556,
+        295.296
+      ],
+      "advance_width": 36.8742
+    },
+    {
+      "text": "Green and Smart Mobility",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.4,
+      "size_pt_a0": 14.92,
+      "bbox": [
+        1278.2371270718231,
+        301.7832044198895,
+        1364.502320441989,
+        308.68441988950275
+      ],
+      "advance_width": 86.69038674033153
+    },
+    {
+      "text": "Go Green For",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 9.2,
+      "size_pt_a0": 18.55,
+      "bbox": [
+        1278.138,
+        311.2887603960396,
+        1328.552547368421,
+        319.4784
+      ],
+      "advance_width": 50.58160000000001
+    },
+    {
+      "text": "a Green Future.",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 9.2,
+      "size_pt_a0": 18.55,
+      "bbox": [
+        1278.1104,
+        323.2887603960396,
+        1338.0691,
+        331.4784
+      ],
+      "advance_width": 60.195600000000006
+    },
+    {
+      "text": "Primary",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1394.1312707182321,
+        270.3909392265193,
+        1417.2349171270719,
+        276.50232044198896
+      ],
+      "advance_width": 23.402651933701662
+    },
+    {
+      "text": "New Cyan",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        1408.1065,
+        280.17735454545453,
+        1437.9549,
+        287.4058
+      ],
+      "advance_width": 30.096899999999998
+    },
+    {
+      "text": "#28bdbf",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1394.1677348066298,
+        293.16486187845305,
+        1420.8375690607734,
+        298.2771270718232
+      ],
+      "advance_width": 26.677127071823207
+    },
+    {
+      "text": "Pantone 319 C",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1394.1312707182321,
+        305.3909392265193,
+        1437.1078453038674,
+        310.2260773480663
+      ],
+      "advance_width": 43.28287292817679
+    },
+    {
+      "text": "Secondary",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1394.3938121546962,
+        317.347182320442,
+        1424.8923756906077,
+        323.50232044198896
+      ],
+      "advance_width": 31.060110497237574
+    },
+    {
+      "text": "New Yellow",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        1408.1065,
+        329.1195294117647,
+        1442.0871,
+        335.3211228571429
+      ],
+      "advance_width": 34.158100000000005
+    },
+    {
+      "text": "#e3bb42",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1408.1677348066298,
+        342.38364640883975,
+        1435.041767955801,
+        347.2771270718232
+      ],
+      "advance_width": 27.39182320441989
+    },
+    {
+      "text": "Aa",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 11,
+      "size_pt_a0": 22.17,
+      "bbox": [
+        1278.0484814814815,
+        337.991,
+        1290.893,
+        347.385
+      ],
+      "advance_width": 13.155999999999999
+    },
+    {
+      "text": "Xanh Display 2.0",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.5,
+      "size_pt_a0": 15.12,
+      "bbox": [
+        1306.4475138121547,
+        340.7955801104972,
+        1362.9254143646408,
+        348.0220994475138
+      ],
+      "advance_width": 57.13259668508287
+    },
+    {
+      "text": "Modern Liquid Glass UI/UX",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        1304.213,
+        354.1141,
+        1387.9818702702703,
+        361.4129
+      ],
+      "advance_width": 84.03559999999999
+    },
+    {
+      "text": "Layered · soft · clear",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        1304.3531491712706,
+        367.0183425414365,
+        1370.4521546961325,
+        373.5478453038674
+      ],
+      "advance_width": 66.3995580110497
+    },
+    {
+      "text": "Clear terms. Local care.",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.0,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        1358.1950276243094,
+        375.13480662983426,
+        1432.5729281767956,
+        380.2361390965226
+      ],
+      "advance_width": 75.13591160220993
+    },
+    {
+      "text": "Danish first · English second",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1353.4131491712706,
+        382.6138121546961,
+        1437.2951381215469,
+        389.2840883977901
+      ],
+      "advance_width": 84.20287292817677
+    }
+  ],
+  "glyph_bbox_corners_outside_native_cell": [],
+  "pairwise_text_overlaps": [],
+  "minimum_ordinary_lettering_pt_a0": 13.3,
+  "logo": "Original embedded hand-drawn logo from archive/04-candidate-v02-2026-10-04.svg reused unchanged",
+  "manual_visual_review": "Controller inspected close-up/full A0; student accepted fitted copy/art D-128. Physical print untested."
+}

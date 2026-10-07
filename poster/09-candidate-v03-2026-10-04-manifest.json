@@ -1,0 +1,911 @@
+{
+  "section": 9,
+  "version": 3,
+  "heading": "9. Ride Innovation",
+  "status": "Text and artwork accepted by the student for assembly; no group approval claimed",
+  "canvas": {
+    "width": 1800,
+    "height": 1700,
+    "physical_a0_verified": false
+  },
+  "copy_file": "09-copy-v03-2026-10-04.md",
+  "text_objects": [
+    {
+      "id": "s9-text-00",
+      "text": "9. Ride Innovation",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 76,
+      "role": "exact required heading",
+      "lines": [
+        {
+          "text": "9. Ride Innovation",
+          "bbox": [
+            74.332,
+            45.984,
+            588.3294999999999,
+            111.648
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-01",
+      "text": "ADVERTISED: COPENHAGEN",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 31,
+      "role": "baseline heading",
+      "lines": [
+        {
+          "text": "ADVERTISED: COPENHAGEN",
+          "bbox": [
+            94.837,
+            186.115,
+            414.85200000000003,
+            213.488
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-02",
+      "text": "App booking",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 32,
+      "role": "advertised feature",
+      "lines": [
+        {
+          "text": "App booking",
+          "bbox": [
+            650.4,
+            212.32,
+            798.72,
+            250.88
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-03",
+      "text": "Pre-book: max 30 days",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 30,
+      "role": "advertised pre-booking maximum",
+      "lines": [
+        {
+          "text": "Pre-book: max 30 days",
+          "bbox": [
+            965.125,
+            214.0125,
+            1243.2625,
+            249.1125
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-04",
+      "text": "Performance untested",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 28,
+      "role": "performance limit",
+      "lines": [
+        {
+          "text": "Performance untested",
+          "bbox": [
+            1396.05,
+            211.815,
+            1633.2450000000001,
+            237.505
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-05",
+      "text": "PROPOSED PILOTS",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 42,
+      "role": "proposal status",
+      "lines": [
+        {
+          "text": "PROPOSED PILOTS",
+          "bbox": [
+            73.512,
+            316.93,
+            358.10400000000004,
+            353.722
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-06",
+      "text": "01 Target S1",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 43,
+      "role": "stage heading",
+      "lines": [
+        {
+          "text": "01 Target S1",
+          "bbox": [
+            104.494,
+            414.64878787878786,
+            317.043,
+            457.949625
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-07",
+      "text": "Consented first-party data",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 31,
+      "role": "first-party data proposal",
+      "lines": [
+        {
+          "text": "Consented",
+          "bbox": [
+            157.786875,
+            659.1075,
+            282.019375,
+            687.1625
+          ]
+        },
+        {
+          "text": "first-party data",
+          "bbox": [
+            128.04625,
+            698.9812499999999,
+            312.26374999999996,
+            736.2199999999999
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-08",
+      "text": "Big Data + AI",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 33,
+      "role": "marketing mechanism",
+      "lines": [
+        {
+          "text": "Big Data + AI",
+          "bbox": [
+            377.498125,
+            657.29,
+            553.6768750000001,
+            695.735
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-09",
+      "text": "Reminders",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 33,
+      "role": "personalisation output",
+      "lines": [
+        {
+          "text": "Reminders",
+          "bbox": [
+            648.6081250000001,
+            657.49625,
+            780.7731250000002,
+            687.155
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-10",
+      "text": "Purpose/quality/access",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 32,
+      "role": "data-use gate",
+      "lines": [
+        {
+          "text": "Purpose/quality/access",
+          "bbox": [
+            190.2,
+            759.36,
+            484.24,
+            797.88
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-11",
+      "text": "No bought/sensitive profiles",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 28,
+      "role": "excluded data sources",
+      "lines": [
+        {
+          "text": "No bought/sensitive profiles",
+          "bbox": [
+            189.7,
+            799.85,
+            487.20000000000005,
+            833.52
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-12",
+      "text": "02 Dispatch AI",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 43,
+      "role": "stage heading",
+      "lines": [
+        {
+          "text": "02 Dispatch AI",
+          "bbox": [
+            979.494,
+            414.267,
+            1219.348,
+            459.374
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-13",
+      "text": "Booking",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 32,
+      "role": "dispatch mechanism",
+      "lines": [
+        {
+          "text": "Booking",
+          "bbox": [
+            1027.06,
+            644.32,
+            1124.74,
+            681.44
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-14",
+      "text": "AI match",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 32,
+      "role": "dispatch mechanism",
+      "lines": [
+        {
+          "text": "AI match",
+          "bbox": [
+            1280.92,
+            644.72,
+            1388.16,
+            673.72
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-15",
+      "text": "Local baseline comparison",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 29,
+      "role": "pilot comparator",
+      "lines": [
+        {
+          "text": "Local baseline comparison",
+          "bbox": [
+            977.725,
+            704.9875,
+            1260.29375,
+            739.86
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-16",
+      "text": "Gain unproven",
+      "kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_size": 28,
+      "role": "evidence limit",
+      "lines": [
+        {
+          "text": "Gain unproven",
+          "bbox": [
+            1503.875,
+            706.13,
+            1671.77,
+            739.52
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-17",
+      "text": "Match time",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 27,
+      "role": "pilot measure",
+      "lines": [
+        {
+          "text": "Match time",
+          "bbox": [
+            1008.06375,
+            813.67875,
+            1122.4425,
+            838.45125
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-18",
+      "text": "Fulfilment",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 27,
+      "role": "pilot measure",
+      "lines": [
+        {
+          "text": "Fulfilment",
+          "bbox": [
+            1201.36625,
+            813.7125,
+            1298.1950000000002,
+            837.77625
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-19",
+      "text": "Cancellations",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 27,
+      "role": "pilot measure",
+      "lines": [
+        {
+          "text": "Cancellations",
+          "bbox": [
+            1370.820625,
+            813.5775,
+            1505.0106250000001,
+            838.45125
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-20",
+      "text": "Fairness",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 27,
+      "role": "pilot measure",
+      "lines": [
+        {
+          "text": "Fairness",
+          "bbox": [
+            1578.479375,
+            813.78,
+            1665.0818749999999,
+            838.45125
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-21",
+      "text": "03 Connect care",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 43,
+      "role": "stage heading",
+      "lines": [
+        {
+          "text": "03 Connect care",
+          "bbox": [
+            979.494,
+            954.912,
+            1244.0690909090908,
+            992.064
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-22",
+      "text": "ONE TRIP ID",
+      "kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_size": 30,
+      "role": "shared reference",
+      "lines": [
+        {
+          "text": "ONE TRIP ID",
+          "bbox": [
+            1250.175,
+            1028.9,
+            1424.925,
+            1055.7875
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-23",
+      "text": "Support",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 32,
+      "role": "care touchpoint",
+      "lines": [
+        {
+          "text": "Support",
+          "bbox": [
+            1552.98,
+            1194.4,
+            1646.8200000000002,
+            1232.88
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-24",
+      "text": "Ratings",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 28,
+      "role": "feedback invitation",
+      "lines": [
+        {
+          "text": "Ratings",
+          "bbox": [
+            1608.35,
+            1255.815,
+            1691.37,
+            1288.26
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-25",
+      "text": "Test FAQ bot",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 29,
+      "role": "chatbot trial",
+      "lines": [
+        {
+          "text": "Test FAQ bot",
+          "bbox": [
+            1064.5075,
+            1327.06,
+            1220.165,
+            1356.82125
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-26",
+      "text": "Human hand-off",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 29,
+      "role": "human escalation",
+      "lines": [
+        {
+          "text": "Human hand-off",
+          "bbox": [
+            1437.54375,
+            1326.8425,
+            1619.845,
+            1353.55875
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-27",
+      "text": "04 Test retention",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 43,
+      "role": "stage heading",
+      "lines": [
+        {
+          "text": "04 Test retention",
+          "bbox": [
+            104.494,
+            954.482,
+            388.81537499999996,
+            992.064
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-28",
+      "text": "First: frequency + contribution",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 31,
+      "role": "measurement before subscription test",
+      "lines": [
+        {
+          "text": "First: frequency + contribution",
+          "bbox": [
+            103.465,
+            1019.30125,
+            465.19625,
+            1056.385
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-29",
+      "text": "Pay-per-trip",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 32,
+      "role": "control cohort",
+      "lines": [
+        {
+          "text": "Pay-per-trip",
+          "bbox": [
+            178.32,
+            1188.36,
+            327.88,
+            1226.88
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-30",
+      "text": "Prepaid/monthly",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 32,
+      "role": "proposed subscription cohort",
+      "lines": [
+        {
+          "text": "Prepaid/monthly",
+          "bbox": [
+            548.9200000000001,
+            1181.36,
+            749.3242105263158,
+            1219.88
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-31",
+      "text": "Needs-matched",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 25,
+      "role": "offer fit condition",
+      "lines": [
+        {
+          "text": "Needs-matched",
+          "bbox": [
+            576.53125,
+            1219.6875,
+            721.3125,
+            1242.34375
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-32",
+      "text": "Retention + margin",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 32,
+      "role": "retention measures",
+      "lines": [
+        {
+          "text": "Retention + margin",
+          "bbox": [
+            104.4,
+            1327.36,
+            341.52000000000004,
+            1364.44
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-33",
+      "text": "Stop if either falls",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 29,
+      "role": "stop rule",
+      "lines": [
+        {
+          "text": "Stop if either falls",
+          "bbox": [
+            610.725,
+            1318.9875,
+            806.5112499999999,
+            1353.86
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-34",
+      "text": "MEASURE / REFINE",
+      "kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_size": 28,
+      "role": "learning feedback",
+      "lines": [
+        {
+          "text": "MEASURE / REFINE",
+          "bbox": [
+            108.875,
+            883.8,
+            380.23,
+            910.4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-35",
+      "text": "BEFORE PILOTS",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 31,
+      "role": "shared gate heading",
+      "lines": [
+        {
+          "text": "BEFORE PILOTS",
+          "bbox": [
+            177.713,
+            1484.115,
+            354.692,
+            1511.346052631579
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-36",
+      "text": "Privacy/tech/operations + group approval",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 30,
+      "role": "readiness and approval conditions",
+      "lines": [
+        {
+          "text": "Privacy/tech/operations + group approval",
+          "bbox": [
+            178.125,
+            1529.0875,
+            664.3874999999999,
+            1565.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-37",
+      "text": "Unpriced dispatch/chatbot/subscription: cost separately",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 30,
+      "role": "uncosted changes",
+      "lines": [
+        {
+          "text": "Unpriced dispatch/chatbot/subscription: cost separately",
+          "bbox": [
+            178.3125,
+            1574.125,
+            822.378947368421,
+            1610.2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-38",
+      "text": "DKK600,000",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 39,
+      "role": "approved marketing envelope",
+      "lines": [
+        {
+          "text": "DKK600,000",
+          "bbox": [
+            1122.599,
+            1499.903,
+            1321.9279999999999,
+            1537.110625
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-39",
+      "text": "excludes app/platform build +",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 29,
+      "role": "budget exclusions",
+      "lines": [
+        {
+          "text": "excludes app/platform build +",
+          "bbox": [
+            1121.90625,
+            1549.9875,
+            1449.3525,
+            1584.86
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-40",
+      "text": "vehicle/driver/frontline operations",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 29,
+      "role": "budget exclusions",
+      "lines": [
+        {
+          "text": "vehicle/driver/frontline operations",
+          "bbox": [
+            1121.90625,
+            1590.9875,
+            1499.5225,
+            1625.86
+          ]
+        }
+      ]
+    }
+  ],
+  "typography": {
+    "helper": "09-candidate-v01-2026-10-04-lettering.py",
+    "portable_outlines": true,
+    "native_editable_companion": true,
+    "font_files_redistributed": false
+  },
+  "art": {
+    "type": "Original hand-drawn vector diagrams",
+    "generated_art": false,
+    "shared_logo_modified": false
+  },
+  "source_mapping": {
+    "E-016": {
+      "file": "../04_references/green-sm-denmark-aps-ndb-green-sm-car.pdf",
+      "page": 3,
+      "claim": "Up-to-30-day pre-booking is advertised; not a fulfilment claim.",
+      "sha256": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b"
+    },
+    "E-027": {
+      "file": "../04_references/faerdselsstyrelsen-nd-find-koerselskontor.pdf",
+      "page": 2,
+      "claim": "Green SM Denmark ApS is listed as a nationally licensed dispatch office; licence does not prove service performance.",
+      "sha256": "614b1a908d6a3b045109e95238f40002bbefaae62ca29e227af7eb04cee15838"
+    },
+    "E-188": {
+      "file": "../04_references/green-sm-denmark-aps-ndb-green-sm-car.pdf",
+      "pages": "1–2",
+      "claim": "The company advertises app booking and gives app booking instructions; no booking was tested.",
+      "sha256": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b"
+    },
+    "E-205": {
+      "file": "../04_references/feng-et-al-2020-scalable-deep-reinforcement-learning-for-ride-hailing.pdf",
+      "page": 1,
+      "claim": "Research proposes sequential driver-task assignment and demonstrates a numerical experiment on Didi data; no local speed or Copenhagen result.",
+      "sha256": "c29f01cd7253e2028c9a8ee9d98aad810409641d5590a8eb160b741abc3c2df7"
+    }
+  },
+  "registered_concepts": [
+    "consumer-insights-and-big-data",
+    "artificial-intelligence",
+    "personalisation",
+    "omnichannel",
+    "ai-chatbots",
+    "subscription-model",
+    "subscription-challenges",
+    "ride-hailing-dispatch-rl"
+  ],
+  "proposal_limits": [
+    "Marketing AI and personalisation are proposals using consented first-party trip data only.",
+    "AI-assisted driver-task allocation is a separate conditional operations pilot, not established Copenhagen practice or an evidenced performance result. Compare booking-to-match time, fulfilment, cancellations and fairness against a local baseline.",
+    "The registered outside concept ride-hailing-dispatch-rl uses Feng et al. (2020) p.1 for sequential driver-task allocation. Its numerical experiment uses Didi data only and establishes no Copenhagen outcome or faster local matching.",
+    "No observed local reminder, joined system, rating process, chatbot, retention effect or AI dispatch outcome is claimed.",
+    "Subscription test is a strategic-change recommendation, requires separate cost and group approval, and is not added to DKK600,000.",
+    "Dispatch AI and chatbot integration are unpriced; app/platform development and vehicle, driver and frontline operations remain outside the approved marketing budget."
+  ],
+  "alignment": {
+    "O3": "Repeat use remains an intended outcome, to be measured against mature cohorts.",
+    "S5": "Consented follow-up and campaign targeting.",
+    "S6": "Local after-sales help, ratings and human escalation.",
+    "S8": "Repeat, completion, rating and contribution measures.",
+    "S10": "Scale only when service and contribution evidence support it."
+  },
+  "surface_words": 90,
+  "word_count_convention": "All visible strings including numbered headings; punctuation-only tokens excluded",
+  "baseline_display": "Advertised booking and pre-booking only. Licence-register evidence retained internally.",
+  "user_visual_acceptance": true,
+  "student_acceptance_date": "2026-10-04",
+  "student_acceptance_message": "được"
+}

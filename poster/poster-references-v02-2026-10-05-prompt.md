@@ -1,0 +1,3 @@
+# Greenwich at upper left; centred title and Harvard footer
+
+Student clarification: University of Greenwich remains on the left, placed higher than the title and close to the page top. It must not be centred above the title. Reuse the exact hand-drawn logo payload at native x=45, y=10, width=310, height=105. Preserve the centred Denmark flag / Copenhagen meet / Green SM title and subtitle positions from the previous References proof, all ten white cells, group cloud, vehicle and landmarks. Keep the white lower footer and its seventeen alphabetical Harvard references unchanged. Export full A0 PNG/PDF/SVG and a header close-up for human review.

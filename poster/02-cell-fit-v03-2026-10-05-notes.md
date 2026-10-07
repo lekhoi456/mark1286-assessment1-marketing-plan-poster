@@ -1,0 +1,7 @@
+# Section 2 fitted v03 — selection connector and rider thoughts
+
+D-118 requests the visual relations missing from the fitted version. A cyan arrow originates at the selected 25–44 bar and reaches a curly brace grouping Self-paying, Existing taxi users and Recurring local trips. These are simultaneous targeting conditions (AND), not three alternative segments or estimated subgroup counts. No percentage is assigned to the filtered segment.
+
+Centre Proposed rider profile above the person. Show the three preference labels and their existing corrected icons in separate softly scalloped thought bubbles, with dotted thought trails from the person. Retain Within the service area and the repeat-rides implication. The profile remains explicitly proposed.
+
+Raise/reduce the chart slightly to give the lower profile more height. Bar heights now equal count / 300,000 × 33 native units, with zero baseline 319. All four counts, age bands, 40.2%, date/18+ scope and all-age denominator remain exact. Arrow routes above the comparison-bar labels; it does not cross them. Copy bytes and text order are unchanged from v02; the scoped copy-check report is reused. Fonts remain MarkerFelt-Wide/ChalkboardSE-Regular, at least 12.5 pt at A0. No glyph box leaves the native cell and no text boxes overlap. Other assembly layers remain byte-for-byte unchanged. Controller inspected the final close-up; the student accepts v03 wording/art for assembly (D-119). Preserve v01 reduction mapping and v02 icon provenance; await the student’s next section instruction.

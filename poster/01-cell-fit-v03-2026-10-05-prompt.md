@@ -1,0 +1,3 @@
+# Section 1 v03 header placement brief
+
+Starting from v02, make 1. Meet and Green SM logo approximately 10–13% smaller. Move the header groups upward approximately 1 cm on A0, keeping Vingroup-backed and Founded March 2023 on the right. Reduce secondary icons/lettering modestly and balance gaps within the existing sloping cell. Keep all copy, flags, dates, lower illustrations, full VinFast identity and other sections unchanged. Native hand-drawn glyphs, flat broad colours, navy contours and a heading-width yellow underline. Reproduce with the neighbouring render.py using python3 -B. Show the fitted candidate and wait for student review.

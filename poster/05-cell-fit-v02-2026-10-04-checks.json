@@ -1,0 +1,477 @@
+{
+  "status": "HUMAN-REVIEW candidate; no copy or image acceptance",
+  "base": "poster-a0-layout-v02-2026-10-04.svg",
+  "base_sha256": "3fe72f9972f81ce4cb86726efe8591b2059806dfcb6181c484ac84b661325ee7",
+  "cell_path": "M309 400 H587 Q610 400 611 423 V575 Q611 598 587 598 H374 Q338 598 310 578 Q260 541 260 499 Q260 448 285 419 Q296 400 309 400 Z",
+  "background_source_prefix_unchanged": true,
+  "visible_text": [
+    {
+      "text": "5. Digital Marketing",
+      "size_px": 14,
+      "size_pt_a0": 28.22,
+      "bbox": [
+        350.8225,
+        411.14,
+        473.102,
+        425.702
+      ],
+      "advance_width": 123.28399999999998
+    },
+    {
+      "text": "40–50%",
+      "size_px": 10,
+      "size_pt_a0": 20.16,
+      "bbox": [
+        349.9,
+        433.5285714285714,
+        387.25,
+        442.69
+      ],
+      "advance_width": 37.3
+    },
+    {
+      "text": "one app",
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        402.20166015625,
+        438.2333984375,
+        427.03662109375,
+        443.45947265625
+      ],
+      "advance_width": 25.30322265625
+    },
+    {
+      "text": "57% lower price · 22% usual app",
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        480.381875,
+        436.4396111111111,
+        570.9155,
+        443.5405
+      ],
+      "advance_width": 91.04549999999998
+    },
+    {
+      "text": "DK · n=1,005",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        350.459228515625,
+        446.911474609375,
+        383.189697265625,
+        451.84609375
+      ],
+      "advance_width": 33.431835937500004
+    },
+    {
+      "text": "Capital · n=79 · multi-select",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        480.25048828125,
+        446.800146484375,
+        548.77294921875,
+        452.188427734375
+      ],
+      "advance_width": 68.90654296875
+    },
+    {
+      "text": "Separate samples · not 25–44-specific",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        350.27537857248814,
+        460.80849609375,
+        446.8220703125,
+        466.188427734375
+      ],
+      "advance_width": 96.95566406249996
+    },
+    {
+      "text": "Marketing Mix",
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        283.198,
+        448.5748,
+        327.59549285714286,
+        455.2738
+      ],
+      "advance_width": 44.6292
+    },
+    {
+      "text": "4Ps*",
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        282.93,
+        457.09866666666665,
+        298.51835185185183,
+        463.4776
+      ],
+      "advance_width": 15.658999999999999
+    },
+    {
+      "text": "Product",
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        298.139125,
+        467.218,
+        321.898,
+        473.322
+      ],
+      "advance_width": 24.01
+    },
+    {
+      "text": "Electric + service",
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        281.56396484375,
+        479.26591796875,
+        330.7771484375,
+        484.13212890625
+      ],
+      "advance_width": 50.063964843749986
+    },
+    {
+      "text": "Price",
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        293.139125,
+        492.225,
+        308.31194736842104,
+        498.31596551724135
+      ],
+      "advance_width": 15.449000000000003
+    },
+    {
+      "text": "Clear fare + trial",
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        277.2900390625,
+        503.13701171875,
+        323.68984374999997,
+        508.1224609375
+      ],
+      "advance_width": 47.13457031249999
+    },
+    {
+      "text": "Place",
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        297.139125,
+        516.225,
+        313.03294736842105,
+        522.3166
+      ],
+      "advance_width": 16.17
+    },
+    {
+      "text": "Page → app",
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        281.56396484375,
+        527.26591796875,
+        317.441796875,
+        533.45986328125
+      ],
+      "advance_width": 36.6931640625
+    },
+    {
+      "text": "Promotion",
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        307.139125,
+        540.225,
+        338.5,
+        546.3159655172414
+      ],
+      "advance_width": 31.640000000000004
+    },
+    {
+      "text": "Search / social",
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        296.3188593997231,
+        551.1466796875,
+        338.8419921875,
+        556.13857421875
+      ],
+      "advance_width": 43.28671875
+    },
+    {
+      "text": "/ reminders",
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        305,
+        560.2498046875,
+        337.77119140625,
+        565.13212890625
+      ],
+      "advance_width": 33.00966796875
+    },
+    {
+      "text": "*Proposed",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        308.21708984375,
+        568.89755859375,
+        334.24560546875,
+        574.188427734375
+      ],
+      "advance_width": 26.618554687500005
+    },
+    {
+      "text": "Omni Channel · Search / SEO / Social",
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        350.1775,
+        469.0087210526316,
+        464.97740000000005,
+        475.3763
+      ],
+      "advance_width": 115.11939999999997
+    },
+    {
+      "text": "Copenhagen page",
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        352.091,
+        537.0931052631579,
+        404.85294736842104,
+        544.659
+      ],
+      "advance_width": 52.98999999999999
+    },
+    {
+      "text": "Green SM app",
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        433.0975,
+        537.6149907407407,
+        472.1495,
+        544.5405
+      ],
+      "advance_width": 39.279500000000006
+    },
+    {
+      "text": "Ride + help",
+      "size_px": 7.5,
+      "size_pt_a0": 15.12,
+      "bbox": [
+        510.2025,
+        536.6711842105263,
+        544.9275,
+        544.7775
+      ],
+      "advance_width": 35.07750000000001
+    },
+    {
+      "text": "Same fares / offers / help",
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        377.3188593997231,
+        546.1466796875,
+        450.3669921875,
+        552.37607421875
+      ],
+      "advance_width": 73.61835937499995
+    },
+    {
+      "text": "10% vs 20%",
+      "size_px": 8.6,
+      "size_pt_a0": 17.34,
+      "bbox": [
+        369.3244,
+        558.733,
+        413.279,
+        566.4908142857142
+      ],
+      "advance_width": 45.321999999999996
+    },
+    {
+      "text": "First paid ride",
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        364.07373333333334,
+        569.7194772277228,
+        401.96645263157893,
+        576.4931
+      ],
+      "advance_width": 38.089800000000004
+    },
+    {
+      "text": "30-day paid*",
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        467.4407375,
+        571.7070224137931,
+        505.49241666666666,
+        578.4931
+      ],
+      "advance_width": 38.619
+    },
+    {
+      "text": "Max DKK30 · 400 cap · 1/rider",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        346.420263671875,
+        579.89755859375,
+        422.28759765625,
+        585.188427734375
+      ],
+      "advance_width": 76.35439453125
+    },
+    {
+      "text": "CDP join → Big Data patterns → Marketing AI remind",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        467.0741,
+        555.2234,
+        599.7549826086956,
+        561.3509
+      ],
+      "advance_width": 132.95250000000001
+    },
+    {
+      "text": "Opt-in · human review · proposed",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        467.22265625,
+        563.800146484375,
+        550.90244140625,
+        569.188427734375
+      ],
+      "advance_width": 84.27539062499999
+    },
+    {
+      "text": "M1–2",
+      "size_px": 6.1,
+      "size_pt_a0": 12.3,
+      "bbox": [
+        378.183,
+        586.8455,
+        393.67827674418606,
+        592.3481357142857
+      ],
+      "advance_width": 15.9942
+    },
+    {
+      "text": "Verify",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        401.1447265625,
+        587.85302734375,
+        415.191552734375,
+        593.221826171875
+      ],
+      "advance_width": 14.258349609375
+    },
+    {
+      "text": "M3–6",
+      "size_px": 6.1,
+      "size_pt_a0": 12.3,
+      "bbox": [
+        451.183,
+        586.8750534482758,
+        467.0613,
+        592.3418975609756
+      ],
+      "advance_width": 16.47
+    },
+    {
+      "text": "Test · M4/M6 gates",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        474.091845703125,
+        587.911474609375,
+        521.946240234375,
+        593.260791015625
+      ],
+      "advance_width": 48.15219726562501
+    },
+    {
+      "text": "M7–12",
+      "size_px": 6.1,
+      "size_pt_a0": 12.3,
+      "bbox": [
+        534.183,
+        586.7817888888889,
+        554.3630767441861,
+        592.3782
+      ],
+      "advance_width": 20.679
+    },
+    {
+      "text": "Scale if gates",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        557.2753785724881,
+        587.80849609375,
+        591.013525390625,
+        593.260791015625
+      ],
+      "advance_width": 34.21948242187501
+    }
+  ],
+  "min_pt": 11.49,
+  "actual_plaintext_whitespace_word_tokens": 90,
+  "count_convention": "Every visible whitespace token containing a Unicode word character; numerals and headings included; standalone arrows/separators excluded.",
+  "all_plaintext_whitespace_tokens": 113,
+  "pdf_page_mm": [
+    1189.000000075,
+    841.0000000444444
+  ],
+  "raster_sizes": {
+    "poster": [
+      1672,
+      1183
+    ],
+    "close-up": [
+      1600,
+      921
+    ]
+  },
+  "gate_exit": 2,
+  "gate_effective_base_categories": {
+    "integrity": 0,
+    "grammar": 0,
+    "style": 0,
+    "referencing": 0,
+    "figures": 0,
+    "anti_slop": 0,
+    "word_limit": 0,
+    "module_scope": 0
+  },
+  "gate_fragment_errors": [
+    "Expected exactly one <!-- budget-table --> marker; found 0",
+    "Expected exactly one <!-- kpi-table --> marker; found 0"
+  ],
+  "visual_check": "Illustration-first journey, ticket lettering contained, timeline cards lifted inside border. Background geometry unchanged. Reading-distance acceptance untested.",
+  "source_art": "05-v09-illustration-atlas-2026-10-04.png; native SVG masks only; no raster edits",
+  "caution": "Displayed reduction and moved qualifications require human review. No copied rationale is silently accepted."
+}

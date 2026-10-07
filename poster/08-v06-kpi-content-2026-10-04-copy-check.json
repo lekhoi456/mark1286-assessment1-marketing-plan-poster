@@ -1,0 +1,237 @@
+{
+  "version": "1.0.0",
+  "genre": {
+    "mode": "poster",
+    "budget": {},
+    "kpi_rows": 0,
+    "sections": [
+      {
+        "heading": "8. Success Dashboard",
+        "words": 321,
+        "budget": 380
+      }
+    ],
+    "total_words": 321,
+    "speakers": {},
+    "errors": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ]
+  },
+  "base": {
+    "version": "2.0.0",
+    "total_words": 321,
+    "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+    "limit": {},
+    "sections": [
+      {
+        "name": "8. Success Dashboard",
+        "words": 2,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "Committed plan targets · M1–12",
+        "words": 87,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "Brand consideration target",
+        "words": 39,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "Wider brand growth · ambition, not committed volume",
+        "words": 76,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "Budget-release reviews",
+        "words": 86,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "Tracking proposal",
+        "words": 31,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      }
+    ],
+    "references": {
+      "citations": 0,
+      "entries": 0,
+      "hard": [],
+      "review": [],
+      "keys": []
+    },
+    "figures": {
+      "figures": 0,
+      "tables": 0,
+      "caption_words": 0,
+      "hard": [],
+      "review": []
+    },
+    "template_echo": {},
+    "anti_slop": {
+      "status": "ran",
+      "context": "general",
+      "source_mode": "rendered-markdown",
+      "score": 0,
+      "label": "Clean",
+      "hard": [],
+      "review": [],
+      "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+    },
+    "module_scope": {
+      "named": {},
+      "outside": []
+    },
+    "hard_stops": 3,
+    "hard_by_category": {
+      "integrity": 0,
+      "grammar": 3,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "findings": {
+      "ai_fingerprints": [],
+      "placeholders": [],
+      "numeric_markers": [],
+      "bypass_chars": [],
+      "speculation": [],
+      "vague_attribution": [],
+      "dashes": [],
+      "semicolons": [],
+      "banned": [],
+      "reflective_cliches": [],
+      "banned_soft": [],
+      "banned_in_quotation": [],
+      "banned_allowed": [],
+      "us_spelling": [],
+      "hedges": [],
+      "hedge_stacks": [],
+      "universals": [],
+      "mechanical_transitions": [],
+      "stance_openers": [],
+      "cleft_openers": [],
+      "double_connectives": [],
+      "duplicated_phrases": [],
+      "verbless_sentences": [
+        "M12: renew, revise or stop."
+      ],
+      "label_colons": [
+        "M4: ≥200 unique first paid riders. completion ≥95%, service-caused cancellations ≤2%, referenced complaints an",
+        "M6: ≥450 unique first paid riders cumulatively. paid-media acquisition cost ≤DKK175. mature 90-day repeat ≥35%",
+        "M12: renew, revise or stop."
+      ],
+      "comma_splices": [],
+      "sentence_count": 26,
+      "sentence_mean": 11.8,
+      "sentence_min": 5,
+      "sentence_max": 30,
+      "short_sentences": 10,
+      "long_sentences": 0,
+      "uniform_sentence_runs": [
+        {
+          "at_sentence": 9,
+          "lengths": [
+            14,
+            13,
+            15
+          ]
+        },
+        {
+          "at_sentence": 16,
+          "lengths": [
+            17,
+            14,
+            18
+          ]
+        }
+      ],
+      "paragraph_count": 14,
+      "paragraph_lengths": [
+        5,
+        9,
+        12,
+        9,
+        48,
+        12,
+        24,
+        43,
+        26,
+        31,
+        35,
+        18,
+        15,
+        19
+      ],
+      "uniform_paragraphs": [],
+      "repeated_openings": [],
+      "colons_total": 2,
+      "colons_per_100w": 0.65,
+      "colons_per_paragraph": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "colon_heavy_paragraphs": [],
+      "colon_quota_rhythm": false,
+      "colon_absent": false
+    }
+  },
+  "effective_base_hard_by_category": {
+    "integrity": 0,
+    "grammar": 0,
+    "style": 0,
+    "referencing": 0,
+    "figures": 0,
+    "anti_slop": 0,
+    "word_limit": 0,
+    "module_scope": 0
+  },
+  "genre_review": [
+    {
+      "type": "label_colon",
+      "text": "M4: ≥200 unique first paid riders. completion ≥95%, service-caused cancellations ≤2%, referenced complaints an",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    },
+    {
+      "type": "label_colon",
+      "text": "M6: ≥450 unique first paid riders cumulatively. paid-media acquisition cost ≤DKK175. mature 90-day repeat ≥35%",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    },
+    {
+      "type": "label_colon",
+      "text": "M12: renew, revise or stop.",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    }
+  ],
+  "hard_stops": 2,
+  "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+}

@@ -1,0 +1,36 @@
+{
+  "scope": "Remove decorative upper-left cloud only",
+  "asset": "assets/copenhagen-left-cloud-removed-v01-2026-10-05.png",
+  "patch_bounds_native": [
+    0,
+    90,
+    330,
+    255
+  ],
+  "native_viewbox": [
+    0,
+    0,
+    1672,
+    1182.634146
+  ],
+  "method": "Built-in imagegen removal; use only feathered bounded sky patch, retain original image everywhere else",
+  "versions": [
+    {
+      "base": "poster-white-sections-v01-2026-10-05.svg",
+      "output": "poster-no-left-cloud-v01-2026-10-05",
+      "base_sha256": "3767dd831252a9231823958c83cbe38a0dd63ee103f67b5b12faa3a4b2526160",
+      "patch_removal_restores_base_art_exactly": true,
+      "other_changes": "none"
+    },
+    {
+      "base": "poster-a0-layout-v02-2026-10-04.svg",
+      "output": "poster-background-no-left-cloud-v01-2026-10-05",
+      "base_sha256": "3fe72f9972f81ce4cb86726efe8591b2059806dfcb6181c484ac84b661325ee7",
+      "patch_removal_restores_base_art_exactly": true,
+      "other_changes": "Layout-only view adopts eleven already-requested white cell/cloud fills"
+    }
+  ],
+  "visual_review": "Controller inspected assembled full A0: decorative upper-left cloud and its white strokes absent; no visible patch seam; Greenwich logo, centred title/subtitle, right information cloud and ten white cells retained. Generated image outside bounded sky patch is not used. Print proof not tested.",
+  "student_review": "pending",
+  "pdfinfo": "Producer:        cairo 1.18.4 (https://cairographics.org)\nCreationDate:    Mon Oct  5 15:49:03 2026 +07\nCustom Metadata: no\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           1\nEncrypted:       no\nPage size:       3370.39 x 2383.94 pts (A0)\nPage rot:        0\nFile size:       15755567 bytes\nOptimized:       no\nPDF version:     1.7\n"
+}

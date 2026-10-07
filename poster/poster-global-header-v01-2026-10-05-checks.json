@@ -1,0 +1,73 @@
+{
+  "base": "poster-brief-headings-v01-2026-10-05.svg",
+  "base_sha256": "22f4e929dee6f33889727a75cd7089da62342f75f0592ac4e0221450b603bce8",
+  "base_artwork_restoration_exact": true,
+  "header_text": [
+    {
+      "text": "COPENHAGEN,",
+      "font": "MarkerFelt-Wide",
+      "resolved_fonts": [
+        "MarkerFelt-Wide"
+      ],
+      "bbox": [
+        85.78,
+        84.868,
+        455.67999999999995,
+        142.264
+      ],
+      "width": 372,
+      "a0_pt": 120.95
+    },
+    {
+      "text": "MEET",
+      "font": "MarkerFelt-Wide",
+      "resolved_fonts": [
+        "MarkerFelt-Wide"
+      ],
+      "bbox": [
+        562.8,
+        84.868,
+        713.16,
+        138.18
+      ],
+      "width": 152.33999999999997,
+      "a0_pt": 120.95
+    },
+    {
+      "text": "A 12-month market-entry plan for local electric taxi rides",
+      "font": "ChalkboardSE-Regular",
+      "resolved_fonts": [
+        "ChalkboardSE-Regular"
+      ],
+      "bbox": [
+        204.08963253244258,
+        165.02209944751382,
+        998.730773480663,
+        195.08839779005524
+      ],
+      "width": 796.3756906077346,
+      "a0_pt": 60.47
+    },
+    {
+      "text": "Clear terms. Local care.",
+      "font": "ChalkboardSE-Regular",
+      "resolved_fonts": [
+        "ChalkboardSE-Regular"
+      ],
+      "bbox": [
+        468.437955801105,
+        208.6243093922652,
+        734.073314917127,
+        226.8433539161521
+      ],
+      "width": 268.34254143646393,
+      "a0_pt": 50.39
+    }
+  ],
+  "header_right_edge": 1118.34,
+  "logo_image_payload_preserved": true,
+  "header_review": "pending",
+  "existing_cells_cloud_vehicle_landmarks": "unchanged",
+  "pdfinfo": "Producer:        cairo 1.18.4 (https://cairographics.org)\nCreationDate:    Mon Oct  5 15:05:35 2026 +07\nCustom Metadata: no\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           1\nEncrypted:       no\nPage size:       3370.39 x 2383.94 pts (A0)\nPage rot:        0\nFile size:       12464428 bytes\nOptimized:       no\nPDF version:     1.7\n",
+  "visual_review": "Controller inspected full composition and adjusted original logo vertically to align its wordmark with title lettering; reviewed final header close-up. Ten cells/cloud/vehicle/background restored byte-identically. Physical print not tested."
+}

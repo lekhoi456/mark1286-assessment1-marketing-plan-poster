@@ -1,0 +1,11 @@
+# Section 4 v02 controlled production brief
+
+Authorisation: D-134 sequential reconciliation. Base: 03-cell-fit-v07-2026-10-05-poster.svg, accepted for assembly D-143. Selected corporate-logo source: archive/04-candidate-v02-2026-10-04.svg. Exact display copy: 04-cell-fit-v02-2026-10-05-copy.md. Keep the D-128 v01 fallback preserved.
+
+Replace only section-04-v01-candidate with section-04-v02-candidate, using a balanced group replacement. Restore the old layer and verify the entire assembly is byte-for-byte equal to the base. Keep cell-04-clip and the asymmetrical cell path unchanged. Preserve all other cells/background and embedded corporate-logo payloads.
+
+Remove precisely Aa and Clear terms. Local care. from the Section 4 display. Keep all other exact strings. Record Clear terms. Local care. as a secondary global tagline for the later header assembly in notes only; do not alter any header/title/cloud artwork here. Do not create a literal Xanh Display font specimen.
+
+Keep corporate logo/name/slogan on the left and Primary/New Cyan #28bdbf Pantone 319 C plus Secondary/New Yellow #e3bb42 on the right. Keep Xanh Display 2.0, Modern Liquid Glass UI/UX, Layered · soft · clear and Danish first · English second. Enlarge the lower phone using recognisable offset, overlapping flat panels. Raise the language line visibly above the curved bottom edge. Use navy #173a47, cyan #28bdbf, gold #e3bb42 and cream #fdfbef; retain embedded corporate-art colours. Use the existing controlled hand-drawn lettering paths, a 20–22 pt A0 heading with text-width underline, at least 12.5 pt ordinary lettering and at least 13 pt language lettering. No image generation, raster repainting, new fact or source claim.
+
+Save reduced copy before rendering and run scoped presentcheck with the existing registry, source folder, concept list and strict scope; preserve its actual report. Generate standalone panel, fitted close-up, full A0 SVG/PNG/PDF and machine checks. Inspect all three rendered views. Assert native glyph containment, text overlaps/width, exact retained strings, unchanged logo bytes, restored-base equality and one 1189 × 841 mm PDF page. Record candidate status and untested physical print readability honestly.

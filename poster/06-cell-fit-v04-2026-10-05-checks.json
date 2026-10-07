@@ -1,0 +1,320 @@
+{
+  "status": "Candidate for student review. D-135 amendment: first-ride voucher wording and right-aligned header note. Section 6 only.",
+  "base": "06-cell-fit-v03-2026-10-05-poster.svg",
+  "base_sha256": "cf24c2f59836eaacb717326793250e86746024e6fa322e30a4a4d486a48bbd66",
+  "other_nine_cells_and_background_byte_for_byte_preserved": true,
+  "cell_path": "M642 400 H821 Q844 400 844 423 V575 Q844 598 821 598 H642 Q619 598 619 575 V423 Q619 400 642 400 Z",
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "art_translation_y": 120.817073,
+  "visible_text": [
+    {
+      "text": "6. From Clicks to Rides",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 10.5,
+      "size_pt_a0": 21.17,
+      "bbox": [
+        633.7245,
+        411.1905,
+        734.5245,
+        420.546
+      ],
+      "advance_width": 101.74499999999998
+    },
+    {
+      "text": "Sales strategy • proposed",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        753.37591160221,
+        412.85867403314916,
+        825.8850828729281,
+        419.0029934706178
+      ],
+      "advance_width": 73.1774585635359
+    },
+    {
+      "text": "Discover",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.2,
+      "size_pt_a0": 16.53,
+      "bbox": [
+        670.3526,
+        430.2514,
+        700.281305263158,
+        437.43945925925925
+      ],
+      "advance_width": 30.307199999999995
+    },
+    {
+      "text": "Search/social → leads",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 7.4,
+      "size_pt_a0": 14.92,
+      "bbox": [
+        670.4415469613259,
+        440.24353591160224,
+        744.4415469613259,
+        446.56419889502763
+      ],
+      "advance_width": 74.71955801104973
+    },
+    {
+      "text": "Fare check → prospect",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 7.4,
+      "size_pt_a0": 14.92,
+      "bbox": [
+        670.1880662983425,
+        449.37502762430944,
+        747.3524861878453,
+        456.595138121547
+      ],
+      "advance_width": 77.51602209944753
+    },
+    {
+      "text": "First paid ride",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.2,
+      "size_pt_a0": 16.53,
+      "bbox": [
+        670.0959703703704,
+        464.1269386138614,
+        719.4166526315789,
+        472.9434
+      ],
+      "advance_width": 49.57719999999998
+    },
+    {
+      "text": "App booking → completed trip",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 7.4,
+      "size_pt_a0": 14.92,
+      "bbox": [
+        670.1498445329564,
+        474.7750276243094,
+        771.6620994475138,
+        482.0003415369161
+      ],
+      "advance_width": 101.96464088397792
+    },
+    {
+      "text": "First-ride voucher",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.4,
+      "size_pt_a0": 14.92,
+      "bbox": [
+        670.1880662983425,
+        483.3832044198895,
+        730.3283977900553,
+        488.84530386740335
+      ],
+      "advance_width": 60.271160220994496
+    },
+    {
+      "text": "Experience",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.2,
+      "size_pt_a0": 16.53,
+      "bbox": [
+        670.2706,
+        498.14862666666664,
+        708.9534526315789,
+        506.9434
+      ],
+      "advance_width": 39.114000000000004
+    },
+    {
+      "text": "Check app · driver · car · care",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.4,
+      "size_pt_a0": 14.92,
+      "bbox": [
+        670.2780110497238,
+        508.7750276243094,
+        773.1012154696133,
+        515.9951381215469
+      ],
+      "advance_width": 103.24839779005525
+    },
+    {
+      "text": "Feedback",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.2,
+      "size_pt_a0": 16.53,
+      "bbox": [
+        670.0959703703704,
+        524.1269386138614,
+        703.2599809523809,
+        531.4264
+      ],
+      "advance_width": 33.3166
+    },
+    {
+      "text": "Post-ride feedback + rating",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.4,
+      "size_pt_a0": 14.92,
+      "bbox": [
+        670.147182320442,
+        534.5787845303868,
+        761.7109392265194,
+        542.0003415369162
+      ],
+      "advance_width": 91.98895027624309
+    },
+    {
+      "text": "Unpaid review: well-rated/resolved",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.4,
+      "size_pt_a0": 14.92,
+      "bbox": [
+        670.5478453038673,
+        542.8435359116022,
+        786.0123756906078,
+        550.5951381215469
+      ],
+      "advance_width": 116.35580110497241
+    },
+    {
+      "text": "Repeat",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.2,
+      "size_pt_a0": 16.53,
+      "bbox": [
+        670.2214,
+        555.276,
+        694.7886,
+        563.9434
+      ],
+      "advance_width": 24.919799999999995
+    },
+    {
+      "text": "Opt-in reminders + voucher pilots*",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.4,
+      "size_pt_a0": 14.92,
+      "bbox": [
+        670.3107182320442,
+        564.9737016574586,
+        786.2740331491713,
+        572.9951381215469
+      ],
+      "advance_width": 116.52751381215474
+    },
+    {
+      "text": "Tailored monthly paid bundle pilots*",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.4,
+      "size_pt_a0": 14.92,
+      "bbox": [
+        670.0892906077348,
+        573.5737016574586,
+        790.239779005525,
+        581.5951381215469
+      ],
+      "advance_width": 120.49325966850832
+    },
+    {
+      "text": "*Test frequency + unit economics",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        638.2123756906077,
+        581.9509392265194,
+        731.3836464088398,
+        588.6921546961325
+      ],
+      "advance_width": 93.61657458563539
+    },
+    {
+      "text": "Cost pilots separately",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        638.2329281767956,
+        590.6908287292817,
+        697.7460773480663,
+        596.6716022099447
+      ],
+      "advance_width": 59.90364640883979
+    }
+  ],
+  "word_bearing_tokens": 53,
+  "minimum_size_pt_a0": 12.5,
+  "all_hand_drawn_font_resolutions": [
+    "ChalkboardSE-Regular",
+    "MarkerFelt-Wide",
+    "Native vector arrow"
+  ],
+  "raster_images_added": 0,
+  "glyph_bbox_corners_inside_native_cell": true,
+  "pairwise_text_overlap_count": 0,
+  "pdf_measured_mm": [
+    1188.999,
+    841.001
+  ],
+  "manual_visual_review": "Standalone and full A0 inspected. No clipped/overlapping lettering observed. Student and physical-print acceptance pending."
+}

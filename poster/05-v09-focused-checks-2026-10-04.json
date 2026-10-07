@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "scope": "Section 5 v09 candidate only",
+  "visible_words": 180,
+  "word_budget": 210,
+  "word_count_convention": "Whitespace tokens containing letters/digits after protected presentation normalisation; standalone symbols and leading numbered-title marker excluded.",
+  "raw_whitespace_tokens": 209,
+  "raw_letter_digit_tokens": 181,
+  "copy_token_inventory_match": true,
+  "missing_tokens": {},
+  "extra_tokens": {},
+  "dimensions": [
+    1800,
+    1400
+  ],
+  "outlined_text_groups": 70,
+  "illustration_regions": 6,
+  "out_of_inset_glyphs": [],
+  "glyph_overlap_pairs": [],
+  "minimum_text_size": 23,
+  "genuine_transparent_atlas": true,
+  "all_raster_regions_have_source_space_clip_paths": true,
+  "visual_inspection": "Final PNG reopened; atlas fragments removed, connected paths and repeat loop readable, discount inset clear, timeline fully visible.",
+  "scope_limits": [
+    "No group acceptance claim",
+    "A0/print legibility not tested",
+    "Voucher costing remains conditional on Sections 6/7 alignment"
+  ],
+  "sha256": {
+    "05-v09-copy-2026-10-04.md": "33df09e6e51e9038e3fb4523d57718cf06118d26245486339ca64536115bb541",
+    "05-v09-candidate-2026-10-04.svg": "5961a2ffda6f12ec23e56709c6592693a376e92c5d52c425917cba9eb6aca06e",
+    "05-v09-candidate-2026-10-04.png": "0a8a45d2e3227adf9d7a00436c829eda4bfb3fbc3e6c02b25be6262b2c15ea15",
+    "05-v09-illustration-atlas-2026-10-04.png": "0c74f40297de7b29d60928512cd25ab9c5a94fdcb8646c9644409f0ef87ca827"
+  }
+}

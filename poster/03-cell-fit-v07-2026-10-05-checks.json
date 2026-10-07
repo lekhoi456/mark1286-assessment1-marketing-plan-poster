@@ -1,0 +1,362 @@
+{
+  "status": "Section 3 v07 reconciliation candidate under D-134; exact accepted v06 copy retained; student review pending",
+  "base": "02-cell-fit-v04-2026-10-05-poster.svg",
+  "base_sha256": "718bab3b221af4235992e24dd46fde9c7dd8303e70307399b5fe4adfc4d91c2d",
+  "other_nine_cells_and_background_byte_for_byte_preserved": true,
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "cell_path": "M938 230 H1227 Q1247 230 1250 250 L1257 370 Q1259 390 1237 390 H936 Q914 390 914 370 V250 Q914 230 938 230 Z",
+  "visible_text": [
+    {
+      "text": "3. Why Green SM?",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 10.5,
+      "size_pt_a0": 21.17,
+      "bbox": [
+        933.7345625,
+        241.13965789473684,
+        1016.7567203389831,
+        252.079
+      ],
+      "advance_width": 84.00000000000003,
+      "maximum_width": 184
+    },
+    {
+      "text": "Positioning Strategy",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        1130.1432044198896,
+        244.97193370165746,
+        1194.465856353591,
+        251.94627825213462
+      ],
+      "advance_width": 64.64883977900553,
+      "maximum_width": 113
+    },
+    {
+      "text": "Electric rides. One managed experience.",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 11.3,
+      "size_pt_a0": 22.78,
+      "bbox": [
+        933.3729,
+        263.5584733333333,
+        1127.464525,
+        275.6781
+      ],
+      "advance_width": 194.61990000000006,
+      "maximum_width": 310
+    },
+    {
+      "text": "Cleaner · Quieter · More reliable",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.6,
+      "size_pt_a0": 15.32,
+      "bbox": [
+        933.2855248618785,
+        279.68419889502763,
+        1046.7732596685082,
+        285.6508287292818
+      ],
+      "advance_width": 113.92441988950279,
+      "maximum_width": 206
+    },
+    {
+      "text": "Company promise",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        1058.2554696132597,
+        280.2963535911602,
+        1110.5065193370165,
+        286.83337016574586
+      ],
+      "advance_width": 52.6417679558011,
+      "maximum_width": 100
+    },
+    {
+      "text": "Green SM",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 9.5,
+      "size_pt_a0": 19.15,
+      "bbox": [
+        933.1425,
+        297.1296018518519,
+        972.9121206896551,
+        305.38
+      ],
+      "advance_width": 40.11849999999999,
+      "maximum_width": 142
+    },
+    {
+      "text": "Competitors",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 9.5,
+      "size_pt_a0": 19.15,
+      "bbox": [
+        1099.1235,
+        297.2091363636364,
+        1149.6825,
+        307.2515
+      ],
+      "advance_width": 50.882,
+      "maximum_width": 145
+    },
+    {
+      "text": "Taxi partners operate rides",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        1099.085670718232,
+        311.9946961325967,
+        1187.3067403314917,
+        318.9142541436464
+      ],
+      "advance_width": 88.57348066298343,
+      "maximum_width": 146
+    },
+    {
+      "text": "Own app",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.9,
+      "size_pt_a0": 13.91,
+      "bbox": [
+        933.289723756906,
+        344.2653038674033,
+        960.0129281767956,
+        350.8603314917127
+      ],
+      "advance_width": 27.295027624309395,
+      "maximum_width": 37
+    },
+    {
+      "text": "Owned fleet",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.9,
+      "size_pt_a0": 13.91,
+      "bbox": [
+        974.289723756906,
+        343.8612154696133,
+        1012.5332596685083,
+        349.2355510322768
+      ],
+      "advance_width": 38.685745856353584,
+      "maximum_width": 53
+    },
+    {
+      "text": "Employed drivers",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.9,
+      "size_pt_a0": 13.91,
+      "bbox": [
+        1031.2744751381215,
+        344.13569060773483,
+        1083.6306077348067,
+        350.8603314917127
+      ],
+      "advance_width": 52.88983425414364,
+      "maximum_width": 54
+    },
+    {
+      "text": "Uber",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.2,
+      "size_pt_a0": 16.53,
+      "bbox": [
+        1100.2624,
+        323.2432,
+        1116.6775052631579,
+        330.37888205128206
+      ],
+      "advance_width": 16.7034,
+      "maximum_width": 28
+    },
+    {
+      "text": "Drivr · Dantaxi",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.3,
+      "size_pt_a0": 14.72,
+      "bbox": [
+        1146.016132596685,
+        324.92629834254143,
+        1194.4300552486188,
+        330.2177900552486
+      ],
+      "advance_width": 48.94629834254144,
+      "maximum_width": 98
+    },
+    {
+      "text": "Bolt",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.2,
+      "size_pt_a0": 16.53,
+      "bbox": [
+        1100.205,
+        342.1284,
+        1114.391,
+        349.3708742857143
+      ],
+      "advance_width": 14.522199999999998,
+      "maximum_width": 28
+    },
+    {
+      "text": "Viggo/Bolt · Taxa 4x27",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.3,
+      "size_pt_a0": 14.72,
+      "bbox": [
+        1146.1532596685083,
+        343.32132596685085,
+        1221.7344751381215,
+        350.97330989452536
+      ],
+      "advance_width": 76.0167955801105,
+      "maximum_width": 98
+    },
+    {
+      "text": "Shared: App booking · Electric options",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.7,
+      "size_pt_a0": 15.52,
+      "bbox": [
+        1021.8438121546961,
+        360.56320441988953,
+        1154.3263535911601,
+        368.08143646408837
+      ],
+      "advance_width": 133.23127071823203,
+      "maximum_width": 311
+    },
+    {
+      "text": "Proposed edge:",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        933.1412154696133,
+        378.9946961325967,
+        981.358453038674,
+        385.9192466097438
+      ],
+      "advance_width": 48.876243093922625,
+      "maximum_width": 63
+    },
+    {
+      "text": "Direct control → one service standard",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide",
+        "Native vector arrow"
+      ],
+      "size_px": 8.2,
+      "size_pt_a0": 16.53,
+      "bbox": [
+        1000.3526,
+        377.2268,
+        1135.704652173913,
+        384.43945925925925
+      ],
+      "advance_width": 135.9888,
+      "maximum_width": 245
+    }
+  ],
+  "glyph_bbox_corners_outside_native_cell": [],
+  "pairwise_text_overlaps": [],
+  "minimum_ordinary_lettering_pt_a0": 13.71,
+  "logo": "Removed from Section 3 as requested; text brand name retained for comparison",
+  "manual_visual_review": "Producer inspected panel, fitted close-up and full A0: claim qualifier attached, controlled-chain bracket leads to Proposed edge, Shared remains explicit; controller/student review still pending",
+  "pdf_measured_mm": [
+    1188.999,
+    841.001
+  ],
+  "pdf_page_count": 1,
+  "heading_size_pt_a0": 21.17,
+  "width_violations": [],
+  "ordinary_lettering_below_12_5_pt": [],
+  "approved_copy_bytes_preserved": true,
+  "exact_displayed_string_multiset_preserved": true,
+  "displayed_token_multiset_preserved": true,
+  "replacement_layer_id": "section-03-v07-candidate",
+  "old_layer_occurrences_after_replacement": 0,
+  "new_layer_occurrences": 1,
+  "native_cell_unchanged": true,
+  "section_3_has_no_logos_or_raster_images": true,
+  "company_promise_gap_native": 11.482209944751503,
+  "shared_parity_centre_native": 1088,
+  "shared_parity_baseline_native": 366,
+  "operating_rows_alignment": "Both headers baseline 305; controlled-chain arrows and Uber operator arrow 327; Green SM chain labels and Bolt operator branch baseline 349.",
+  "chain_to_proposed_edge": "Bracket spans controlled chain only, at y354.8; left-margin connector ends beside Proposed edge at y380.5; Shared remains separate, centred across both columns at baseline 366.",
+  "scoped_copycheck_reused": {
+    "from": "03-cell-fit-v06-2026-10-05-copy-check.json",
+    "sha256": "91aa28679e12df0ea1f2c76505f252354c71b1ac89a8812c1f103b9f29851f58",
+    "reason": "Exact accepted v06 copy bytes retained; layout/palette only",
+    "scoped_words": 48,
+    "base_hard_stops": 0,
+    "detector_score": 0,
+    "whole_poster_markers_outside_fragment": 2
+  },
+  "palette": {
+    "navy": "#173a47",
+    "cyan": "#28bdbf",
+    "gold": "#e3bb42",
+    "cream": "#fdfbef"
+  },
+  "controller_visual_review": "Controller inspected final corrected standalone and full A0 on 5 October 2026. Shared spans both columns; only controlled-chain bracket leads to Proposed edge. Promise label clearly associated; no observed clipping. Physical print not tested."
+}

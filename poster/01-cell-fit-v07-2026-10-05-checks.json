@@ -1,0 +1,432 @@
+{
+  "status": "Section 1 v07 reconciliation candidate; v06 D-115 remains accepted fallback",
+  "base": "09-cell-fit-v02-2026-10-05-poster.svg",
+  "base_sha256": "62cd4acd76bca3bdbd593ea2e609738a4f6413c815ffdbc4213ec7edfb07921e",
+  "other_nine_cells_and_background_byte_for_byte_preserved": true,
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "cell_path": "M490 230 C470 231 451 240 431 256 L342 354 Q319 379 323 384 Q328 390 349 390 H581 Q601 390 603 369 L607 250 Q607 230 585 230 Z",
+  "visible_text": [
+    {
+      "text": "1. Meet",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 10.5,
+      "size_pt_a0": 21.17,
+      "bbox": [
+        449.617,
+        249.285,
+        482.146,
+        258.4221
+      ],
+      "advance_width": 34.31400000000001
+    },
+    {
+      "text": "Vingroup-backed",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        543.1322651933701,
+        242.55171270718233,
+        590.0585635359116,
+        248.70299347061777
+      ],
+      "advance_width": 47.35093922651933
+    },
+    {
+      "text": "Founded March 2023",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        543.1601104972376,
+        255.55867403314917,
+        602.498453038674,
+        260.20883977900553
+      ],
+      "advance_width": 59.930055248618785
+    },
+    {
+      "text": "Owned fleet · Employed drivers",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.7,
+      "size_pt_a0": 15.52,
+      "bbox": [
+        428.32331491712705,
+        300.2654143646409,
+        538.3609944751381,
+        308.0760220994475
+      ],
+      "advance_width": 110.65027624309394
+    },
+    {
+      "text": "Vietnam",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        413.83513812154695,
+        326.27381215469615,
+        437.99204419889503,
+        331.12773480662986
+      ],
+      "advance_width": 24.615248618784527
+    },
+    {
+      "text": "14/04/2023",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        413.6739226519337,
+        334.09922651933704,
+        445.73082872928177,
+        339.4803314917127
+      ],
+      "advance_width": 33.47005524861878
+    },
+    {
+      "text": "Laos",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        467.7146961325967,
+        326.48419889502765,
+        480.3829834254144,
+        331.22541436464087
+      ],
+      "advance_width": 13.276906077348066
+    },
+    {
+      "text": "Indonesia",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        507.7575690607735,
+        326.2061878453039,
+        536.3836115149753,
+        331.22541436464087
+      ],
+      "advance_width": 29.20618784530387
+    },
+    {
+      "text": "Philippines",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        554.2097237569061,
+        326.25127071823204,
+        585.6700552486188,
+        332.83337016574586
+      ],
+      "advance_width": 31.851049723756912
+    },
+    {
+      "text": "India",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        418.6214364640884,
+        355.2061878453039,
+        433.5197441116604,
+        360.1202209944751
+      ],
+      "advance_width": 15.478453038674033
+    },
+    {
+      "text": "Kazakhstan",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        457.0525966850829,
+        355.1986740331492,
+        490.91734806629836,
+        360.1502762430939
+      ],
+      "advance_width": 34.43580110497238
+    },
+    {
+      "text": "Denmark",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        508.7944751381215,
+        355.1986740331492,
+        534.9876243093922,
+        360.14276243093923
+      ],
+      "advance_width": 26.44110497237569
+    },
+    {
+      "text": "30/07/2026",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        508.32939226519335,
+        363.09922651933704,
+        540.4280662983425,
+        368.4803314917127
+      ],
+      "advance_width": 32.87834254143646
+    },
+    {
+      "text": "Netherlands",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.8,
+      "size_pt_a0": 13.71,
+      "bbox": [
+        551.9142541436464,
+        355.2061878453039,
+        588.1082872928176,
+        360.2293922651934
+      ],
+      "advance_width": 36.72751381215469
+    },
+    {
+      "text": "pilot",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        563.37591160221,
+        364.6213259668508,
+        575.133591160221,
+        370.6985635359116
+      ],
+      "advance_width": 12.272817679558012
+    },
+    {
+      "text": "Green SM Taxi: app-booked electric taxi rides in Copenhagen",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.0,
+      "size_pt_a0": 16.13,
+      "bbox": [
+        333.25635359116023,
+        373.3513812154696,
+        554.6839779005526,
+        381.1625313912607
+      ],
+      "advance_width": 222.03756906077354
+    }
+  ],
+  "asset_placements": [
+    {
+      "source_id": "authentic-green-sm-logo",
+      "box": [
+        484.314,
+        244.48680588235294,
+        42,
+        17
+      ],
+      "method": "Original native/embedded asset reused without repainting"
+    },
+    {
+      "source_id": "background-vingroup-emblem",
+      "box": [
+        533,
+        241.62735308890007,
+        8,
+        8
+      ],
+      "method": "Original native/embedded asset reused without repainting"
+    },
+    {
+      "source_id": "flag-vietnam",
+      "box": [
+        416.5,
+        312,
+        19,
+        12
+      ]
+    },
+    {
+      "source_id": "flag-laos",
+      "box": [
+        464.5,
+        312,
+        19,
+        12
+      ]
+    },
+    {
+      "source_id": "flag-indonesia",
+      "box": [
+        512.5,
+        312,
+        19,
+        12
+      ]
+    },
+    {
+      "source_id": "flag-philippines",
+      "box": [
+        560.5,
+        312,
+        19,
+        12
+      ]
+    },
+    {
+      "source_id": "flag-india",
+      "box": [
+        416.5,
+        341,
+        19,
+        12
+      ]
+    },
+    {
+      "source_id": "flag-kazakhstan",
+      "box": [
+        464.5,
+        341,
+        19,
+        12
+      ]
+    },
+    {
+      "source_id": "flag-denmark",
+      "box": [
+        509.5,
+        339,
+        25,
+        14
+      ]
+    },
+    {
+      "source_id": "flag-netherlands",
+      "box": [
+        560.5,
+        341,
+        19,
+        12
+      ]
+    }
+  ],
+  "glyph_bbox_corners_outside_native_cell": [],
+  "pairwise_text_overlaps": [],
+  "minimum_ordinary_lettering_pt_a0": 12.7,
+  "logos": "Shared Green SM and Vingroup identities reused; native full VinFast identity retained on centre door. Intrinsic logo paths are not ordinary poster lettering.",
+  "manual_visual_review": "Controller inspected final standalone and full A0 PNG on 5 October 2026: intro remains one line with clear curved-edge/mirror clearance; heading and corporate icons align; pilot belongs to Netherlands; no observed clipping. Physical print not tested.",
+  "header_alignment": {
+    "heading_visible_bottom": 258.4221,
+    "green_sm_wordmark_opaque_bottom": 258.4221,
+    "vingroup_label_centre": 245.62735308890007,
+    "vingroup_emblem_viewport_centre": 245.62735308890007,
+    "founded_label_centre": 257.88375690607734,
+    "calendar_visible_centre": 257.88375690607734,
+    "corporate_text_left": 543,
+    "icon_column_centre": 537,
+    "wordmark_ink_measurement": "Original PNG alpha >=160, at least 30 opaque pixels/row in the right wordmark region: bottom row 633. PNG bytes unchanged."
+  },
+  "pdf_measured_mm": [
+    1188.999,
+    841.001
+  ],
+  "heading_size_pt_a0": 21.17,
+  "all_hand_drawn_font_resolutions": [
+    "ChalkboardSE-Regular",
+    "MarkerFelt-Wide"
+  ],
+  "approved_copy_bytes_preserved": true,
+  "country_order": [
+    "Vietnam",
+    "Laos",
+    "Indonesia",
+    "Philippines",
+    "India",
+    "Kazakhstan",
+    "Denmark",
+    "Netherlands"
+  ],
+  "flag_hatching_removed": true,
+  "pilot_placement": "Directly below Netherlands name, same column",
+  "date_size_pt_a0": {
+    "14/04/2023": 12.7,
+    "30/07/2026": 12.7
+  },
+  "green_sm_and_vingroup_embedded_image_bytes_preserved": {
+    "fit01-authentic-green-sm-logo": true,
+    "fit01-background-vingroup-emblem": true
+  },
+  "green_sm_header_gap_native": 6.685999999999922,
+  "intro_single_line": true,
+  "word_bearing_tokens": 32,
+  "fragment_presentcheck": {
+    "exit": 2,
+    "genre_words": 31,
+    "detector_status": "ran",
+    "detector_score": 0,
+    "effective_base_hard_by_category": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "out_of_scope_whole_poster_tables": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ]
+  }
+}

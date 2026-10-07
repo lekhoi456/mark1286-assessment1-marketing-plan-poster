@@ -1,0 +1,75 @@
+{
+  "checks": [
+    {
+      "check": "Allocation amounts reconcile",
+      "pass": true,
+      "detail": "Seven displayed groups preserve the eleven original allocations, total DKK600,000"
+    },
+    {
+      "check": "Displayed shares reconcile",
+      "pass": true,
+      "detail": "Shares rounded to one decimal sum to 100.0%"
+    },
+    {
+      "check": "Each displayed share matches its amount",
+      "pass": true,
+      "detail": "Independent recalculation from full envelope"
+    },
+    {
+      "check": "Role hours and amount reconcile",
+      "pass": true,
+      "detail": "Four marketing roles, not frontline operating staff"
+    },
+    {
+      "check": "Screens and voucher grouping reconcile",
+      "pass": true,
+      "detail": "Published rate inputs and assumed impression volume, capped voucher reserve"
+    },
+    {
+      "check": "Staged cash and contingency reconcile",
+      "pass": true,
+      "detail": "No allocation amounts changed"
+    },
+    {
+      "check": "Cumulative exposure and retained funding reconcile",
+      "pass": true,
+      "detail": "Gate A end M4, Gate B end M6; DKK335,000 includes separate contingency"
+    },
+    {
+      "check": "Illustrative economics reproduce",
+      "pass": true,
+      "detail": "Illustrative rides 675.675, unrecovered DKK553,986.5325, break-even 8,811 whole rides"
+    },
+    {
+      "check": "All text stays in frame",
+      "pass": true,
+      "detail": "Visible outlined glyph bounds"
+    },
+    {
+      "check": "No text collisions",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "Controlled outlined lettering",
+      "pass": true,
+      "detail": "CoreText paths, no font-dependent text nodes"
+    },
+    {
+      "check": "No displayed logo or internal IDs",
+      "pass": true,
+      "detail": "Section 5–8 logo-free visual direction"
+    },
+    {
+      "check": "Writing gate has only expected standalone KPI omission",
+      "pass": true,
+      "detail": "252/270 source words; no effective base hard stops; detector score 2, one rhythm review retained"
+    }
+  ],
+  "passed": 13,
+  "total": 13,
+  "source_words": 252,
+  "visible_words_whitespace": 255,
+  "image_sha256": "8d5b8301ae24dee2f1097c1800c7a57b49fad0f2903ca2865286872b2814803d",
+  "limits": "Focused checks only. A0 placement and physical print proof remain untested."
+}

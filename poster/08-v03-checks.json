@@ -1,0 +1,33 @@
+{
+  "version": "v03",
+  "canvas_px": [
+    2200,
+    2520
+  ],
+  "svg_rendered_to_png": true,
+  "shared_logo_sha256": "36a99749e3cc9585573fedda5fb1dbcf6a76483872cadc2d0f6651ec95430db9",
+  "icon_art_reused_unchanged": true,
+  "all_required_target_labels_present": true,
+  "missing_target_labels": [],
+  "search_social_bar_ratio_2_to_1": true,
+  "gate_a_pass_fail_branches_present": true,
+  "gate_b_continue_screens_stop_branches_present": true,
+  "text_glyph_boxes": 48,
+  "text_overlaps": [],
+  "text_outside_canvas": [],
+  "minimum_glyph_size_px": 31,
+  "visible_word_count": 195,
+  "a0_fit_or_print_proof": false,
+  "group_approval_claimed": false,
+  "presentcheck": {
+    "result": "Standalone fragment detector ran; effective base hard findings 0; genre review 0",
+    "counted_words": 169,
+    "budget": 380,
+    "exit_code": 2,
+    "expected_standalone_omissions": [
+      "budget-table",
+      "kpi-table"
+    ],
+    "whole_poster_pass_claimed": false
+  }
+}

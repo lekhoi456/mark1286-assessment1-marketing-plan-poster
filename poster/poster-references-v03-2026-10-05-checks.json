@@ -1,0 +1,13 @@
+{
+  "base": "poster-references-v02-2026-10-05.svg",
+  "base_sha256": "94fb8fc3d216af059cdb0af68e637843423fbe103d1b3dabaf2995c2cfd03d50",
+  "title": "Copenhagen, meet Green SM",
+  "change": "Comma after Copenhagen; recenter whole title by half added comma width",
+  "added_width": 13.649999999999977,
+  "title_centre": 836,
+  "greenwich_subtitle_ten_cells_footer_unchanged": true,
+  "original_header_restoration_exact": true,
+  "new_lettering_font": "MarkerFelt-Wide",
+  "review": "pending",
+  "pdfinfo": "Producer:        cairo 1.18.4 (https://cairographics.org)\nCreationDate:    Mon Oct  5 19:48:32 2026 +07\nCustom Metadata: no\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           1\nEncrypted:       no\nPage size:       3370.39 x 2383.94 pts (A0)\nPage rot:        0\nFile size:       17544946 bytes\nOptimized:       no\nPDF version:     1.7\n"
+}

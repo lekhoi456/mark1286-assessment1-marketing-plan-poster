@@ -1,0 +1,3 @@
+# Global header — production brief
+
+Add the confirmed COPENHAGEN, MEET GREEN SM lock-up to the sky left of the existing identity cloud. Place a simple Denmark flag after Copenhagen; use the existing authentic hand-drawn Green SM image without recolouring or modifying its payload. Match controlled hand-drawn lettering used by the cells. Below, centre the exact subtitle: A 12-month market-entry plan for local electric taxi rides. Place the agreed secondary tagline Clear terms. Local care. beneath it; underline only its width. Preserve all ten cells, background, vehicle, landmarks, right-hand flag and group cloud. A0 landscape edge-to-edge. No visible citations. Return full proof and close-up for student review.

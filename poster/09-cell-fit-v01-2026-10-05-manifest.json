@@ -1,0 +1,65 @@
+{
+  "section": 9,
+  "version": "cell-fit-v01-2026-10-05",
+  "status": "Displayed copy/art accepted for assembly D-130",
+  "selected_source": "../archive/09-candidate-v03-2026-10-04.svg",
+  "selected_source_sha256": "676ec1f56199fe79e6095378c94b21dedc2f469c4521f5fe3b348fa94f463d77",
+  "base": "04-cell-fit-v01-2026-10-05-poster.svg",
+  "base_sha256": "7b7e9ebde5c5a178e313005515947cda2a636ef0021fb251593a13d3c3cd7ee9",
+  "source_mapping": {
+    "E-016": {
+      "file": "../04_references/green-sm-denmark-aps-ndb-green-sm-car.pdf",
+      "page": 3,
+      "claim": "Up-to-30-day pre-booking is advertised; not a fulfilment claim.",
+      "sha256": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b"
+    },
+    "E-027": {
+      "file": "../04_references/faerdselsstyrelsen-nd-find-koerselskontor.pdf",
+      "page": 2,
+      "claim": "Green SM Denmark ApS is listed as a nationally licensed dispatch office; licence does not prove service performance.",
+      "sha256": "614b1a908d6a3b045109e95238f40002bbefaae62ca29e227af7eb04cee15838"
+    },
+    "E-188": {
+      "file": "../04_references/green-sm-denmark-aps-ndb-green-sm-car.pdf",
+      "pages": "1–2",
+      "claim": "The company advertises app booking and gives app booking instructions; no booking was tested.",
+      "sha256": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b"
+    },
+    "E-205": {
+      "file": "../04_references/feng-et-al-2020-scalable-deep-reinforcement-learning-for-ride-hailing.pdf",
+      "page": 1,
+      "claim": "Research proposes sequential driver-task assignment and demonstrates a numerical experiment on Didi data; no local speed or Copenhagen result.",
+      "sha256": "c29f01cd7253e2028c9a8ee9d98aad810409641d5590a8eb160b741abc3c2df7"
+    }
+  },
+  "registered_concepts": [
+    "consumer-insights-and-big-data",
+    "artificial-intelligence",
+    "personalisation",
+    "omnichannel",
+    "ai-chatbots",
+    "subscription-model",
+    "subscription-challenges",
+    "ride-hailing-dispatch-rl"
+  ],
+  "proposal_limits": [
+    "Marketing AI and personalisation are proposals using consented first-party trip data only.",
+    "AI-assisted driver-task allocation is a separate conditional operations pilot, not established Copenhagen practice or an evidenced performance result. Compare booking-to-match time, fulfilment, cancellations and fairness against a local baseline.",
+    "The registered outside concept ride-hailing-dispatch-rl uses Feng et al. (2020) p.1 for sequential driver-task allocation. Its numerical experiment uses Didi data only and establishes no Copenhagen outcome or faster local matching.",
+    "No observed local reminder, joined system, rating process, chatbot, retention effect or AI dispatch outcome is claimed.",
+    "Subscription test is a strategic-change recommendation, requires separate cost and group approval, and is not added to DKK600,000.",
+    "Dispatch AI and chatbot integration are unpriced; app/platform development and vehicle, driver and frontline operations remain outside the approved marketing budget."
+  ],
+  "no_new_facts": true,
+  "fresh_source_audit": false,
+  "generated_external_art": false,
+  "original_native_vector_diagrams": true,
+  "visible_citations": false,
+  "graphic_logo": false,
+  "checks_file": "09-cell-fit-v01-2026-10-05-checks.json",
+  "copy_file": "09-cell-fit-v01-2026-10-05-copy.md",
+  "copy_check_file": "09-cell-fit-v01-2026-10-05-copy-check.json",
+  "student_visual_acceptance": true,
+  "student_acceptance_message": "được, tiếp section 10",
+  "student_acceptance_date": "2026-10-05"
+}

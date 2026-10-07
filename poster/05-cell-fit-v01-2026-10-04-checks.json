@@ -1,0 +1,602 @@
+{
+  "status": "HUMAN-REVIEW candidate; no copy or image acceptance",
+  "base": "poster-a0-layout-v02-2026-10-04.svg",
+  "base_sha256": "3fe72f9972f81ce4cb86726efe8591b2059806dfcb6181c484ac84b661325ee7",
+  "cell_path": "M309 400 H587 Q610 400 611 423 V575 Q611 598 587 598 H374 Q338 598 310 578 Q260 541 260 499 Q260 448 285 419 Q296 400 309 400 Z",
+  "background_source_prefix_unchanged": true,
+  "visible_text": [
+    {
+      "text": "5. Digital Marketing",
+      "size_px": 13,
+      "size_pt_a0": 26.21,
+      "bbox": [
+        350.76375,
+        411.9871428571429,
+        464.30899999999997,
+        425.509
+      ],
+      "advance_width": 114.47800000000002
+    },
+    {
+      "text": "Copenhagen · ages 25–44 · repeat self-paying taxi riders",
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        350.2724609375,
+        432.43173828125,
+        505.91123046874986,
+        438.37138671875
+      ],
+      "advance_width": 156.1352539062499
+    },
+    {
+      "text": "CUSTOMER INSIGHT",
+      "size_px": 7.7,
+      "size_pt_a0": 15.52,
+      "bbox": [
+        282.1001,
+        444.56639333333334,
+        349.221,
+        451.4081
+      ],
+      "advance_width": 67.24409999999997
+    },
+    {
+      "text": "Denmark · taxi apps · n=1,005",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        282.459228515625,
+        456.911474609375,
+        357.9591796875,
+        462.188427734375
+      ],
+      "advance_width": 76.201318359375
+    },
+    {
+      "text": "40–50%",
+      "size_px": 12,
+      "size_pt_a0": 24.19,
+      "bbox": [
+        281.88,
+        467.8342857142857,
+        326.7,
+        478.828
+      ],
+      "advance_width": 44.76
+    },
+    {
+      "text": "one installed app",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        330.164208984375,
+        473.89755859375,
+        372.88359375,
+        479.188427734375
+      ],
+      "advance_width": 43.10068359375001
+    },
+    {
+      "text": "Capital Region · last-trip app",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        282.25048828125,
+        489.800146484375,
+        353.70366210937505,
+        495.260791015625
+      ],
+      "advance_width": 71.920751953125
+    },
+    {
+      "text": "choice · n=79",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        282.164208984375,
+        496.89755859375,
+        315.79365234375,
+        501.111328125
+      ],
+      "advance_width": 34.06640625000001
+    },
+    {
+      "text": "57% lower price · 22% usual app",
+      "size_px": 6.1,
+      "size_pt_a0": 12.3,
+      "bbox": [
+        282.19658203125,
+        506.624560546875,
+        370.60786132812495,
+        512.271826171875
+      ],
+      "advance_width": 88.84018554687495
+    },
+    {
+      "text": "Multi-select · separate samples ·",
+      "size_px": 5.5,
+      "size_pt_a0": 11.09,
+      "bbox": [
+        282.405517578125,
+        515.054931640625,
+        360.4287109375,
+        520.146728515625
+      ],
+      "advance_width": 78.86376953125
+    },
+    {
+      "text": "not 25–44-specific.",
+      "size_px": 5.5,
+      "size_pt_a0": 11.09,
+      "bbox": [
+        282.3544921875,
+        521.99853515625,
+        327.67041015625,
+        527.146728515625
+      ],
+      "advance_width": 46.167236328125
+    },
+    {
+      "text": "MARKETING MIX · 4Ps",
+      "size_px": 7.6,
+      "size_pt_a0": 15.32,
+      "bbox": [
+        395.228,
+        444.5928380952381,
+        471.228,
+        451.51853714285716
+      ],
+      "advance_width": 76.38759999999996
+    },
+    {
+      "text": "PRODUCT*",
+      "size_px": 6.9,
+      "size_pt_a0": 13.91,
+      "bbox": [
+        411.1371375,
+        458.2561333333333,
+        443.0084611111111,
+        464.31145172413795
+      ],
+      "advance_width": 32.14710000000001
+    },
+    {
+      "text": "Electric ride + controlled service",
+      "size_px": 5.5,
+      "size_pt_a0": 11.09,
+      "bbox": [
+        395.469970703125,
+        469.04150390625,
+        472.555908203125,
+        473.110107421875
+      ],
+      "advance_width": 77.794921875
+    },
+    {
+      "text": "PRICE* · clear fare + trial",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        411.487060546875,
+        480.800146484375,
+        474.4458984375,
+        485.10576171875
+      ],
+      "advance_width": 63.82998046875001
+    },
+    {
+      "text": "PLACE · Copenhagen page",
+      "size_px": 6.1,
+      "size_pt_a0": 12.3,
+      "bbox": [
+        395.521240234375,
+        492.505419921875,
+        470.02583007812495,
+        498.349267578125
+      ],
+      "advance_width": 75.29091796874997
+    },
+    {
+      "text": "→ Green SM app",
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        395.7083984375,
+        500.43779296875,
+        443.0076171875,
+        506.29267578125
+      ],
+      "advance_width": 48.24375000000001
+    },
+    {
+      "text": "PROMOTION · search / social",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        395.487060546875,
+        511.800146484375,
+        470.948046875,
+        516.119677734375
+      ],
+      "advance_width": 76.33212890624999
+    },
+    {
+      "text": "/ reminders",
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        395,
+        519.5376953125,
+        425.78505859375,
+        524.12412109375
+      ],
+      "advance_width": 31.009082031250006
+    },
+    {
+      "text": "*Proposed service / trial",
+      "size_px": 5.5,
+      "size_pt_a0": 11.09,
+      "bbox": [
+        395.20947265625,
+        528.04150390625,
+        452.709716796875,
+        533.146728515625
+      ],
+      "advance_width": 58.080322265625
+    },
+    {
+      "text": "VOUCHER + PACKAGE",
+      "size_px": 7.7,
+      "size_pt_a0": 15.52,
+      "bbox": [
+        499.051975,
+        444.54707916666666,
+        569.9406264957265,
+        451.4081
+      ],
+      "advance_width": 70.994
+    },
+    {
+      "text": "Vietnam mechanics → CPH pilot",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        499.1447265625,
+        456.800146484375,
+        581.446826171875,
+        462.188427734375
+      ],
+      "advance_width": 82.580419921875
+    },
+    {
+      "text": "FIRST PAID RIDE",
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        499.07373333333334,
+        465.7194772277228,
+        542.3318307692308,
+        471.3339
+      ],
+      "advance_width": 43.37550000000001
+    },
+    {
+      "text": "10% vs 20% OFF",
+      "size_px": 9.5,
+      "size_pt_a0": 19.15,
+      "bbox": [
+        500.463,
+        475.9725,
+        566.8401229508197,
+        484.54217857142856
+      ],
+      "advance_width": 67.849
+    },
+    {
+      "text": "Max DKK30 · one per rider",
+      "size_px": 6.1,
+      "size_pt_a0": 12.3,
+      "bbox": [
+        499.449755859375,
+        488.60966796875,
+        571.14560546875,
+        494.271826171875
+      ],
+      "advance_width": 72.21708984374997
+    },
+    {
+      "text": "400-rider cap · DKK12,000",
+      "size_px": 6.1,
+      "size_pt_a0": 12.3,
+      "bbox": [
+        499.1548828125,
+        496.60966796875,
+        570.96689453125,
+        502.271826171875
+      ],
+      "advance_width": 72.22602539062498
+    },
+    {
+      "text": "reserve ceiling",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        499.381298828125,
+        504.911474609375,
+        535.362548828125,
+        510.260791015625
+      ],
+      "advance_width": 36.74941406250001
+    },
+    {
+      "text": "30-day paid package*",
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        499.461725,
+        514.454975862069,
+        565.0455888888889,
+        521.5642
+      ],
+      "advance_width": 66.1782
+    },
+    {
+      "text": "Track redemption + paid repeats",
+      "size_px": 5.5,
+      "size_pt_a0": 11.09,
+      "bbox": [
+        499.088623046875,
+        524.04150390625,
+        577.93359375,
+        529.146728515625
+      ],
+      "advance_width": 79.13232421875
+    },
+    {
+      "text": "*Proposed",
+      "size_px": 5.3,
+      "size_pt_a0": 10.68,
+      "bbox": [
+        559.20185546875,
+        528.18544921875,
+        583.40380859375,
+        533.105029296875
+      ],
+      "advance_width": 24.750585937499995
+    },
+    {
+      "text": "OMNI CHANNEL",
+      "size_px": 7,
+      "size_pt_a0": 14.11,
+      "bbox": [
+        302.175,
+        528.1512666666666,
+        350.54672307692306,
+        534.371
+      ],
+      "advance_width": 48.59400000000001
+    },
+    {
+      "text": "Paid search: “electric taxi Copenhagen”",
+      "size_px": 5.2,
+      "size_pt_a0": 10.48,
+      "bbox": [
+        302.4443359375,
+        538.1685546875,
+        392.9111328125,
+        543.1501953125
+      ],
+      "advance_width": 91.04824218749997
+    },
+    {
+      "text": "SEO: fare / area / booking FAQs",
+      "size_px": 5.2,
+      "size_pt_a0": 10.48,
+      "bbox": [
+        302.2512225573576,
+        544.3685546875,
+        376.38437500000003,
+        549.3501953125001
+      ],
+      "advance_width": 74.57226562500003
+    },
+    {
+      "text": "Social: short electric-ride / booking demos",
+      "size_px": 5.2,
+      "size_pt_a0": 10.48,
+      "bbox": [
+        302.2512225573576,
+        550.576171875,
+        398.34472656249994,
+        555.5501953125
+      ],
+      "advance_width": 96.53261718749995
+    },
+    {
+      "text": "CPH PAGE",
+      "size_px": 5.2,
+      "size_pt_a0": 10.48,
+      "bbox": [
+        437.0676,
+        539.6552266666666,
+        458.6063555555556,
+        544.2756
+      ],
+      "advance_width": 21.642399999999995
+    },
+    {
+      "text": "APP",
+      "size_px": 5.2,
+      "size_pt_a0": 10.48,
+      "bbox": [
+        498.0229185185185,
+        539.71,
+        507.1676,
+        544.2347172413793
+      ],
+      "advance_width": 9.2248
+    },
+    {
+      "text": "RIDE + HELP",
+      "size_px": 5.2,
+      "size_pt_a0": 10.48,
+      "bbox": [
+        558.1404,
+        539.6552266666666,
+        584.8008,
+        544.2756
+      ],
+      "advance_width": 26.857999999999997
+    },
+    {
+      "text": "Consistent fares / offers / help",
+      "size_px": 5.7,
+      "size_pt_a0": 11.49,
+      "bbox": [
+        423.25048828125,
+        552.800146484375,
+        498.4025390625,
+        558.188427734375
+      ],
+      "advance_width": 75.61962890625
+    },
+    {
+      "text": "CDP*: trip / app / consent",
+      "size_px": 5.5,
+      "size_pt_a0": 11.09,
+      "bbox": [
+        323.24169921875,
+        560.947509765625,
+        384.9287109375,
+        566.146728515625
+      ],
+      "advance_width": 62.0576171875
+    },
+    {
+      "text": "Big Data*: repeat patterns at scale",
+      "size_px": 5.5,
+      "size_pt_a0": 11.09,
+      "bbox": [
+        410.405517578125,
+        561.054931640625,
+        493.53125,
+        566.216552734375
+      ],
+      "advance_width": 83.770263671875
+    },
+    {
+      "text": "Marketing AI*: reminder timing/message",
+      "size_px": 5.1,
+      "size_pt_a0": 10.28,
+      "bbox": [
+        511.376025390625,
+        561.32939453125,
+        601.20126953125,
+        566.128076171875
+      ],
+      "advance_width": 90.42290039062495
+    },
+    {
+      "text": "Trip history → likely need → opt-in reminder → paid repeat",
+      "size_px": 5.5,
+      "size_pt_a0": 11.09,
+      "bbox": [
+        337.088623046875,
+        569.04150390625,
+        480.034912109375,
+        574.178955078125
+      ],
+      "advance_width": 143.163818359375
+    },
+    {
+      "text": "consent / privacy / access",
+      "size_px": 5.1,
+      "size_pt_a0": 10.28,
+      "bbox": [
+        520.146923828125,
+        569.341845703125,
+        578.20673828125,
+        574.093212890625
+      ],
+      "advance_width": 58.39101562499997
+    },
+    {
+      "text": "*Proposed after data/system checks · human review",
+      "size_px": 5.3,
+      "size_pt_a0": 10.68,
+      "bbox": [
+        345.20185546875,
+        577.14404296875,
+        467.15361328125005,
+        582.136083984375
+      ],
+      "advance_width": 122.25195312500009
+    },
+    {
+      "text": "M1–2 verify service/data → M3–6 test content/offers · M4/M6 gates",
+      "size_px": 5.5,
+      "size_pt_a0": 11.09,
+      "bbox": [
+        376.405517578125,
+        583.49853515625,
+        539.2490234375,
+        588.716552734375
+      ],
+      "advance_width": 163.44775390625
+    },
+    {
+      "text": "M7–12 refine · scale after gates",
+      "size_px": 5.5,
+      "size_pt_a0": 11.09,
+      "bbox": [
+        376.405517578125,
+        590.49853515625,
+        452.84423828125,
+        595.716552734375
+      ],
+      "advance_width": 77.04296875
+    }
+  ],
+  "min_pt": 10.28,
+  "base_removal_reconstructs_source_exactly": true,
+  "glyph_bbox_corners_inside_actual_cell": "verified before final label/icon replacements; final label placements unchanged",
+  "manual_visual_check": "No visible curved-edge clipping or overlapping footnotes in actual-assembly close-up.",
+  "raster_sizes": {
+    "poster": [
+      1672,
+      1183
+    ],
+    "close-up": [
+      1600,
+      921
+    ]
+  },
+  "pdf_media_box_pt": [
+    0.0,
+    0.0,
+    3370.393701,
+    2383.937008
+  ],
+  "pdf_page_mm": [
+    1189.000000075,
+    841.0000000444444
+  ],
+  "copy_gate_exit": 2,
+  "checker_visible_words": 162,
+  "copy_effective_base_hard_by_category": {
+    "integrity": 0,
+    "grammar": 0,
+    "style": 0,
+    "referencing": 0,
+    "figures": 0,
+    "anti_slop": 0,
+    "word_limit": 0,
+    "module_scope": 0
+  },
+  "fragment_contract_errors": [
+    "Expected exactly one <!-- budget-table --> marker; found 0",
+    "Expected exactly one <!-- kpi-table --> marker; found 0"
+  ],
+  "voucher_limits_verified": true
+}

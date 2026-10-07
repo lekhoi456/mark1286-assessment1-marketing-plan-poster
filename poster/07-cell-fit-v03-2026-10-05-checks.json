@@ -1,0 +1,608 @@
+{
+  "status": "Accepted by student for current assembly, D-107, 5 October 2026; physical A0 proof unverified",
+  "base": "06-cell-fit-v02-2026-10-04-poster.svg",
+  "base_sha256": "b0532d5e85f9877063c23bd9a90ca716bf73d01d895b95a56b26e71548138d29",
+  "base_byte_for_byte_preserved": true,
+  "cell_path": "M875 400 H1154 Q1177 400 1177 423 V575 Q1177 598 1154 598 H875 Q852 598 852 575 V423 Q852 400 875 400 Z",
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "art_translation_y": 120.817073,
+  "visible_text": [
+    {
+      "text": "7. Budget & Resources",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 12.2,
+      "size_pt_a0": 24.59,
+      "bbox": [
+        866.4636,
+        409.56357777777777,
+        981.8878,
+        422.3546
+      ],
+      "advance_width": 116.14399999999995
+    },
+    {
+      "text": "Proposed DKK600,000",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 10.8,
+      "size_pt_a0": 21.77,
+      "bbox": [
+        1007.21465,
+        410.9388,
+        1113.5744,
+        422.5596
+      ],
+      "advance_width": 107.3304
+    },
+    {
+      "text": "12 months · excluding VAT",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        1019.1217679558011,
+        429.92419889502764,
+        1103.796050924814,
+        436.9462782521346
+      ],
+      "advance_width": 85.91469613259672
+    },
+    {
+      "text": "Local delivery first · Search/social drive trial",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        866.368729281768,
+        431.4769060773481,
+        1011.7186740331491,
+        438.6161325966851
+      ],
+      "advance_width": 146.29922651933697
+    },
+    {
+      "text": "Team",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.3,
+      "size_pt_a0": 16.73,
+      "bbox": [
+        866.1001502762431,
+        445.5247513812155,
+        884.1774585635359,
+        451.18342541436465
+      ],
+      "advance_width": 18.562651933701662
+    },
+    {
+      "text": "276,000 / 46%",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.689163193331195,
+      "size_pt_a0": 15.5,
+      "bbox": [
+        996.5522603398525,
+        445.0185957037512,
+        1048.7026290477718,
+        452.0195575504969
+      ],
+      "advance_width": 52.999999999999986
+    },
+    {
+      "text": "Search",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.3,
+      "size_pt_a0": 16.73,
+      "bbox": [
+        866.4952486187846,
+        459.3138121546961,
+        891.2943646408839,
+        465.1845718232044
+      ],
+      "advance_width": 25.716243093922657
+    },
+    {
+      "text": "108,000 / 18%",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.615909812638932,
+      "size_pt_a0": 15.35,
+      "bbox": [
+        997.1865671641791,
+        459.0755795490632,
+        1048.705462051445,
+        466.00984439504606
+      ],
+      "advance_width": 52.99999999999999
+    },
+    {
+      "text": "Social",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.3,
+      "size_pt_a0": 16.73,
+      "bbox": [
+        866.4952486187846,
+        473.2404419889503,
+        887.2406629834254,
+        479.2799935001625
+      ],
+      "advance_width": 21.919337016574588
+    },
+    {
+      "text": "90,000 / 15%",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        996.3311602209944,
+        472.6990055248619,
+        1047.0344751381215,
+        480.07403314917127
+      ],
+      "advance_width": 51.34773480662984
+    },
+    {
+      "text": "Screens",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.3,
+      "size_pt_a0": 16.73,
+      "bbox": [
+        866.4952486187846,
+        487.55226519337015,
+        894.651049723757,
+        493.1845718232044
+      ],
+      "advance_width": 28.962872928176804
+    },
+    {
+      "text": "43,195 / 7.2%",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        996.3311602209944,
+        486.6990055248619,
+        1047.8041988950276,
+        494.07403314917127
+      ],
+      "advance_width": 52.11745856353591
+    },
+    {
+      "text": "Tools",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.3,
+      "size_pt_a0": 16.73,
+      "bbox": [
+        866.1001502762431,
+        501.2404419889503,
+        883.8106077348066,
+        507.2799935001625
+      ],
+      "advance_width": 18.122430939226525
+    },
+    {
+      "text": "30,000 / 5%",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        996.7070718232044,
+        500.6990055248619,
+        1042.4250828729282,
+        508.07403314917127
+      ],
+      "advance_width": 46.73834254143647
+    },
+    {
+      "text": "Vouchers",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.3,
+      "size_pt_a0": 16.73,
+      "bbox": [
+        866.1742541436464,
+        515.3138121546962,
+        899.7502762430939,
+        521.275138121547
+      ],
+      "advance_width": 34.062099447513816
+    },
+    {
+      "text": "12,000 / 2%",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        997.2619889502762,
+        514.6990055248618,
+        1042.4787845303867,
+        522.0740331491712
+      ],
+      "advance_width": 46.79204419889503
+    },
+    {
+      "text": "400 riders",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        941.2902762430939,
+        515.8946961325967,
+        974.8211049723757,
+        521.1196685082873
+      ],
+      "advance_width": 34.0878453038674
+    },
+    {
+      "text": "Contingency",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.3,
+      "size_pt_a0": 16.73,
+      "bbox": [
+        866.3118232044199,
+        529.231270718232,
+        910.7741436464089,
+        537.2436263184329
+      ],
+      "advance_width": 44.98508287292818
+    },
+    {
+      "text": "40,805 / 6.8%",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.026271753681392,
+      "size_pt_a0": 16.18,
+      "bbox": [
+        996.3281459170014,
+        528.7563587684069,
+        1048.6895917001339,
+        536.0642570281125
+      ],
+      "advance_width": 52.999999999999986
+    },
+    {
+      "text": "DKK / % · bars: 0–300,000",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        866.0156906077348,
+        541.4769060773481,
+        954.0870718232044,
+        547.9414364640884
+      ],
+      "advance_width": 88.2832044198895
+    },
+    {
+      "text": "460h × DKK600/h*",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector maths"
+      ],
+      "size_px": 7.7,
+      "size_pt_a0": 15.52,
+      "bbox": [
+        1059.3148066298343,
+        445.7293922651934,
+        1124.4276740547307,
+        452.58707182320444
+      ],
+      "advance_width": 65.691430960808
+    },
+    {
+      "text": "Checks 60h",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.5,
+      "size_pt_a0": 15.12,
+      "bbox": [
+        1071.2817679558011,
+        462.7044198895028,
+        1109.4116022099447,
+        468.21546961325964
+      ],
+      "advance_width": 38.79281767955801
+    },
+    {
+      "text": "Creative/localisation 120h",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.5,
+      "size_pt_a0": 15.12,
+      "bbox": [
+        1071.2817679558011,
+        478.16574585635357,
+        1158.0497237569061,
+        484.5718232044199
+      ],
+      "advance_width": 87.43093922651936
+    },
+    {
+      "text": "Campaigns 160h",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.5,
+      "size_pt_a0": 15.12,
+      "bbox": [
+        1071.2817679558011,
+        494.8121546961326,
+        1124.9088397790056,
+        502.0273731793069
+      ],
+      "advance_width": 54.29005524861879
+    },
+    {
+      "text": "CRM/help 120h",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.5,
+      "size_pt_a0": 15.12,
+      "bbox": [
+        1071.2817679558011,
+        510.16574585635357,
+        1123.5414364640883,
+        518.0220994475138
+      ],
+      "advance_width": 52.92265193370165
+    },
+    {
+      "text": "*Planning allowance",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        1059.2226519337016,
+        522.7066298342542,
+        1117.0403314917128,
+        529.7570567553993
+      ],
+      "advance_width": 58.169613259668495
+    },
+    {
+      "text": "Outside budget: cars, drivers,",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1059.2771270718233,
+        535.347182320442,
+        1147.140994475138,
+        541.78408839779
+      ],
+      "advance_width": 88.37436464088394
+    },
+    {
+      "text": "charging / frontline support",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1059.3293922651933,
+        543.8658563535912,
+        1143.5820994475139,
+        550.78408839779
+      ],
+      "advance_width": 84.72795580110494
+    },
+    {
+      "text": "Budget reviews · cumulative commitments",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        866.2118232044199,
+        559.9946961325967,
+        999.8801104972375,
+        566.9192466097438
+      ],
+      "advance_width": 134.14685082872927
+    },
+    {
+      "text": "M4 review",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        872.243,
+        572.1713142857143,
+        909.5435,
+        579.5526514285714
+      ],
+      "advance_width": 37.6245
+    },
+    {
+      "text": "DKK177,000",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.4,
+      "size_pt_a0": 16.93,
+      "bbox": [
+        872.0185635359117,
+        583.3715359116022,
+        916.7938121546961,
+        590.1138121546961
+      ],
+      "advance_width": 45.02585635359117
+    },
+    {
+      "text": "M6 review",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        975.243,
+        572.2041,
+        1012.1628,
+        579.4341
+      ],
+      "advance_width": 37.24379999999999
+    },
+    {
+      "text": "DKK265,000",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.4,
+      "size_pt_a0": 16.93,
+      "bbox": [
+        975.0185635359117,
+        583.1988950276243,
+        1020.592044198895,
+        590.1138121546961
+      ],
+      "advance_width": 45.82408839779007
+    },
+    {
+      "text": "Held at M6",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        1078.240975,
+        572.2041,
+        1116.8395,
+        579.3726
+      ],
+      "advance_width": 39.38219999999998
+    },
+    {
+      "text": "DKK335,000",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.4,
+      "size_pt_a0": 16.93,
+      "bbox": [
+        1078.0185635359117,
+        583.3715359116022,
+        1123.592044198895,
+        590.1138121546961
+      ],
+      "advance_width": 45.82408839779007
+    }
+  ],
+  "word_bearing_tokens": 74,
+  "minimum_size_pt_a0": 13.1,
+  "all_hand_drawn_font_resolutions": [
+    "ChalkboardSE-Regular",
+    "MarkerFelt-Wide",
+    "Native vector maths"
+  ],
+  "raster_images_added": 0,
+  "glyph_bbox_corners_inside_native_cell": true,
+  "pairwise_text_overlap_count": 0,
+  "allocations_sum_dkk": 600000,
+  "shares_sum_percent": 100.0,
+  "resource_hours": 460,
+  "voucher_reserve_ceiling_dkk": 12000,
+  "unreleased_dkk": 335000,
+  "forecast_and_payback_figures_displayed": false,
+  "border_around_rider_cap": false,
+  "pdf_measured_mm": [
+    1188.999,
+    841.001
+  ],
+  "manual_visual_review": "Controller inspected close-up and full A0 on 5 October 2026: clear raised chart and enlarged budget rows, unbordered rider-cap text, readable M4/M6 review labels. Physical A0 reading-distance proof remains untested.",
+  "fragment_presentcheck": {
+    "exit": 2,
+    "genre_words": 73,
+    "detector_status": "ran",
+    "detector_score": 0,
+    "effective_base_hard_stops": 0,
+    "out_of_scope_whole_poster_tables": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ]
+  }
+}

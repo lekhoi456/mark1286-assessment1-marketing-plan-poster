@@ -1,0 +1,16 @@
+{
+  "source_file": "archive/design/panel-02-independent-infographic-options-v01-2026-10-03-option-a.svg",
+  "removed_labels": [
+    "Copenhagen municipality \u00b7 1 July 2026 \u00b7 age groups 18+",
+    "The 40.2% denominator is all 670,389 city residents, including those aged under 18."
+  ],
+  "added_labels": [
+    "Copenhagen \u00b7 1 Jul 2026 \u00b7 18+",
+    "City population (all ages): 670,389"
+  ],
+  "percentage_inside_chart_preserved_in_source": true,
+  "selected_count_preserved_in_source": true,
+  "old_long_labels_absent": true,
+  "new_copy_present": true,
+  "section_2_is_review_candidate_only": true
+}

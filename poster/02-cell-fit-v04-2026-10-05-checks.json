@@ -1,0 +1,498 @@
+{
+  "status": "Section 2 v04 reconciliation candidate; exact accepted v03 wording preserved, pending student review",
+  "base": "01-cell-fit-v07-2026-10-05-poster.svg",
+  "base_sha256": "8573afa54f9a2f334e97e42a38d7ce6bfe8452ec5176aefdf001515507b92ad6",
+  "other_nine_cells_and_background_byte_for_byte_preserved": true,
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "cell_path": "M636 230 H884 Q904 230 906 250 V370 Q906 390 884 390 H633 Q611 390 611 370 L615 250 Q615 230 636 230 Z",
+  "visible_text": [
+    {
+      "text": "2. Target Market",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 10.5,
+      "size_pt_a0": 21.17,
+      "bbox": [
+        629.6615,
+        241.1275,
+        707.0255,
+        252.0265
+      ],
+      "advance_width": 78.1935,
+      "maximum_width": 270
+    },
+    {
+      "text": "Copenhagen residents aged 25–44",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.2,
+      "size_pt_a0": 16.53,
+      "bbox": [
+        629.3080662983425,
+        261.21922651933704,
+        756.7931491712707,
+        269.2165946760422
+      ],
+      "advance_width": 128.05591160220996,
+      "maximum_width": 269
+    },
+    {
+      "text": "0",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        631.1233149171271,
+        306.84565745856355,
+        634.3569060773481,
+        311.17812154696134
+      ],
+      "advance_width": 3.528176795580111,
+      "maximum_width": 8
+    },
+    {
+      "text": "72,396",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        648.0381215469614,
+        294.2714497237569,
+        667.8397790055249,
+        299.6222784530387
+      ],
+      "advance_width": 20.153591160220998,
+      "maximum_width": 34
+    },
+    {
+      "text": "18–24",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        648.9700552486188,
+        315.175138121547,
+        667.9086187845303,
+        320.21966850828727
+      ],
+      "advance_width": 20.27226519337016,
+      "maximum_width": 34
+    },
+    {
+      "text": "269,277",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 9,
+      "size_pt_a0": 18.14,
+      "bbox": [
+        678.6900552486188,
+        272.85683038674034,
+        709.6082872928176,
+        280.26567016574586
+      ],
+      "advance_width": 31.91270718232045,
+      "maximum_width": 34
+    },
+    {
+      "text": "25–44",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 9,
+      "size_pt_a0": 18.14,
+      "bbox": [
+        681.6834254143647,
+        313.9038674033149,
+        706.6745856353591,
+        320.27845303867406
+      ],
+      "advance_width": 25.92596685082873,
+      "maximum_width": 34
+    },
+    {
+      "text": "40.2%",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.6,
+      "size_pt_a0": 15.32,
+      "bbox": [
+        683.3107182320442,
+        290.23911602209944,
+        703.6417679558011,
+        296.2771270718232
+      ],
+      "advance_width": 20.935690607734806,
+      "maximum_width": 23
+    },
+    {
+      "text": "of city",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        685.1575690607734,
+        301.4579005524862,
+        703.2232044198895,
+        307.41127071823206
+      ],
+      "advance_width": 18.380773480662988,
+      "maximum_width": 22
+    },
+    {
+      "text": "143,668",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        719.4204419889503,
+        287.1442497237569,
+        741.3696132596685,
+        292.4950784530387
+      ],
+      "advance_width": 23.184530386740335,
+      "maximum_width": 34
+    },
+    {
+      "text": "45–64",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        720.2718232044199,
+        315.0966850828729,
+        739.7909392265194,
+        320.21966850828727
+      ],
+      "advance_width": 20.036906077348064,
+      "maximum_width": 34
+    },
+    {
+      "text": "74,728",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        756.6055248618785,
+        294.1100729281768,
+        775.2867403314917,
+        299.3890784530387
+      ],
+      "advance_width": 19.018784530386746,
+      "maximum_width": 34
+    },
+    {
+      "text": "65+",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        760.5945856353592,
+        315.0966850828729,
+        771.6721546961327,
+        320.2275138121547
+      ],
+      "advance_width": 11.909171270718229,
+      "maximum_width": 34
+    },
+    {
+      "text": "Self-paying",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        818.483314917127,
+        281.0659668508287,
+        860.0304972375691,
+        289.18956303365144
+      ],
+      "advance_width": 42.334806629834254,
+      "maximum_width": 82
+    },
+    {
+      "text": "Existing taxi users",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.8,
+      "size_pt_a0": 15.72,
+      "bbox": [
+        818.3102762430939,
+        299.5787845303867,
+        883.0890607734807,
+        307.10846810647917
+      ],
+      "advance_width": 65.38209944751382,
+      "maximum_width": 83
+    },
+    {
+      "text": "Recurring local trips",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.7,
+      "size_pt_a0": 15.52,
+      "bbox": [
+        818.1871823204419,
+        317.5717127071823,
+        889.7844198895027,
+        325.08143646408837
+      ],
+      "advance_width": 72.0737016574586,
+      "maximum_width": 83
+    },
+    {
+      "text": "Copenhagen · 1 Jul 2026 · 18+",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        630.2366850828729,
+        323.6282872928177,
+        719.2441988950277,
+        329.7029934706178
+      ],
+      "advance_width": 89.49480662983433,
+      "maximum_width": 158
+    },
+    {
+      "text": "City population (all ages): 670,389",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.3,
+      "size_pt_a0": 12.7,
+      "bbox": [
+        630.2366850828729,
+        331.1758011049724,
+        726.6601529961752,
+        337.7029934706178
+      ],
+      "advance_width": 97.03392265193374,
+      "maximum_width": 269
+    },
+    {
+      "text": "Proposed rider profile",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.8,
+      "size_pt_a0": 15.72,
+      "bbox": [
+        712.7886187845304,
+        345.22541436464087,
+        789.2113812154696,
+        353.1029834254144
+      ],
+      "advance_width": 76.73303867403311,
+      "maximum_width": 96
+    },
+    {
+      "text": "Within the service area",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        640.0636464088398,
+        366.9958011049724,
+        717.4321372492003,
+        372.19093922651933
+      ],
+      "advance_width": 77.66453038674034,
+      "maximum_width": 89
+    },
+    {
+      "text": "Price-conscious",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        797.1432044198895,
+        356.47193370165746,
+        846.2702762430939,
+        361.7466298342541
+      ],
+      "advance_width": 49.54077348066299,
+      "maximum_width": 91
+    },
+    {
+      "text": "Values trip control",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        797.1511602209945,
+        366.4958011049724,
+        856.7798895027624,
+        373.44121546961327
+      ],
+      "advance_width": 60.3686187845304,
+      "maximum_width": 91
+    },
+    {
+      "text": "Expects fair treatment",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        797.286408839779,
+        376.22530386740334,
+        872.2777900552486,
+        383.44121546961327
+      ],
+      "advance_width": 75.43690607734808,
+      "maximum_width": 91
+    },
+    {
+      "text": "Recurring trips → repeat rides",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 6.5,
+      "size_pt_a0": 13.1,
+      "bbox": [
+        630.1580110497238,
+        380.41767955801106,
+        722.4867403314917,
+        386.7570567553993
+      ],
+      "advance_width": 92.73093922651935,
+      "maximum_width": 100
+    }
+  ],
+  "glyph_bbox_corners_outside_native_cell": [],
+  "pairwise_text_overlaps": [],
+  "minimum_ordinary_lettering_pt_a0": 12.5,
+  "bars": [
+    {
+      "age": "18–24",
+      "count": 72396,
+      "top": 301.7604,
+      "baseline": 309,
+      "height": 7.239599999999996
+    },
+    {
+      "age": "25–44",
+      "count": 269277,
+      "top": 282.0723,
+      "baseline": 309,
+      "height": 26.927700000000016
+    },
+    {
+      "age": "45–64",
+      "count": 143668,
+      "top": 294.6332,
+      "baseline": 309,
+      "height": 14.366800000000012
+    },
+    {
+      "age": "65+",
+      "count": 74728,
+      "top": 301.5272,
+      "baseline": 309,
+      "height": 7.4728000000000065
+    }
+  ],
+  "scale": {
+    "minimum": 0,
+    "maximum": 300000,
+    "height": 30
+  },
+  "denominator": 670389,
+  "selected_share_actual": 40.16727601437374,
+  "selected_share_rounded": "40.2%",
+  "manual_visual_review": "Dedicated Section 2 agent inspected final panel, fitted close-up and full A0 images: stronger selected count/age label, grouped captions, AND brace/arrow, centred proposed-profile title and clear lower thought bubbles. Candidate pending student review; physical print not checked.",
+  "pdf_measured_mm": [
+    1188.999,
+    841.001
+  ],
+  "heading_size_pt_a0": 21.17,
+  "width_violations": [],
+  "ordinary_lettering_below_12_5_pt": [],
+  "approved_copy_bytes_preserved": true,
+  "displayed_token_multiset_preserved": true,
+  "bar_height_scale_verified": true,
+  "pdf_page_count": 1,
+  "replacement_layer_id": "section-02-v04-candidate",
+  "old_layer_occurrences_after_replacement": 0,
+  "new_layer_occurrences": 1,
+  "section_2_has_no_logos_or_raster_images": true,
+  "proposed_profile_title_centre_native": 751,
+  "person_head_centre_native": 751,
+  "thought_cloud_conservative_bottom_clearance_native": 5.774999999999977,
+  "scoped_copycheck_reused": {
+    "from": "02-cell-fit-v03-2026-10-05-copy-check.json",
+    "sha256": "43b2766cbb73bc0dddb69c038b266938ab9fd3e4fa9ae2d97696034004bbff68",
+    "reason": "Exact v03 copy bytes retained; only positioning/style changed",
+    "base_hard_stops": 0,
+    "whole_poster_markers_outside_fragment": 2
+  },
+  "selection_logic": "AND: three simultaneous conditions grouped by brace and reached by an arrow from 25–44; service-area restriction retained.",
+  "palette": {
+    "navy": "#173a47",
+    "cyan": "#28bdbf",
+    "gold": "#e3bb42",
+    "cream": "#fdfbef",
+    "comparison_bar": "#dfeceb"
+  },
+  "controller_visual_review": "Final standalone and complete A0 inspected 5 October 2026; selected age/count hierarchy and caption/persona clearances satisfactory. No observed clipping. Physical print not tested."
+}

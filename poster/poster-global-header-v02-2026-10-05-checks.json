@@ -1,0 +1,62 @@
+{
+  "base": "poster-brief-headings-v01-2026-10-05.svg",
+  "base_sha256": "22f4e929dee6f33889727a75cd7089da62342f75f0592ac4e0221450b603bce8",
+  "base_artwork_restoration_exact": true,
+  "header_text": [
+    {
+      "text": "Copenhagen",
+      "font": "MarkerFelt-Wide",
+      "bbox": [
+        520.525,
+        82.8078947368421,
+        782.525,
+        136.85
+      ],
+      "width": 263.65,
+      "a0_pt": 100.79
+    },
+    {
+      "text": "meet",
+      "font": "MarkerFelt-Wide",
+      "bbox": [
+        806.025,
+        88.44999999999999,
+        912.3249999999999,
+        126.55
+      ],
+      "width": 107.6,
+      "a0_pt": 100.79
+    },
+    {
+      "text": "A 12-month market-entry plan for local electric taxi rides",
+      "font": "ChalkboardSE-Regular",
+      "bbox": [
+        464.924990363613,
+        156.48729281767956,
+        1206.590055248619,
+        184.54917127071823
+      ],
+      "width": 743.2839779005525,
+      "a0_pt": 56.44
+    }
+  ],
+  "title_bounds": [
+    445.875,
+    1226.125
+  ],
+  "title_centre": 836,
+  "subtitle_centre": 836,
+  "greenwich_logo_box": [
+    45,
+    58,
+    355,
+    182
+  ],
+  "greenwich_asset": "assets/greenwich-hand-drawn-v01-2026-10-05.png",
+  "greenwich_asset_sha256": "b41e97ca97974969fcb2fee45637b0f53517205a2be087783e61bdb42d2f7dd5",
+  "green_sm_logo_payload_preserved": true,
+  "previous_tagline_removed": true,
+  "review": "pending",
+  "pdfinfo": "Producer:        cairo 1.18.4 (https://cairographics.org)\nCreationDate:    Mon Oct  5 15:15:25 2026 +07\nCustom Metadata: no\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           1\nEncrypted:       no\nPage size:       3370.39 x 2383.94 pts (A0)\nPage rot:        0\nFile size:       13430765 bytes\nOptimized:       no\nPDF version:     1.7\n",
+  "visual_review": "Controller inspected the generated university asset for exact wordmark spelling and compass identity, and the final full A0 for centred title/subtitle, left-logo spacing, cloud clearance and absent tagline. Print proof remains untested."
+}

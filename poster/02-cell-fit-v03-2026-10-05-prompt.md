@@ -1,0 +1,3 @@
+# Section 2 v03 relation brief
+
+Keep the approved source meaning and exact fitted v02 strings/numbers. Draw a cyan arrow from the 25–44 column to a curly brace grouping the three simultaneous conditions: Self-paying, Existing taxi users, Recurring local trips. Route above comparison-bar numbers. Centre Proposed rider profile directly above the person. Put price consciousness, trip control and fair treatment with their recognisable icons inside three thought clouds connected by small thought dots. Use simple flat colouring, native handwriting and no logos. Reduce chart height proportionally from 38 to 33 native units; baseline 319, all counts unchanged. Preserve all other assembly layers; return for human review.

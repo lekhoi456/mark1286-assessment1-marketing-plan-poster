@@ -1,0 +1,1 @@
+Native SVG text revision only; no generated artwork. Preserve the accepted Option A chart, counts, bars, audience icons and lower profile. Replace only the source/date line and the denominator sentence with the two shorter labels in the copy file. Keep the percentage inside the 25–44 column, the 269,277 count above it, handwritten lettering and citation-free poster face.

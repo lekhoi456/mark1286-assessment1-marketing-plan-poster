@@ -1,0 +1,461 @@
+{
+  "version": "1.0.0",
+  "genre": {
+    "mode": "pitch",
+    "allocated_seconds": 900,
+    "estimated_seconds": 791.0,
+    "sections": [
+      {
+        "heading": "Overview",
+        "words": 86,
+        "speaker": "Speaker A",
+        "time_seconds": 45,
+        "estimated_seconds": 43.0
+      },
+      {
+        "heading": "1. Company/Business Introduction",
+        "words": 114,
+        "speaker": "Speaker A",
+        "time_seconds": 60,
+        "estimated_seconds": 57.0
+      },
+      {
+        "heading": "2. Target Market Analysis",
+        "words": 160,
+        "speaker": "Speaker A",
+        "time_seconds": 90,
+        "estimated_seconds": 80.0
+      },
+      {
+        "heading": "3. Positioning Strategy",
+        "words": 141,
+        "speaker": "Speaker A",
+        "time_seconds": 75,
+        "estimated_seconds": 70.5
+      },
+      {
+        "heading": "4. Branding and Identity",
+        "words": 104,
+        "speaker": "Speaker A",
+        "time_seconds": 60,
+        "estimated_seconds": 52.0
+      },
+      {
+        "heading": "5. Digital Marketing Tactics",
+        "words": 216,
+        "speaker": "Speaker B",
+        "time_seconds": 120,
+        "estimated_seconds": 108.0
+      },
+      {
+        "heading": "6. Sales Strategies",
+        "words": 156,
+        "speaker": "Speaker B",
+        "time_seconds": 90,
+        "estimated_seconds": 78.0
+      },
+      {
+        "heading": "7. Budget and Resource Allocation",
+        "words": 189,
+        "speaker": "Speaker B",
+        "time_seconds": 120,
+        "estimated_seconds": 94.5
+      },
+      {
+        "heading": "8. Measurement and Evaluation",
+        "words": 180,
+        "speaker": "Speaker C",
+        "time_seconds": 105,
+        "estimated_seconds": 90.0
+      },
+      {
+        "heading": "9. Creativity and Innovation",
+        "words": 153,
+        "speaker": "Speaker C",
+        "time_seconds": 90,
+        "estimated_seconds": 76.5
+      },
+      {
+        "heading": "10. Alignment with Business Objectives",
+        "words": 83,
+        "speaker": "Speaker C",
+        "time_seconds": 45,
+        "estimated_seconds": 41.5
+      }
+    ],
+    "total_words": 1582,
+    "speakers": {
+      "Speaker A": 605,
+      "Speaker B": 561,
+      "Speaker C": 416
+    },
+    "errors": []
+  },
+  "base": {
+    "version": "2.0.0",
+    "total_words": 1796,
+    "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+    "limit": {},
+    "sections": [
+      {
+        "name": "Copenhagen, meet Green SM — presentation script",
+        "words": 6,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "Overview",
+        "words": 115,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 1
+      },
+      {
+        "name": "1. Company/Business Introduction",
+        "words": 123,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 1
+      },
+      {
+        "name": "2. Target Market Analysis",
+        "words": 176,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 3
+      },
+      {
+        "name": "3. Positioning Strategy",
+        "words": 152,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 1
+      },
+      {
+        "name": "4. Branding and Identity",
+        "words": 141,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "5. Digital Marketing Tactics",
+        "words": 233,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "6. Sales Strategies",
+        "words": 166,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 1
+      },
+      {
+        "name": "7. Budget and Resource Allocation",
+        "words": 226,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 1
+      },
+      {
+        "name": "8. Measurement and Evaluation",
+        "words": 195,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "9. Creativity and Innovation",
+        "words": 164,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "10. Alignment with Business Objectives",
+        "words": 99,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 1
+      },
+      {
+        "name": "References",
+        "words": 0,
+        "budget": null,
+        "is_refs": true,
+        "first_person": 0
+      }
+    ],
+    "references": {
+      "citations": 13,
+      "entries": 11,
+      "hard": [],
+      "review": [],
+      "keys": [
+        "aurora-vietnam-and-inspace-creative-2026",
+        "customer-data-platform-institute-nd",
+        "drivr-nd",
+        "green-future-usa-inc-ndc",
+        "green-sm-2026a",
+        "green-sm-2026d",
+        "green-sm-denmark-aps-ndc",
+        "gsm-green-and-smart-mobility-joint-stock-company-2024b",
+        "konkurrence-og-forbrugerstyrelsen-2026b",
+        "statistics-denmark-2026b",
+        "viggo-2025"
+      ]
+    },
+    "figures": {
+      "figures": 0,
+      "tables": 0,
+      "caption_words": 0,
+      "hard": [],
+      "review": []
+    },
+    "template_echo": {},
+    "anti_slop": {
+      "status": "ran",
+      "context": "general",
+      "source_mode": "rendered-markdown",
+      "score": 1,
+      "label": "Minimal AI signals",
+      "hard": [],
+      "review": [
+        {
+          "type": "tier1-clarity",
+          "text": "features",
+          "severity": "medium",
+          "suggestion": "has, includes",
+          "why": "review (stylometric, wordiness or house-overridden)"
+        }
+      ],
+      "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+    },
+    "module_scope": {
+      "named": {},
+      "outside": []
+    },
+    "hard_stops": 0,
+    "hard_by_category": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "findings": {
+      "ai_fingerprints": [],
+      "placeholders": [],
+      "numeric_markers": [],
+      "bypass_chars": [],
+      "speculation": [],
+      "vague_attribution": [],
+      "dashes": [],
+      "semicolons": [],
+      "banned": [],
+      "reflective_cliches": [],
+      "banned_soft": [],
+      "banned_in_quotation": [],
+      "banned_allowed": [],
+      "us_spelling": [],
+      "hedges": [],
+      "hedge_stacks": [],
+      "universals": [],
+      "mechanical_transitions": [],
+      "stance_openers": [],
+      "cleft_openers": [],
+      "double_connectives": [],
+      "duplicated_phrases": [],
+      "verbless_sentences": [
+        "Resources and measurement control when we expand."
+      ],
+      "label_colons": [],
+      "comma_splices": [],
+      "sentence_count": 109,
+      "sentence_mean": 16.2,
+      "sentence_min": 3,
+      "sentence_max": 58,
+      "short_sentences": 31,
+      "long_sentences": 12,
+      "uniform_sentence_runs": [
+        {
+          "at_sentence": 26,
+          "lengths": [
+            19,
+            20,
+            19
+          ]
+        },
+        {
+          "at_sentence": 33,
+          "lengths": [
+            18,
+            20,
+            19
+          ]
+        },
+        {
+          "at_sentence": 67,
+          "lengths": [
+            12,
+            13,
+            13
+          ]
+        }
+      ],
+      "paragraph_count": 61,
+      "paragraph_lengths": [
+        28,
+        31,
+        34,
+        21,
+        7,
+        42,
+        23,
+        49,
+        13,
+        34,
+        38,
+        38,
+        50,
+        9,
+        8,
+        49,
+        46,
+        38,
+        10,
+        24,
+        39,
+        26,
+        15,
+        24,
+        16,
+        79,
+        34,
+        37,
+        31,
+        35,
+        12,
+        13,
+        32,
+        30,
+        23,
+        58,
+        15,
+        11,
+        40,
+        38,
+        36,
+        41,
+        23,
+        18,
+        12,
+        50,
+        32,
+        26,
+        27,
+        45,
+        8,
+        7,
+        40,
+        36,
+        41,
+        29,
+        12,
+        17,
+        17,
+        22,
+        27
+      ],
+      "uniform_paragraphs": [],
+      "repeated_openings": [],
+      "colons_total": 10,
+      "colons_per_100w": 0.57,
+      "colons_per_paragraph": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "colon_heavy_paragraphs": [],
+      "colon_quota_rhythm": false,
+      "colon_absent": false
+    }
+  },
+  "effective_base_hard_by_category": {
+    "integrity": 0,
+    "grammar": 0,
+    "style": 0,
+    "referencing": 0,
+    "figures": 0,
+    "anti_slop": 0,
+    "word_limit": 0,
+    "module_scope": 0
+  },
+  "genre_review": [],
+  "hard_stops": 0,
+  "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+}

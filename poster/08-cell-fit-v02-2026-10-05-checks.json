@@ -1,0 +1,735 @@
+{
+  "status": "Section 8 v02 improvement candidate; fitted image pending student review",
+  "base": "07-cell-fit-v04-2026-10-05-poster.svg",
+  "base_sha256": "722a382b88f7f878baa909fd7db1987ad495d43debc7a0237bbcea572434d6cb",
+  "other_nine_cells_and_background_byte_for_byte_preserved": true,
+  "cell_path": "M1211 400 H1497 Q1518 400 1532 426 Q1549 452 1536 482 L1500 544 Q1491 559 1476 558 Q1397 532 1330 552 Q1293 562 1264 592 Q1256 598 1243 598 H1209 Q1185 598 1185 575 V423 Q1185 400 1211 400 Z",
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "visible_text": [
+    {
+      "text": "8. Success Dashboard",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 10.5,
+      "size_pt_a0": 21.17,
+      "bbox": [
+        1202.126,
+        411.0855,
+        1300.1471521739131,
+        420.609
+      ],
+      "advance_width": 98.511
+    },
+    {
+      "text": "12-month targets",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 7.6,
+      "size_pt_a0": 15.32,
+      "bbox": [
+        1431.18408839779,
+        414.7177900552486,
+        1489.8426519337017,
+        422.05440482169763
+      ],
+      "advance_width": 60.1281767955801
+    },
+    {
+      "text": "COMMIT",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.7,
+      "size_pt_a0": 15.52,
+      "bbox": [
+        1202.1001,
+        427.5901777777778,
+        1232.6075,
+        434.3483117647059
+      ],
+      "advance_width": 30.630599999999998
+    },
+    {
+      "text": "Consideration survey:",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.7,
+      "size_pt_a0": 13.51,
+      "bbox": [
+        1260.2517127071824,
+        429.2766850828729,
+        1323.8091712707183,
+        435.5250828729282
+      ],
+      "advance_width": 64.29779005524863
+    },
+    {
+      "text": "M1–2 → M12",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 6.7,
+      "size_pt_a0": 13.51,
+      "bbox": [
+        1340.1628729281767,
+        429.4617679558011,
+        1381.5622099447514,
+        434.14806629834254
+      ],
+      "advance_width": 41.91756906077348
+    },
+    {
+      "text": "M12: Renew · Revise · Stop",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.7,
+      "size_pt_a0": 13.51,
+      "bbox": [
+        1400.1628729281767,
+        429.2766850828729,
+        1483.960994475138,
+        435.806408839779
+      ],
+      "advance_width": 84.23491712707181
+    },
+    {
+      "text": "+10 pp",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 12.9,
+      "size_pt_a0": 26.0,
+      "bbox": [
+        1206.1462,
+        452.293,
+        1246.377,
+        466.0573
+      ],
+      "advance_width": 40.635000000000005
+    },
+    {
+      "text": "Consideration",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1205.2329281767957,
+        474.62917127071825,
+        1241.6930386740332,
+        479.2055248618785
+      ],
+      "advance_width": 36.96707182320442
+    },
+    {
+      "text": "1,200",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 12.9,
+      "size_pt_a0": 26.0,
+      "bbox": [
+        1270.5865999999999,
+        452.0995,
+        1302.9269,
+        464.56176
+      ],
+      "advance_width": 35.229899999999994
+    },
+    {
+      "text": "Distinct first paid",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1267.6137016574585,
+        469.4099447513812,
+        1316.3367955801104,
+        475.67160220994475
+      ],
+      "advance_width": 49.024530386740324
+    },
+    {
+      "text": "riders*",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1267.8603314917127,
+        478.9509392265193,
+        1287.3303867403315,
+        484.13701657458563
+      ],
+      "advance_width": 19.942762430939233
+    },
+    {
+      "text": "2,500",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 12.9,
+      "size_pt_a0": 26.0,
+      "bbox": [
+        1332.0127,
+        452.07185714285714,
+        1366.2235,
+        464.56176
+      ],
+      "advance_width": 35.9265
+    },
+    {
+      "text": "Paid rides*",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1330.3233149171272,
+        473.9509392265193,
+        1360.9465193370165,
+        479.21237569060776
+      ],
+      "advance_width": 30.95889502762432
+    },
+    {
+      "text": "≥50%",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 12.9,
+      "size_pt_a0": 26.0,
+      "bbox": [
+        1394.069576923077,
+        452.07185714285714,
+        1424.5665,
+        463.8901
+      ],
+      "advance_width": 30.831
+    },
+    {
+      "text": "90-day repeat†",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1393.0534806629835,
+        474.47845303867405,
+        1436.4397790055248,
+        480.67160220994475
+      ],
+      "advance_width": 43.742541436464094
+    },
+    {
+      "text": "DKK",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1484.2737016574586,
+        443.2289502762431,
+        1495.1870718232044,
+        447.49016574585636
+      ],
+      "advance_width": 11.194254143646411
+    },
+    {
+      "text": "≤DKK165",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 12.78515918776636,
+      "size_pt_a0": 25.77,
+      "bbox": [
+        1456.667177044565,
+        452.16914371664933,
+        1506.6616570569065,
+        463.8821759839559
+      ],
+      "advance_width": 51.000000000000014
+    },
+    {
+      "text": "Cost / first",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1455.6329281767958,
+        469.17701657458565,
+        1486.9206629834255,
+        474.47270718232045
+      ],
+      "advance_width": 31.657679558011058
+    },
+    {
+      "text": "paid rider*",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1455.7699447513812,
+        478.9509392265193,
+        1486.5027624309394,
+        485.67160220994475
+      ],
+      "advance_width": 31.31513812154697
+    },
+    {
+      "text": "*Paid campaign cohort only",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1202.2123756906078,
+        488.9509392265193,
+        1278.2771270718233,
+        495.675961828227
+      ],
+      "advance_width": 76.4346961325967
+    },
+    {
+      "text": "†Full 90-day cohorts",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1377.19182320442,
+        489.47845303867405,
+        1435.37591160221,
+        495.41127071823206
+      ],
+      "advance_width": 58.60883977900554
+    },
+    {
+      "text": "SERVICE",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.3,
+      "size_pt_a0": 14.72,
+      "bbox": [
+        1202.1329869565218,
+        496.90060666666665,
+        1228.368099145299,
+        503.3869
+      ],
+      "advance_width": 26.4187
+    },
+    {
+      "text": "≥95% completed",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1253.1385635359115,
+        497.99712707182323,
+        1300.6731491712708,
+        504.77944751381216
+      ],
+      "advance_width": 47.97944751381215
+    },
+    {
+      "text": "≤2% service cancellations",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1342.1458563535912,
+        497.99712707182323,
+        1417.1233149171271,
+        503.3865193370166
+      ],
+      "advance_width": 75.37127071823207
+    },
+    {
+      "text": "≥90% help within 24h",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1448.1385635359115,
+        497.99712707182323,
+        1512.5779005524862,
+        504.77944751381216
+      ],
+      "advance_width": 64.91337016574585
+    },
+    {
+      "text": "M4 review",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.5,
+      "size_pt_a0": 15.12,
+      "bbox": [
+        1202.225,
+        511.6771428571429,
+        1236.7625,
+        518.5117142857143
+      ],
+      "advance_width": 34.8375
+    },
+    {
+      "text": "≥200 first paid riders",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1202.1301657458564,
+        523.4099447513812,
+        1262.3489502762432,
+        529.6716022099447
+      ],
+      "advance_width": 60.58187845303866
+    },
+    {
+      "text": "Both counts cumulative",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1202.1849723756907,
+        532.6908287292817,
+        1266.4457458563536,
+        537.2091517712057
+      ],
+      "advance_width": 64.56906077348067
+    },
+    {
+      "text": "M6 review",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.5,
+      "size_pt_a0": 15.12,
+      "bbox": [
+        1316.225,
+        511.7075,
+        1350.41,
+        518.4019444444444
+      ],
+      "advance_width": 34.485
+    },
+    {
+      "text": "≥450 first paid riders",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1316.1301657458564,
+        521.4099447513812,
+        1375.8899447513813,
+        527.6716022099447
+      ],
+      "advance_width": 60.12287292817678
+    },
+    {
+      "text": "≤DKK175 paid acquisition",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1316.1370165745857,
+        529.6291712707182,
+        1385.316685082873,
+        535.6921546961325
+      ],
+      "advance_width": 69.59071823204421
+    },
+    {
+      "text": "≥35% 90-day repeat†",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1316.1301657458564,
+        536.3003314917127,
+        1377.0134806629835,
+        542.6716022099447
+      ],
+      "advance_width": 61.116243093922655
+    },
+    {
+      "text": "BRAND UPSIDE",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        1443.18,
+        509.9664,
+        1488.7204923076922,
+        516.3816
+      ],
+      "advance_width": 45.7704
+    },
+    {
+      "text": "Organic · referrals ·",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1428.2603314917128,
+        521.4579005524862,
+        1484.8755801104971,
+        527.6759618282271
+      ],
+      "advance_width": 57.34828729281769
+    },
+    {
+      "text": "extra rides",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1428.2534806629835,
+        529.6291712707182,
+        1459.0274033149171,
+        534.1849723756906
+      ],
+      "advance_width": 31.260331491712712
+    },
+    {
+      "text": "Track separately",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1428.0748110497238,
+        537.6223204419889,
+        1473.3867403314916,
+        543.6716022099447
+      ],
+      "advance_width": 45.544309392265205
+    },
+    {
+      "text": "TRACKING PROPOSED",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.1,
+      "size_pt_a0": 14.31,
+      "bbox": [
+        1201.9960555555556,
+        543.0499041666667,
+        1268.2927,
+        549.3763
+      ],
+      "advance_width": 66.42049999999999
+    },
+    {
+      "text": "M1–2 data checks",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1202.1507182320443,
+        552.6223204419889,
+        1252.887955801105,
+        557.1370165745857
+      ],
+      "advance_width": 51.120883977900554
+    },
+    {
+      "text": "Ads + trips + dispatch/help",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1202.125545419504,
+        560.1770165745857,
+        1278.3524861878452,
+        566.6716022099447
+      ],
+      "advance_width": 76.60596685082874
+    },
+    {
+      "text": "Big Data dashboard",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1214.1849723756907,
+        569.6291712707182,
+        1267.6967955801106,
+        575.6759618282271
+      ],
+      "advance_width": 53.98453038674034
+    },
+    {
+      "text": "Weekly actions",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1214.0548066298343,
+        577.6223204419889,
+        1255.8585635359116,
+        583.411270718232
+      ],
+      "advance_width": 42.09149171270719
+    },
+    {
+      "text": "Monthly cohort review",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.2,
+      "size_pt_a0": 12.5,
+      "bbox": [
+        1199.1507182320443,
+        584.6908287292817,
+        1262.1388983760255,
+        590.411270718232
+      ],
+      "advance_width": 63.19889502762431
+    }
+  ],
+  "word_bearing_tokens": 96,
+  "minimum_size_pt_a0": 12.5,
+  "all_hand_drawn_font_resolutions": [
+    "ChalkboardSE-Regular",
+    "MarkerFelt-Wide",
+    "Native vector arrow"
+  ],
+  "raster_images_added": 0,
+  "glyph_bbox_corners_outside_native_cell": [],
+  "pairwise_text_overlaps": [],
+  "pdf_measured_mm": [
+    1188.999,
+    841.001
+  ],
+  "copy_matches_visible_surface": true,
+  "heading_size_pt_a0": 21.17,
+  "m4_m6_cumulative_first_paid_riders": true,
+  "paid_acquisition_basis": "Paid search/social spend per distinct paid-attributed first paid rider; not full marketing-budget CAC",
+  "manual_visual_review": "Producing agent inspected standalone, fitted close-up and full A0 PNGs: no observed text/icon overlap or arch clipping. Physical A0 proof untested.",
+  "fragment_presentcheck": {
+    "exit": 2,
+    "genre_words": 95,
+    "detector_status": "ran",
+    "detector_score": 0,
+    "effective_base_hard_by_category": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "out_of_scope_whole_poster_tables": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ]
+  },
+  "cross_panel_section7": {
+    "budget_dkk": 600000,
+    "paid_search_social_dkk": 198000,
+    "year_end_cost_at_1200_paid_first_riders_dkk": 165,
+    "m4_cumulative_commitment_dkk": 177000,
+    "m6_cumulative_commitment_dkk": 265000,
+    "m6_held_dkk": 335000,
+    "cost_denominator_is_riders_not_total_budget": true
+  },
+  "controller_visual_review": "Final standalone, fitted close-up and full A0 inspected on 5 October 2026; no clipped display text or icon/text obstruction found. Student and physical-print acceptance pending."
+}

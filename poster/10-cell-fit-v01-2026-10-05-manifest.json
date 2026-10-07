@@ -1,0 +1,63 @@
+{
+  "section": 10,
+  "version": "cell-fit-v01-2026-10-05",
+  "status": "Displayed copy/art accepted for assembly D-132",
+  "selected_visual_source": "../archive/10-candidate-v01-2026-10-04.svg",
+  "selected_source_sha256": "fd3fd643bf0bc21082d118a7b164bbd3c8e1a97d1620e3e7c73ea9d6f7deae63",
+  "latest_strategy": "10-v04-copy-2026-10-04.md",
+  "target_authority": "D-105 and current Section 8",
+  "base": "09-cell-fit-v01-2026-10-05-poster.svg",
+  "base_sha256": "dd10ef1cd808420cba6d16d66045b47d52f94bc63370508aa0d36e5f75b0d306",
+  "source_basis": "Approved integrated-plan-copenhagen.md section12; section10 gates/objectives; Section8 current v01",
+  "evidence_ids": [
+    "E-020",
+    "E-021",
+    "E-185"
+  ],
+  "registered_concepts": [
+    "alignment-with-objectives",
+    "long-term-sustainable-growth",
+    "retention-over-acquisition"
+  ],
+  "internal_source_records": [
+    {
+      "key": "green-sm-denmark-aps-ndc",
+      "pdf": "../04_references/green-sm-denmark-aps-ndc-story-and-humanity.pdf",
+      "physical_pages": [
+        1
+      ],
+      "evidence_ids": [
+        "E-185"
+      ],
+      "sha256": "d836ff7cf0fbd96b5935514d79d7978e93b6db8b0c56fce0d7e694ab2c346187",
+      "inherited_verification_date": "2026-10-03",
+      "new_live_verification": false
+    },
+    {
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "pdf": "../04_references/konkurrence-og-forbrugerstyrelsen-2026b-uber-dantaxi-afgoerelse.pdf",
+      "physical_pages": [
+        175,
+        179
+      ],
+      "evidence_ids": [
+        "E-020",
+        "E-021"
+      ],
+      "sha256": "309669803ffbe59f7d14609b297dc0945df9dc3f457664645e240645dece3ffb",
+      "inherited_verification_date": "2026-10-03",
+      "new_live_verification": false
+    }
+  ],
+  "fresh_source_audit": false,
+  "new_factual_claims": false,
+  "original_native_vector_art": true,
+  "logo": false,
+  "visible_citations": false,
+  "copy_file": "10-cell-fit-v01-2026-10-05-copy.md",
+  "checks_file": "10-cell-fit-v01-2026-10-05-checks.json",
+  "copy_gate_file": "10-cell-fit-v01-2026-10-05-copy-check.json",
+  "student_visual_acceptance": true,
+  "student_acceptance_message": "được, đồng ý",
+  "student_acceptance_date": "2026-10-05"
+}

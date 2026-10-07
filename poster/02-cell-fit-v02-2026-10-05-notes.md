@@ -1,0 +1,5 @@
+# Section 2 fitted v02 — icon correction
+
+D-117 records the student's rejection of the v01 icon language, specifically the ambiguous inverted-tick appearance beside Values trip control. Replace the complete icon set with recognisable simple outlines: wallet with fold/clasp, taxi with roof sign, calendar surrounded by two repeat arrows, person holding a separate phone, price tag, phone showing a curved route with start circle/location pin, and headset with two earpads/microphone. Use flat navy/cyan/yellow/cream regions suitable for manual colouring. No new text, claims or numbers.
+
+Exact visible text records, positions, fonts, bar counts/heights, and copy bytes match v01. Reuse its scoped copy-check report unchanged. Removing the Section 2 layer preserves the accepted Section 1/background and Sections 5–8 byte-for-byte. Glyph bounds and text overlaps remain clear; lettering remains at least 12.5 pt at A0. The prior reduction/source mapping remains in v01 notes. New v02 icon artwork awaits student review; Section 3 is not authorised.

@@ -1,0 +1,20 @@
+{
+  "all_required_text_present_once": {
+    "4. Branding & Identity": 1,
+    "Green SM = Green and Smart Mobility": 1,
+    "Go Green For a Green Future.": 1,
+    "New Cyan \u00b7 #28bdbf \u00b7 Pantone 319 C": 1,
+    "New Yellow \u00b7 #e3bb42": 1,
+    "Xanh Display 2.0": 1,
+    "Modern Liquid Glass UI/UX": 1,
+    "Clear terms. Local care.": 1,
+    "Danish first \u00b7 English second": 1
+  },
+  "shared_hand_drawn_logo_present": true,
+  "cyan_hex_exact": true,
+  "yellow_hex_exact": true,
+  "pantone_specified": true,
+  "tagline_once": true,
+  "no_removed_promise_label": true,
+  "no_citations": true
+}

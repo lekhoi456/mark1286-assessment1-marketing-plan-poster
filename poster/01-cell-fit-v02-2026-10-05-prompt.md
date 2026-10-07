@@ -1,0 +1,3 @@
+# Section 1 v02 header placement brief
+
+Preserve v01 copy, flags, dates, pilot marker, app/taxi illustration, full VinFast identity and all other poster sections. Arrange 1. Meet + the hand-drawn Green SM lockup as a left header group; move the two-line Vingroup-backed / Founded March 2023 information group to its right. Reuse the Vingroup emblem and calendar icon. Fit the two groups to the existing sloping cell, with a heading-width yellow underline. Native hand-drawn glyphs, navy outlines and broad flat colours. Create a new v02 export and retain v01 history. No new content, raster repainting or further section work. Reproduce using the neighbouring render.py with python3 -B.

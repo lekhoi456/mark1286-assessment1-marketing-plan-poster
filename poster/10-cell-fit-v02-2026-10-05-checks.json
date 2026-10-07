@@ -1,0 +1,461 @@
+{
+  "status": "Section 10 v02 reconciliation candidate under D-134; student/controller review pending",
+  "base": "04-cell-fit-v03-2026-10-05-poster.svg",
+  "base_sha256": "7e824a9daafd82b5ee982efe556e720ef34b9eaa92ca8921d1397b037f355fd6",
+  "other_nine_cells_and_background_byte_for_byte_preserved": true,
+  "restored_base_sha256": "7e824a9daafd82b5ee982efe556e720ef34b9eaa92ca8921d1397b037f355fd6",
+  "replacement_layer_id": "section-10-v02-candidate",
+  "old_layer_occurrences_after_replacement": 0,
+  "new_layer_occurrences": 1,
+  "native_cell_unchanged": true,
+  "cell_path": "M890 608 H1240 Q1269 608 1258 636 L1224 725 Q1217 747 1193 747 H890 Q867 747 867 724 V631 Q867 608 890 608 Z",
+  "a0_mm": [
+    1189,
+    841
+  ],
+  "pdf_measured_mm": [
+    1188.999,
+    841.001
+  ],
+  "pdf_page_count": 1,
+  "visible_text": [
+    {
+      "text": "10. Business Goals & Growth",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 10.5,
+      "size_pt_a0": 21.17,
+      "bbox": [
+        884.617,
+        619.1396578947368,
+        1013.0602692307692,
+        628.4749
+      ],
+      "advance_width": 130.27349999999998,
+      "maximum_width": 227
+    },
+    {
+      "text": "Green · smart · sustainable mobility",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        883.2114917127071,
+        636.3836464088398,
+        989.6137016574585,
+        642.5023204419889
+      ],
+      "advance_width": 106.78143646408836,
+      "maximum_width": 125
+    },
+    {
+      "text": "Proposed 12-month plan",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1021.131270718232,
+        635.347182320442,
+        1092.8342541436464,
+        641.7794475138121
+      ],
+      "advance_width": 72.12596685082873,
+      "maximum_width": 80
+    },
+    {
+      "text": "Local outcomes untested",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1110.3427624309393,
+        635.347182320442,
+        1182.6437569060774,
+        640.2226454338642
+      ],
+      "advance_width": 72.95005524861877,
+      "maximum_width": 88
+    },
+    {
+      "text": "Stable local operation",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        927.1475608695653,
+        647.28945,
+        1004.0634,
+        655.9197
+      ],
+      "advance_width": 77.22540000000002,
+      "maximum_width": 128
+    },
+    {
+      "text": "Owned fleet + employed drivers",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        927.2771270718232,
+        661.084640883978,
+        1022.8130386740331,
+        667.7794475138121
+      ],
+      "advance_width": 96.0609944751381,
+      "maximum_width": 126
+    },
+    {
+      "text": "Service + 90-day repeat → scale",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        927.3938121546961,
+        673.347182320442,
+        1027.0866298342542,
+        679.7794475138121
+      ],
+      "advance_width": 100.2179005524862,
+      "maximum_width": 126
+    },
+    {
+      "text": "Become known locally",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        1115.2025,
+        647.2122,
+        1193.4566,
+        655.6038
+      ],
+      "advance_width": 78.53759999999998,
+      "maximum_width": 119
+    },
+    {
+      "text": "Search / social → paid trial",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular",
+        "Native vector arrow"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1115.3938121546962,
+        659.8658563535912,
+        1199.4654143646408,
+        666.7794475138121
+      ],
+      "advance_width": 85.00508287292817,
+      "maximum_width": 118
+    },
+    {
+      "text": "Screens after service +",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1115.3938121546962,
+        669.164861878453,
+        1184.9381215469614,
+        674.2114917127071
+      ],
+      "advance_width": 70.2006629834254,
+      "maximum_width": 111
+    },
+    {
+      "text": "90-day repeat checks",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1115.2698342541437,
+        678.3398895027624,
+        1180.8249723756905,
+        684.7794475138121
+      ],
+      "advance_width": 66.07292817679559,
+      "maximum_width": 109
+    },
+    {
+      "text": "Green & smart mobility",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        929.1215,
+        687.3256,
+        1012.0817,
+        695.6038
+      ],
+      "advance_width": 83.16270000000002,
+      "maximum_width": 125
+    },
+    {
+      "text": "App-booked electric rides",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        929.1336451239882,
+        700.3398895027624,
+        1005.9829834254144,
+        706.7794475138121
+      ],
+      "advance_width": 77.23093922651934,
+      "maximum_width": 125
+    },
+    {
+      "text": "Easy to understand + use",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        929.2625414364641,
+        711.347182320442,
+        1004.9401104972376,
+        717.5023204419889
+      ],
+      "advance_width": 76.0713812154696,
+      "maximum_width": 125
+    },
+    {
+      "text": "Sustainable growth",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 8.1,
+      "size_pt_a0": 16.33,
+      "bbox": [
+        1115.1475608695653,
+        687.1648789473684,
+        1183.4020076923077,
+        695.5633
+      ],
+      "advance_width": 68.56650000000002,
+      "maximum_width": 109
+    },
+    {
+      "text": "Retention + contribution",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1115.1604419889502,
+        698.347182320442,
+        1186.8780110497237,
+        703.2187845303868
+      ],
+      "advance_width": 72.16972375690607,
+      "maximum_width": 106
+    },
+    {
+      "text": "Repeat before expansion",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        1115.1604419889502,
+        706.164861878453,
+        1188.2709392265194,
+        712.7794475138121
+      ],
+      "advance_width": 73.56265193370166,
+      "maximum_width": 101
+    },
+    {
+      "text": "Repeat: full 90-day follow-up",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.4,
+      "size_pt_a0": 12.9,
+      "bbox": [
+        1115.1555801104973,
+        715.3113812154696,
+        1202.0682872928178,
+        721.7255248618784
+      ],
+      "advance_width": 87.32994475138125,
+      "maximum_width": 97
+    },
+    {
+      "text": "M12 review:",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 6.6,
+      "size_pt_a0": 13.3,
+      "bbox": [
+        889.198,
+        725.423,
+        924.46345,
+        731.3766714285714
+      ],
+      "advance_width": 35.60699999999999,
+      "maximum_width": 43
+    },
+    {
+      "text": "Consideration · paid trial · service · 90-day repeat · contribution",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.4,
+      "size_pt_a0": 12.9,
+      "bbox": [
+        936.2404419889502,
+        726.4881767955801,
+        1126.0835359116022,
+        732.7255248618784
+      ],
+      "advance_width": 190.36640883977904,
+      "maximum_width": 278
+    },
+    {
+      "text": "Renew · Revise · Stop",
+      "font": "MarkerFelt-Wide",
+      "resolved_font_names": [
+        "MarkerFelt-Wide"
+      ],
+      "size_px": 7.2,
+      "size_pt_a0": 14.51,
+      "bbox": [
+        889.1944,
+        734.0350666666667,
+        952.864,
+        741.7064
+      ],
+      "advance_width": 64.00800000000001,
+      "maximum_width": 105
+    },
+    {
+      "text": "Entry investment · first-year break-even not required",
+      "font": "ChalkboardSE-Regular",
+      "resolved_font_names": [
+        "ChalkboardSE-Regular"
+      ],
+      "size_px": 6.4,
+      "size_pt_a0": 12.9,
+      "bbox": [
+        1000.2545856353591,
+        735.2618784530387,
+        1155.9124861878454,
+        741.7467403314918
+      ],
+      "advance_width": 156.209502762431,
+      "maximum_width": 209
+    }
+  ],
+  "glyph_bbox_corners_outside_native_cell": [],
+  "pairwise_text_overlaps": [],
+  "artwork_geometry_boxes_outside_native_cell": [
+    {
+      "art": {
+        "kind": "path",
+        "d": "M882 724H1223L1219 742H883Z",
+        "stroke_width": 0.8
+      },
+      "bbox": [
+        881.6,
+        723.6,
+        1223.4,
+        742.4
+      ]
+    }
+  ],
+  "native_art_containment_pass": false,
+  "width_violations": [],
+  "heading_size_pt_a0": 21.17,
+  "minimum_ordinary_lettering_pt_a0": 12.9,
+  "exact_displayed_copy_matches_markdown": true,
+  "exact_v01_displayed_strings_preserved": true,
+  "v01_displayed_token_signature": "8b82e4e7b04b4177b84b866694635894cd77be65a0dbc51e1bbeab50ed0a3495",
+  "v02_displayed_token_signature": "8b82e4e7b04b4177b84b866694635894cd77be65a0dbc51e1bbeab50ed0a3495",
+  "previous_copy_sha256": "824b647d6d286ac042c75e078c1be5dbf4a8245e66ce89f50aa75240039b7c12",
+  "current_copy_sha256": "c8cf1fb2d313d2ed5e8d016b366ee2d0aaba70e45abe53b4f2bdb9c49d4d8010",
+  "copy_change": "Remove redundant non-displayed Markdown title/plain duplicate heading; all visible strings remain exact",
+  "qualifier_location": "Repeat: full 90-day follow-up belongs to the lower-right Sustainable growth tile, baseline 720; footer band starts at 724",
+  "followup_to_footer_clearance_native": 2.274475138121602,
+  "footer_bottom_clearance_native": 5.253259668508235,
+  "local_action_to_outcome_arrows": 4,
+  "proposal_qualification": "Both exact labels share one header support band; neither reads as a proved result",
+  "logo": "No graphic logo or raster in Section 10",
+  "section_10_has_no_raster": true,
+  "palette": {
+    "navy": "#173a47",
+    "cyan": "#28bdbf",
+    "gold": "#e3bb42",
+    "cream": "#fdfbef"
+  },
+  "fragment_presentcheck": {
+    "exit": 2,
+    "genre_words": 76,
+    "detector_status": "ran",
+    "detector_score": 0,
+    "effective_base_hard_by_category": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "whole_poster_tables_outside_fragment": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ]
+  },
+  "manual_visual_review": "Pending producer inspection"
+}
