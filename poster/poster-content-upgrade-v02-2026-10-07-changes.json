@@ -1,0 +1,202 @@
+{
+ "source": "poster.svg",
+ "front": "poster-content-upgrade-v02-2026-10-07.svg",
+ "back": "poster-content-upgrade-v01-2026-10-07-back.svg (unchanged)",
+ "difference_from_v01": "member-contributions strip and its white band removed (D-159, LG-005)",
+ "changes": [
+  {
+   "from": "Owned fleet · Employed drivers",
+   "to": "Owned fleet (590 registered) · Employed drivers",
+   "x": 398.5,
+   "y": 306.0,
+   "width": 169.68
+  },
+  {
+   "from": null,
+   "to": "Later: visitors · business accounts",
+   "x": 799.0,
+   "y": 339.2,
+   "width": 92.0
+  },
+  {
+   "from": null,
+   "to": "(part to be sold)",
+   "x": 1170.49,
+   "y": 338.6,
+   "width": 43.99
+  },
+  {
+   "from": "Shared: App booking · Electric options",
+   "to": "Shared: App booking · Electric options · Similar fares (Dantaxi/Drivr)",
+   "x": 968.14,
+   "y": 366.0,
+   "width": 239.89
+  },
+  {
+   "append_to": "Capital Region · n=79",
+   "to": "· ±11 pp",
+   "x": 531.33,
+   "y": 435.0,
+   "right": 554.14
+  },
+  {
+   "append_to": "Omni Channel · Search / SEO / Social",
+   "to": "/ Content",
+   "x": 474.79,
+   "y": 479.0,
+   "right": 507.4
+  },
+  {
+   "from": "10% vs 20%",
+   "to": "DKK15 vs DKK30",
+   "x": 362.28,
+   "y": 566.0,
+   "width": 50.46
+  },
+  {
+   "from": "Max DKK30 · 400 cap · 1/rider",
+   "to": "Post-launch · 400 riders · 1 each",
+   "x": 343.15,
+   "y": 586.0,
+   "width": 92.9
+  },
+  {
+   "from": "*Proposed",
+   "to": null
+  },
+  {
+   "from": "4Ps*",
+   "to": "4Ps",
+   "method": "original glyphs kept"
+  },
+  {
+   "from": "DATA*",
+   "to": "DATA",
+   "method": "original glyphs kept"
+  },
+  {
+   "from": "Opt-in · proposed",
+   "to": "Opt-in",
+   "method": "original glyphs kept"
+  },
+  {
+   "from": "30-day paid*",
+   "to": "30-day paid",
+   "method": "original glyphs kept"
+  },
+  {
+   "from": "Copenhagen page mock (houses + two text bars)",
+   "to": "search field \"bestil taxa\"; Elektrisk taxa / Tjek prisen. / Book i appen."
+  },
+  {
+   "from": "Sales strategy • proposed",
+   "to": null
+  },
+  {
+   "append_to": "Search/social → leads",
+   "to": "· CTR, CPC",
+   "x": 747.9,
+   "y": 446.0,
+   "right": 782.12
+  },
+  {
+   "append_to": "Fare check → prospect",
+   "to": "· app installs",
+   "x": 750.57,
+   "y": 454.6,
+   "right": 791.88
+  },
+  {
+   "append_to": "App booking → completed trip",
+   "to": "· conversion",
+   "x": 775.17,
+   "y": 480.0,
+   "right": 813.43
+  },
+  {
+   "from": "12 months · excluding VAT",
+   "to": "Nov 2026–Oct 2027 · excluding VAT",
+   "x": 1022.06,
+   "y": 434.0,
+   "width": 112.39
+  },
+  {
+   "from": "Outside budget: cars, drivers,",
+   "to": "Outside budget: app build, cars,",
+   "x": 1059.27,
+   "y": 553.0,
+   "width": 92.01
+  },
+  {
+   "from": "charging / frontline support",
+   "to": "drivers, charging / frontline support",
+   "x": 1059.29,
+   "y": 561.0,
+   "width": 104.49
+  },
+  {
+   "from": "DKK / % · bars: 0–300,000",
+   "to": "Unit check: DKK165 CAC repaid in about 2.4 rides",
+   "x": 866.02,
+   "y": 543.0,
+   "width": 161.05
+  },
+  {
+   "from": null,
+   "to": "at an assumed DKK68 contribution per ride",
+   "x": 866.02,
+   "y": 551.2,
+   "width": 138.87
+  },
+  {
+   "from": "*Paid campaign cohort only",
+   "to": "*Paid-campaign riders only, not all Green SM trips",
+   "x": 1202.21,
+   "y": 494.0,
+   "width": 142.13
+  },
+  {
+   "from": "Consideration",
+   "to": "Consideration",
+   "x": 1205.23,
+   "y": 474.0,
+   "width": 36.68
+  },
+  {
+   "from": null,
+   "to": "n=400 per wave",
+   "x": 1205.23,
+   "y": 484.0,
+   "width": 44.2
+  },
+  {
+   "from": "TRACKING PROPOSED",
+   "to": "TRACKING",
+   "method": "original glyphs kept"
+  },
+  {
+   "from": "PROPOSED PILOTS · Local performance untested",
+   "to": "PILOTS · Local performance untested",
+   "method": "original glyphs kept"
+  },
+  {
+   "from": "DKK600,000 excludes app/platform build + vehicle/driver/frontline operations",
+   "to": "Neuro cue test: calm-ride vs fare-first ads → attention (CTR) · recall (survey)",
+   "x": 419.01,
+   "y": 741.0,
+   "width": 222.34
+  },
+  {
+   "from": "Lecturer: PhD Luu Tien Thuan",
+   "to": "Lecturer: Dr Luu Tien Thuan"
+  },
+  {
+   "from": null,
+   "to": "All targets and pilots are group proposals (cloud)"
+  },
+  {
+   "from": "Harvard References footer (17 sources)",
+   "to": "removed from the front; References on the back (v01 back unchanged); approved background shows below the car"
+  }
+ ]
+}

@@ -11,6 +11,8 @@ Record what was said, who reported it, date and channel. Distinguish verbatim or
 
 | LG-004 | 3 October 2026 | Student relaying his discussion with the local lecturer in chat | English paraphrase of the student's report: the poster does not need citations; he asked the lecturer and was told they are not needed. Sample posters were also cited by the student as context. This is not a verbatim lecturer quotation | Remove visible author/year/page citations and source-attribution footers from the poster face; retain dated data scope/qualifiers, verified sources and internal traceability. Complete reference-list packaging is a separate unresolved scope question | D-055 |
 
+| LG-005 | 7 October 2026 | Student relaying the local lecturer in chat | English translation of the student's report: the lecturer said the poster does not need a section indicating each member's contribution. Not a verbatim lecturer quotation | Remove the member-contribution strip from the proof; do not add contribution statements to the poster. The brief's own wording is "(if applicable)" | D-159 |
+
 ## Not lecturer guidance
 
 - The AI-designed hand-drawn-style production route was selected by the student for the group (D-008). Lecturer agreement was reported later the same day (LG-002, D-021); the student's choice and the lecturer's agreement are recorded separately.

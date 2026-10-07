@@ -14,7 +14,7 @@ The agent prepares research, plan, copy, pitch and Q&A drafts. The group decides
 
 For each later contribution record, store: date; member; activity; affected file/version/panel; evidence supplied by the student; whether assigned or completed; member/group confirmation. Assignment and completion are separate states.
 
-No completed contribution statement is available yet. Do not export this working table onto the final poster. Before final approval, replace the unknowns with a short, group-confirmed statement that accurately distinguishes research verification, choices, revisions, design work and presentation.
+No completed contribution statement is available yet. Do not export this working table onto the final poster. D-159 (LG-005): the lecturer says the poster needs no contribution statement, so none is planned for the poster face. Before final approval, replace the unknowns with a short, group-confirmed statement that accurately distinguishes research verification, choices, revisions, design work and presentation.
 
 ## Participation and submission controls
 

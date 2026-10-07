@@ -1,0 +1,41 @@
+{
+ "removed_labels_gone": true,
+ "added_labels_present": [],
+ "unexpected_removed": [],
+ "unexpected_added": [],
+ "unchanged_lettering_byte_identical": true,
+ "unchanged_lettering_count": 244,
+ "footer_reference_labels_removed_from_front": true,
+ "external_link_kept poster-a0-layout-v02-2026-10-04-background.png": true,
+ "external_link_kept poster-draft-car-background-v09-art-2026-10-04.png": true,
+ "external_link_kept poster-draft-car-background-v06-art-2026-10-04.png": true,
+ "embedded_images_unchanged": true,
+ "cloud_lecturer_title": true,
+ "no_contribution_strip": true,
+ "no_footer_white_band": true,
+ "cloud_global_statement": true,
+ "back_reference_entries": 19,
+ "back_entries_alphabetical": true,
+ "back_all_entry_starts_lettered": true,
+ "arithmetic": {
+  "paid_cac": true,
+  "contribution_per_ride": true,
+  "cac_payback_rides": 2.42,
+  "full_recovery_rides": 8811.0,
+  "voucher_ceiling_unchanged": true,
+  "budget_total_unchanged": true,
+  "n79_margin_pp": 11.0,
+  "standard_trip_green_sm": 227.0,
+  "standard_trip_dantaxi": 232.04,
+  "standard_trip_drivr": 242.0
+ },
+ "pass": true,
+ "not_checked_here": [
+  "car/harbour background PNGs are external and absent from the cloud session; previews omit them",
+  "Chalkboard SE rendering of the cloud text (macOS font) — verify locally",
+  "mba-presentation-style presentcheck.py on changed copy — run locally",
+  "native Danish check of Elektrisk taxa. Tjek prisen. Book i appen.",
+  "actual-size print legibility",
+  "appearance of the approved background below the car (external PNG) — verify locally"
+ ]
+}
