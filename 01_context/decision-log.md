@@ -949,3 +949,7 @@ The student reports that the lecturer said no member-contribution section is nee
 ### D-160 — Visual pass: brand-colour harmonisation and de-cluttering (2026-10-07, the student)
 
 The student says “ok làm việc đáng làm tiếp cho Tiêu chí Visual (20%)” and asks to harmonise colours to Cyan #28bdbf and Yellow #e3bb42. Produce proof v03 from v02: map off-palette vector colours to the two brand colours, their white tints or one ink, keeping national flags, logos and raster artwork unchanged; remove lines that only repeat information shown elsewhere; enlarge the smallest lettering only where it fits without collision. Wording and numbers that remain are unchanged. The proof awaits student review.
+
+### D-161 — Content-first plan towards 75 with less text (2026-10-07, the student)
+
+After three independent examiners marked proof v03 at 69, 65 and 71, the student asks to research from the root, analyse the whole poster, prepare content first with little text, and reach about 75. [Content plan v02](../poster/content-upgrade-proposal-v02-2026-10-07.md) builds one insight–position–campaign thread from registered evidence (E-008, E-011, E-016, E-022–E-024, E-038, E-042, E-186, E-213) and module concepts, cuts cell text from 781 to about 700 words, and keeps approved budget lines, KPI targets, gates and the voucher reserve. Five decisions are listed. No copy or artwork is accepted by this entry.
