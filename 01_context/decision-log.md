@@ -973,3 +973,7 @@ The student asks to remove *All targets and pilots are group proposals* from the
 ### D-166 — Final version; remaining decisions delegated (2026-10-07, the student)
 
 The student wants one final version rather than further rounds and delegates the remaining decisions to Claude. Claude's decisions, applied in poster v07 with [scale-plan model v02](../poster/scale-plan-v02-2026-10-07-model.py): the 2.5M trips target is the M12 annualised run-rate (a cohort model gives about 1.16M trips in year one and a 2.62M pace at M12); the 6% budget logic refers to run-rate revenue (13% of modelled year-one revenue, stated in the script); the M6 floor becomes ≥2,500 paid trips a day; DKK1.0M moves from Social to Team & creative (media CAC DKK80); regular riders are half of first paid riders at 2.7 trips a month (assumptions). No text cuts. Final package in `08_final/`; script and study guide v05. Group acceptance, the hand-drawn copy, printing and submission remain separate.
+
+### D-167 — Poster v07 is final; no further edits (2026-10-07, the student)
+
+After the independent examiners' mean of 72.0, the student declines the optional text fixes they suggested (B2B sales steps, rider-benefit edge, segment 2 relabel, 590/450 and launch-date lines, CAC label) and fixes poster v07 as the final version. No further content or artwork changes are planned. Group confirmation, rehearsal, the hand-drawn copy, printing and submission remain separate steps.

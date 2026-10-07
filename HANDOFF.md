@@ -4,7 +4,7 @@ Date: 7 October 2026. Talk Vietnamese; files English (UK). Formal submission: 14
 
 ## Current checkpoint
 
-**Final version: poster v07 (D-166).** The student asked for one final version and delegated the remaining decisions to Claude. Package: [08_final/](08_final/README.md) (front + back A0 PDF, single pages, SVG, PNG, script, study guide). [Brief](poster/poster-scale-plan-v07-2026-10-07-prompt.md) · [checks](poster/poster-scale-plan-v07-2026-10-07-checks.json) pass.
+**Final version: poster v07 (D-166), fixed by the student with no further edits (D-167).** The student asked for one final version and delegated the remaining decisions to Claude. Package: [08_final/](08_final/README.md) (front + back A0 PDF, single pages, SVG, PNG, script, study guide). [Brief](poster/poster-scale-plan-v07-2026-10-07-prompt.md) · [checks](poster/poster-scale-plan-v07-2026-10-07-checks.json) pass.
 
 Content: proposed DKK30.0M gated market-entry plan (caps DKK7.5M at M4, DKK13.5M at M6; DKK16.5M held), four segments with 25–44 as focus, campaign *Copenhagen, meet Green SM* with *Go Green / For a Green Future.*, no connecting arrows (D-164), no cloud line on group proposals (D-165). Back: 21 references.
 
