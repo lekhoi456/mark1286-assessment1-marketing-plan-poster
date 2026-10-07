@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-03",
+  "status": "Complete section style candidate; student imagery and physical A0 acceptance remain open",
+  "full_png": [
+    "panel-02-production-v04-2026-10-03.png",
+    1800,
+    1360
+  ],
+  "small_png": [
+    "panel-02-production-v04-2026-10-03-small-preview.png",
+    900,
+    680
+  ],
+  "content_objects_unchanged": 31,
+  "visible_words_unchanged": 96,
+  "copy_changed": false,
+  "fonts": {
+    "rendering": "Portable SVG glyph outlines generated directly from explicit local font files, with a companion native-text editable SVG; no sans fallback or font redistribution",
+    "font_files": {
+      "heading": [
+        "/System/Library/Fonts/MarkerFelt.ttc",
+        0,
+        "Marker Felt"
+      ],
+      "body": [
+        "/System/Library/Fonts/Noteworthy.ttc",
+        1,
+        "Noteworthy"
+      ]
+    },
+    "minimum_size": 27
+  },
+  "font_files_sha256": {
+    "/System/Library/Fonts/MarkerFelt.ttc": "f6d3bd86dc094b705768129ca621055192764145270138f5a67be4b546f14fb3",
+    "/System/Library/Fonts/Noteworthy.ttc": "7785163d9b841cc586d1e696fb4c16a657e16049b092e488a51003e74be8ec21"
+  },
+  "glyph_fallback": false,
+  "font_files_redistributed": false,
+  "native_text_and_portable_path_strings_match": true,
+  "counts": [
+    72396,
+    269277,
+    143668,
+    74728
+  ],
+  "chart_geometry": {
+    "baseline": 655,
+    "pixels_per_resident": 0.0007976571428571429,
+    "bars": [
+      {
+        "id": "p2-bar-1",
+        "count": 72396,
+        "baseline": 655,
+        "true_top": 597.2528134857143,
+        "true_height": 57.747186514285715,
+        "width": 215.0570163,
+        "marker_clip": "bar-clip-1"
+      },
+      {
+        "id": "p2-bar-2",
+        "count": 269277,
+        "baseline": 655,
+        "true_top": 440.2092775428571,
+        "true_height": 214.7907224571429,
+        "width": 215.0570163,
+        "marker_clip": "bar-clip-2"
+      },
+      {
+        "id": "p2-bar-3",
+        "count": 143668,
+        "baseline": 655,
+        "true_top": 540.4021936,
+        "true_height": 114.59780640000001,
+        "width": 215.0570163,
+        "marker_clip": "bar-clip-3"
+      },
+      {
+        "id": "p2-bar-4",
+        "count": 74728,
+        "baseline": 655,
+        "true_top": 595.3926770285714,
+        "true_height": 59.60732297142859,
+        "width": 215.0570163,
+        "marker_clip": "bar-clip-4"
+      }
+    ],
+    "zero_baseline": true,
+    "styling": "Thin irregular perimeter and translucent marker strokes clipped to true mathematical bar rectangles; no ruler grid or solid uniform bars"
+  },
+  "all_city_denominator": 670389,
+  "adult_population": 560069,
+  "under_18": 110320,
+  "selected_share_display": 40.2,
+  "source_pdf_sha256": "21fb094d568fb803213ada1640ecb2903d548379dee0ca87ff9b68666038f0b0",
+  "generated_art_sha256": "efadcea7f91d4fe90695714ffa2beedea01c68d5cd2535376608a65b982fe01c",
+  "generated_art_native_bytes_and_alpha_preserved": true,
+  "actual_art_and_full_small_outputs_inspected": true,
+  "observed_visual_findings": "Handwriting is present throughout, including dates/source/chart ticks. Thin irregular perimeters, clipped visible marker fills and simpler rider/icons replace rejected vector/UI style. No observed overlap/clipping; pill/count distinct; source/date/denominator/profile qualifier intact.",
+  "linked_files_checked": 19,
+  "missing_links": [],
+  "presentation_checker_rerun": false,
+  "presentation_checker_reason": "All approved wording unchanged; prior fragment and approved punctuation findings remain documented. Revision checked exact glyph/content/data/style contracts only.",
+  "physical_a0_verified": false,
+  "student_style_acceptance": false,
+  "family_note": "Noteworthy Bold is used for panel 2 while other candidates mainly use Light; the parent accepts this as candidate emphasis, not a content defect."
+}

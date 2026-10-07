@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-03",
+  "authority": [
+    "D-055",
+    "LG-004"
+  ],
+  "removed_id": "p2-source",
+  "removed_display_text": "Source: Statistics Denmark (2026b), FOLK1A; calculated sums of single-year ages.",
+  "remaining_text_objects": 30,
+  "remaining_objects_byte_equal_after_xml_parse": true,
+  "all_remaining_strings_positions_glyph_paths_fonts_unchanged": true,
+  "visible_words": 86,
+  "source_mapping_retained": true,
+  "data_and_chart_geometry_unchanged": true,
+  "source_pdf_sha256": "21fb094d568fb803213ada1640ecb2903d548379dee0ca87ff9b68666038f0b0",
+  "generated_art_sha256": "efadcea7f91d4fe90695714ffa2beedea01c68d5cd2535376608a65b982fe01c",
+  "original_generated_bytes_preserved": true,
+  "native_image_generation_rerun": false,
+  "full_and_small_png_inspected": true,
+  "observed_findings": "No author/year/source-attribution line; dated municipality/18+ scope, all four counts/bands, distinct 40.2% pill and separate 269,277, all-city denominator including under 18, profile qualifier, service area and approved caption remain visible. No observed new overlap/clipping.",
+  "full_wrapper_pass_claimed": false,
+  "physical_a0_verified": false
+}

@@ -1,0 +1,87 @@
+# Master plan: Assessment 1 Marketing Plan Poster
+
+Plan date: 27 September 2026. Formal submission: 14 October 2026 (handbook); local time and pitch slot unconfirmed. Internal upload target: 13 October. **The earlier pitch date, once known, controls content and production readiness.** Dates below are agent planning proposals, not group commitments.
+
+## Control rules
+
+- A1 only. No A2 workspace or preparation.
+- Explain each phase's purpose, inputs, outputs and decisions before beginning substantive work. Routine implementation choices belong to the agent; assessed business/design choices belong to the group.
+- Do not draft on invented or unapproved inputs. Under D-027, evidence, options and explicitly unapproved calculations can proceed autonomously while a group decision is deferred; no option becomes an adopted plan.
+- Keep source quotations, lecturer instructions, group decisions and agent interpretations distinct.
+- Change dates/scope here; append decisions in `../01_context/decision-log.md`; keep current actions in `../HANDOFF.md`.
+
+## Phase map
+
+| Phase | Working window | Purpose and outputs | Gate / owner | Status |
+|---|---|---|---|---|
+| P0 Discovery and setup | 27 September | Source brief/rubric, requirements, exemplar lessons, context, research design, workflow, seven scripts and presentation skill | G0: source-backed setup and observed tool smoke; agent | Complete; observed results and limits in `../06_workflow/writing-skill/smoke-results.md` |
+| P1 A1 course evidence | 27 September | A1-relevant extraction/index, checked concept register/list; Lecture 6 timestamped transcript and guidance notes | G1: module quotes verified; OCR/audio uncertain passages checked against originals; agent, then student phase handover | Complete (27 September): 23 extracts, 102 concepts, 235 quotes verified; Lecture 6 transcript and guidance in `../03_course_materials/`. Awaiting the student's review of the register |
+| P2 Business selection | 27–28 September | Chosen Green SM business; verified footprint; source-backed focus-market comparison and sensitivity | G2: group chooses offer, focus country/city and scope | **Complete:** Copenhagen, Denmark; app-booked electric taxi (D-031), after the agent's conditional recommendation (D-028) |
+| P3 Business and market research | Completed research packet 28 September; focused validation after scope choice | Four country packs, company dossier, reconciliations, 97-source registry and E-001–E-181 ledger | G3: evidence sufficient for bounded alternatives; preserve local service/finance/consumer gaps | Completed within D-027 research scope; not a claim that private baselines, live app fares or legal/service compliance were verified |
+| P4 Integrated marketing plan | 28 September | Segment/position alternatives, module/rubric map, reproducible budget/KPI model; integrated Copenhagen plan | G4: group approves choices and assumptions; feasibility demonstrated rather than inferred from arithmetic | **Complete:** D-031–D-033; plan v01 approved with A1–A9. Every modelled case falls short of break-even; presented as a capped, gated entry investment |
+| P5 Poster copy | 28 September onwards | Complete content Markdown, visual-content mapping, poster layout draft and AI prompt specification; independent review | G5: eleven elements covered, evidence-backed readable content, group wording approval; essential meaning visibly mapped into the poster | **In progress:** display/panels 1–4 content/compositions approved through D-053; other panels/full consolidated wording pending. D-054 rejects existing imagery of 1–3; their retained agents revise full hand-drawn style and parent produces panel 4 under the system thread-limit fallback. [Shared style guide](../07_drafts/design/shared-hand-drawn-style-revision-v01-2026-10-03.md), [panel-4 approved master](../07_drafts/design/panel-04-selected-content-and-visual-v01-2026-10-03.md). [Four revised complete previews](../07_drafts/design/four-panel-hand-drawn-review-v02-2026-10-03.png) delivered and parent-inspected; D-055 citation-free display revision completed and parent-inspected under LG-004; internal sources preserved. D-056 numbers headings 1–10 and resumes review one section at a time; D-057 copy/refinements retained in D-060 panel-1 [v07](../07_drafts/design/panel-01-production-v07-2026-10-03.png), delivered/parent-inspected with full hand-drawn VinFast middle-door logo and rear lightning; glossy v06 superseded. D-061 [v08](../07_drafts/design/panel-01-production-v08-2026-10-03.png) adds the ninth US flag after official headed-Comet source verification (E-197–E-198); full PNG and unchanged-copy/art checks parent-inspected. D-062 official US About review completed; [introduction additions](../07_drafts/design/panel-01-about-additions-proposal-v01-2026-10-03.md) now supply the selected primary company-background callout D-063; Q-S25 answered, retained section-1 agent delivered [v09](../07_drafts/design/panel-01-production-v09-2026-10-03.png), actual full/header views and focused unchanged-copy/artwork checks parent-inspected; v08 preserved. Optional EV labels remain unselected. D-064 removes the US flag after the student supplies a dated expansion-plan report (E-202), restoring eight launch/pilot countries in [v10](../07_drafts/design/panel-01-production-v10-2026-10-03.png), delivered/parent-inspected with focused preservation checks while preserving D-063 company background. D-065–D-067 follow the student's successive logo-reference corrections: current [v13](../07_drafts/design/panel-01-production-v13-2026-10-03.png) uses an updated top-star/lower-bird hand-drawn emblem only before Vingroup-backed, with intrinsic wordmark removed. Parent inspected actual full/header/standalone views and verified all sixteen exact face records, eight flags, retained drawings and raw car artwork. [Selected amendment v12](../07_drafts/design/panel-01-selected-content-and-visual-v12-2026-10-03.md) controls. D-068 explicitly approves section-1 image v13; [section-2 numbered v06](../07_drafts/design/panel-02-production-v06-2026-10-03.png) delivered/parent-inspected with unchanged-copy/chart/art checks for resumed review. D-069 accepts section-2 lower composition, rejects upper and authorises independent infographic redesign: chart about half its previous footprint, 40.2% inside the selected column. Independent [complete proposal A](../07_drafts/design/panel-02-independent-infographic-options-v01-2026-10-03-option-a.png) delivered and parent-inspected: chart envelope 54.9% of previous area, three equal audience conditions on the right, accepted lower portion pixel-identical to v06. Both section-2 agents retained; no new lower group labels or production v07. D-070 accepts section-2 proposal A; [accepted amendment v07](../07_drafts/design/panel-02-selected-content-and-proposals-v07-2026-10-03.md) controls without a duplicate image. Retained section-3 agent delivers [numbered v04](../07_drafts/design/panel-03-production-v04-2026-10-03.png), complete image and eighteen preservation checks parent-inspected; nineteen other text objects/art/layout unchanged. D-071 requests section-3 revision/About ideas; [source-backed discussion proposal](../07_drafts/design/panel-03-about-inspired-proposal-v01-2026-10-03.md) and retained-agent advice delivered from reverified same-day snapshot, with new service-approach evidence E-203/E-204. D-072 approves the source-inspired revision; [selected master v03](../07_drafts/design/panel-03-selected-content-and-visual-v03-2026-10-03.md) controls retained-agent [complete production v05](../07_drafts/design/panel-03-production-v05-2026-10-03.png), delivered and parent-inspected. Full 39-word statement retained; 114-word narrow copy check has no inherited hard findings and only expected standalone missing-table errors. Accepted section-1/2 and historical section-3 v04 PNG hashes independently unchanged. D-073 accepts section-3 v05; sections 1–3 remain stable. Section-4 numbered-heading amendment v02 controls [complete heading-only v03](../07_drafts/design/panel-04-production-v03-2026-10-03.png), delivered/parent-inspected with its own retained agent. All eighteen focused preservation checks pass, ten body text objects/artwork unchanged and pixel difference confined to heading. Current capacity resolves Q-S23 operationally without closure/rotation. D-074 selects section-4 insight-alignment master v03: separate bounded Capital Region app-choice cues, promise-test qualifier and illustrative ad→app expression. Complete [v04](../07_drafts/design/panel-04-production-v04-2026-10-03.png) is delivered and parent-inspected; focused [17-check report](../07_drafts/reviews/panel-04-insight-alignment-production-review-2026-10-03.md) records no text collisions and exact selected copy. D-075 applies the shared hand-drawn Green SM lockup to logo-bearing panel candidates 1 v14, 3 v06 and 4 v05; parent-inspected focused checks preserve all non-logo content. Panel 2 has no lockup and remains unchanged. D-076 reopens section-4 content because the student says the treatment does not read clearly as Branding and Identity. D-077 selects heading 4. Branding & Identity and removes “Plain and respectful wording”; concise content proposal v02 awaits copy/layout approval, and no replacement image is authorised yet. Remaining panels/full wording and actual-A0 proof remain pending |
+| P6 Pitch and Q&A | 7–9 October | Speaking plan, script, Q&A bank, ownership and timed rehearsal | G6: every member participates; actual rehearsal within 15 minutes; group understands and can defend figures | Not started |
+| P7 Final A0 design | 9–11 October | AI-assisted illustration with exact approved lettering, checked A0 print proof, intended manual redraw, references and upload-readable capture | G7: actual-size/phone/PDF checks; approved text/figures and citation-free display under D-055 preserved in proof and actual redraw; group approves final design | Not started; D-035 adds intended print-and-redraw route. No artwork before copy approval; printing/redrawing not yet performed |
+| P8 Final independent review | 11–12 October | Review of actual final poster/export, script and calculations; corrections and retest | G8: all blocking factual, citation, budget, readability and requirements defects closed | Not started |
+| P9 Submission and capture | 13 October target; formal 14 October | Final poster and supporting files, three Moodle receipts, final reference pack and contribution record | G9: identical final poster uploaded by all three, accessible/legible; student confirms | Not started |
+
+Rehearsal begins with the Markdown script; design can refine visual cues later. This avoids waiting for artwork to discover an overlong pitch. If the actual pitch falls earlier, move P1–P8 backwards; do not remove verification or silently shorten the assessed task.
+
+## Phase specifications
+
+### P0 — Establish the baseline
+
+Inputs: current handbook, separate brief, L5/L6 assessment guidance, five poster photographs, BUSI1764 template and student decisions. Outputs separate verbatim authority from operational interpretation. Prove the scripts with selected real files and temporary positive/negative fixtures. Do not create a fake concept register, business dossier or drafted plan to make checks pass.
+
+### P1 — Course evidence, not assignment prose
+
+Use the Study Hub catalogue only to find originals. Extract Weeks 1–6 and relevant A1 cases/resources, preserving slide/page numbers and speaker notes. Keep image-only exemplar stubs separate from semantic transcription. Verify Tesla OCR visually. Transcribe Lecture 6 locally; inspect the actual audio at quoted timestamps before treating speech as exact evidence. No model/cache files in iCloud.
+
+Build `03_course_materials/concept-register.md` with: concept name; module/outside flag; exact wording and material/slide/page; application limits; brief panel(s); primary-source retrieval status. Derived interpretations are not quotes. Generate `concept-list.txt` only from the register; run quote verification. Do not use later A2-focused material just to inflate the register.
+
+Decision at entry: explain this scope to the student. Unknown business choice does not block course extraction. At exit: report concepts most useful for the eleven panels and unresolved source issues.
+
+### P2 — Select or validate the case
+
+Inputs: group preferences/chosen case, concept register and rubric. Separate the P0 generic case-screen proposal from the later focus-market K1–K6 method. Freeze the agent's numerical operationalisation before scoring; do not claim the group approved thresholds it did not specify. Keep source-backed reasons, sensitivity and disconfirming evidence. The group chooses; ranking is not acceptance.
+
+### P3 — Build the evidence base
+
+Collect primary business facts, independent customer/competitor context and relevant academic foundations. Save PDFs before citation; verify original metadata and passages. Draft Perplexity prompts only when useful to this approved phase; user runs them. Preserve outputs verbatim and reconcile in separate notes. Exit with evidence gaps visible rather than disguised by generic claims.
+
+### P4 — Join decisions into one plan
+
+Each tactical choice must follow from a customer/positioning decision, have an owner/resource implication and map to an objective/KPI. Budget period and currency are uniform; percentage totals reconcile. Targets are proposed and justified, not fabricated results. Compare realistic alternatives and stress uncertain inputs. Group approval covers offer, target segment, position, channels, budget total, core assumptions and innovation.
+
+### P5 — Compress without losing assessed content
+
+Create `poster-blueprint.md`: eleven required content elements mapped to the approved ten marketing-panel display headings and separate identity cloud, visual hierarchy, panel budgets and figure/data sources. A0 landscape is 1189 × 841 mm (D-034). Propose a word budget only after evidence and layout needs are known; there is no inherited 1,000-word limit or fixed 1,400-word cap (D-035). Assessed content must stand on its own if the moderator cannot hear the pitch. D-055/LG-004 removes visible poster citations; internal evidence/source mappings remain required. Complete reference-list delivery is a separate packaging question. Versioned Markdown, checks, independent local/UK mock review, revisions, then group approval.
+
+### P6 — Speak and defend
+
+Create `pitch-plan.md` with all three speakers, timings and handovers approved by the group. Script complements rather than reads every panel. Q&A covers evidence weakness, assumptions, segmentation alternatives, budget realism, KPI logic, innovation limitations and ethics. Mechanical timing is an estimate; actual rehearsal with pauses and handovers is the gate. Record only confirmed rehearsals and contributions.
+
+### P7 — Produce the agreed visual route
+
+Use approved Markdown as immutable text input to the layout tool. AI may assist hand-drawn-style illustrations, not generate values or lettering. Retain visual-source/calculation links. Check actual A0 scale, contrast, colour-independent labels, the citation-free face under D-055, retained source traceability, reference-list front/back/separate handling and digital upload. Q-L2 is settled by D-021; remaining AI-disclosure and upload-packaging details are distinct questions. Do not reopen the agreed production route or invent a new design-tool choice.
+
+### P8 — Review the actual submission artefact
+
+Two independent reviews against the supplied rubric. Record criterion scores with uncertainty; operational tests are not official bands. Inspect the actual export rather than an earlier Markdown version. Corrections affecting numbers/text propagate to poster, pitch, Q&A, reference list and model, then are rechecked.
+
+### P9 — Submit and preserve evidence
+
+Use the submission checklist. Each member uploads the same approved file through their own account, with required subject details. Verify the received preview and retain individual receipts. No automated submission or external messages without the student's instruction. Archive unused references without deleting the audit trail. Record summative feedback when it arrives.
+
+## Risks and responses
+
+| Risk | Trigger | Response |
+|---|---|---|
+| Pitch earlier than assumed | Local timetable arrives | Re-date backwards immediately; preserve gates |
+| Wrong/fabricated slide bibliography | Primary work cannot be verified | Cite the source actually read or remove claim; never reconstruct reference |
+| Agreed production route produces illegible or altered text | Actual A0/upload proof | Retain D-021 route but correct layout/export; exact approved text and analytical content must survive |
+| Poster too dense | A0 proof requires zoom to read | Cut description, strengthen visuals; do not cut required elements |
+| Cost/KPI inconsistency | Mixed currency, period, denominator or totals | Correct model first, then every dependent artefact |
+| Unconfirmed contributions | Final poster contains assigned work as completed | Replace with actual group-confirmed work before export |
+| References unreadable/missing from upload | Back not submitted or tiny text | Confirm packaging and inspect actual upload preview |
+| Tool gate overclaims quality | Empty registry or clean detector treated as proof | Manual claim/source/rubric and actual rehearsal checks remain mandatory |

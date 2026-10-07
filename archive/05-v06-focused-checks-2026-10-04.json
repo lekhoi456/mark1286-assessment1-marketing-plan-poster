@@ -1,0 +1,19 @@
+{
+  "status": "pass",
+  "svg": "05-v06-candidate-2026-10-04.svg",
+  "png": "05-v06-candidate-2026-10-04.png",
+  "canvas_px": [
+    1800,
+    1400
+  ],
+  "copy_svg_token_multisets_match": true,
+  "visible_svg_whitespace_tokens": 142,
+  "visible_evidence_ids": 0,
+  "embedded_logo_sha256_matches_shared_logo": true,
+  "pdf_text_word_boxes": 142,
+  "out_of_bounds_words": 0,
+  "overlapping_word_boxes": 0,
+  "notes": [
+    "Bound/overlap test uses rendered PDF text boxes; manual PNG inspection also completed."
+  ]
+}

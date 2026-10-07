@@ -1,0 +1,1557 @@
+{
+  "section": 8,
+  "heading": "8. Success Dashboard",
+  "canvas": [
+    2200,
+    2710
+  ],
+  "status": "Complete delegated candidate; parent selection pending; no group approval claimed",
+  "authority": "Controller delegation on 4 October 2026",
+  "copy_source": "08-copy-v01-2026-10-04.md",
+  "baseline": "poster/whole-copy-baseline.md, Measurement and Evaluation",
+  "kpi_rows": [
+    {
+      "kpi": "Would consider Green SM",
+      "objective": "O1",
+      "target": "+10 percentage points on M1–2 baseline by M12",
+      "tool": "Resident panel survey",
+      "rhythm": "M1–2 and M12",
+      "display_bounds": [
+        115,
+        392,
+        1035,
+        613.04
+      ]
+    },
+    {
+      "kpi": "First paid riders",
+      "objective": "O2",
+      "target": "378 over M1–12",
+      "tool": "Booking/settlement data",
+      "rhythm": "Weekly",
+      "display_bounds": [
+        115,
+        732,
+        1035,
+        898.0
+      ]
+    },
+    {
+      "kpi": "First paid riders / all paid clicks",
+      "objective": "O2",
+      "target": "Search 3%, social 1.5%",
+      "tool": "Ads and bookings",
+      "rhythm": "Weekly",
+      "display_bounds": [
+        115,
+        902.0,
+        1035,
+        1068.0
+      ]
+    },
+    {
+      "kpi": "Search/social spend / first paid riders",
+      "objective": "O2",
+      "target": "DKK524 or less",
+      "tool": "Finance and bookings",
+      "rhythm": "Monthly",
+      "display_bounds": [
+        115,
+        1072.0,
+        1035,
+        1238.0
+      ]
+    },
+    {
+      "kpi": "90-day paid repeat, fully observed riders",
+      "objective": "O3",
+      "target": "At least 35%",
+      "tool": "Rider cohorts",
+      "rhythm": "Monthly from M6",
+      "display_bounds": [
+        1165,
+        392,
+        2085,
+        558.0
+      ]
+    },
+    {
+      "kpi": "Completed / accepted bookings",
+      "objective": "O4",
+      "target": "At least 95%",
+      "tool": "Dispatch data",
+      "rhythm": "Daily",
+      "display_bounds": [
+        1165,
+        732,
+        2085,
+        898.0
+      ]
+    },
+    {
+      "kpi": "Service-caused cancellations / accepted bookings",
+      "objective": "O4",
+      "target": "At most 2%",
+      "tool": "Dispatch reason codes",
+      "rhythm": "Daily",
+      "display_bounds": [
+        1165,
+        902.0,
+        2085,
+        1068.0
+      ]
+    },
+    {
+      "kpi": "Referenced complaints answered within 24 hours",
+      "objective": "O4",
+      "target": "At least 90%",
+      "tool": "Support log",
+      "rhythm": "Weekly",
+      "display_bounds": [
+        1165,
+        1072.0,
+        2085,
+        1238.0
+      ]
+    },
+    {
+      "kpi": "Area and fare terms found clear",
+      "objective": "O4",
+      "target": "At least 80% yes",
+      "tool": "Post-trip question",
+      "rhythm": "Monthly",
+      "display_bounds": [
+        1165,
+        1242.0,
+        2085,
+        1408.0
+      ]
+    },
+    {
+      "kpi": "Usable offers / in-area requests",
+      "objective": "O4",
+      "target": "Threshold set after M1–2 area/hour baseline",
+      "tool": "Request logs",
+      "rhythm": "Weekly",
+      "display_bounds": [
+        1165,
+        1412.0,
+        2085,
+        1633.04
+      ]
+    },
+    {
+      "kpi": "Committed plus spent against stage budget",
+      "objective": "Spend control",
+      "target": "Within approved stage totals",
+      "tool": "Finance",
+      "rhythm": "Weekly",
+      "display_bounds": [
+        115,
+        1519,
+        1035,
+        1685.0
+      ]
+    }
+  ],
+  "objective_zones": {
+    "O1": {
+      "label": "O1 awareness",
+      "rect": [
+        85,
+        310,
+        980,
+        310
+      ],
+      "content_bottom": 613.04
+    },
+    "O2": {
+      "label": "O2 paid trial",
+      "rect": [
+        85,
+        650,
+        980,
+        760
+      ],
+      "content_bottom": 1238.0
+    },
+    "O3": {
+      "label": "O3 repeat",
+      "rect": [
+        1135,
+        310,
+        980,
+        310
+      ],
+      "content_bottom": 558.0
+    },
+    "O4": {
+      "label": "O4 service integrity",
+      "rect": [
+        1135,
+        650,
+        980,
+        1065
+      ],
+      "content_bottom": 1633.04
+    }
+  },
+  "gate_a": [
+    "Completion ≥95% · service cancellations ≤2%",
+    "Referenced complaints answered within 24h ≥90%",
+    "Search conversion ≥1.5% · social ≥0.8%",
+    "Agree the minimum observed volume with operations.",
+    "Fail → hold media, fix and re-test.",
+    "Pass → release M5–6."
+  ],
+  "gate_b": [
+    "Mature-cohort 90-day repeat ≥20%",
+    "and paid cost per first rider ≤DKK1,829 → continue.",
+    "Repeat ≥35% → release street screens.",
+    "Fail → stop scale-up."
+  ],
+  "visible_text": [
+    {
+      "id": "text-000",
+      "text": "8. Success Dashboard",
+      "font": "MarkerFelt-Wide",
+      "font_size": 92,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "heading",
+      "owner": null,
+      "lines": [
+        {
+          "text": "8. Success Dashboard",
+          "bbox": [
+            93.104,
+            66.892,
+            951.956,
+            150.336
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-001",
+      "text": "Proposed targets, not achieved results.",
+      "font": "Noteworthy-Bold",
+      "font_size": 40,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "assumption",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Proposed targets, not achieved results.",
+          "bbox": [
+            96.25,
+            197.5,
+            735.5000000000002,
+            245.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-002",
+      "text": "O1 awareness",
+      "font": "MarkerFelt-Wide",
+      "font_size": 46,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "objective",
+      "owner": "O1",
+      "lines": [
+        {
+          "text": "O1 awareness",
+          "bbox": [
+            114.15,
+            328.82,
+            387.80400000000003,
+            368.9412
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-003",
+      "text": "Would consider Green SM",
+      "font": "Noteworthy-Bold",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "kpi",
+      "owner": "O1",
+      "lines": [
+        {
+          "text": "Would consider Green SM",
+          "bbox": [
+            116.575,
+            400.635,
+            504.25000000000006,
+            433.35
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-004",
+      "text": "Target: +10 percentage points on M1–2 baseline by M12",
+      "font": "Noteworthy-Bold",
+      "font_size": 43,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target",
+      "owner": "O1",
+      "lines": [
+        {
+          "text": "Target: +10 percentage points on M1–2 baseline by",
+          "bbox": [
+            115.5375,
+            447.89125,
+            1032.5662500000003,
+            500.62
+          ]
+        },
+        {
+          "text": "M12",
+          "bbox": [
+            116.34375,
+            503.89874999999995,
+            195.41,
+            542.4912499999999
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-005",
+      "text": "Tool: Resident panel survey · Review: M1–2 and M12",
+      "font": "Noteworthy-Light",
+      "font_size": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "tool-and-rhythm",
+      "owner": "O1",
+      "lines": [
+        {
+          "text": "Tool: Resident panel survey · Review: M1–2 and M12",
+          "bbox": [
+            115.5775,
+            560.53625,
+            770.2975000000002,
+            600.26
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-006",
+      "text": "O2 paid trial",
+      "font": "MarkerFelt-Wide",
+      "font_size": 46,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "objective",
+      "owner": "O2",
+      "lines": [
+        {
+          "text": "O2 paid trial",
+          "bbox": [
+            114.15,
+            668.13,
+            366.18399999999997,
+            717.902
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-007",
+      "text": "First paid riders",
+      "font": "Noteworthy-Bold",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "kpi",
+      "owner": "O2",
+      "lines": [
+        {
+          "text": "First paid riders",
+          "bbox": [
+            116.125,
+            741.49,
+            349.72,
+            784.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-008",
+      "text": "Target: 378 over M1–12",
+      "font": "Noteworthy-Bold",
+      "font_size": 43,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target",
+      "owner": "O2",
+      "lines": [
+        {
+          "text": "Target: 378 over M1–12",
+          "bbox": [
+            115.5375,
+            788.75125,
+            561.6625,
+            838.685
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-009",
+      "text": "Tool: Booking/settlement data · Review: Weekly",
+      "font": "Noteworthy-Light",
+      "font_size": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "tool-and-rhythm",
+      "owner": "O2",
+      "lines": [
+        {
+          "text": "Tool: Booking/settlement data · Review: Weekly",
+          "bbox": [
+            115.5775,
+            845.24875,
+            699.2693421052634,
+            884.02375
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-010",
+      "text": "First paid riders / all paid clicks",
+      "font": "Noteworthy-Bold",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "kpi",
+      "owner": "O2",
+      "lines": [
+        {
+          "text": "First paid riders / all paid clicks",
+          "bbox": [
+            116.125,
+            909.6,
+            584.035,
+            954.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-011",
+      "text": "Target: Search 3%, social 1.5%",
+      "font": "Noteworthy-Bold",
+      "font_size": 43,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target",
+      "owner": "O2",
+      "lines": [
+        {
+          "text": "Target: Search 3%, social 1.5%",
+          "bbox": [
+            115.5375,
+            958.75125,
+            685.0187499999998,
+            1008.685
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-012",
+      "text": "Tool: Ads and bookings · Review: Weekly",
+      "font": "Noteworthy-Light",
+      "font_size": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "tool-and-rhythm",
+      "owner": "O2",
+      "lines": [
+        {
+          "text": "Tool: Ads and bookings · Review: Weekly",
+          "bbox": [
+            115.5775,
+            1015.24875,
+            617.0993421052633,
+            1054.02375
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-013",
+      "text": "Search/social spend / first paid riders",
+      "font": "Noteworthy-Bold",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "kpi",
+      "owner": "O2",
+      "lines": [
+        {
+          "text": "Search/social spend / first paid riders",
+          "bbox": [
+            116.125,
+            1079.6,
+            695.8149999999999,
+            1124.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-014",
+      "text": "Target: DKK524 or less",
+      "font": "Noteworthy-Bold",
+      "font_size": 43,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target",
+      "owner": "O2",
+      "lines": [
+        {
+          "text": "Target: DKK524 or less",
+          "bbox": [
+            115.5375,
+            1128.59,
+            571.2837499999998,
+            1178.685
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-015",
+      "text": "Tool: Finance and bookings · Review: Monthly",
+      "font": "Noteworthy-Light",
+      "font_size": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "tool-and-rhythm",
+      "owner": "O2",
+      "lines": [
+        {
+          "text": "Tool: Finance and bookings · Review: Monthly",
+          "bbox": [
+            115.5775,
+            1185.455,
+            677.4893421052634,
+            1224.02375
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-016",
+      "text": "O3 repeat",
+      "font": "MarkerFelt-Wide",
+      "font_size": 46,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "objective",
+      "owner": "O3",
+      "lines": [
+        {
+          "text": "O3 repeat",
+          "bbox": [
+            1164.15,
+            328.3528620689655,
+            1358.776,
+            377.902
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-017",
+      "text": "90-day paid repeat, fully observed riders",
+      "font": "Noteworthy-Bold",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "kpi",
+      "owner": "O3",
+      "lines": [
+        {
+          "text": "90-day paid repeat, fully observed riders",
+          "bbox": [
+            1166.125,
+            400.095,
+            1774.615,
+            444.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-018",
+      "text": "Target: At least 35%",
+      "font": "Noteworthy-Bold",
+      "font_size": 43,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target",
+      "owner": "O3",
+      "lines": [
+        {
+          "text": "Target: At least 35%",
+          "bbox": [
+            1165.5375,
+            448.75125,
+            1558.235,
+            498.685
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-019",
+      "text": "Tool: Rider cohorts · Review: Monthly from M6",
+      "font": "Noteworthy-Light",
+      "font_size": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "tool-and-rhythm",
+      "owner": "O3",
+      "lines": [
+        {
+          "text": "Tool: Rider cohorts · Review: Monthly from M6",
+          "bbox": [
+            1165.5775,
+            505.49625,
+            1749.55375,
+            544.02375
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-020",
+      "text": "O4 service integrity",
+      "font": "MarkerFelt-Wide",
+      "font_size": 46,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "objective",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "O4 service integrity",
+          "bbox": [
+            1164.15,
+            668.2198095238095,
+            1568.076,
+            716.108
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-021",
+      "text": "Completed / accepted bookings",
+      "font": "Noteworthy-Bold",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "kpi",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Completed / accepted bookings",
+          "bbox": [
+            1166.125,
+            739.6,
+            1641.9550000000002,
+            784.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-022",
+      "text": "Target: At least 95%",
+      "font": "Noteworthy-Bold",
+      "font_size": 43,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Target: At least 95%",
+          "bbox": [
+            1165.5375,
+            788.9125,
+            1552.59125,
+            838.685
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-023",
+      "text": "Tool: Dispatch data · Review: Daily",
+      "font": "Noteworthy-Light",
+      "font_size": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "tool-and-rhythm",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Tool: Dispatch data · Review: Daily",
+          "bbox": [
+            1165.5775,
+            845.29,
+            1585.3830921052634,
+            885.22
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-024",
+      "text": "Service-caused cancellations / accepted bookings",
+      "font": "Noteworthy-Bold",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "kpi",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Service-caused cancellations / accepted bookings",
+          "bbox": [
+            1166.125,
+            909.6,
+            1925.185,
+            954.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-025",
+      "text": "Target: At most 2%",
+      "font": "Noteworthy-Bold",
+      "font_size": 43,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Target: At most 2%",
+          "bbox": [
+            1165.5375,
+            959.665,
+            1523.7275,
+            1008.685
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-026",
+      "text": "Tool: Dispatch reason codes · Review: Daily",
+      "font": "Noteworthy-Light",
+      "font_size": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "tool-and-rhythm",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Tool: Dispatch reason codes · Review: Daily",
+          "bbox": [
+            1165.5775,
+            1015.29,
+            1698.2430921052635,
+            1055.22
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-027",
+      "text": "Referenced complaints answered within 24 hours",
+      "font": "Noteworthy-Bold",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "kpi",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Referenced complaints answered within 24 hours",
+          "bbox": [
+            1166.125,
+            1080.77,
+            1919.65,
+            1124.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-028",
+      "text": "Target: At least 90%",
+      "font": "Noteworthy-Bold",
+      "font_size": 43,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Target: At least 90%",
+          "bbox": [
+            1165.5375,
+            1128.9125,
+            1553.45125,
+            1178.685
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-029",
+      "text": "Tool: Support log · Review: Weekly",
+      "font": "Noteworthy-Light",
+      "font_size": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "tool-and-rhythm",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Tool: Support log · Review: Weekly",
+          "bbox": [
+            1165.5775,
+            1185.24875,
+            1584.8880921052632,
+            1225.22
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-030",
+      "text": "Area and fare terms found clear",
+      "font": "Noteworthy-Bold",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "kpi",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Area and fare terms found clear",
+          "bbox": [
+            1166.125,
+            1250.95,
+            1643.8899999999999,
+            1283.935
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-031",
+      "text": "Target: At least 80% yes",
+      "font": "Noteworthy-Bold",
+      "font_size": 43,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Target: At least 80% yes",
+          "bbox": [
+            1165.5375,
+            1298.9125,
+            1629.0237499999998,
+            1348.7925
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-032",
+      "text": "Tool: Post-trip question · Review: Monthly",
+      "font": "Noteworthy-Light",
+      "font_size": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "tool-and-rhythm",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Tool: Post-trip question · Review: Monthly",
+          "bbox": [
+            1165.5775,
+            1355.49625,
+            1679.2268421052634,
+            1395.22
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-033",
+      "text": "Usable offers / in-area requests",
+      "font": "Noteworthy-Bold",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "kpi",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Usable offers / in-area requests",
+          "bbox": [
+            1166.125,
+            1419.6,
+            1645.78,
+            1464.06
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-034",
+      "text": "Target: Threshold set after M1–2 area/hour baseline",
+      "font": "Noteworthy-Bold",
+      "font_size": 43,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Target: Threshold set after M1–2 area/hour",
+          "bbox": [
+            1165.5375,
+            1467.3,
+            1951.7925,
+            1518.685
+          ]
+        },
+        {
+          "text": "baseline",
+          "bbox": [
+            1166.6125,
+            1522.9312499999999,
+            1309.695,
+            1563.35125
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-035",
+      "text": "Tool: Request logs · Review: Weekly",
+      "font": "Noteworthy-Light",
+      "font_size": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "tool-and-rhythm",
+      "owner": "O4",
+      "lines": [
+        {
+          "text": "Tool: Request logs · Review: Weekly",
+          "bbox": [
+            1165.5775,
+            1580.28875,
+            1602.7493421052632,
+            1620.095
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-036",
+      "text": "Spend control",
+      "font": "MarkerFelt-Wide",
+      "font_size": 44,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "control-heading",
+      "owner": "Spend control",
+      "lines": [
+        {
+          "text": "Spend control",
+          "bbox": [
+            115.8015652173913,
+            1470.5476296296297,
+            377.94399999999996,
+            1517.428
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-037",
+      "text": "Committed plus spent against stage budget",
+      "font": "Noteworthy-Bold",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "kpi",
+      "owner": "Spend control",
+      "lines": [
+        {
+          "text": "Committed plus spent against stage budget",
+          "bbox": [
+            116.125,
+            1527.095,
+            754.8549999999999,
+            1571.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-038",
+      "text": "Target: Within approved stage totals",
+      "font": "Noteworthy-Bold",
+      "font_size": 43,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "target",
+      "owner": "Spend control",
+      "lines": [
+        {
+          "text": "Target: Within approved stage totals",
+          "bbox": [
+            115.5375,
+            1575.53625,
+            752.0449999999998,
+            1627.62
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-039",
+      "text": "Tool: Finance · Review: Weekly",
+      "font": "Noteworthy-Light",
+      "font_size": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "tool-and-rhythm",
+      "owner": "Spend control",
+      "lines": [
+        {
+          "text": "Tool: Finance · Review: Weekly",
+          "bbox": [
+            115.5775,
+            1632.24875,
+            491.28684210526325,
+            1671.02375
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-040",
+      "text": "Counting rules",
+      "font": "MarkerFelt-Wide",
+      "font_size": 43,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "counting-heading",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Counting rules",
+          "bbox": [
+            116.559,
+            1780.736090909091,
+            386.169,
+            1824.299
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-041",
+      "text": "Installs excluded from paid riders, refunds removed.",
+      "font": "Noteworthy-Light",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "counting",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Installs excluded from paid riders, refunds removed.",
+          "bbox": [
+            119.485,
+            1835.95,
+            799.0749999999999,
+            1879.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-042",
+      "text": "Repeat uses only riders with a full 90-day window.",
+      "font": "Noteworthy-Light",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "counting",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Repeat uses only riders with a full 90-day window.",
+          "bbox": [
+            118.45,
+            1885.905,
+            806.1400000000001,
+            1929.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-043",
+      "text": "DKK524 covers paid search/social acquisition, not total acquisition cost.",
+      "font": "Noteworthy-Light",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "counting",
+      "owner": null,
+      "lines": [
+        {
+          "text": "DKK524 covers paid search/social acquisition, not total acquisition cost.",
+          "bbox": [
+            119.35,
+            1935.68,
+            1117.4049999999997,
+            1979.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-044",
+      "text": "Advertise only verified coverage with usable offers.",
+      "font": "Noteworthy-Light",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "counting",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Advertise only verified coverage with usable offers.",
+          "bbox": [
+            118.45,
+            1985.95,
+            792.2800000000002,
+            2027.935
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-045",
+      "text": "Gate A / M4",
+      "font": "MarkerFelt-Wide",
+      "font_size": 48,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "gate-heading",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Gate A / M4",
+          "bbox": [
+            115.72,
+            2119.5337142857143,
+            382.456,
+            2163.2749714285715
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-046",
+      "text": "Completion ≥95% · service cancellations ≤2%",
+      "font": "Noteworthy-Light",
+      "font_size": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "gate-A",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Completion ≥95% · service cancellations ≤2%",
+          "bbox": [
+            115.85,
+            2186.505,
+            710.9350000000003,
+            2227.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-047",
+      "text": "Referenced complaints answered within 24h ≥90%",
+      "font": "Noteworthy-Light",
+      "font_size": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "gate-A",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Referenced complaints answered within 24h ≥90%",
+          "bbox": [
+            115.425,
+            2235.6325,
+            785.2675000000002,
+            2276.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-048",
+      "text": "Search conversion ≥1.5% · social ≥0.8%",
+      "font": "Noteworthy-Light",
+      "font_size": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "gate-A",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Search conversion ≥1.5% · social ≥0.8%",
+          "bbox": [
+            115.85,
+            2284.675,
+            634.5200000000001,
+            2315.8275
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-049",
+      "text": "Agree the minimum observed volume with operations.",
+      "font": "Noteworthy-Light",
+      "font_size": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "gate-A",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Agree the minimum observed volume with operations.",
+          "bbox": [
+            115.425,
+            2333.675,
+            782.76,
+            2374.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-050",
+      "text": "Fail → hold media, fix and re-test.",
+      "font": "Noteworthy-Bold",
+      "font_size": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "gate-A",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Fail → hold media, fix and re-test.",
+          "bbox": [
+            116.0625,
+            2382.675,
+            584.8375000000001,
+            2419.225
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-051",
+      "text": "Pass → release M5–6.",
+      "font": "Noteworthy-Bold",
+      "font_size": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "gate-A",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Pass → release M5–6.",
+          "bbox": [
+            116.0625,
+            2431.6325,
+            452.79,
+            2462.8275
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-052",
+      "text": "Gate B / M6",
+      "font": "MarkerFelt-Wide",
+      "font_size": 48,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "gate-heading",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Gate B / M6",
+          "bbox": [
+            1165.72,
+            2119.728,
+            1420.5520000000001,
+            2162.016
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-053",
+      "text": "Mature-cohort 90-day repeat ≥20%",
+      "font": "Noteworthy-Light",
+      "font_size": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "gate-B",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Mature-cohort 90-day repeat ≥20%",
+          "bbox": [
+            1166.4875,
+            2186.6325,
+            1646.78,
+            2227.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-054",
+      "text": "and paid cost per first rider ≤DKK1,829 → continue.",
+      "font": "Noteworthy-Light",
+      "font_size": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "gate-B",
+      "owner": null,
+      "lines": [
+        {
+          "text": "and paid cost per first rider ≤DKK1,829 → continue.",
+          "bbox": [
+            1166.0625,
+            2235.42,
+            1846.87,
+            2276.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-055",
+      "text": "Repeat ≥35% → release street screens.",
+      "font": "Noteworthy-Bold",
+      "font_size": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "gate-B",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Repeat ≥35% → release street screens.",
+          "bbox": [
+            1166.0625,
+            2284.505,
+            1749.6725000000001,
+            2325.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-056",
+      "text": "Fail → stop scale-up.",
+      "font": "Noteworthy-Bold",
+      "font_size": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "gate-B",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Fail → stop scale-up.",
+          "bbox": [
+            1166.0625,
+            2333.675,
+            1462.7125,
+            2374.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-057",
+      "text": "M12: evaluate O1 to O4, then renew, revise or stop for year two.",
+      "font": "Noteworthy-Bold",
+      "font_size": 37,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "review",
+      "owner": null,
+      "lines": [
+        {
+          "text": "M12: evaluate O1 to O4, then renew, revise or stop for year two.",
+          "bbox": [
+            111.15625,
+            2570.04125,
+            1094.80125,
+            2614.58
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-058",
+      "text": "Floors and targets are planning assumptions.",
+      "font": "Noteworthy-Light",
+      "font_size": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "assumption",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Floors and targets are planning assumptions.",
+          "bbox": [
+            112.51,
+            2620.675,
+            680.1824999999999,
+            2661.56
+          ]
+        }
+      ]
+    }
+  ],
+  "frames": [
+    {
+      "id": "outer-frame",
+      "bounds": [
+        32,
+        34,
+        2168,
+        2676
+      ]
+    },
+    {
+      "id": "zone-O1",
+      "bounds": [
+        85,
+        310,
+        1065,
+        620
+      ]
+    },
+    {
+      "id": "zone-O2",
+      "bounds": [
+        85,
+        650,
+        1065,
+        1410
+      ]
+    },
+    {
+      "id": "zone-O3",
+      "bounds": [
+        1135,
+        310,
+        2115,
+        620
+      ]
+    },
+    {
+      "id": "zone-O4",
+      "bounds": [
+        1135,
+        650,
+        2115,
+        1715
+      ]
+    },
+    {
+      "id": "spend-control",
+      "bounds": [
+        85,
+        1450,
+        1065,
+        1715
+      ]
+    },
+    {
+      "id": "counting",
+      "bounds": [
+        85,
+        1755,
+        2115,
+        2060
+      ]
+    },
+    {
+      "id": "gate-A",
+      "bounds": [
+        85,
+        2100,
+        1065,
+        2515
+      ]
+    },
+    {
+      "id": "gate-B",
+      "bounds": [
+        1135,
+        2100,
+        2115,
+        2515
+      ]
+    }
+  ],
+  "minimum_body_size": 33,
+  "font_files": {
+    "/System/Library/Fonts/MarkerFelt.ttc": "f6d3bd86dc094b705768129ca621055192764145270138f5a67be4b546f14fb3",
+    "/System/Library/Fonts/Noteworthy.ttc": "7785163d9b841cc586d1e696fb4c16a657e16049b092e488a51003e74be8ec21"
+  },
+  "fonts": [
+    "MarkerFelt-Wide",
+    "Noteworthy-Light",
+    "Noteworthy-Bold"
+  ],
+  "fallback_fonts": false,
+  "native_art": {
+    "path": "08-candidate-v01-2026-10-04-generated-art.png",
+    "sha256": "ac80bc19dfb2a8fb60ef876b3816592c3cac4069bc05db4e770df489e4cf2ce7",
+    "placement": [
+      1450,
+      68,
+      645,
+      215
+    ],
+    "generated_lettering_or_data": false
+  },
+  "internal_evidence": [
+    "E-020",
+    "E-021"
+  ],
+  "evidence_scope": "Company-objective context only; numeric targets/floors remain planning assumptions, not source observations",
+  "internal_decisions": [
+    "D-033",
+    "D-034"
+  ],
+  "concept_locators": [
+    "w04-lecture slide 12",
+    "w04-tutorial slide 10"
+  ],
+  "visible_citations": false,
+  "observed_baselines_or_results": false,
+  "print_width_mm_for_body_12pt": 282.2,
+  "print_width_mm_for_body_14pt": 329.3,
+  "A0_limitation": "Dedicated tall panel footprint required; actual full-poster fit/printed readability not established",
+  "svg_sha256": "05d883e268babc257a12cc8200ebdfdf6ae03a5f23407a42a40a26438fd5e71f",
+  "controlled_arrow_vectors": true,
+  "no_ordinary_font_fallback": true,
+  "internal_source_mapping": [
+    {
+      "evidence": "E-020",
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "pdf": "04_references/konkurrence-og-forbrugerstyrelsen-2026b-uber-dantaxi-afgoerelse.pdf",
+      "physical_page": 175,
+      "scope": "Stable local operation before rapid expansion; internal objective/gate rationale only"
+    },
+    {
+      "evidence": "E-021",
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "pdf": "04_references/konkurrence-og-forbrugerstyrelsen-2026b-uber-dantaxi-afgoerelse.pdf",
+      "physical_page": 179,
+      "scope": "Awareness investment challenge; no measured starting awareness or source support for proposed +10-point target"
+    }
+  ],
+  "method_source": "02_research/marketing-plan/budget-kpi-scenarios.md, conversion measurement contract and §5 KPI recommendations",
+  "target_authority": "Integrated plan §10/§13 A6, D-033 and D-034; exact selected display baseline values retained"
+}

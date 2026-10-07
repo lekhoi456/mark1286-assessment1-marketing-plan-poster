@@ -1,0 +1,347 @@
+{
+  "checks": [
+    {
+      "check": "Complete exact approved copy",
+      "pass": true,
+      "detail": "10 approved strings, including numbered heading and exact punctuation"
+    },
+    {
+      "check": "Visible path groups match the manifest",
+      "pass": true,
+      "detail": "13 controlled groups: 10 approved objects and 3 exact promise repetitions"
+    },
+    {
+      "check": "Every specimen repeats the selected promise",
+      "pass": true,
+      "detail": "Taxi, generic app and local ad"
+    },
+    {
+      "check": "Exact shared logo embedded",
+      "pass": true,
+      "detail": "36a99749e3cc9585573fedda5fb1dbcf6a76483872cadc2d0f6651ec95430db9"
+    },
+    {
+      "check": "Four lockup instances use one shared definition",
+      "pass": true,
+      "detail": "One global identity lockup plus three specimens; aspect ratio preserved"
+    },
+    {
+      "check": "SVG self-contained",
+      "pass": true,
+      "detail": "All raster assets embedded; lettering uses paths"
+    },
+    {
+      "check": "No font text nodes",
+      "pass": true,
+      "detail": "Exact lettering is stored as local glyph paths"
+    },
+    {
+      "check": "Generated alpha retained",
+      "pass": true,
+      "detail": "Original generated PNG bytes retained without alpha stripping"
+    },
+    {
+      "check": "Actual transparent generated sheet",
+      "pass": true,
+      "detail": "(2172, 724); RGBA alpha 0\u2013255"
+    },
+    {
+      "check": "Full dimensions",
+      "pass": true,
+      "detail": "(1800, 1400)"
+    },
+    {
+      "check": "900px proof dimensions",
+      "pass": true,
+      "detail": "(900, 700)"
+    },
+    {
+      "check": "Text inside frame safety area",
+      "pass": true,
+      "detail": "Actual glyph bounds compared with a conservative interior rectangle"
+    },
+    {
+      "check": "No text-to-text collision",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "Text and lockup boxes separated",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "Removed content absent",
+      "pass": true,
+      "detail": "No old cues, funnel arrow, extra voice claim, E-IDs or visible source labels"
+    },
+    {
+      "check": "Writing gate effective base categories",
+      "pass": true,
+      "detail": {
+        "integrity": 0,
+        "grammar": 0,
+        "style": 0,
+        "referencing": 0,
+        "figures": 0,
+        "anti_slop": 0,
+        "word_limit": 0,
+        "module_scope": 0
+      }
+    },
+    {
+      "check": "Standalone word budget",
+      "pass": true,
+      "detail": "68/75 words, headings and specimen repeats included"
+    },
+    {
+      "check": "Only expected standalone table omissions",
+      "pass": true,
+      "detail": "Exit 2; no whole-poster pass claimed"
+    }
+  ],
+  "passed": 18,
+  "total": 18,
+  "text_bounds": [
+    [
+      "text-0",
+      "4. Branding & Identity",
+      [
+        80.762,
+        60.92,
+        748.685,
+        142.04
+      ]
+    ],
+    [
+      "text-1",
+      "GLOBAL GREEN SM IDENTITY",
+      [
+        100.8,
+        191.96,
+        549.525,
+        226.96
+      ]
+    ],
+    [
+      "text-2",
+      "One brand across markets.",
+      [
+        849.38,
+        249.21,
+        1325.25,
+        292.392
+      ]
+    ],
+    [
+      "text-3",
+      "Teal / cyan \u00b7 Yellow-gold",
+      [
+        850.7,
+        385.5,
+        1228.4,
+        432.15
+      ]
+    ],
+    [
+      "text-4",
+      "COPENHAGEN PROMISE \u00b7 PROPOSED \u00b7 TEST WITH TARGET RIDERS",
+      [
+        438.054,
+        511.068,
+        1362.019,
+        544.183
+      ]
+    ],
+    [
+      "text-5",
+      "Clear terms. Local care.",
+      [
+        528.478,
+        584.394,
+        1270.803,
+        658.956
+      ]
+    ],
+    [
+      "text-6",
+      "Danish first \u00b7 English second",
+      [
+        684.75,
+        689.2,
+        1115.5,
+        735.8
+      ]
+    ],
+    [
+      "text-7",
+      "For Copenhagen\u2019s self-paying repeat taxi riders: clear terms + a route to local help",
+      [
+        414.249,
+        759.332,
+        1385.247,
+        797.54
+      ]
+    ],
+    [
+      "text-8",
+      "SAME LOGO \u00b7 SAME PALETTE \u00b7 SAME PROMISE",
+      [
+        549.032,
+        854.27,
+        1250.968,
+        887.862
+      ]
+    ],
+    [
+      "text-9",
+      "Taxi",
+      [
+        316.4,
+        909.4,
+        383.05,
+        946.15
+      ]
+    ],
+    [
+      "text-9",
+      "\u00b7",
+      [
+        620.45,
+        925.25,
+        625.55,
+        929.4
+      ]
+    ],
+    [
+      "text-9",
+      "Green SM app",
+      [
+        791.525,
+        908.4,
+        1008.225,
+        956.6
+      ]
+    ],
+    [
+      "text-9",
+      "\u00b7",
+      [
+        1174.45,
+        925.25,
+        1179.55,
+        929.4
+      ]
+    ],
+    [
+      "text-9",
+      "Local ad",
+      [
+        1387.65,
+        908.5,
+        1512.1,
+        945.15
+      ]
+    ],
+    [
+      "text-10",
+      "Clear terms.",
+      [
+        285.42,
+        1195.906,
+        379.325,
+        1213.966
+      ]
+    ],
+    [
+      "text-10",
+      "Local care.",
+      [
+        285.441,
+        1219.759,
+        366.515,
+        1237.903
+      ]
+    ],
+    [
+      "text-11",
+      "Clear terms.",
+      [
+        837.559,
+        1138.208,
+        962.767,
+        1162.288
+      ]
+    ],
+    [
+      "text-11",
+      "Local care.",
+      [
+        837.588,
+        1176.012,
+        945.687,
+        1200.204
+      ]
+    ],
+    [
+      "text-12",
+      "Clear terms.",
+      [
+        1381.599,
+        1152.58,
+        1515.75,
+        1178.38
+      ]
+    ],
+    [
+      "text-12",
+      "Local care.",
+      [
+        1381.63,
+        1192.37,
+        1497.45,
+        1218.29
+      ]
+    ]
+  ],
+  "logos": [
+    {
+      "name": "global-identity",
+      "bbox": [
+        100,
+        266,
+        655,
+        451.0852141870106
+      ]
+    },
+    {
+      "name": "taxi",
+      "bbox": [
+        274,
+        1137,
+        436,
+        1191.0248733302626
+      ]
+    },
+    {
+      "name": "generic-app",
+      "bbox": [
+        829,
+        1040,
+        974,
+        1088.355596499309
+      ]
+    },
+    {
+      "name": "local-ad",
+      "bbox": [
+        1373,
+        1049,
+        1523,
+        1099.0230308613543
+      ]
+    }
+  ],
+  "full_png_sha256": "0a393b098aec9c339652f358acfce32aa64ccfd7ed0fd23d3800efed8b06e816",
+  "limits": "Mechanical bounds supplement full and 900px visual inspection; no A0 print acceptance"
+}

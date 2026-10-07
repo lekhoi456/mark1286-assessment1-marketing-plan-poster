@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-03",
+  "authority": "D-064",
+  "removed_svg_objects": [
+    "flag-united-states",
+    "country-united-states"
+  ],
+  "removed_ordinary_string": "United States",
+  "ordinary_face_objects_remaining": 16,
+  "all_other_wording_font_sizes_and_glyph_shapes_retained": true,
+  "flag_count": 8,
+  "flag_order": [
+    "Vietnam",
+    "Laos",
+    "Indonesia",
+    "Philippines",
+    "India",
+    "Kazakhstan",
+    "Denmark",
+    "Netherlands"
+  ],
+  "row_centres": [
+    151,
+    333,
+    515,
+    697,
+    879,
+    1061,
+    1243,
+    1425
+  ],
+  "eight_row_objects_and_annotations_identical_to_v07": true,
+  "home_dates_denmark_enlargement_four_sided_frame_and_pilot_retained": true,
+  "all_non_row_v09_geometry_including_background_callout_icons_unchanged": true,
+  "raw_art_sha256": "00069599bfd5c0aafe5a03c8f0602ae91176eb10c497294219672de015874a79",
+  "raw_art_green_sm_logo_vinfast_paths_and_single_rear_bolt_unchanged": true,
+  "no_planned_replacement_summary_or_face_disclaimer": true,
+  "native_raster_edit_or_generation": false,
+  "historical_us_source_records_preserved_with_display_status_superseded": true,
+  "background_e199_source_mapping_retained": true,
+  "parent_owns_znews_pdf_reference_correction": true,
+  "full_png_px": [
+    2400,
+    1680
+  ],
+  "flag_crop_png_px": [
+    2280,
+    317
+  ],
+  "manual_inspection": {
+    "full_png": "Inspected actual render: eight-row restored, no US flag/label or empty slot; callout, heading and car/logo treatment intact; no observed overlap/clipping",
+    "flag_crop": "Inspected actual tight crop: ordered eight flags, both exact dates, home, raised pilot and Danish closed yellow frame clear"
+  },
+  "limits": [
+    "Final student imagery acceptance pending",
+    "Physical A0 fit/readability untested"
+  ],
+  "gate": "Narrow D-064 removal/preservation check only; no broad source/writing/whole-poster gate rerun."
+}

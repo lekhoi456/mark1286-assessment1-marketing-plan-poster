@@ -1,0 +1,80 @@
+{
+  "version": "v14",
+  "baseline": "v13",
+  "scope": "Green SM lockup-only revision",
+  "checks": {
+    "sixteen_ordinary_text_records_identical": true,
+    "all_non_logo_and_non_description_svg_objects_identical": true,
+    "flag_row_identical": true,
+    "eight_flags_retained": true,
+    "generated_decoration_identical": true,
+    "raw_car_hash_identical": true,
+    "vinfast_identity_identical": true,
+    "vingroup_emblem_identical": true,
+    "sources_identical": true,
+    "logo_original_placement_box_identical": true,
+    "shared_png_bytes_embedded_unchanged": true,
+    "shared_asset_hash_matches": true,
+    "complete_mark_and_wordmark_used": true,
+    "alpha_retained_in_byte_unchanged_embedded_png": true,
+    "logo_aspect_ratio_preserved": true,
+    "actual_full_png_inspected_no_overlap_or_clipping": true,
+    "actual_logo_proof_inspected_GREEN_SM_legible": true,
+    "png_difference_confined_to_logo_box": true
+  },
+  "passed": 18,
+  "failed": 0,
+  "visual_inspection": "Agent inspected actual full PNG and close logo proof, 3 October 2026.",
+  "png_pixel_diff": {
+    "changed_pixels": 48788,
+    "bounding_box_px": [
+      532,
+      74,
+      651,
+      175
+    ],
+    "bounding_box_format": "x, y, width, height",
+    "expected_logo_box_at_1_5_scale": [
+      532.5,
+      73.5,
+      650.25,
+      175.95
+    ],
+    "outside_logo_box_unchanged": true,
+    "method": "ImageMagick read-only absolute pixel comparison and difference bounding-box analysis",
+    "compare_exit_1": "Expected: the selected logo replacement creates a non-zero pixel difference."
+  },
+  "limits": [
+    "New image feedback and physical A0 proof remain pending.",
+    "No broad poster/writing/source gate rerun."
+  ],
+  "png_outputs": {
+    "full": [
+      2400,
+      1680
+    ],
+    "header_crop": [
+      2235,
+      248
+    ],
+    "logo_proof": [
+      920,
+      276
+    ],
+    "embedded_logo": [
+      2171,
+      724
+    ]
+  },
+  "logo_alpha_analysis": {
+    "channels": "sRGBA",
+    "alpha_min": 0,
+    "alpha_max": 1,
+    "nontransparent_bounds": [
+      18,
+      72,
+      2125,
+      572
+    ]
+  }
+}

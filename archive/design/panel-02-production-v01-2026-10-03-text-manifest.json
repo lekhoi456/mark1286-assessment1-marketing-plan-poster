@@ -1,0 +1,441 @@
+{
+  "version": "v01",
+  "prepared": "2026-10-03",
+  "status": "Production draft of approved panel content; geometry and whole-poster print fit remain for review",
+  "authority": [
+    "D-043",
+    "D-044",
+    "D-045",
+    "D-046"
+  ],
+  "approved_source": "panel-02-selected-content-and-proposals-v04-2026-10-03.md",
+  "chart_source": "panel-02-age-distribution-chart-v04-2026-10-03.svg",
+  "canvas": {
+    "width": 1800,
+    "height": 1360,
+    "unit": "SVG user units",
+    "aspect_ratio": 1.3235294117647058,
+    "physical_placement_proposal_mm": {
+      "width": 330,
+      "height": 249.333333
+    },
+    "minimum_native_font_size": 23,
+    "physical_minimum_at_proposed_width_mm": 4.216666666666667,
+    "physical_minimum_at_proposed_width_pt": 11.952755905511813,
+    "physical_fit_verified": false
+  },
+  "approved_strings": {
+    "heading": "Target Market",
+    "priority": "Copenhagen residents aged 25–44",
+    "filters": "Self-paying · Existing taxi users · Recurring local trips",
+    "geography": "Copenhagen — within the service area",
+    "qualifier": "Proposed rider profile",
+    "psychographic": "Price-conscious · Values trip control · Expects fair treatment",
+    "behavioural": "Already uses taxis · Recurring local trips · Pays personally",
+    "rationale": "Recurring local trips create opportunities for repeat rides."
+  },
+  "text_objects": [
+    {
+      "id": "p2-heading",
+      "text": "Target Market",
+      "x": 70,
+      "baseline_y": 87,
+      "font_size": 58,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "heading",
+      "origin": "selected specification v04"
+    },
+    {
+      "id": "p2-priority",
+      "text": "Copenhagen residents aged 25–44",
+      "x": 70,
+      "baseline_y": 146,
+      "font_size": 42,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "priority segment",
+      "origin": "selected specification v04"
+    },
+    {
+      "id": "p2-filters",
+      "text": "Self-paying · Existing taxi users · Recurring local trips",
+      "x": 70,
+      "baseline_y": 190,
+      "font_size": 30,
+      "font_weight": 400,
+      "text_anchor": "start",
+      "role": "eligibility filters",
+      "origin": "selected specification v04"
+    },
+    {
+      "id": "p2-chart-title",
+      "text": "COPENHAGEN RESIDENTS BY AGE",
+      "x": 100,
+      "baseline_y": 270,
+      "font_size": 35,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "chart title",
+      "origin": "selected chart v04"
+    },
+    {
+      "id": "p2-chart-scope",
+      "text": "Copenhagen municipality · 1 July 2026 · age groups 18+",
+      "x": 100,
+      "baseline_y": 309,
+      "font_size": 26,
+      "font_weight": 400,
+      "text_anchor": "start",
+      "role": "chart scope and date",
+      "origin": "selected chart v04"
+    },
+    {
+      "id": "p2-y-0",
+      "text": "0",
+      "x": 166,
+      "baseline_y": 663.0,
+      "font_size": 23,
+      "font_weight": 400,
+      "text_anchor": "end",
+      "role": "axis tick",
+      "origin": "selected chart v04"
+    },
+    {
+      "id": "p2-y-100000",
+      "text": "100,000",
+      "x": 166,
+      "baseline_y": 583.2342857142858,
+      "font_size": 23,
+      "font_weight": 400,
+      "text_anchor": "end",
+      "role": "axis tick",
+      "origin": "selected chart v04"
+    },
+    {
+      "id": "p2-y-200000",
+      "text": "200,000",
+      "x": 166,
+      "baseline_y": 503.4685714285714,
+      "font_size": 23,
+      "font_weight": 400,
+      "text_anchor": "end",
+      "role": "axis tick",
+      "origin": "selected chart v04"
+    },
+    {
+      "id": "p2-y-300000",
+      "text": "300,000",
+      "x": 166,
+      "baseline_y": 423.7028571428571,
+      "font_size": 23,
+      "font_weight": 400,
+      "text_anchor": "end",
+      "role": "axis tick",
+      "origin": "selected chart v04"
+    },
+    {
+      "id": "p2-axis-title",
+      "text": "Residents",
+      "x": 100,
+      "baseline_y": 362,
+      "font_size": 23,
+      "font_weight": 400,
+      "text_anchor": "start",
+      "role": "axis title",
+      "origin": "selected chart v04"
+    },
+    {
+      "id": "p2-count-1",
+      "text": "72,396",
+      "x": 360.002472,
+      "baseline_y": 583.252813,
+      "font_size": 31,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "population count",
+      "origin": "selected chart v04 / E-193"
+    },
+    {
+      "id": "p2-age-1",
+      "text": "18–24",
+      "x": 360.002472,
+      "baseline_y": 694,
+      "font_size": 30,
+      "font_weight": 400,
+      "text_anchor": "middle",
+      "role": "age category",
+      "origin": "selected chart v04"
+    },
+    {
+      "id": "p2-count-2",
+      "text": "269,277",
+      "x": 724.505891,
+      "baseline_y": 426.209278,
+      "font_size": 31,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "population count",
+      "origin": "selected chart v04 / E-193"
+    },
+    {
+      "id": "p2-age-2",
+      "text": "25–44",
+      "x": 724.505891,
+      "baseline_y": 694,
+      "font_size": 30,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "age category",
+      "origin": "selected chart v04"
+    },
+    {
+      "id": "p2-count-3",
+      "text": "143,668",
+      "x": 1089.009309,
+      "baseline_y": 526.402194,
+      "font_size": 31,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "population count",
+      "origin": "selected chart v04 / E-193"
+    },
+    {
+      "id": "p2-age-3",
+      "text": "45–64",
+      "x": 1089.009309,
+      "baseline_y": 694,
+      "font_size": 30,
+      "font_weight": 400,
+      "text_anchor": "middle",
+      "role": "age category",
+      "origin": "selected chart v04"
+    },
+    {
+      "id": "p2-count-4",
+      "text": "74,728",
+      "x": 1453.512729,
+      "baseline_y": 581.392677,
+      "font_size": 31,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "population count",
+      "origin": "selected chart v04 / E-193"
+    },
+    {
+      "id": "p2-age-4",
+      "text": "65+",
+      "x": 1453.512729,
+      "baseline_y": 694,
+      "font_size": 30,
+      "font_weight": 400,
+      "text_anchor": "middle",
+      "role": "age category",
+      "origin": "selected chart v04"
+    },
+    {
+      "id": "p2-share",
+      "text": "40.2%",
+      "x": 724.505891,
+      "baseline_y": 368,
+      "font_size": 29,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "population share",
+      "origin": "D-046 / selected chart v04 / E-191"
+    },
+    {
+      "id": "p2-share-basis",
+      "text": "of city residents",
+      "x": 724.505891,
+      "baseline_y": 394,
+      "font_size": 23,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "share denominator label",
+      "origin": "D-046 / selected chart v04"
+    },
+    {
+      "id": "p2-source",
+      "text": "Source: Statistics Denmark (2026b), FOLK1A; calculated sums of single-year ages.",
+      "x": 100,
+      "baseline_y": 741,
+      "font_size": 25,
+      "font_weight": 400,
+      "text_anchor": "start",
+      "role": "source note",
+      "origin": "selected chart v04"
+    },
+    {
+      "id": "p2-denominator",
+      "text": "The 40.2% denominator is all 670,389 city residents, including those aged under 18.",
+      "x": 100,
+      "baseline_y": 778,
+      "font_size": 24,
+      "font_weight": 400,
+      "text_anchor": "start",
+      "role": "denominator caveat",
+      "origin": "selected chart v04"
+    },
+    {
+      "id": "p2-location",
+      "text": "Copenhagen — within the service area",
+      "x": 591,
+      "baseline_y": 864,
+      "font_size": 29,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "geographic filter",
+      "origin": "selected specification v04"
+    },
+    {
+      "id": "p2-profile-qualifier",
+      "text": "Proposed rider profile",
+      "x": 900,
+      "baseline_y": 928,
+      "font_size": 31,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "hypothesis qualifier",
+      "origin": "selected specification v04"
+    },
+    {
+      "id": "p2-psy-price",
+      "text": "Price-conscious",
+      "x": 226,
+      "baseline_y": 982,
+      "font_size": 32,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "psychographic label",
+      "origin": "selected specification v04"
+    },
+    {
+      "id": "p2-psy-control",
+      "text": "Values trip control",
+      "x": 226,
+      "baseline_y": 1067,
+      "font_size": 32,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "psychographic label",
+      "origin": "selected specification v04"
+    },
+    {
+      "id": "p2-psy-fair",
+      "text": "Expects fair treatment",
+      "x": 226,
+      "baseline_y": 1152,
+      "font_size": 32,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "psychographic label",
+      "origin": "selected specification v04"
+    },
+    {
+      "id": "p2-beh-taxi",
+      "text": "Already uses taxis",
+      "x": 1240,
+      "baseline_y": 982,
+      "font_size": 32,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "behavioural label",
+      "origin": "selected specification v04"
+    },
+    {
+      "id": "p2-beh-repeat",
+      "text": "Recurring local trips",
+      "x": 1240,
+      "baseline_y": 1067,
+      "font_size": 32,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "behavioural label",
+      "origin": "selected specification v04"
+    },
+    {
+      "id": "p2-beh-pay",
+      "text": "Pays personally",
+      "x": 1240,
+      "baseline_y": 1152,
+      "font_size": 32,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "behavioural label",
+      "origin": "selected specification v04"
+    },
+    {
+      "id": "p2-rationale",
+      "text": "Recurring local trips create opportunities for repeat rides.",
+      "x": 900,
+      "baseline_y": 1305,
+      "font_size": 34,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "approved prioritisation rationale",
+      "origin": "selected specification v04"
+    }
+  ],
+  "grouped_labels": {
+    "psychographic": {
+      "ids": [
+        "p2-psy-price",
+        "p2-psy-control",
+        "p2-psy-fair"
+      ],
+      "joiner": " · ",
+      "resolved_text": "Price-conscious · Values trip control · Expects fair treatment"
+    },
+    "behavioural": {
+      "ids": [
+        "p2-beh-taxi",
+        "p2-beh-repeat",
+        "p2-beh-pay"
+      ],
+      "joiner": " · ",
+      "resolved_text": "Already uses taxis · Recurring local trips · Pays personally"
+    }
+  },
+  "data": {
+    "counts": [
+      72396,
+      269277,
+      143668,
+      74728
+    ],
+    "age_groups": [
+      "18–24",
+      "25–44",
+      "45–64",
+      "65+"
+    ],
+    "baseline": 0,
+    "unit": "persons",
+    "date": "2026-07-01",
+    "geography": "Copenhagen municipality",
+    "adult_total": 560069,
+    "under_18": 110320,
+    "denominator_all_residents": 670389,
+    "selected_share_percent": 40.2,
+    "source_key": "statistics-denmark-2026b",
+    "evidence_ids": [
+      "E-191",
+      "E-193"
+    ],
+    "source_pdf": "statistics-denmark-2026b-population-quarter-age.pdf",
+    "source_pdf_sha256": "21fb094d568fb803213ada1640ecb2903d548379dee0ca87ff9b68666038f0b0"
+  },
+  "illustrations": {
+    "resident": "Original vector illustration, not a photograph or observed respondent",
+    "symbols": "Original vector tag, route-on-phone, support headset, taxi, repeat calendar and wallet",
+    "image_model_executed": false
+  },
+  "placement_rules": [
+    "Place all strings as native editable text. Never generate letters or data through an image model.",
+    "Keep the percentage pill above 25–44, with the count separate.",
+    "Preserve source/date/denominator caveat and Proposed rider profile at readable size.",
+    "Psychographic and behavioural triplets are separated into labelled icons; joining their exact labels with the approved middle-dot separator reproduces the selected strings.",
+    "The chart paths for all four columns are reused from v04 with a common affine transform; native text is reflowed separately."
+  ]
+}

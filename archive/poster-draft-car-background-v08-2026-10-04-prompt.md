@@ -1,0 +1,1 @@
+../poster/poster-draft-car-background-v08-2026-10-04-prompt.md

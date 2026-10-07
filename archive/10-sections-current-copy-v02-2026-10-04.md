@@ -1,0 +1,1 @@
+../poster/10-sections-current-copy-v02-2026-10-04.md

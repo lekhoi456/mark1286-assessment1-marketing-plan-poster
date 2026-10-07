@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-03",
+  "authority": [
+    "D-056"
+  ],
+  "changed_object": "p2-heading",
+  "heading": "2. Target Market",
+  ".svg_29_other_text_objects_and_all_non_heading_bytes_unchanged": true,
+  "-editable.svg_29_other_text_objects_and_all_non_heading_bytes_unchanged": true,
+  "text_objects": 30,
+  "unchanged_text_objects": 29,
+  "underline_changed": false,
+  "heading_advance_width": 471.1,
+  "heading_right_advance": 541.1,
+  "explicit_font_glyphs": true,
+  "art_sha256": "efadcea7f91d4fe90695714ffa2beedea01c68d5cd2535376608a65b982fe01c",
+  "original_art_bytes_unchanged": true,
+  "data_and_chart_geometry_unchanged": true,
+  "visible_source_attribution": false,
+  "counts": [
+    72396,
+    269277,
+    143668,
+    74728
+  ],
+  "denominator_all_residents": 670389,
+  "selected_share_percent": 40.2,
+  "zero_baseline": true,
+  "pill_and_count_are_separate_objects": true,
+  "native_image_generation_rerun": false,
+  "full_wrapper_pass_claimed": false,
+  "physical_a0_verified": false,
+  "section_image_approval": "pending",
+  "full_and_small_png_inspected": true,
+  "full_png_dimensions": [
+    1800,
+    1360
+  ],
+  "small_png_dimensions": [
+    900,
+    680
+  ],
+  "observed_findings": "No observed new overlap or clipping. Heading fits unchanged underline; separate percentage pill/count and all retained text/chart/profile elements remain visible.",
+  "source_pdf_sha256": "21fb094d568fb803213ada1640ecb2903d548379dee0ca87ff9b68666038f0b0",
+  "source_arithmetic_verification": "Parent verified current PDF hash, age sums and all-city percentage; this heading-only amendment preserves data unchanged."
+}

@@ -1,0 +1,34 @@
+{
+  "panel": 4,
+  "authority": "D-053/D-054",
+  "checks": {
+    "Brand & Promise": true,
+    "Global identity": true,
+    "Teal / cyan": true,
+    "Yellow-gold": true,
+    "One brand across markets.": true,
+    "(Green SM, 2026f; Green SM Denmark ApS, no date c)": true,
+    "Copenhagen promise": true,
+    "Proposed promise": true,
+    "Clear terms. Local care.": true,
+    "For self-paying Copenhagen riders who value trip control and fair treatment.": true,
+    "Danish first \u00b7 English second": true,
+    "Same promise across campaign channels.": true,
+    "all glyph advances within panel": true,
+    "no text objects rendered by SVG font fallback": true,
+    "font paths are explicit local handwriting faces": true,
+    "official logo source bytes unchanged": true,
+    "generated art source bytes unchanged": true,
+    "verified source hash green-sm-2026f": true,
+    "verified source hash green-sm-denmark-aps-ndc": true,
+    "tagline wraps at sentence boundary": true,
+    "all seven art regions use explicit source crop clips": true
+  },
+  "all_pass": true,
+  "image_size": [
+    1800,
+    1180
+  ],
+  "visual_inspection": "Final PNG inspected after exact source clips removed the neighbour sliver and the tagline was wrapped at its sentence boundary. No observed overlap/clipping; all non-logo letters use explicit handwriting glyphs. Student imagery and A0 review remain pending.",
+  "writing_gate": "Unchanged exact v02 copy: prior narrow 54-word gate remains applicable, zero inherited hard findings; only absent full-poster budget/KPI tables cause exit 2."
+}

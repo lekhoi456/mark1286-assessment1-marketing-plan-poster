@@ -1,0 +1,66 @@
+{
+  "scope": "Three logo raster substitutions only; D-074 content retained.",
+  "checks": {
+    "three shared hand-drawn logo instances embedded": true,
+    "original corporate raster no longer displayed": true,
+    "all non-logo SVG bytes identical": true,
+    "all nineteen text records and exact placements identical": true,
+    "display-copy Markdown identical": true,
+    "cue notes geometry and data identical": true,
+    "all decorative art placements identical": true,
+    "all source mappings and proposal limits identical": true,
+    "all three original logo boxes and aspect-fit settings retained": true,
+    "shared hand-drawn alpha preserved in embedded bytes": true,
+    "canvas dimensions retained": true,
+    "actual pixel changes confined to the three logo boxes": true,
+    "actual logo raster appearance changed": true,
+    "baseline v04 PNG unchanged": true,
+    "900px proof created": true,
+    "prior writing gate applicable to identical copy": true
+  },
+  "all_pass": true,
+  "changed_pixels": 17075,
+  "changed_pixel_bbox_exclusive": [
+    146,
+    299,
+    1185,
+    1053
+  ],
+  "logo_boxes": [
+    {
+      "role": "main",
+      "x": 90,
+      "y": 294,
+      "width": 465,
+      "height": 98
+    },
+    {
+      "role": "proposed-ad",
+      "x": 603,
+      "y": 1024,
+      "width": 142,
+      "height": 27
+    },
+    {
+      "role": "generic-app",
+      "x": 1111,
+      "y": 1035,
+      "width": 83,
+      "height": 18
+    }
+  ],
+  "shared_logo_dimensions": [
+    2171,
+    724
+  ],
+  "shared_logo_alpha_range": [
+    0,
+    255
+  ],
+  "shared_logo_sha256": "36a99749e3cc9585573fedda5fb1dbcf6a76483872cadc2d0f6651ec95430db9",
+  "new_png_sha256": "7f03607a78e0ef6ca68c83f8af885bf880c4027ba0f7a6006202213e24f59bea",
+  "visual_inspection": "Complete PNG and 900px proof inspected; no overlap/clipping. Main wordmark clear; tiny touchpoint lettering requires close view.",
+  "writing_gate": "v04 result reused for byte-identical copy; no new whole-poster gate.",
+  "actual_A0_tested": false,
+  "user_image_approval_inferred": false
+}

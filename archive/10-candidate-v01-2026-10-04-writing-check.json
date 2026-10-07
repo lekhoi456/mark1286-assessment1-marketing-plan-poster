@@ -1,0 +1,177 @@
+{
+  "version": "1.0.0",
+  "genre": {
+    "mode": "poster",
+    "budget": {},
+    "kpi_rows": 0,
+    "sections": [
+      {
+        "heading": "10. Business Goals & Growth",
+        "words": 116,
+        "budget": 190
+      }
+    ],
+    "total_words": 116,
+    "speakers": {},
+    "errors": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ]
+  },
+  "base": {
+    "version": "2.0.0",
+    "total_words": 116,
+    "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+    "limit": {},
+    "sections": [
+      {
+        "name": "10. Business Goals & Growth",
+        "words": 116,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      }
+    ],
+    "references": {
+      "citations": 0,
+      "entries": 0,
+      "hard": [],
+      "review": [],
+      "keys": []
+    },
+    "figures": {
+      "figures": 0,
+      "tables": 0,
+      "caption_words": 0,
+      "hard": [],
+      "review": []
+    },
+    "template_echo": {},
+    "anti_slop": {
+      "status": "ran",
+      "context": "general",
+      "source_mode": "rendered-markdown",
+      "score": 2,
+      "label": "Minimal AI signals",
+      "hard": [],
+      "review": [
+        {
+          "type": "formatting",
+          "text": "7 bold phrases",
+          "severity": "medium",
+          "suggestion": "Strip bold from most; restructure to lead with key info",
+          "why": "review (stylometric, wordiness or house-overridden)"
+        }
+      ],
+      "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+    },
+    "module_scope": {
+      "named": {},
+      "outside": []
+    },
+    "hard_stops": 1,
+    "hard_by_category": {
+      "integrity": 0,
+      "grammar": 1,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "findings": {
+      "ai_fingerprints": [],
+      "placeholders": [],
+      "numeric_markers": [],
+      "bypass_chars": [],
+      "speculation": [],
+      "vague_attribution": [],
+      "dashes": [],
+      "semicolons": [],
+      "banned": [],
+      "reflective_cliches": [],
+      "banned_soft": [],
+      "banned_in_quotation": [],
+      "banned_allowed": [],
+      "us_spelling": [],
+      "hedges": [],
+      "hedge_stacks": [],
+      "universals": [],
+      "mechanical_transitions": [],
+      "stance_openers": [],
+      "cleft_openers": [],
+      "double_connectives": [],
+      "duplicated_phrases": [],
+      "verbless_sentences": [
+        "Long-term sustainable growth\n\nO3 repeat\n\nScale only on mature-cohort repeat evidence."
+      ],
+      "label_colons": [
+        "M12: decide year two\n\nReview O1 to O4, service delivery and contribution evidence."
+      ],
+      "comma_splices": [],
+      "sentence_count": 9,
+      "sentence_mean": 13.1,
+      "sentence_min": 6,
+      "sentence_max": 19,
+      "short_sentences": 1,
+      "long_sentences": 0,
+      "uniform_sentence_runs": [],
+      "paragraph_count": 12,
+      "paragraph_lengths": [
+        6,
+        16,
+        6,
+        20,
+        4,
+        6,
+        9,
+        12,
+        4,
+        9,
+        5,
+        7
+      ],
+      "uniform_paragraphs": [],
+      "repeated_openings": [],
+      "colons_total": 0,
+      "colons_per_100w": 0.0,
+      "colons_per_paragraph": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "colon_heavy_paragraphs": [],
+      "colon_quota_rhythm": false,
+      "colon_absent": false
+    }
+  },
+  "effective_base_hard_by_category": {
+    "integrity": 0,
+    "grammar": 0,
+    "style": 0,
+    "referencing": 0,
+    "figures": 0,
+    "anti_slop": 0,
+    "word_limit": 0,
+    "module_scope": 0
+  },
+  "genre_review": [
+    {
+      "type": "label_colon",
+      "text": "M12: decide year two\n\nReview O1 to O4, service delivery and contribution evidence.",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    }
+  ],
+  "hard_stops": 2,
+  "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+}

@@ -1,0 +1,46 @@
+{
+  "status": "passed focused heading-number checks",
+  "date": "2026-10-03",
+  "checks": {
+    "exact-numbered-heading": true,
+    "heading-size-position-and-font-unchanged": true,
+    "all-19-nonheading-text-objects-identical": true,
+    "all-19-nonheading-glyph-groups-identical": true,
+    "raster-placements-and-clips-identical": true,
+    "canvas-size-preserved": true,
+    "no-visible-citation": true,
+    "internal-source-mapping-preserved": true,
+    "latest-authority-amendment-recorded": true,
+    "numbering-authority-recorded": true,
+    "optional-caption-absent": true,
+    "no-font-fallback": true,
+    "all-other-SVG-elements-byte-equivalent": true,
+    "Markdown-heading-only-display-change": true,
+    "Markdown-citation-free": true,
+    "previous-v03-files-untouched": true,
+    "original-art-and-logo-bytes-preserved": true,
+    "PNG-difference-confined-to-heading": true
+  },
+  "all_checks_pass": true,
+  "pixel_difference_bbox": [
+    70,
+    50,
+    554,
+    119
+  ],
+  "png_sha256": "04b1cc49df70c1ffba1e2f5c43eb878b293201d412fc3889de55dcce4747e9be",
+  "svg_sha256": "47b5691cbb13f71d6a18028c17687bb8dd7da1b512157ce0edac749861b9aadd",
+  "retained_nonheading_text_objects": 19,
+  "heading_font_px": 66,
+  "heading_size_changed": false,
+  "underline_changed": false,
+  "new_image_generation_calls": 0,
+  "broad_source_or_writing_gates_rerun": false,
+  "visual_inspection": "Actual complete render inspected: 3. Why Green SM? fits safely with unchanged subtitle/underline; footer and all art clips retain their repaired presentation.",
+  "authority_master": "panel-03-selected-content-and-visual-v02-2026-10-03.md",
+  "unverified": [
+    "User acceptance of section-3 imagery",
+    "Full A0 integration",
+    "Physical print legibility"
+  ]
+}

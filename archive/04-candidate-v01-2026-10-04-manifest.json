@@ -1,0 +1,431 @@
+{
+  "panel": 4,
+  "authority": "Student approval: Ch\u1ed1t 4, 4 October 2026; parent exact-copy task",
+  "size": [
+    1800,
+    1400
+  ],
+  "approved_copy": [
+    "4. Branding & Identity",
+    "GLOBAL GREEN SM IDENTITY",
+    "One brand across markets.",
+    "Teal / cyan \u00b7 Yellow-gold",
+    "COPENHAGEN PROMISE \u00b7 PROPOSED \u00b7 TEST WITH TARGET RIDERS",
+    "Clear terms. Local care.",
+    "Danish first \u00b7 English second",
+    "For Copenhagen\u2019s self-paying repeat taxi riders: clear terms + a route to local help",
+    "SAME LOGO \u00b7 SAME PALETTE \u00b7 SAME PROMISE",
+    "Taxi \u00b7 Green SM app \u00b7 Local ad"
+  ],
+  "texts": [
+    {
+      "id": "text-0",
+      "text": "4. Branding & Identity",
+      "role": "master",
+      "font": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 80,
+      "lines": [
+        {
+          "text": "4. Branding & Identity",
+          "bbox": [
+            80.762,
+            60.92,
+            748.685,
+            142.04
+          ],
+          "baseline": 127.0
+        }
+      ]
+    },
+    {
+      "id": "text-1",
+      "text": "GLOBAL GREEN SM IDENTITY",
+      "role": "master",
+      "font": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 40,
+      "lines": [
+        {
+          "text": "GLOBAL GREEN SM IDENTITY",
+          "bbox": [
+            100.8,
+            191.96,
+            549.525,
+            226.96
+          ],
+          "baseline": 225.0
+        }
+      ]
+    },
+    {
+      "id": "text-2",
+      "text": "One brand across markets.",
+      "role": "master",
+      "font": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 46,
+      "lines": [
+        {
+          "text": "One brand across markets.",
+          "bbox": [
+            849.38,
+            249.21,
+            1325.25,
+            292.392
+          ],
+          "baseline": 289.0
+        }
+      ]
+    },
+    {
+      "id": "text-3",
+      "text": "Teal / cyan \u00b7 Yellow-gold",
+      "role": "master",
+      "font": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 40,
+      "lines": [
+        {
+          "text": "Teal / cyan \u00b7 Yellow-gold",
+          "bbox": [
+            850.7,
+            385.5,
+            1228.4,
+            432.15
+          ],
+          "baseline": 420.0
+        }
+      ]
+    },
+    {
+      "id": "text-4",
+      "text": "COPENHAGEN PROMISE \u00b7 PROPOSED \u00b7 TEST WITH TARGET RIDERS",
+      "role": "master",
+      "font": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 37,
+      "lines": [
+        {
+          "text": "COPENHAGEN PROMISE \u00b7 PROPOSED \u00b7 TEST WITH TARGET RIDERS",
+          "bbox": [
+            438.054,
+            511.068,
+            1362.019,
+            544.183
+          ],
+          "baseline": 542.0
+        }
+      ]
+    },
+    {
+      "id": "text-5",
+      "text": "Clear terms. Local care.",
+      "role": "master",
+      "font": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 86,
+      "lines": [
+        {
+          "text": "Clear terms. Local care.",
+          "bbox": [
+            528.478,
+            584.394,
+            1270.803,
+            658.956
+          ],
+          "baseline": 655.0
+        }
+      ]
+    },
+    {
+      "id": "text-6",
+      "text": "Danish first \u00b7 English second",
+      "role": "master",
+      "font": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 40,
+      "lines": [
+        {
+          "text": "Danish first \u00b7 English second",
+          "bbox": [
+            684.75,
+            689.2,
+            1115.5,
+            735.8
+          ],
+          "baseline": 724.0
+        }
+      ]
+    },
+    {
+      "id": "text-7",
+      "text": "For Copenhagen\u2019s self-paying repeat taxi riders: clear terms + a route to local help",
+      "role": "master",
+      "font": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 31,
+      "lines": [
+        {
+          "text": "For Copenhagen\u2019s self-paying repeat taxi riders: clear terms + a route to local help",
+          "bbox": [
+            414.249,
+            759.332,
+            1385.247,
+            797.54
+          ],
+          "baseline": 787.0
+        }
+      ]
+    },
+    {
+      "id": "text-8",
+      "text": "SAME LOGO \u00b7 SAME PALETTE \u00b7 SAME PROMISE",
+      "role": "master",
+      "font": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 38,
+      "lines": [
+        {
+          "text": "SAME LOGO \u00b7 SAME PALETTE \u00b7 SAME PROMISE",
+          "bbox": [
+            549.032,
+            854.27,
+            1250.968,
+            887.862
+          ],
+          "baseline": 886.0
+        }
+      ]
+    },
+    {
+      "id": "text-9",
+      "text": "Taxi \u00b7 Green SM app \u00b7 Local ad",
+      "role": "master",
+      "font": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 40,
+      "lines": [
+        {
+          "text": "Taxi",
+          "bbox": [
+            316.4,
+            909.4,
+            383.05,
+            946.15
+          ],
+          "baseline": 943
+        },
+        {
+          "text": "\u00b7",
+          "bbox": [
+            620.45,
+            925.25,
+            625.55,
+            929.4
+          ],
+          "baseline": 943
+        },
+        {
+          "text": "Green SM app",
+          "bbox": [
+            791.525,
+            908.4,
+            1008.225,
+            956.6
+          ],
+          "baseline": 943
+        },
+        {
+          "text": "\u00b7",
+          "bbox": [
+            1174.45,
+            925.25,
+            1179.55,
+            929.4
+          ],
+          "baseline": 943
+        },
+        {
+          "text": "Local ad",
+          "bbox": [
+            1387.65,
+            908.5,
+            1512.1,
+            945.15
+          ],
+          "baseline": 943
+        }
+      ]
+    },
+    {
+      "id": "text-10",
+      "text": "Clear terms. Local care.",
+      "role": "specimen-repeat",
+      "font": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 21,
+      "lines": [
+        {
+          "text": "Clear terms.",
+          "bbox": [
+            285.42,
+            1195.906,
+            379.325,
+            1213.966
+          ],
+          "baseline": 1213
+        },
+        {
+          "text": "Local care.",
+          "bbox": [
+            285.441,
+            1219.759,
+            366.515,
+            1237.903
+          ],
+          "baseline": 1237
+        }
+      ]
+    },
+    {
+      "id": "text-11",
+      "text": "Clear terms. Local care.",
+      "role": "specimen-repeat",
+      "font": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 28,
+      "lines": [
+        {
+          "text": "Clear terms.",
+          "bbox": [
+            837.559,
+            1138.208,
+            962.767,
+            1162.288
+          ],
+          "baseline": 1161
+        },
+        {
+          "text": "Local care.",
+          "bbox": [
+            837.588,
+            1176.012,
+            945.687,
+            1200.204
+          ],
+          "baseline": 1199
+        }
+      ]
+    },
+    {
+      "id": "text-12",
+      "text": "Clear terms. Local care.",
+      "role": "specimen-repeat",
+      "font": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 30,
+      "lines": [
+        {
+          "text": "Clear terms.",
+          "bbox": [
+            1381.599,
+            1152.58,
+            1515.75,
+            1178.38
+          ],
+          "baseline": 1177
+        },
+        {
+          "text": "Local care.",
+          "bbox": [
+            1381.63,
+            1192.37,
+            1497.45,
+            1218.29
+          ],
+          "baseline": 1217
+        }
+      ]
+    }
+  ],
+  "logos": [
+    {
+      "name": "global-identity",
+      "bbox": [
+        100,
+        266,
+        655,
+        451.0852141870106
+      ]
+    },
+    {
+      "name": "taxi",
+      "bbox": [
+        274,
+        1137,
+        436,
+        1191.0248733302626
+      ]
+    },
+    {
+      "name": "generic-app",
+      "bbox": [
+        829,
+        1040,
+        974,
+        1088.355596499309
+      ]
+    },
+    {
+      "name": "local-ad",
+      "bbox": [
+        1373,
+        1049,
+        1523,
+        1099.0230308613543
+      ]
+    }
+  ],
+  "illustrations": [
+    {
+      "name": "taxi-exterior",
+      "crop": [
+        0,
+        90,
+        1220,
+        565
+      ],
+      "target": [
+        87,
+        1014,
+        526,
+        276
+      ]
+    },
+    {
+      "name": "generic-app",
+      "crop": [
+        1235,
+        10,
+        390,
+        700
+      ],
+      "target": [
+        790,
+        968,
+        221,
+        397
+      ]
+    },
+    {
+      "name": "local-ad",
+      "crop": [
+        1710,
+        30,
+        440,
+        660
+      ],
+      "target": [
+        1325,
+        974,
+        250,
+        375
+      ]
+    }
+  ],
+  "logo_path": "poster/shared-logo.png",
+  "logo_sha256": "36a99749e3cc9585573fedda5fb1dbcf6a76483872cadc2d0f6651ec95430db9",
+  "art_sha256": "0b0033d9d0df644d5abc91ec37f6e69284d1063fd6b2bbbe4a7ba5ca15ffc15b",
+  "art_alpha_preserved": true,
+  "glyph_paths": true,
+  "visible_citations": false,
+  "specimens": "Proposed identity applications; generic app is illustrative, not deployed functionality"
+}

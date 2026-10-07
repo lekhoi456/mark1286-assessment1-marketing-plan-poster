@@ -1,0 +1,753 @@
+{
+  "section": 10,
+  "version": "v02",
+  "status": "delegated visual candidate; parent selection pending; not group-approved",
+  "copy_source": "10-v02-copy.md",
+  "copy_sha256": "c06c99369832fc17a54edcff1950df3a58856cfbcf23fcb9dafbef9b89509639",
+  "canvas_px": [
+    2400,
+    1800
+  ],
+  "text_objects": [
+    {
+      "id": "text-000",
+      "text": "10. Business Goals & Growth",
+      "font": "MarkerFelt-Thin",
+      "font_size": 91,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "heading",
+      "owner": null,
+      "lines": [
+        {
+          "text": "10. Business Goals & Growth",
+          "bbox": [
+            92.738,
+            57.379000000000005,
+            1121.129,
+            137.368
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-001",
+      "text": "Proposed 12-month plan · Copenhagen · targets, not results",
+      "font": "Noteworthy-Light",
+      "font_size": 38,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "proposal-status",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Proposed 12-month plan · Copenhagen · targets, not results",
+          "bbox": [
+            87.425,
+            181.035,
+            923.5674999999999,
+            226.92
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-002",
+      "text": "DKK600,000 · excl. VAT · gated release",
+      "font": "MarkerFelt-Thin",
+      "font_size": 38,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "budget-gate",
+      "owner": null,
+      "lines": [
+        {
+          "text": "DKK600,000 · excl. VAT · gated release",
+          "bbox": [
+            87.558,
+            241.726,
+            662.2285454545455,
+            280.02525
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-003",
+      "text": "Company foundation: Sustainable electric mobility · smart mobility · proposed controlled-service model. Copenhagen outcomes untested.",
+      "font": "Noteworthy-Light",
+      "font_size": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "company-foundation",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Company foundation: Sustainable electric mobility · smart mobility · proposed controlled-service model. Copenhagen outcomes untested.",
+          "bbox": [
+            112.85,
+            325.505,
+            1815.2299999999993,
+            366.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-004",
+      "text": "1 · Focus O1",
+      "font": "MarkerFelt-Thin",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "growth-stage",
+      "owner": "market-to-focus",
+      "lines": [
+        {
+          "text": "1 · Focus O1",
+          "bbox": [
+            111.248,
+            525.6054193548387,
+            267.056,
+            556.332
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-005",
+      "text": "S1: self-paying repeat taxi riders, 25–44.",
+      "font": "Noteworthy-Light",
+      "font_size": 32,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "audience",
+      "owner": "market-to-focus",
+      "lines": [
+        {
+          "text": "S1: self-paying repeat taxi riders,",
+          "bbox": [
+            112.8,
+            847.4,
+            501.27058823529416,
+            885.88
+          ]
+        },
+        {
+          "text": "25–44.",
+          "bbox": [
+            112.8,
+            889.0,
+            224.76,
+            916.88
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-006",
+      "text": "Capital Region app-choice sample, n=79: lower price 57% · app habit 22% · wait/ease 18% each. Not representative.",
+      "font": "Noteworthy-Light",
+      "font_size": 30,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "local-evidence",
+      "owner": "market-to-focus",
+      "lines": [
+        {
+          "text": "Capital Region app-choice sample, n=79:",
+          "bbox": [
+            112.75,
+            936.3750000000001,
+            573.0999999999999,
+            972.6000000000001
+          ]
+        },
+        {
+          "text": "lower price 57% · app habit 22% ·",
+          "bbox": [
+            112.9375,
+            974.8125000000001,
+            511.00000000000006,
+            1011.0000000000001
+          ]
+        },
+        {
+          "text": "wait/ease 18% each. Not representative.",
+          "bbox": [
+            112.9375,
+            1013.325,
+            563.3875,
+            1049.4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-007",
+      "text": "Promise: clear fares + local help.",
+      "font": "Noteworthy-Light",
+      "font_size": 31,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "positioning-promise",
+      "owner": "market-to-focus",
+      "lines": [
+        {
+          "text": "Promise: clear fares + local help.",
+          "bbox": [
+            113.1625,
+            1057.02375,
+            490.0062500000001,
+            1094.34
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-008",
+      "text": "2 · Digital route O1 → O2",
+      "font": "MarkerFelt-Thin",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "growth-stage",
+      "owner": "digital-to-trial",
+      "lines": [
+        {
+          "text": "2 · Digital route O1 → O2",
+          "bbox": [
+            677.7906153846154,
+            525.6054193548387,
+            1036.8919999999998,
+            561.6555
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-009",
+      "text": "Search/social → one local info page → Green SM app booking.",
+      "font": "Noteworthy-Light",
+      "font_size": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "acquisition-route",
+      "owner": "digital-to-trial",
+      "lines": [
+        {
+          "text": "Search/social → one local info page",
+          "bbox": [
+            682.825,
+            846.5375,
+            1133.0687500000001,
+            886.22
+          ]
+        },
+        {
+          "text": "→ Green SM app booking.",
+          "bbox": [
+            684,
+            888.695,
+            1012.86625,
+            928.46
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-010",
+      "text": "Completed, paid first trip = sale. Target: 378 paid first riders, M1–12.",
+      "font": "Noteworthy-Light",
+      "font_size": 32,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "sale-and-target",
+      "owner": "digital-to-trial",
+      "lines": [
+        {
+          "text": "Completed, paid first trip = sale.",
+          "bbox": [
+            682.8,
+            937.34,
+            1062.48,
+            975.98
+          ]
+        },
+        {
+          "text": "Target: 378 paid first riders, M1–12.",
+          "bbox": [
+            682.56,
+            978.34,
+            1120.3999999999999,
+            1016.94
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-011",
+      "text": "3 · Deliver O4 → retain O3",
+      "font": "MarkerFelt-Thin",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "growth-stage",
+      "owner": "service-to-repeat",
+      "lines": [
+        {
+          "text": "3 · Deliver O4 → retain O3",
+          "bbox": [
+            1248.98,
+            525.264,
+            1628.636,
+            556.728
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-012",
+      "text": "Experience target: app, driver, car and support.",
+      "font": "Noteworthy-Light",
+      "font_size": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "service-target",
+      "owner": "service-to-repeat",
+      "lines": [
+        {
+          "text": "Experience target: app, driver, car",
+          "bbox": [
+            1253.2375,
+            846.57875,
+            1673.5750000000003,
+            886.22
+          ]
+        },
+        {
+          "text": "and support.",
+          "bbox": [
+            1253.03125,
+            889.1075,
+            1403.34625,
+            928.46
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-013",
+      "text": "Feedback → consented reminder → repeat.",
+      "font": "Noteworthy-Light",
+      "font_size": 32,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "feedback-to-repeat",
+      "owner": "service-to-repeat",
+      "lines": [
+        {
+          "text": "Feedback → consented reminder →",
+          "bbox": [
+            1252.48,
+            937.4200000000001,
+            1679.36,
+            967.46
+          ]
+        },
+        {
+          "text": "repeat.",
+          "bbox": [
+            1253,
+            983.4138461538462,
+            1330.16,
+            1016.94
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-014",
+      "text": "4 · Earn growth O1 to O4",
+      "font": "MarkerFelt-Thin",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "growth-stage",
+      "owner": "evidence-to-growth",
+      "lines": [
+        {
+          "text": "4 · Earn growth O1 to O4",
+          "bbox": [
+            1817.3430588235294,
+            525.084,
+            2179.4178775510204,
+            561.6555
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-015",
+      "text": "Proposed targets: +10 pp awareness · ≥35% mature 90-day repeat.",
+      "font": "Noteworthy-Light",
+      "font_size": 31,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "proposed-outcome-targets",
+      "owner": "evidence-to-growth",
+      "lines": [
+        {
+          "text": "Proposed targets: +10 pp awareness ·",
+          "bbox": [
+            1823.1625,
+            848.22375,
+            2264.525,
+            885.54
+          ]
+        },
+        {
+          "text": "≥35% mature 90-day repeat.",
+          "bbox": [
+            1822.775,
+            887.82625,
+            2175.245,
+            925.2199999999999
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-016",
+      "text": "Service gates: completion ≥95% · service cancellations ≤2% · referenced complaints answered in 24 h ≥90% · fare/area clarity ≥80%.",
+      "font": "Noteworthy-Light",
+      "font_size": 29,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "service-gates",
+      "owner": "evidence-to-growth",
+      "lines": [
+        {
+          "text": "Service gates: completion ≥95% · service",
+          "bbox": [
+            1822.725,
+            934.6874999999999,
+            2275.125,
+            969.56
+          ]
+        },
+        {
+          "text": "cancellations ≤2% · referenced complaints",
+          "bbox": [
+            1822.90625,
+            971.8074999999999,
+            2282.12125,
+            1006.68
+          ]
+        },
+        {
+          "text": "answered in 24 h ≥90% · fare/area",
+          "bbox": [
+            1822.90625,
+            1008.9274999999998,
+            2226.94875,
+            1035.4987499999997
+          ]
+        },
+        {
+          "text": "clarity ≥80%.",
+          "bbox": [
+            1822.90625,
+            1046.0475,
+            1975.88125,
+            1079.8687499999999
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-017",
+      "text": "Growth follows only when service and mature-repeat evidence holds.",
+      "font": "Noteworthy-Light",
+      "font_size": 30,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "scale-condition",
+      "owner": "evidence-to-growth",
+      "lines": [
+        {
+          "text": "Growth follows only when service and",
+          "bbox": [
+            1822.75,
+            1087.29,
+            2244.8875,
+            1122.3525
+          ]
+        },
+        {
+          "text": "mature-repeat evidence holds.",
+          "bbox": [
+            1822.9375,
+            1125.765,
+            2154.4375,
+            1161.8400000000001
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-018",
+      "text": "Conditional S9 proposals: consented marketing AI · separate dispatch pilot · connected support · bundle tests. Approval, operations checks and separate costing required.",
+      "font": "Noteworthy-Light",
+      "font_size": 32,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "conditional-innovation",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Conditional S9 proposals: consented marketing AI · separate dispatch pilot · connected support · bundle tests. Approval, operations checks and separate costing required.",
+          "bbox": [
+            112.8,
+            1347.24,
+            2120.2800000000007,
+            1385.88
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-019",
+      "text": "M12: review O1 to O4, service, mature repeat, contribution → Renew · Revise · Stop.",
+      "font": "MarkerFelt-Thin",
+      "font_size": 40,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "m12-decision",
+      "owner": null,
+      "lines": [
+        {
+          "text": "M12: review O1 to O4, service, mature repeat, contribution → Renew · Revise · Stop.",
+          "bbox": [
+            113.92,
+            1546.96,
+            1470.6666666666667,
+            1588.72
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-020",
+      "text": "Illustrative year-one model does not break even.",
+      "font": "Noteworthy-Light",
+      "font_size": 36,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "economic-limit",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Illustrative year-one model does not break even.",
+          "bbox": [
+            113.485,
+            1620.86,
+            749.605,
+            1662.935
+          ]
+        }
+      ]
+    }
+  ],
+  "frames": [
+    {
+      "id": "outer-pen-frame",
+      "bounds": [
+        30,
+        30,
+        2370,
+        1770
+      ]
+    },
+    {
+      "id": "company-foundation-band",
+      "bounds": [
+        78,
+        292,
+        2322,
+        456
+      ]
+    },
+    {
+      "id": "market-to-focus-frame",
+      "bounds": [
+        80,
+        500,
+        610,
+        1265
+      ]
+    },
+    {
+      "id": "digital-to-trial-frame",
+      "bounds": [
+        650,
+        500,
+        1180,
+        1265
+      ]
+    },
+    {
+      "id": "service-to-repeat-frame",
+      "bounds": [
+        1220,
+        500,
+        1750,
+        1265
+      ]
+    },
+    {
+      "id": "evidence-to-growth-frame",
+      "bounds": [
+        1790,
+        500,
+        2320,
+        1265
+      ]
+    },
+    {
+      "id": "conditional-innovation-band",
+      "bounds": [
+        78,
+        1300,
+        2322,
+        1490
+      ]
+    },
+    {
+      "id": "m12-decision-band",
+      "bounds": [
+        78,
+        1520,
+        2322,
+        1764
+      ]
+    }
+  ],
+  "raster_placements": [
+    {
+      "id": "market-to-focus-art",
+      "source": [
+        0,
+        512,
+        768,
+        512
+      ],
+      "target": [
+        174,
+        576,
+        342,
+        228
+      ],
+      "role": "reused conceptual artwork; not a local result"
+    },
+    {
+      "id": "digital-to-trial-art",
+      "source": [
+        768,
+        0,
+        768,
+        512
+      ],
+      "target": [
+        744,
+        576,
+        342,
+        228
+      ],
+      "role": "reused conceptual artwork; not a local result"
+    },
+    {
+      "id": "service-to-repeat-art",
+      "source": [
+        0,
+        0,
+        768,
+        512
+      ],
+      "target": [
+        1314,
+        576,
+        342,
+        228
+      ],
+      "role": "reused conceptual artwork; not a local result"
+    },
+    {
+      "id": "evidence-to-growth-art",
+      "source": [
+        768,
+        512,
+        768,
+        512
+      ],
+      "target": [
+        1884,
+        576,
+        342,
+        228
+      ],
+      "role": "reused conceptual artwork; not a local result"
+    }
+  ],
+  "art_asset": "10-v02-art.png",
+  "art_sha256": "5c76d82d66a0da3f2756bde48e0e74ff653c3207478650dfeb83805cae4c4f4e",
+  "art_dimensions": [
+    1536,
+    1024
+  ],
+  "art_mode": "RGBA",
+  "art_alpha_extrema": [
+    0,
+    254
+  ],
+  "art_origin": "10-candidate-v01-2026-10-04-generated-art.png; byte-identical reuse",
+  "art_embedded": false,
+  "render_source": "10-v02-render.py",
+  "layout_source": "10-v02-layout.py",
+  "glyph_source": "10-v02-glyphs.swift",
+  "native_image_calls": 0,
+  "citation_visible": false,
+  "logo_used": false,
+  "objective_mapping": {
+    "market-to-focus": [
+      "local rider evidence",
+      "S1",
+      "O1 awareness"
+    ],
+    "digital-to-trial": [
+      "O1 awareness",
+      "O2 paid trial",
+      "completed paid trip is sale"
+    ],
+    "service-to-repeat": [
+      "O4 service integrity",
+      "O3 repeat",
+      "consented feedback loop"
+    ],
+    "evidence-to-growth": [
+      "O1-O4 proposed targets",
+      "service gates",
+      "scale only after evidence"
+    ]
+  },
+  "cross_panel_basis": {
+    "S5": "search/social to one local information page then app booking",
+    "S6": "completed paid trip; target experience; feedback and consented repeat",
+    "S7": "DKK600,000 excluding VAT with stage gates",
+    "S8": "proposed awareness, rider, repeat and service targets",
+    "S9": "conditional AI, dispatch, connected support and bundle tests"
+  },
+  "internal_source_records": [
+    {
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "pdf": "../04_references/konkurrence-og-forbrugerstyrelsen-2026b-uber-dantaxi-afgoerelse.pdf",
+      "physical_pages": [
+        150,
+        151
+      ],
+      "table": "5.12",
+      "evidence_ids": [
+        "E-024"
+      ],
+      "sha256": "309669803ffbe59f7d14609b297dc0945df9dc3f457664645e240645dece3ffb",
+      "verification": "Opened PDF pages 150-151; n=79 and multi-response reasons verified on 2026-10-04"
+    }
+  ],
+  "source_claim_boundaries": [
+    "E-024 is a regional subsample, not representative and not causal",
+    "Company model is a capability, not proof of Copenhagen service performance",
+    "Targets are proposed, not achieved results",
+    "No emissions saving, AI performance, subscription sale or Copenhagen success claimed",
+    "Illustrative year-one model does not break even"
+  ],
+  "whole_poster_or_print_verified": false
+}

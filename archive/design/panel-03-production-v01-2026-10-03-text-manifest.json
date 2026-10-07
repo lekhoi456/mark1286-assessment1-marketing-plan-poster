@@ -1,0 +1,472 @@
+{
+  "section": "Panel 3 — Why Green SM?",
+  "authority_master": "panel-03-selected-content-and-visual-v01-2026-10-03.md",
+  "decisions": [
+    "D-050",
+    "D-051"
+  ],
+  "copy_source": "panel-03-production-v01-2026-10-03.md",
+  "canvas_px": [
+    1800,
+    1460
+  ],
+  "qualifier_occurrences": 1,
+  "text_objects": [
+    {
+      "id": "heading",
+      "approved_string": "Why Green SM?",
+      "x": 70,
+      "y": 101,
+      "font_px": 60,
+      "role": "approved heading",
+      "rendered_lines": [
+        "Why Green SM?"
+      ]
+    },
+    {
+      "id": "subtitle",
+      "approved_string": "Positioning Strategy",
+      "x": 73,
+      "y": 145,
+      "font_px": 28,
+      "role": "approved subtitle",
+      "rendered_lines": [
+        "Positioning Strategy"
+      ]
+    },
+    {
+      "id": "qualifier",
+      "approved_string": "Proposed position",
+      "x": 210,
+      "y": 214,
+      "font_px": 26,
+      "role": "plan qualifier",
+      "rendered_lines": [
+        "Proposed position"
+      ]
+    },
+    {
+      "id": "positioning-statement",
+      "approved_string": "For self-paying Copenhagen residents aged 25–44 taking recurring local taxi trips within the service area, Green SM offers app-booked electric taxi rides with clear booking terms and a route to local help, through its own fleet and employed drivers.",
+      "x": 73,
+      "y": 263,
+      "font_px": 28,
+      "role": "approved plan",
+      "rendered_lines": [
+        "For self-paying Copenhagen residents aged 25–44 taking recurring local taxi trips within the service area,",
+        "Green SM offers app-booked electric taxi rides with clear booking terms and a route to local help,",
+        "through its own fleet and employed drivers."
+      ]
+    },
+    {
+      "id": "benefit-clear",
+      "approved_string": "Clear terms",
+      "x": 296,
+      "y": 430,
+      "font_px": 38,
+      "role": "approved plan",
+      "rendered_lines": [
+        "Clear terms"
+      ]
+    },
+    {
+      "id": "service-area",
+      "approved_string": "Service area ·",
+      "x": 222,
+      "y": 509,
+      "font_px": 28,
+      "role": "approved plan",
+      "rendered_lines": [
+        "Service area ·"
+      ]
+    },
+    {
+      "id": "hours",
+      "approved_string": "Operating hours ·",
+      "x": 222,
+      "y": 603,
+      "font_px": 28,
+      "role": "approved plan",
+      "rendered_lines": [
+        "Operating hours ·"
+      ]
+    },
+    {
+      "id": "fare",
+      "approved_string": "Fare terms",
+      "x": 222,
+      "y": 697,
+      "font_px": 28,
+      "role": "approved plan",
+      "rendered_lines": [
+        "Fare terms"
+      ]
+    },
+    {
+      "id": "benefit-care",
+      "approved_string": "Local care",
+      "x": 1501,
+      "y": 430,
+      "font_px": 38,
+      "role": "approved plan",
+      "rendered_lines": [
+        "Local care"
+      ]
+    },
+    {
+      "id": "trip-reference",
+      "approved_string": "Trip reference ·",
+      "x": 1434,
+      "y": 510,
+      "font_px": 28,
+      "role": "approved plan",
+      "rendered_lines": [
+        "Trip reference ·"
+      ]
+    },
+    {
+      "id": "local-help",
+      "approved_string": "A clear route to local help",
+      "x": 1434,
+      "y": 610,
+      "font_px": 28,
+      "role": "approved plan",
+      "rendered_lines": [
+        "A clear route",
+        "to local help"
+      ]
+    },
+    {
+      "id": "service-label",
+      "approved_string": "App-booked electric rides",
+      "x": 855,
+      "y": 596,
+      "font_px": 32,
+      "role": "approved plan",
+      "rendered_lines": [
+        "App-booked",
+        "electric rides"
+      ]
+    },
+    {
+      "id": "uber-label",
+      "approved_string": "Uber",
+      "x": 277,
+      "y": 775,
+      "font_px": 34,
+      "role": "named factual comparator",
+      "rendered_lines": [
+        "Uber"
+      ]
+    },
+    {
+      "id": "bolt-label",
+      "approved_string": "Bolt",
+      "x": 1506,
+      "y": 775,
+      "font_px": 34,
+      "role": "named factual comparator",
+      "rendered_lines": [
+        "Bolt"
+      ]
+    },
+    {
+      "id": "uber-model",
+      "approved_string": "Taxi partners operate rides",
+      "x": 277,
+      "y": 1095,
+      "font_px": 26,
+      "role": "source fact E-184",
+      "rendered_lines": [
+        "Taxi partners",
+        "operate rides"
+      ]
+    },
+    {
+      "id": "bolt-model",
+      "approved_string": "Taxi partners operate rides",
+      "x": 1506,
+      "y": 1095,
+      "font_px": 26,
+      "role": "source fact E-184",
+      "rendered_lines": [
+        "Taxi partners",
+        "operate rides"
+      ]
+    },
+    {
+      "id": "green-sm-model-label",
+      "approved_string": "Green SM",
+      "x": 900,
+      "y": 1274,
+      "font_px": 26,
+      "role": "factual model label",
+      "rendered_lines": [
+        "Green SM"
+      ]
+    },
+    {
+      "id": "green-sm-model",
+      "approved_string": "Owned fleet · Employed drivers",
+      "x": 900,
+      "y": 1315,
+      "font_px": 32,
+      "role": "source fact E-019",
+      "rendered_lines": [
+        "Owned fleet · Employed drivers"
+      ]
+    },
+    {
+      "id": "citation",
+      "approved_string": "(Konkurrence- og Forbrugerstyrelsen, 2026b, pp. 119, 174)",
+      "x": 900,
+      "y": 1353,
+      "font_px": 23,
+      "role": "source citation E-019 E-184",
+      "rendered_lines": [
+        "(Konkurrence- og Forbrugerstyrelsen, 2026b, pp. 119, 174)"
+      ]
+    },
+    {
+      "id": "delivery-label",
+      "approved_string": "Delivery plan",
+      "x": 221,
+      "y": 1418,
+      "font_px": 27,
+      "role": "approved plan",
+      "rendered_lines": [
+        "Delivery plan"
+      ]
+    },
+    {
+      "id": "delivery-plan",
+      "approved_string": "Use direct fleet and driver control to support clear terms and local help.",
+      "x": 400,
+      "y": 1418,
+      "font_px": 26,
+      "role": "approved plan",
+      "rendered_lines": [
+        "Use direct fleet and driver control to support clear terms and local help."
+      ]
+    }
+  ],
+  "raster_placements": [
+    {
+      "id": "service-area-icon",
+      "source_bbox": [
+        22,
+        80,
+        280,
+        285
+      ],
+      "target": [
+        101,
+        452,
+        95,
+        97
+      ],
+      "source": "panel-03-production-v01-2026-10-03-generated-art.png",
+      "clip": null
+    },
+    {
+      "id": "hours-icon",
+      "source_bbox": [
+        318,
+        74,
+        260,
+        267
+      ],
+      "target": [
+        101,
+        548,
+        91,
+        94
+      ],
+      "source": "panel-03-production-v01-2026-10-03-generated-art.png",
+      "clip": null
+    },
+    {
+      "id": "fare-icon",
+      "source_bbox": [
+        100,
+        365,
+        285,
+        280
+      ],
+      "target": [
+        100,
+        642,
+        91,
+        89
+      ],
+      "source": "panel-03-production-v01-2026-10-03-generated-art.png",
+      "clip": null
+    },
+    {
+      "id": "trip-reference-icon",
+      "source_bbox": [
+        1120,
+        65,
+        385,
+        267
+      ],
+      "target": [
+        1290,
+        457,
+        125,
+        87
+      ],
+      "source": "panel-03-production-v01-2026-10-03-generated-art.png",
+      "clip": null
+    },
+    {
+      "id": "local-help-icon",
+      "source_bbox": [
+        1187,
+        336,
+        310,
+        300
+      ],
+      "target": [
+        1305,
+        574,
+        100,
+        97
+      ],
+      "source": "panel-03-production-v01-2026-10-03-generated-art.png",
+      "clip": null
+    },
+    {
+      "id": "green-sm-focal",
+      "source_bbox": [
+        500,
+        30,
+        665,
+        725
+      ],
+      "target": [
+        575,
+        388,
+        650,
+        709
+      ],
+      "source": "panel-03-production-v01-2026-10-03-generated-art.png",
+      "clip": "focal-source-clip"
+    },
+    {
+      "id": "uber-neutral-illustration",
+      "source_bbox": [
+        42,
+        665,
+        345,
+        327
+      ],
+      "target": [
+        143,
+        803,
+        270,
+        256
+      ],
+      "source": "panel-03-production-v01-2026-10-03-generated-art.png",
+      "clip": null
+    },
+    {
+      "id": "bolt-neutral-illustration",
+      "source_bbox": [
+        42,
+        665,
+        345,
+        327
+      ],
+      "target": [
+        1370,
+        803,
+        270,
+        256
+      ],
+      "source": "panel-03-production-v01-2026-10-03-generated-art.png",
+      "clip": null
+    },
+    {
+      "id": "owned-fleet-illustration",
+      "source_bbox": [
+        410,
+        785,
+        425,
+        218
+      ],
+      "target": [
+        695,
+        1133,
+        220,
+        113
+      ],
+      "source": "panel-03-production-v01-2026-10-03-generated-art.png",
+      "clip": null
+    },
+    {
+      "id": "employed-driver-illustration",
+      "source_bbox": [
+        845,
+        740,
+        290,
+        267
+      ],
+      "target": [
+        946,
+        1133,
+        119,
+        109
+      ],
+      "source": "panel-03-production-v01-2026-10-03-generated-art.png",
+      "clip": null
+    }
+  ],
+  "art_asset": "panel-03-production-v01-2026-10-03-generated-art.png",
+  "art_sha256": "3d3ab1c8265943cf224fe678f33103426bc34041d48896a7e51c6c8291691c97",
+  "authentic_logo_source": "panel-01-production-v01-2026-10-03-logo.png",
+  "authentic_logo_sha256": "6a33a503aa903020e5dd8228634b78c2cc1492431969295bd7ae00f7655f44d0",
+  "source_key": "konkurrence-og-forbrugerstyrelsen-2026b",
+  "source_pdf": "../../04_references/konkurrence-og-forbrugerstyrelsen-2026b-uber-dantaxi-afgoerelse.pdf",
+  "source_pages": [
+    119,
+    174
+  ],
+  "evidence_ids": [
+    "E-019",
+    "E-184"
+  ],
+  "illustration_boundaries": [
+    "Conceptual app, not a screenshot or tested feature set",
+    "Generic location image, not a verified coverage map",
+    "Vehicle drawing, not evidence of Danish fleet model",
+    "Two fleet vehicles are symbolic, not a fleet count",
+    "Driver bust is generic, not an identified Green SM employee",
+    "Same generated neutral-grey app/taxi sprite is used for both rival contexts; colour supplies no ranking",
+    "Full A0 integration and physical print not tested"
+  ],
+  "excluded_optional_caption": "Know the terms. Know where to get help.",
+  "approved_benefit_groups": [
+    {
+      "approved_string": "Service area · Operating hours · Fare terms",
+      "text_object_ids": [
+        "service-area",
+        "hours",
+        "fare"
+      ]
+    },
+    {
+      "approved_string": "Trip reference · A clear route to local help",
+      "text_object_ids": [
+        "trip-reference",
+        "local-help"
+      ]
+    }
+  ],
+  "layout_notes": [
+    "Middle-dot separators are retained at the line ends in the vertically arranged benefit lists.",
+    "Brand/model objects may be separate under the explicit production-master allowance."
+  ],
+  "source_current_sha256": "309669803ffbe59f7d14609b297dc0945df9dc3f457664645e240645dece3ffb",
+  "source_registry_sha256_matches": true
+}

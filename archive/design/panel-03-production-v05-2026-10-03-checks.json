@@ -1,0 +1,109 @@
+{
+  "status": "passed focused v05 production checks",
+  "date": "2026-10-03",
+  "checks": {
+    "selected-heading": true,
+    "selected-subtitle": true,
+    "selected-qualifier": true,
+    "selected-benefit-clear": true,
+    "selected-benefit-care": true,
+    "selected-service-label": true,
+    "selected-green-sm-model": true,
+    "selected-approach-heading": true,
+    "selected-trained-drivers": true,
+    "selected-standards": true,
+    "selected-procedures": true,
+    "selected-ev-character": true,
+    "selected-delivery-label": true,
+    "selected-delivery-plan": true,
+    "four-labelled-segments-exact": true,
+    "complete-original-39-word-sentence-reconstructed": true,
+    "clear-terms-detail-exact": true,
+    "local-care-detail-exact": true,
+    "neutral-rival-comparison-exact": true,
+    "all-lettering-reconstructs-manifest": true,
+    "single-proposed-position-qualifier": true,
+    "no-selected-32-word-alternative": true,
+    "no-optional-caption-or-tailpipe-label": true,
+    "no-visible-citation-or-source-footer": true,
+    "explicit-local-handwriting-glyphs-only": true,
+    "all-text-bounds-inside-pen-frame": true,
+    "no-text-bounding-box-overlaps": true,
+    "old-sheet-embedded-byte-identically": true,
+    "approach-sheet-embedded-byte-identically": true,
+    "authentic-logo-embedded-byte-identically": true,
+    "reused-art-and-logo-hashes-preserved": true,
+    "new-native-original-preserved": true,
+    "two-required-source-mappings-present": true,
+    "inherited-source-bytes-match-recorded-registry": true,
+    "explicit-source-clip-service-area-icon": true,
+    "explicit-source-clip-hours-icon": true,
+    "explicit-source-clip-fare-icon": true,
+    "explicit-source-clip-trip-reference-icon": true,
+    "explicit-source-clip-local-help-icon": true,
+    "explicit-source-clip-green-sm-focal": true,
+    "explicit-source-clip-uber-neutral": true,
+    "explicit-source-clip-bolt-neutral": true,
+    "explicit-source-clip-trained-drivers-art": true,
+    "explicit-source-clip-standards-art": true,
+    "explicit-source-clip-procedures-art": true,
+    "full-and-small-render-sizes": true,
+    "new-sheet-true-alpha": true,
+    "central-scene-substantially-smaller": true,
+    "benefit-headings-more-prominent-than-central-service-label": true,
+    "narrow-writing-gate-ran-with-zero-inherited-hard": true,
+    "writing-exit-only-expected-whole-poster-markers": true
+  },
+  "all_checks_pass": true,
+  "text_object_count": 31,
+  "text_bbox_overlaps": [],
+  "png_sha256": "1a4f71d0fa7ab7541c828eb0348c9dafafebab86fc268c551f82291afcbe44d1",
+  "svg_sha256": "eacb0b7839622ccbe1400cecca617661709ae2afe3b972b0bf3e923bcddfe350",
+  "new_art_metadata": {
+    "mode": "RGBA",
+    "size": [
+      1942,
+      809
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "writing_gate": {
+    "words": 114,
+    "exit_code": 2,
+    "detector_ran": true,
+    "detector_score": 3,
+    "inherited_hard": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "expected_errors": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ],
+    "genre_review": "Twelve bold infographic headings/semantic labels are the selected poster convention; full 39-word statement reconstructs across the strip.",
+    "whole_poster_pass_claimed": false
+  },
+  "visual_inspection": [
+    "New native sheet inspected: training/checklist/support pictograms, no observed lettering",
+    "Actual complete PNG inspected; exact four-part sentence, dominant benefits, smaller central scene, adjacent model basis and approach/plan link are present",
+    "Extended pen connectors now visibly attach both benefit groups to the central booking symbol",
+    "900 px preview inspected; no observed text overlap, clipping or sprite slivers; footer descenders clear bottom frame"
+  ],
+  "scope": "Only new v05 section files and its own review were written; no other section, master, shared control, source or protected checker was edited.",
+  "unverified": [
+    "User acceptance of complete section imagery",
+    "Full A0 integration",
+    "Physical print legibility",
+    "Actual Copenhagen training/support performance",
+    "Exclusive competitor advantage"
+  ]
+}

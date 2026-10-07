@@ -1,0 +1,274 @@
+{
+  "version": "v02",
+  "status": "Candidate for parent selection; no group approval",
+  "checks": {
+    "heading_exact_numbered": true,
+    "eleven_measures_controls_and_all_55_baseline_fields_retained": true,
+    "eleven_explicit_canonical_to_visible_maps": true,
+    "every_measure_target_component_visibly_encoded": true,
+    "all_eleven_full_tool_and_rhythm_pairs_visible": true,
+    "objective_labels_unchanged": true,
+    "conversion_bars_exact_3_to_1_5_and_shared_zero_scale": true,
+    "all_four_gauge_markers_match_threshold_and_direction": true,
+    "gauges_have_no_observed_value_or_progress_fill": true,
+    "awareness_delta_no_invented_absolute_baseline": true,
+    "mature_cohort_90day_definition_visible": true,
+    "completion_and_cancellations_shared_accepted_denominator_visible": true,
+    "availability_threshold_still_set_after_baseline": true,
+    "all_gate_thresholds_equal_section7": true,
+    "gate_A_B_times_and_actions_unchanged": true,
+    "counting_rules_and_acquisition_scope_visible": true,
+    "M12_renew_revise_stop_retained": true,
+    "targets_labelled_proposed_not_achieved": true,
+    "zero_text_overlap": true,
+    "zero_text_clipping": true,
+    "zero_zone_escape": true,
+    "no_type_shrink_minimum_33_retained": true,
+    "near_square_and_at_least_25_percent_less_area": true,
+    "v01_files_byte_unchanged": true,
+    "sources_evidence_and_model_authority_unchanged": true,
+    "native_art_hash_match": true,
+    "all_letters_numbers_native_controlled_glyphs": true,
+    "font_files_unchanged": true,
+    "writing_detector_ran_effective_base_hard_zero": true,
+    "sole_expected_standalone_budget_table_omission": true,
+    "actual_full_png_and_native_icon_strip_inspected": true
+  },
+  "passed": 31,
+  "failed": 0,
+  "display_measure_mapping": [
+    {
+      "baseline_row": {
+        "kpi": "Would consider Green SM",
+        "objective": "O1",
+        "target": "+10 percentage points on M1–2 baseline by M12",
+        "tool": "Resident panel survey",
+        "rhythm": "M1–2 and M12"
+      },
+      "visible_components": [
+        "Would consider Green SM",
+        "+10 pp",
+        "M1–2 baseline",
+        "M12",
+        "pp = percentage points",
+        "Resident panel survey · M1–2 and M12"
+      ],
+      "encoding_review": "pp defined as percentage points; M1–2 to M12 expresses the delta without an invented absolute baseline."
+    },
+    {
+      "baseline_row": {
+        "kpi": "First paid riders",
+        "objective": "O2",
+        "target": "378 over M1–12",
+        "tool": "Booking/settlement data",
+        "rhythm": "Weekly"
+      },
+      "visible_components": [
+        "378",
+        "First paid riders · M1–12",
+        "Booking/settlement data · Weekly"
+      ],
+      "encoding_review": "378 is an annual M1–12 target for first paid riders."
+    },
+    {
+      "baseline_row": {
+        "kpi": "First paid riders / all paid clicks",
+        "objective": "O2",
+        "target": "Search 3%, social 1.5%",
+        "tool": "Ads and bookings",
+        "rhythm": "Weekly"
+      },
+      "visible_components": [
+        "Search 3%",
+        "Social 1.5%",
+        "First paid riders / all paid clicks",
+        "Ads and bookings · Weekly"
+      ],
+      "encoding_review": "Two channels share the zero baseline and scale; bars show proposed conversion targets, not observed results."
+    },
+    {
+      "baseline_row": {
+        "kpi": "Search/social spend / first paid riders",
+        "objective": "O2",
+        "target": "DKK524 or less",
+        "tool": "Finance and bookings",
+        "rhythm": "Monthly"
+      },
+      "visible_components": [
+        "Search/social spend / first paid riders",
+        "≤DKK524",
+        "Finance and bookings · Monthly"
+      ],
+      "encoding_review": "≤ is the baseline or-less target; search/social acquisition denominator remains first paid riders."
+    },
+    {
+      "baseline_row": {
+        "kpi": "90-day paid repeat, fully observed riders",
+        "objective": "O3",
+        "target": "At least 35%",
+        "tool": "Rider cohorts",
+        "rhythm": "Monthly from M6"
+      },
+      "visible_components": [
+        "First paid trip",
+        "90 days",
+        "≥35%",
+        "Paid repeat",
+        "Full 90-day window · fully observed riders only",
+        "Rider cohorts · Monthly from M6"
+      ],
+      "encoding_review": "≥35% applies to paid repeat among fully observed riders with a full 90-day window."
+    },
+    {
+      "baseline_row": {
+        "kpi": "Completed / accepted bookings",
+        "objective": "O4",
+        "target": "At least 95%",
+        "tool": "Dispatch data",
+        "rhythm": "Daily"
+      },
+      "visible_components": [
+        "Completed",
+        "≥95%",
+        "Completion / cancels: per accepted booking",
+        "Dispatch data · Daily"
+      ],
+      "encoding_review": "Shared denominator note explicitly applies accepted bookings to completion and cancellations."
+    },
+    {
+      "baseline_row": {
+        "kpi": "Service-caused cancellations / accepted bookings",
+        "objective": "O4",
+        "target": "At most 2%",
+        "tool": "Dispatch reason codes",
+        "rhythm": "Daily"
+      },
+      "visible_components": [
+        "Service-caused cancels",
+        "≤2%",
+        "Completion / cancels: per accepted booking",
+        "Dispatch reason codes · Daily"
+      ],
+      "encoding_review": "Shared denominator note explicitly applies accepted bookings to completion and cancellations."
+    },
+    {
+      "baseline_row": {
+        "kpi": "Referenced complaints answered within 24 hours",
+        "objective": "O4",
+        "target": "At least 90%",
+        "tool": "Support log",
+        "rhythm": "Weekly"
+      },
+      "visible_components": [
+        "Referenced complaints",
+        "answered within 24h",
+        "≥90%",
+        "Support log · Weekly"
+      ],
+      "encoding_review": "24h is the same 24-hour answer window; referenced complaints retained."
+    },
+    {
+      "baseline_row": {
+        "kpi": "Area and fare terms found clear",
+        "objective": "O4",
+        "target": "At least 80% yes",
+        "tool": "Post-trip question",
+        "rhythm": "Monthly"
+      },
+      "visible_components": [
+        "Area and fare terms clear",
+        "≥80% yes",
+        "Post-trip question · Monthly"
+      ],
+      "encoding_review": "At least 80% yes retained with the clear-terms measure."
+    },
+    {
+      "baseline_row": {
+        "kpi": "Usable offers / in-area requests",
+        "objective": "O4",
+        "target": "Threshold set after M1–2 area/hour baseline",
+        "tool": "Request logs",
+        "rhythm": "Weekly"
+      },
+      "visible_components": [
+        "Usable offers / in-area requests",
+        "Set after M1–2 area/hour baseline",
+        "Request logs · Weekly"
+      ],
+      "encoding_review": "No threshold figure is invented; M1–2 area/hour baseline remains required."
+    },
+    {
+      "baseline_row": {
+        "kpi": "Committed plus spent against stage budget",
+        "objective": "Spend control",
+        "target": "Within approved stage totals",
+        "tool": "Finance",
+        "rhythm": "Weekly"
+      },
+      "visible_components": [
+        "Committed + spent",
+        "Within approved stage totals",
+        "Finance · Weekly"
+      ],
+      "encoding_review": "The flow expresses committed plus spent within approved stage totals."
+    }
+  ],
+  "gate_comparison": {
+    "≥95%": {
+      "v02": true,
+      "section7": true
+    },
+    "≤2%": {
+      "v02": true,
+      "section7": true
+    },
+    "24h ≥90%": {
+      "v02": true,
+      "section7": true
+    },
+    "≥1.5%": {
+      "v02": true,
+      "section7": true
+    },
+    "≥0.8%": {
+      "v02": true,
+      "section7": true
+    },
+    "≥20%": {
+      "v02": true,
+      "section7": true
+    },
+    "≤DKK1,829": {
+      "v02": true,
+      "section7": true
+    },
+    "≥35%": {
+      "v02": true,
+      "section7": true
+    }
+  },
+  "text_overlap": [],
+  "text_clipping": [],
+  "zone_escape": [],
+  "graphic_words": 260,
+  "copy_words": 283,
+  "writing_exit": 2,
+  "writing_exception": "Standalone panel has no full-poster budget table; no whole-poster pass claimed",
+  "canvas": [
+    2200,
+    2030
+  ],
+  "size_reduction_percent": 25.09,
+  "print_at_330_mm": {
+    "width_mm": 330,
+    "height_mm": 304.5,
+    "smallest_type_pt": 14.031496062992128
+  },
+  "print_at_300_mm": {
+    "width_mm": 300,
+    "height_mm": 276.8181818181818,
+    "smallest_type_pt": 12.755905511811026
+  },
+  "actual_A0_or_print_proof": false,
+  "visual_scope": "Bars/gauges show proposed target values, not achieved results or benchmarks"
+}

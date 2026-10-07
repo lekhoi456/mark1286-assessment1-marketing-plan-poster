@@ -1,0 +1,286 @@
+{
+  "proposal_only": true,
+  "raw_art_sha256": "efadcea7f91d4fe90695714ffa2beedea01c68d5cd2535376608a65b982fe01c",
+  "counts": [
+    72396,
+    269277,
+    143668,
+    74728
+  ],
+  "charted_adults": 560069,
+  "all_residents": 670389,
+  "percentage": 40.2,
+  "zero_baseline": 0,
+  "native_fonts": [
+    "MarkerFelt.ttc index 0",
+    "Noteworthy.ttc index 0"
+  ],
+  "native_glyph_model_text": false,
+  "lower_comparisons": {
+    "panel-02-independent-infographic-options-v01-2026-10-03-option-a": {
+      "existing_png_identical": true,
+      "source_svg_render_identical": true,
+      "difference_bbox": null
+    },
+    "panel-02-independent-infographic-options-v01-2026-10-03-option-b": {
+      "existing_png_identical": true,
+      "source_svg_render_identical": true,
+      "difference_bbox": null
+    }
+  },
+  "chart_box_old": [
+    60,
+    235,
+    1570,
+    470
+  ],
+  "chart_box_a": [
+    60,
+    236,
+    875,
+    463
+  ],
+  "chart_box_a_area_ratio": 0.5490242580295432,
+  "chart_box_b": [
+    416,
+    367,
+    875,
+    389
+  ],
+  "chart_box_b_area_ratio": 0.4612752405474997,
+  "copy_manifest_a": [
+    {
+      "copy": "2. Target Market",
+      "x": 70.0,
+      "baseline_y": 107.0,
+      "font_size": 78.0,
+      "kind": "heading",
+      "width": 524.94,
+      "right": 594.94
+    },
+    {
+      "copy": "Copenhagen residents aged 25\u201344",
+      "x": 73.0,
+      "baseline_y": 180.0,
+      "font_size": 52.0,
+      "kind": "body",
+      "width": 729.625,
+      "right": 802.625
+    },
+    {
+      "copy": "COPENHAGEN RESIDENTS BY AGE",
+      "x": 89.24,
+      "baseline_y": 264.0,
+      "font_size": 32.0,
+      "kind": "heading",
+      "width": 406.4,
+      "right": 495.64
+    },
+    {
+      "copy": "Copenhagen municipality \u00b7 1 July 2026 \u00b7 age groups 18+",
+      "x": 89.24,
+      "baseline_y": 301.0,
+      "font_size": 25.0,
+      "kind": "body",
+      "width": 536.65625,
+      "right": 625.89625
+    },
+    {
+      "copy": "Residents",
+      "x": 89.24,
+      "baseline_y": 348.0,
+      "font_size": 27.0,
+      "kind": "body",
+      "width": 104.18625,
+      "right": 193.42624999999998
+    },
+    {
+      "copy": "0",
+      "x": 138.11621,
+      "baseline_y": 659.0,
+      "font_size": 25.0,
+      "kind": "body",
+      "width": 17.34375,
+      "right": 155.45996
+    },
+    {
+      "copy": "100,000",
+      "x": 58.05379,
+      "baseline_y": 567.0,
+      "font_size": 25.0,
+      "kind": "body",
+      "width": 97.40625,
+      "right": 155.46004
+    },
+    {
+      "copy": "200,000",
+      "x": 47.11621,
+      "baseline_y": 475.0,
+      "font_size": 25.0,
+      "kind": "body",
+      "width": 108.34375,
+      "right": 155.45996
+    },
+    {
+      "copy": "300,000",
+      "x": 45.61621,
+      "baseline_y": 383.0,
+      "font_size": 25.0,
+      "kind": "body",
+      "width": 109.84375,
+      "right": 155.45996
+    },
+    {
+      "copy": "72,396",
+      "x": 217.805,
+      "baseline_y": 567.39568,
+      "font_size": 34.0,
+      "kind": "body",
+      "width": 116.11,
+      "right": 333.915
+    },
+    {
+      "copy": "18\u201324",
+      "x": 225.3475,
+      "baseline_y": 691.0,
+      "font_size": 36.0,
+      "kind": "body",
+      "width": 101.02499999999999,
+      "right": 326.3725
+    },
+    {
+      "copy": "269,277",
+      "x": 405.02379,
+      "baseline_y": 386.26516,
+      "font_size": 34.0,
+      "kind": "body",
+      "width": 133.83249999999998,
+      "right": 538.85629
+    },
+    {
+      "copy": "25\u201344",
+      "x": 411.055,
+      "baseline_y": 691.0,
+      "font_size": 36.0,
+      "kind": "body",
+      "width": 121.77,
+      "right": 532.825
+    },
+    {
+      "copy": "40.2%",
+      "x": 416.23,
+      "baseline_y": 489.26516,
+      "font_size": 36.0,
+      "kind": "body",
+      "width": 111.42,
+      "right": 527.65
+    },
+    {
+      "copy": "of city",
+      "x": 439.2125,
+      "baseline_y": 522.26516,
+      "font_size": 26.0,
+      "kind": "body",
+      "width": 65.455,
+      "right": 504.66749999999996
+    },
+    {
+      "copy": "residents",
+      "x": 426.29371,
+      "baseline_y": 550.26516,
+      "font_size": 26.0,
+      "kind": "body",
+      "width": 91.2925,
+      "right": 517.5862099999999
+    },
+    {
+      "copy": "143,668",
+      "x": 601.2525,
+      "baseline_y": 501.82544,
+      "font_size": 34.0,
+      "kind": "body",
+      "width": 133.535,
+      "right": 734.7875
+    },
+    {
+      "copy": "45\u201364",
+      "x": 606.82,
+      "baseline_y": 691.0,
+      "font_size": 36.0,
+      "kind": "body",
+      "width": 122.39999999999999,
+      "right": 729.22
+    },
+    {
+      "copy": "74,728",
+      "x": 805.025,
+      "baseline_y": 565.25024,
+      "font_size": 34.0,
+      "kind": "body",
+      "width": 118.15,
+      "right": 923.175
+    },
+    {
+      "copy": "65+",
+      "x": 828.2125,
+      "baseline_y": 691.0,
+      "font_size": 36.0,
+      "kind": "body",
+      "width": 71.77499999999999,
+      "right": 899.9875
+    },
+    {
+      "copy": "Self-paying",
+      "x": 1280.0,
+      "baseline_y": 341.0,
+      "font_size": 41.0,
+      "kind": "body",
+      "width": 175.89000000000001,
+      "right": 1455.89
+    },
+    {
+      "copy": "Existing taxi users",
+      "x": 1280.0,
+      "baseline_y": 493.0,
+      "font_size": 41.0,
+      "kind": "body",
+      "width": 294.43125000000003,
+      "right": 1574.43125
+    },
+    {
+      "copy": "Recurring local trips",
+      "x": 1280.0,
+      "baseline_y": 649.0,
+      "font_size": 41.0,
+      "kind": "body",
+      "width": 315.085,
+      "right": 1595.085
+    },
+    {
+      "copy": "The 40.2% denominator is all 670,389 city residents, including those aged under 18.",
+      "x": 89.0,
+      "baseline_y": 777.0,
+      "font_size": 28.999999999999996,
+      "kind": "body",
+      "width": 962.9087499999998,
+      "right": 1051.9087499999998
+    }
+  ],
+  "percentage_bounds": [
+    {
+      "copy": "40.2%",
+      "x": 416.23,
+      "baseline_y": 489.26516,
+      "font_size": 36.0,
+      "kind": "body",
+      "width": 111.42,
+      "right": 527.65
+    }
+  ],
+  "icon_islands": "Original generated pictograms reused through native SVG clips; no new raster art.",
+  "percentage_horizontal_bar_bounds": [
+    404.94,
+    538.94
+  ],
+  "percentage_side_clearance": 11.29
+}

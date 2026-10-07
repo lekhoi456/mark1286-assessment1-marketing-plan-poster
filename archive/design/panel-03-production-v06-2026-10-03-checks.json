@@ -1,0 +1,84 @@
+{
+  "status": "passed focused logo-only v06 checks",
+  "date": "2026-10-03",
+  "baseline_acceptance": "D-073",
+  "checks": {
+    "copy-byte-identical-to-accepted-v05": true,
+    "all-31-text-objects-identical": true,
+    "approved-statement-and-all-unchanged-manifest-fields-identical": true,
+    "every-actual-logo-lockup-replaced": true,
+    "shared-logo-embedded-byte-identically": true,
+    "shared-logo-hash-matches": true,
+    "shared-logo-true-alpha-retained": true,
+    "same-logo-allocation-and-aspect-rule": true,
+    "all-nonlogo-svg-content-identical": true,
+    "all-raster-assets-self-contained": true,
+    "changed-pixels-confined-to-logo-bounds": true,
+    "output-alpha-unchanged": true,
+    "canvas-and-preview-sizes-preserved": true,
+    "accepted-v05-svg-and-png-hashes-unchanged": true,
+    "original-art-and-corporate-logo-hashes-preserved": true,
+    "citation-free-display-and-qualifier-inherited": true,
+    "no-new-image-generation": true
+  },
+  "all_checks_pass": true,
+  "actual_logo_count": 1,
+  "text_object_count": 31,
+  "logo_target_bounds_px": [
+    756,
+    467,
+    1043,
+    545
+  ],
+  "changed_pixels_bbox_px": [
+    756,
+    467,
+    1043,
+    544
+  ],
+  "changed_pixel_count": 9722,
+  "png_sha256": "4b4fdbe68b36803c4f34001845e51af6642557c8374c3904e3835f2423946afe",
+  "svg_sha256": "f879771f4932eae3069c8d129328d1318f759e9614047f18fe7cd25eb1be6fa3",
+  "shared_logo": {
+    "asset": "green-sm-hand-drawn-logo-v01-2026-10-03.png",
+    "sha256": "36a99749e3cc9585573fedda5fb1dbcf6a76483872cadc2d0f6651ec95430db9",
+    "mode": "RGBA",
+    "dimensions": [
+      2171,
+      724
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "source_alpha_bbox": [
+      18,
+      72,
+      2143,
+      644
+    ],
+    "raster_bytes_edited": false
+  },
+  "visual_inspection": [
+    "Complete 1800 x 1488 PNG inspected: exact GREEN SM wordmark legible, manual pen/marker appearance visible, no observed logo overlap or clipping",
+    "900 px section preview inspected: wordmark readable and body/composition retained",
+    "Logo proof inspected: accepted v05 on left, shared hand-drawn replacement on right; unchanged allocated footprint"
+  ],
+  "writing_gate": {
+    "rerun": false,
+    "reason": "Display Markdown is byte-identical to accepted v05; this revision changes only a shared logo asset.",
+    "inherited_v05_words": 114,
+    "inherited_v05_exit_code": 2,
+    "inherited_v05_expected_errors": [
+      "Missing whole-poster budget-table marker",
+      "Missing whole-poster KPI-table marker"
+    ],
+    "new_full_poster_pass_claimed": false
+  },
+  "scope": "Only new panel-03 v06 files and its own focused review; accepted v05 and shared logo/source/art bytes unchanged. Other panels not edited.",
+  "unverified": [
+    "User acceptance of the revised complete image",
+    "Full A0 integration",
+    "Physical print legibility"
+  ]
+}

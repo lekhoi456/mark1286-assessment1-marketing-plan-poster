@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-03",
+  "authority": "D-060",
+  "ordinary_face_string_and_glyph_count": 14,
+  "all_ordinary_strings_and_glyphs_unchanged": true,
+  "all_other_vector_layout_flag_green_sm_logo_geometry_unchanged": true,
+  "ordinary_display_copy_fragment_unchanged": true,
+  "controlled_vinfast_wordmark": "VINFAST",
+  "source_wordmark_paths": 14,
+  "all_source_wordmark_path_geometry_unchanged": true,
+  "authorised_wordmark_style": "Flat navy fill and thin rounded pen stroke",
+  "wordmark_transform": "translate(965 735) scale(2.5)",
+  "source_reference_sha256": "9d676729f71ddfcc6322c368ca1d446b1047fff3afc50cf847f22b5c67941f00",
+  "actual_native_edit_used": true,
+  "native_refinement_used": true,
+  "selected_raw_native_bytes_unchanged_and_embedded_exactly": true,
+  "selected_art_sha256": "00069599bfd5c0aafe5a03c8f0602ae91176eb10c497294219672de015874a79",
+  "selected_native_px": [
+    2172,
+    724
+  ],
+  "alpha_range": [
+    0,
+    255
+  ],
+  "raster_repaint_or_alpha_postprocessing": false,
+  "source_records_and_internal_footprint_unchanged": true,
+  "new_image_model_wordmark": false,
+  "full_png_px": [
+    2400,
+    1680
+  ],
+  "car_crop_px": [
+    1340,
+    570
+  ],
+  "manual_inspection": {
+    "final_full_png": "Inspected final actual render: navy drawn V plus readable VINFAST in middle door; one rear yellow bolt, clean former front badge, retained app→car and all ordinary content",
+    "final_car_crop": "Inspected after one clearance refinement: bolt wholly in rear body with cyan gap above wheel; no duplicated bolt; V/wordmark together and clear of door boundaries",
+    "style": "No chrome/pasted 3D badge; V uses sparse navy pen strokes, VINFAST uses original controlled paths with flat pen treatment"
+  },
+  "limits": [
+    "Student imagery acceptance pending",
+    "Physical A0 fit/readability untested",
+    "Middle-door interpretation can be revised if student clarifies"
+  ],
+  "gate": "Minimal visual-revision integrity check only; no broad reference/writing/full-poster gate run."
+}

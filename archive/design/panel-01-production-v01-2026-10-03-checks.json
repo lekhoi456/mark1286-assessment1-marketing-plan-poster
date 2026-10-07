@@ -1,0 +1,254 @@
+{
+  "vector": {
+    "visible_text_objects": 18,
+    "all_manifest_strings_match": true,
+    "flag_count": 8,
+    "flag_order": [
+      "Vietnam",
+      "Laos",
+      "Indonesia",
+      "Philippines",
+      "India",
+      "Kazakhstan",
+      "Denmark",
+      "Netherlands"
+    ],
+    "five_claim_source_links_match": true,
+    "authentic_logo_original_children_match_ignoring_xml_whitespace": true,
+    "excluded_unapproved_scope_absent_from_display": true
+  },
+  "generated": {
+    "visible_text_objects": 18,
+    "all_manifest_strings_match": true,
+    "flag_count": 8,
+    "flag_order": [
+      "Vietnam",
+      "Laos",
+      "Indonesia",
+      "Philippines",
+      "India",
+      "Kazakhstan",
+      "Denmark",
+      "Netherlands"
+    ],
+    "five_claim_source_links_match": true,
+    "authentic_logo_original_children_match_ignoring_xml_whitespace": true,
+    "excluded_unapproved_scope_absent_from_display": true
+  },
+  "local_source_freshness": {
+    "source_count": 6,
+    "current_hashes_match_existing_verified_records": true,
+    "source_or_registry_mutations": false
+  },
+  "exports": {
+    "both_complete_previews_px": [
+      2400,
+      1680
+    ],
+    "svg_canvas_units": [
+      1600,
+      1120
+    ],
+    "generated_alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "manual_inspection": {
+    "vector_png": "Inspected via view_image: no observed clipping or overlap; complete wording, dates, pilot context and sources visible",
+    "logo_png": "Inspected against rendered local PDF: mark and wordmark retained",
+    "generated_asset": "Tool output visually inspected: correct phone/arrow/cyan MPV; no lettering, digits, flags, company/manufacturer badges or watermark observed",
+    "generated_complete_png": "Inspected via view_image after SVG composite: no observed clipping or overlap; all selected content/source context retained",
+    "actual_a0_proof": "Not run",
+    "live_app_booking": "Not tested",
+    "hand_redrawing": "Not observed"
+  },
+  "fragment_presentcheck": {
+    "version": "1.0.0",
+    "genre": {
+      "mode": "poster",
+      "budget": {},
+      "kpi_rows": 0,
+      "sections": [
+        {
+          "heading": "Company/Business Introduction",
+          "words": 58,
+          "budget": 110
+        }
+      ],
+      "total_words": 58,
+      "speakers": {},
+      "errors": [
+        "Expected exactly one <!-- budget-table --> marker; found 0",
+        "Expected exactly one <!-- kpi-table --> marker; found 0"
+      ]
+    },
+    "base": {
+      "version": "2.0.0",
+      "total_words": 60,
+      "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+      "limit": {},
+      "sections": [
+        {
+          "name": "Company/Business Introduction",
+          "words": 60,
+          "budget": null,
+          "is_refs": false,
+          "first_person": 0
+        },
+        {
+          "name": "References",
+          "words": 0,
+          "budget": null,
+          "is_refs": true,
+          "first_person": 0
+        }
+      ],
+      "references": {
+        "citations": 5,
+        "entries": 5,
+        "hard": [],
+        "review": [],
+        "keys": [
+          "green-sm-2026a",
+          "green-sm-2026d",
+          "green-sm-denmark-aps-ndb",
+          "konkurrence-og-forbrugerstyrelsen-2026b",
+          "vietnamplus-2023a"
+        ]
+      },
+      "figures": {
+        "figures": 0,
+        "tables": 0,
+        "caption_words": 0,
+        "hard": [],
+        "review": []
+      },
+      "template_echo": {},
+      "anti_slop": {
+        "status": "ran",
+        "context": "general",
+        "source_mode": "rendered-markdown",
+        "score": 3,
+        "label": "Minimal AI signals",
+        "hard": [],
+        "review": [
+          {
+            "type": "formatting",
+            "text": "5 bold phrases",
+            "severity": "medium",
+            "suggestion": "Strip bold from most; restructure to lead with key info",
+            "why": "review (stylometric, wordiness or house-overridden)"
+          }
+        ],
+        "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+      },
+      "module_scope": {
+        "named": {},
+        "outside": []
+      },
+      "hard_stops": 1,
+      "hard_by_category": {
+        "integrity": 0,
+        "grammar": 1,
+        "style": 0,
+        "referencing": 0,
+        "figures": 0,
+        "anti_slop": 0,
+        "word_limit": 0,
+        "module_scope": 0
+      },
+      "findings": {
+        "ai_fingerprints": [],
+        "placeholders": [],
+        "numeric_markers": [],
+        "bypass_chars": [],
+        "speculation": [],
+        "vague_attribution": [],
+        "dashes": [],
+        "semicolons": [],
+        "banned": [],
+        "reflective_cliches": [],
+        "banned_soft": [],
+        "banned_in_quotation": [],
+        "banned_allowed": [],
+        "us_spelling": [],
+        "hedges": [],
+        "hedge_stacks": [],
+        "universals": [],
+        "mechanical_transitions": [],
+        "stance_openers": [],
+        "cleft_openers": [],
+        "double_connectives": [],
+        "duplicated_phrases": [],
+        "verbless_sentences": [],
+        "label_colons": [
+          "Green SM Car: app-booked electric taxi rides in Copenhagen\n\n(Green SM Denmark ApS, no date b) <!-- E-015 E-188"
+        ],
+        "comma_splices": [],
+        "sentence_count": 2,
+        "sentence_mean": 35.0,
+        "sentence_min": 31,
+        "sentence_max": 39,
+        "short_sentences": 0,
+        "long_sentences": 2,
+        "uniform_sentence_runs": [],
+        "paragraph_count": 7,
+        "paragraph_lengths": [
+          15,
+          4,
+          14,
+          9,
+          11,
+          5,
+          6
+        ],
+        "uniform_paragraphs": [],
+        "repeated_openings": [],
+        "colons_total": 2,
+        "colons_per_100w": 2.86,
+        "colons_per_paragraph": [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "colon_heavy_paragraphs": [],
+        "colon_quota_rhythm": false,
+        "colon_absent": false
+      }
+    },
+    "effective_base_hard_by_category": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "genre_review": [
+      {
+        "type": "label_colon",
+        "text": "Green SM Car: app-booked electric taxi rides in Copenhagen\n\n(Green SM Denmark ApS, no date b) <!-- E-015 E-188",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      }
+    ],
+    "hard_stops": 2,
+    "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually.",
+    "process_exit": 2
+  },
+  "manual_wording_review": {
+    "mode": "detect, no rewrite",
+    "result": "No substantive brochure language, unsupported superlatives, vague attribution, inflated significance or repeated rhetorical pattern found in the selected fragment. The Green SM Car colon introduces the exact selected service label and is legitimate poster syntax.",
+    "read_aloud": "Selected short display fragment reviewed aloud; no spoken pitch or timing check claimed",
+    "editing_passes": 0,
+    "detector": "Ran via presentcheck",
+    "reference_review": "Company-source claims retain date/pilot scope and authority paragraph locator",
+    "limits": "Surface review does not prove authorship, company performance, final A0 legibility or a mark"
+  }
+}

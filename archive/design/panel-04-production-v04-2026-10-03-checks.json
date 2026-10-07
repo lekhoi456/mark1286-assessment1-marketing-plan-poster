@@ -1,0 +1,258 @@
+{
+  "authority": "D-074",
+  "checks": {
+    "all 17 selected master strings exact": true,
+    "only two approved exact tagline repeats added": true,
+    "all text ink bounds inside frame": true,
+    "no text ink box overlaps": true,
+    "four equal-status cue tile areas": true,
+    "four separate selected percentages": true,
+    "Capital Region n79 multiple-response qualifier exact": true,
+    "proposed test qualifier and appeal exact": true,
+    "official logo bytes retained": true,
+    "native corrected alpha retained": true,
+    "native corrected bytes match returned file": true,
+    "internal four evidence mappings present": true,
+    "E024 E187 registered key and locators retained": true,
+    "no visible citation footer": true,
+    "historical v03 PNG unchanged": true,
+    "detector ran with no inherited hard findings": true,
+    "only expected standalone table errors": true
+  },
+  "all_pass": true,
+  "text_bounds": [
+    {
+      "object": 0,
+      "text": "4. Brand & Promise",
+      "bbox": [
+        77.73,
+        63.7,
+        634.55,
+        131.7
+      ]
+    },
+    {
+      "object": 1,
+      "text": "GLOBAL IDENTITY",
+      "bbox": [
+        90.86,
+        201.48,
+        382.32,
+        238.87
+      ]
+    },
+    {
+      "object": 2,
+      "text": "APP-CHOICE CUES",
+      "bbox": [
+        626.16,
+        201.09,
+        910.61,
+        239.06
+      ]
+    },
+    {
+      "object": 3,
+      "text": "Teal / cyan \u00b7 Yellow-gold",
+      "bbox": [
+        90.59,
+        499.68,
+        411.64,
+        539.33
+      ]
+    },
+    {
+      "object": 4,
+      "text": "One brand across markets.",
+      "bbox": [
+        91.14,
+        569.13,
+        484.25,
+        604.8
+      ]
+    },
+    {
+      "object": 5,
+      "text": "57% \u00b7 Lower price",
+      "bbox": [
+        743.88,
+        305.68,
+        993.69,
+        347.9
+      ]
+    },
+    {
+      "object": 6,
+      "text": "22% \u00b7 App used from habit",
+      "bbox": [
+        1288.88,
+        305.86,
+        1652.79,
+        347.9
+      ]
+    },
+    {
+      "object": 7,
+      "text": "18% \u00b7 Easier app to use",
+      "bbox": [
+        744.75,
+        461.86,
+        1057.17,
+        503.9
+      ]
+    },
+    {
+      "object": 8,
+      "text": "11% \u00b7 Reassurance from trip",
+      "bbox": [
+        1289.75,
+        461.77,
+        1656.11,
+        503.9
+      ]
+    },
+    {
+      "object": 8,
+      "text": "visibility",
+      "bbox": [
+        1289.09,
+        509.81,
+        1391.12,
+        550.63
+      ]
+    },
+    {
+      "object": 9,
+      "text": "Capital Region app-choice sample \u00b7 n = 79 \u00b7 multiple responses",
+      "bbox": [
+        625.77,
+        600.11,
+        1355.4,
+        637.54
+      ]
+    },
+    {
+      "object": 10,
+      "text": "CAMPAIGN RESPONSE",
+      "bbox": [
+        90.84,
+        688.93,
+        452.92,
+        726.06
+      ]
+    },
+    {
+      "object": 11,
+      "text": "Keep the identity. Make the local promise easy to judge.",
+      "bbox": [
+        625.83,
+        690.0,
+        1403.99,
+        735.09
+      ]
+    },
+    {
+      "object": 12,
+      "text": "PROPOSED PROMISE \u00b7 TEST WITH TARGET RIDERS",
+      "bbox": [
+        91.22,
+        791.58,
+        742.53,
+        822.01
+      ]
+    },
+    {
+      "object": 13,
+      "text": "Clear terms. Local care.",
+      "bbox": [
+        584.64,
+        871.07,
+        1214.75,
+        934.36
+      ]
+    },
+    {
+      "object": 14,
+      "text": "Trip control and fair treatment: appeal to test.",
+      "bbox": [
+        575.88,
+        957.09,
+        1223.84,
+        1001.58
+      ]
+    },
+    {
+      "object": 15,
+      "text": "Danish first \u00b7 English second",
+      "bbox": [
+        91.2,
+        1079.16,
+        435.8,
+        1116.44
+      ]
+    },
+    {
+      "object": 16,
+      "text": "Clear terms.",
+      "bbox": [
+        621.34,
+        1059.16,
+        697.36,
+        1073.78
+      ]
+    },
+    {
+      "object": 16,
+      "text": "Local care.",
+      "bbox": [
+        621.36,
+        1081.04,
+        686.99,
+        1095.73
+      ]
+    },
+    {
+      "object": 17,
+      "text": "Clear terms.",
+      "bbox": [
+        1119.32,
+        1064.98,
+        1190.87,
+        1078.74
+      ]
+    },
+    {
+      "object": 17,
+      "text": "Local care.",
+      "bbox": [
+        1119.34,
+        1091.86,
+        1181.11,
+        1105.69
+      ]
+    },
+    {
+      "object": 18,
+      "text": "One promise in the ad \u2192 Green SM app",
+      "bbox": [
+        645.47,
+        1187.45,
+        1154.49,
+        1227.22
+      ]
+    }
+  ],
+  "text_collisions": [],
+  "native_art_alpha_range": [
+    0,
+    254
+  ],
+  "fully_transparent_native_pixels": 1221180,
+  "final_png_sha256": "d51fe2c06dd9a026be96644ea9b4c7e9871f3d5a874640140e9cd32c9ff0d5e5",
+  "writing_words": 92,
+  "writing_exit_code": 2,
+  "whole_poster_gate_pass": false,
+  "actual_A0_tested": false,
+  "user_image_approval_inferred": false,
+  "visual_inspection": "Complete PNG and 900px preview inspected; flag/brand line and lower caption/frame separated."
+}

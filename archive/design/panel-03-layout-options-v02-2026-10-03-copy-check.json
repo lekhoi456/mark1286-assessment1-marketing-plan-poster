@@ -1,0 +1,179 @@
+{
+  "version": "1.0.0",
+  "genre": {
+    "mode": "poster",
+    "budget": {},
+    "kpi_rows": 0,
+    "sections": [
+      {
+        "heading": "Positioning Strategy",
+        "words": 107,
+        "budget": 180
+      }
+    ],
+    "total_words": 107,
+    "speakers": {},
+    "errors": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ]
+  },
+  "base": {
+    "version": "2.0.0",
+    "total_words": 113,
+    "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+    "limit": {},
+    "sections": [
+      {
+        "name": "Panel 3 proposed refinement",
+        "words": 4,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "Positioning Strategy",
+        "words": 109,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "References",
+        "words": 0,
+        "budget": null,
+        "is_refs": true,
+        "first_person": 0
+      }
+    ],
+    "references": {
+      "citations": 1,
+      "entries": 1,
+      "hard": [],
+      "review": [],
+      "keys": [
+        "konkurrence-og-forbrugerstyrelsen-2026b"
+      ]
+    },
+    "figures": {
+      "figures": 0,
+      "tables": 0,
+      "caption_words": 0,
+      "hard": [],
+      "review": []
+    },
+    "template_echo": {},
+    "anti_slop": {
+      "status": "ran",
+      "context": "general",
+      "source_mode": "rendered-markdown",
+      "score": 3,
+      "label": "Minimal AI signals",
+      "hard": [],
+      "review": [
+        {
+          "type": "formatting",
+          "text": "9 bold phrases",
+          "severity": "medium",
+          "suggestion": "Strip bold from most; restructure to lead with key info",
+          "why": "review (stylometric, wordiness or house-overridden)"
+        }
+      ],
+      "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+    },
+    "module_scope": {
+      "named": {
+        "Positioning Strategy": 1
+      },
+      "outside": []
+    },
+    "hard_stops": 0,
+    "hard_by_category": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "findings": {
+      "ai_fingerprints": [],
+      "placeholders": [],
+      "numeric_markers": [],
+      "bypass_chars": [],
+      "speculation": [],
+      "vague_attribution": [],
+      "dashes": [],
+      "semicolons": [],
+      "banned": [],
+      "reflective_cliches": [],
+      "banned_soft": [],
+      "banned_in_quotation": [],
+      "banned_allowed": [],
+      "us_spelling": [],
+      "hedges": [],
+      "hedge_stacks": [],
+      "universals": [],
+      "mechanical_transitions": [],
+      "stance_openers": [],
+      "cleft_openers": [],
+      "double_connectives": [],
+      "duplicated_phrases": [],
+      "verbless_sentences": [
+        "Why Green SM?"
+      ],
+      "label_colons": [],
+      "comma_splices": [],
+      "sentence_count": 4,
+      "sentence_mean": 28.5,
+      "sentence_min": 3,
+      "sentence_max": 67,
+      "short_sentences": 2,
+      "long_sentences": 2,
+      "uniform_sentence_runs": [],
+      "paragraph_count": 8,
+      "paragraph_lengths": [
+        37,
+        8,
+        8,
+        5,
+        5,
+        4,
+        11,
+        17
+      ],
+      "uniform_paragraphs": [],
+      "repeated_openings": [],
+      "colons_total": 0,
+      "colons_per_100w": 0.0,
+      "colons_per_paragraph": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "colon_heavy_paragraphs": [],
+      "colon_quota_rhythm": false,
+      "colon_absent": false
+    }
+  },
+  "effective_base_hard_by_category": {
+    "integrity": 0,
+    "grammar": 0,
+    "style": 0,
+    "referencing": 0,
+    "figures": 0,
+    "anti_slop": 0,
+    "word_limit": 0,
+    "module_scope": 0
+  },
+  "genre_review": [],
+  "hard_stops": 2,
+  "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+}

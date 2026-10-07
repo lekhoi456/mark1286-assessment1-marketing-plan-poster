@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen__imagegen",
+  "generated_date": "2026-10-04",
+  "original_path": "/Users/KHOILQ/.codex/generated_images/01a10027-ee09-7f53-8a59-14552f63a1f2/exec-ab9fab4d-30af-486f-96da-db3618a85cd1.png",
+  "preserved_file": "09-candidate-v01-2026-10-04-art.png",
+  "sha256": "af145a164b5bdde2eb227b19f7b8d08ee6e12fdf255baa2bda122ce70a6df882",
+  "dimensions": [
+    1379,
+    1141
+  ],
+  "png_colour_type": 6,
+  "alpha_preserved": true,
+  "raster_pixel_edits": false,
+  "reference_image": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/archive/design/panel-03-production-v05-2026-10-03.png",
+  "reference_sha256": "1a4f71d0fa7ab7541c828eb0348c9dafafebab86fc268c551f82291afcbe44d1",
+  "reference_role": "drawing language only, inspected before use",
+  "display_text_source": "09-copy-v01-2026-10-04.md",
+  "lettering_source": "Explicit MarkerFelt/Noteworthy local font glyph outlines; native-text companion",
+  "art_prompt": "09-candidate-v01-2026-10-04-art-prompt.md"
+}

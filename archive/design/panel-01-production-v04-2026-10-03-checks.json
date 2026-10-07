@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-03",
+  "authority": [
+    "D-055",
+    "D-056",
+    "D-057"
+  ],
+  "visible_glyph_object_count": 14,
+  "exact_rendered_strings_match_manifest": true,
+  "unchanged_retained_strings": 12,
+  "heading": "1. Meet",
+  "heading_font_scale_vs_v03": 0.85,
+  "logo_width_height_scale_vs_v03": 0.85,
+  "date_font_scale_vs_v03": 0.85,
+  "flag_count": 8,
+  "flag_order": [
+    "Vietnam",
+    "Laos",
+    "Indonesia",
+    "Philippines",
+    "India",
+    "Kazakhstan",
+    "Denmark",
+    "Netherlands"
+  ],
+  "flag_vectors_unchanged": true,
+  "denmark_flag_enlargement_retained": true,
+  "denmark_frame": "Closed four-sided yellow marker path; former two highlight strokes absent",
+  "home_icon": "Controlled pen/marker house immediately before Vietnam; separate from the eight flags",
+  "raised_pilot": {
+    "text": "pilot",
+    "font_size": 20,
+    "baseline_y": 340,
+    "country_baseline_y": 363,
+    "caret_printed": false
+  },
+  "dates": {
+    "Vietnam": "14/04/2023",
+    "Denmark": "30/07/2026"
+  },
+  "whole_display_context_line_removed": true,
+  "internal_footprint_metadata": {
+    "count": 8,
+    "as_at": "26 September 2026",
+    "netherlands_status": "pilot",
+    "evidence_id": "E-009",
+    "source_key": "green-sm-2026a",
+    "pdf_page": 1,
+    "scope": "Dated source context remains internal; removing its face line does not refresh the evidence"
+  },
+  "visible_citation_footers": 0,
+  "visible_svg_text_elements": 0,
+  "visible_svg_source_link_objects": 0,
+  "vinfast_vingroup_display_additions": false,
+  "exact_service_model_unchanged": true,
+  "authentic_logo_drawing_subtrees_unchanged": true,
+  "authentic_logo_asset_bytes_unchanged": true,
+  "generated_art_bytes_unchanged": true,
+  "embedded_art_bytes_match_saved_asset": true,
+  "generated_art_sha256": "1e4c74e55d7526be5651c3ce0a8db0bacd002bc68793cec7ec42a89879ed01c9",
+  "new_image_generation": false,
+  "current_source_hashes": [
+    {
+      "key": "vietnamplus-2023a",
+      "sha256": "9a5b0ced0e5907798abea9cc0bea3e0f96f4f592d4ef2e0bb1e200b19c3dd998",
+      "matches_preserved_record": true
+    },
+    {
+      "key": "green-sm-2026a",
+      "sha256": "94c700b0f552ad67830c06255a5300a787f0801a577a58cb41ac39297375265d",
+      "matches_preserved_record": true
+    },
+    {
+      "key": "green-sm-2026d",
+      "sha256": "3913ee2f316d3ea75f561723c2f7f8d3f99b6a257b524071efc340f32a499a0e",
+      "matches_preserved_record": true
+    },
+    {
+      "key": "green-sm-denmark-aps-ndb",
+      "sha256": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b",
+      "matches_preserved_record": true
+    },
+    {
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "sha256": "309669803ffbe59f7d14609b297dc0945df9dc3f457664645e240645dece3ffb",
+      "matches_preserved_record": true
+    },
+    {
+      "key": "green-sm-denmark-aps-ndc",
+      "sha256": "d836ff7cf0fbd96b5935514d79d7978e93b6db8b0c56fce0d7e694ab2c346187",
+      "matches_preserved_record": true
+    }
+  ],
+  "handwriting_font_hashes": {
+    "heading": {
+      "file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "index": 0,
+      "sha256": "f6d3bd86dc094b705768129ca621055192764145270138f5a67be4b546f14fb3",
+      "current_hash_matches": true
+    },
+    "body": {
+      "file": "/System/Library/Fonts/Noteworthy.ttc",
+      "index": 0,
+      "sha256": "7785163d9b841cc586d1e696fb4c16a657e16049b092e488a51003e74be8ec21",
+      "current_hash_matches": true
+    },
+    "strong": {
+      "file": "/System/Library/Fonts/Noteworthy.ttc",
+      "index": 1,
+      "sha256": "7785163d9b841cc586d1e696fb4c16a657e16049b092e488a51003e74be8ec21",
+      "current_hash_matches": true
+    }
+  },
+  "font_family_fallback_possible": false,
+  "main_preview_px": [
+    2400,
+    1680
+  ],
+  "small_proof_px": [
+    960,
+    672
+  ],
+  "horizontal_metric_margins": "Recorded lettering bounds remain within x=35–1565",
+  "manual_inspection": {
+    "main_png": "Full render inspected: reduced numbered heading and dates, Vietnam home icon, four-sided yellow frame, raised pilot and deleted footprint line visible as required; no observed clipping or overlap",
+    "small_proof": "960×672 inspected: all selected content remains readable on screen; house/pilot stay small and recognisable"
+  },
+  "writing_gate": "Focused approved display revision only; no complete-poster writing/reference gate pass claimed, no protected checker changed.",
+  "limits": [
+    "Student revised-image acceptance pending",
+    "Actual A0 integration and print legibility untested",
+    "Corporate label additions remain unselected",
+    "Separate reference-list package not waived"
+  ]
+}

@@ -1,0 +1,1 @@
+../poster/04-candidate-v02-2026-10-04-prompt.md

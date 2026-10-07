@@ -1,0 +1,1460 @@
+{
+  "panel": 7,
+  "status": "Complete visual candidate; parent acceptance pending",
+  "authority": "Delegated by parent on 4 October 2026; no group approval claimed",
+  "dimensions": [
+    1800,
+    1640
+  ],
+  "copy_source": "07-copy-v01-2026-10-04.md",
+  "visible_text": [
+    {
+      "id": "text-00",
+      "text": "7. Budget & Resources",
+      "role": "display",
+      "font_size": 76,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "7. Budget & Resources",
+          "bbox": [
+            82.424,
+            63.367,
+            727.596,
+            140.05
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-01",
+      "text": "PROPOSED MARKET-ENTRY ENVELOPE \u00b7 12 MONTHS \u00b7 EXCL. VAT",
+      "role": "display",
+      "font_size": 31,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "PROPOSED MARKET-ENTRY ENVELOPE \u00b7 12 MONTHS \u00b7 EXCL. VAT",
+          "bbox": [
+            89.116,
+            168.115,
+            871.804,
+            195.519
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-02",
+      "text": "TOTAL PROPOSED ALLOCATION",
+      "role": "display",
+      "font_size": 26,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "TOTAL PROPOSED ALLOCATION",
+          "bbox": [
+            118.26,
+            242.29,
+            426.284,
+            265.066
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-03",
+      "text": "DKK600,000",
+      "role": "display",
+      "font_size": 74,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK600,000",
+          "bbox": [
+            119.034,
+            277.098,
+            488.96,
+            347.697
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-04",
+      "text": "PEOPLE \u00b7 460 PROFESSIONAL HOURS",
+      "role": "display",
+      "font_size": 31,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "PEOPLE \u00b7 460 PROFESSIONAL HOURS",
+          "bbox": [
+            111.116,
+            406.115,
+            554.137,
+            433.488
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-05",
+      "text": "Assumed DKK600 per hour \u00b7 company delivery roles",
+      "role": "display",
+      "font_size": 22,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Assumed DKK600 per hour \u00b7 company delivery roles",
+          "bbox": [
+            112.275,
+            452.86,
+            555.602,
+            479.48
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-06",
+      "text": "ROLE",
+      "role": "column-label",
+      "font_size": 19,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "ROLE",
+          "bbox": [
+            112.475,
+            490.382,
+            149.069,
+            506.646
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-07",
+      "text": "AMOUNT",
+      "role": "column-label",
+      "font_size": 19,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "AMOUNT",
+          "bbox": [
+            610.513,
+            490.306,
+            680.414,
+            506.931
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-08",
+      "text": "SHARE",
+      "role": "column-label",
+      "font_size": 19,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "SHARE",
+          "bbox": [
+            778.171,
+            490.192,
+            828.331,
+            506.912
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-09",
+      "text": "Research / analytics \u00b7 60h",
+      "role": "display",
+      "font_size": 21,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Research / analytics \u00b7 60h",
+          "bbox": [
+            112.263,
+            530.861,
+            329.77,
+            555.379
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-10",
+      "text": "DKK36,000",
+      "role": "display",
+      "font_size": 22,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK36,000",
+          "bbox": [
+            610.902,
+            530.894,
+            708.78,
+            551.883
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-11",
+      "text": "6.00%",
+      "role": "display",
+      "font_size": 20,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "6.00%",
+          "bbox": [
+            778.75,
+            531.9,
+            837.975,
+            549.725
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-12",
+      "text": "Creative / localisation \u00b7 120h",
+      "role": "display",
+      "font_size": 21,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Creative / localisation \u00b7 120h",
+          "bbox": [
+            112.525,
+            581.783,
+            339.535,
+            601.129
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-13",
+      "text": "DKK72,000",
+      "role": "display",
+      "font_size": 22,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK72,000",
+          "bbox": [
+            610.902,
+            581.869,
+            711.442,
+            602.883
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-14",
+      "text": "12.00%",
+      "role": "display",
+      "font_size": 20,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "12.00%",
+          "bbox": [
+            779,
+            583.1,
+            841.925,
+            600.575
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-15",
+      "text": "Campaign management \u00b7 160h",
+      "role": "display",
+      "font_size": 21,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Campaign management \u00b7 160h",
+          "bbox": [
+            112.525,
+            632.783,
+            350.376,
+            658.14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-16",
+      "text": "DKK96,000",
+      "role": "display",
+      "font_size": 22,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK96,000",
+          "bbox": [
+            610.902,
+            632.894,
+            708.78,
+            653.883
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-17",
+      "text": "16.00%",
+      "role": "display",
+      "font_size": 20,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "16.00%",
+          "bbox": [
+            779,
+            633.9,
+            842.275,
+            651.725
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-18",
+      "text": "CRM / support coordination \u00b7 120h",
+      "role": "display",
+      "font_size": 21,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "CRM / support coordination \u00b7 120h",
+          "bbox": [
+            112.525,
+            683.783,
+            394.712,
+            709.14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-19",
+      "text": "DKK72,000",
+      "role": "display",
+      "font_size": 22,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK72,000",
+          "bbox": [
+            610.902,
+            683.869,
+            711.442,
+            704.883
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-20",
+      "text": "12.00%",
+      "role": "display",
+      "font_size": 20,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "12.00%",
+          "bbox": [
+            779,
+            685.1,
+            841.925,
+            702.575
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-21",
+      "text": "Hours by role: 60 \u00b7 120 \u00b7 160 \u00b7 120",
+      "role": "display",
+      "font_size": 21,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "Hours by role: 60 \u00b7 120 \u00b7 160 \u00b7 120",
+          "bbox": [
+            112.569,
+            747.528,
+            403.459,
+            768.948
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-22",
+      "text": "Outside budget: cars \u00b7 drivers \u00b7 charging \u00b7 frontline support",
+      "role": "display",
+      "font_size": 18,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Outside budget: cars \u00b7 drivers \u00b7 charging \u00b7 frontline support",
+          "bbox": [
+            112.54,
+            779.475,
+            502.06,
+            801.12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-23",
+      "text": "CHANNELS, TOOLS & RESERVES",
+      "role": "display",
+      "font_size": 31,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "CHANNELS, TOOLS & RESERVES",
+          "bbox": [
+            960.619,
+            406.208,
+            1340.06,
+            436.062
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-24",
+      "text": "Screens: planned 200,000 impressions \u00f7 1,000 \u00d7 DKK191 CPM = DKK38,200",
+      "role": "display",
+      "font_size": 17,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Screens: planned 200,000 impressions \u00f7 1,000 \u00d7 DKK191 CPM = DKK38,200",
+          "bbox": [
+            962.425,
+            448.21,
+            1507.806,
+            468.78
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-25",
+      "text": "Published 2026 rate card \u00b7 DKK4,995 setup \u00b7 not a supplier quote",
+      "role": "display",
+      "font_size": 17,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Published 2026 rate card \u00b7 DKK4,995 setup \u00b7 not a supplier quote",
+          "bbox": [
+            962.638,
+            471.21,
+            1399.814,
+            491.78
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-26",
+      "text": "LINE",
+      "role": "column-label",
+      "font_size": 19,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "LINE",
+          "bbox": [
+            962.399,
+            500.306,
+            994.395,
+            516.646
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-27",
+      "text": "AMOUNT",
+      "role": "column-label",
+      "font_size": 19,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "AMOUNT",
+          "bbox": [
+            1433.513,
+            500.306,
+            1503.414,
+            516.931
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-28",
+      "text": "SHARE",
+      "role": "column-label",
+      "font_size": 19,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "SHARE",
+          "bbox": [
+            1602.171,
+            500.192,
+            1652.331,
+            516.912
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-29",
+      "text": "Paid search \u00b7 proposed envelope",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Paid search \u00b7 proposed envelope",
+          "bbox": [
+            962.712,
+            530.589,
+            1189.098,
+            553.46
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-30",
+      "text": "DKK108,000",
+      "role": "display",
+      "font_size": 20,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK108,000",
+          "bbox": [
+            1433.82,
+            530.54,
+            1531.58,
+            549.621
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-31",
+      "text": "18.00%",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "18.00%",
+          "bbox": [
+            1602.95,
+            530.898,
+            1662.966,
+            547.404
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-32",
+      "text": "Paid social \u00b7 proposed envelope",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Paid social \u00b7 proposed envelope",
+          "bbox": [
+            962.712,
+            566.589,
+            1182.257,
+            589.46
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-33",
+      "text": "DKK90,000",
+      "role": "display",
+      "font_size": 20,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK90,000",
+          "bbox": [
+            1433.82,
+            566.54,
+            1522.88,
+            585.621
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-34",
+      "text": "15.00%",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "15.00%",
+          "bbox": [
+            1602.95,
+            566.945,
+            1663.132,
+            583.475
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-35",
+      "text": "Street screens \u00b7 published rate card",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Street screens \u00b7 published rate card",
+          "bbox": [
+            962.475,
+            602.612,
+            1213.441,
+            625.46
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-36",
+      "text": "DKK38,200",
+      "role": "display",
+      "font_size": 20,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK38,200",
+          "bbox": [
+            1433.82,
+            602.54,
+            1524.36,
+            621.621
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-37",
+      "text": "6.37%",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "6.37%",
+          "bbox": [
+            1602.713,
+            602.541,
+            1657.195,
+            619.926
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-38",
+      "text": "Screen setup \u00b7 published rate card",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Screen setup \u00b7 published rate card",
+          "bbox": [
+            962.475,
+            638.612,
+            1200.759,
+            661.46
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-39",
+      "text": "DKK4,995",
+      "role": "display",
+      "font_size": 20,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK4,995",
+          "bbox": [
+            1433.82,
+            638.48,
+            1510.28,
+            657.621
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-40",
+      "text": "0.83%",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "0.83%",
+          "bbox": [
+            1602.475,
+            638.541,
+            1659.237,
+            655.404
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-41",
+      "text": "Tools \u00b7 DKK2,500 monthly",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Tools \u00b7 DKK2,500 monthly",
+          "bbox": [
+            962.332,
+            674.47,
+            1161.194,
+            696.771
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-42",
+      "text": "DKK30,000",
+      "role": "display",
+      "font_size": 20,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK30,000",
+          "bbox": [
+            1433.82,
+            674.54,
+            1522.88,
+            693.621
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-43",
+      "text": "5.00%",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "5.00%",
+          "bbox": [
+            1602.475,
+            674.969,
+            1659.047,
+            691.475
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-44",
+      "text": "Vouchers \u00b7 400 \u00d7 DKK30 cap",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Vouchers \u00b7 400 \u00d7 DKK30 cap",
+          "bbox": [
+            962.475,
+            710.138,
+            1195.938,
+            733.46
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-45",
+      "text": "DKK12,000",
+      "role": "display",
+      "font_size": 20,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK12,000",
+          "bbox": [
+            1433.82,
+            710.54,
+            1522.54,
+            729.621
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-46",
+      "text": "2.00%",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "2.00%",
+          "bbox": [
+            1602.475,
+            710.969,
+            1658.644,
+            727.546
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-47",
+      "text": "Contingency \u00b7 residual, uncommitted",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Contingency \u00b7 residual, uncommitted",
+          "bbox": [
+            962.475,
+            746.518,
+            1215.531,
+            768.771
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-48",
+      "text": "DKK40,805",
+      "role": "display",
+      "font_size": 20,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK40,805",
+          "bbox": [
+            1433.82,
+            746.48,
+            1522.12,
+            765.621
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-49",
+      "text": "6.80%",
+      "role": "display",
+      "font_size": 19,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "6.80%",
+          "bbox": [
+            1602.713,
+            746.755,
+            1658.43,
+            763.689
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-50",
+      "text": "STAGED RELEASE \u00b7 CASH BY PERIOD",
+      "role": "display",
+      "font_size": 34,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "STAGED RELEASE \u00b7 CASH BY PERIOD",
+          "bbox": [
+            88.306,
+            855.61,
+            558.264,
+            885.632
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-51",
+      "text": "Five proposed stages \u00b7 contingency remains separate",
+      "role": "display",
+      "font_size": 22,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Five proposed stages \u00b7 contingency remains separate",
+          "bbox": [
+            90.33,
+            899.08,
+            521.777,
+            925.48
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-52",
+      "text": "M1\u20132",
+      "role": "display",
+      "font_size": 25,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "M1\u20132",
+          "bbox": [
+            107.2,
+            960.575,
+            167,
+            982.225
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-53",
+      "text": "DKK101,000",
+      "role": "display",
+      "font_size": 28,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK101,000",
+          "bbox": [
+            107.148,
+            997.956,
+            244.152,
+            1024.669
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-54",
+      "text": "M3\u20134",
+      "role": "display",
+      "font_size": 25,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "M3\u20134",
+          "bbox": [
+            437.2,
+            960.35,
+            499.554,
+            982.225
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-55",
+      "text": "DKK76,000",
+      "role": "display",
+      "font_size": 28,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK76,000",
+          "bbox": [
+            437.148,
+            997.925,
+            562.588,
+            1024.669
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-56",
+      "text": "M5\u20136",
+      "role": "display",
+      "font_size": 25,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "M5\u20136",
+          "bbox": [
+            767.2,
+            960.55,
+            828.675,
+            982.327
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-57",
+      "text": "DKK88,000",
+      "role": "display",
+      "font_size": 28,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK88,000",
+          "bbox": [
+            767.148,
+            997.956,
+            890.936,
+            1024.669
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-58",
+      "text": "M7\u20139",
+      "role": "display",
+      "font_size": 25,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "M7\u20139",
+          "bbox": [
+            1097.2,
+            960.397,
+            1158.45,
+            982.225
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-59",
+      "text": "DKK183,695",
+      "role": "display",
+      "font_size": 28,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK183,695",
+          "bbox": [
+            1097.148,
+            997.956,
+            1233.2,
+            1024.669
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-60",
+      "text": "M10\u201312",
+      "role": "display",
+      "font_size": 25,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "M10\u201312",
+          "bbox": [
+            1427.2,
+            960.575,
+            1515.5,
+            982.225
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-61",
+      "text": "DKK110,500",
+      "role": "display",
+      "font_size": 28,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "DKK110,500",
+          "bbox": [
+            1427.148,
+            997.956,
+            1566.616,
+            1024.669
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-62",
+      "text": "Stage cash DKK559,195 + separate uncommitted contingency DKK40,805 = DKK600,000",
+      "role": "display",
+      "font_size": 24,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "Stage cash DKK559,195 + separate uncommitted contingency DKK40,805 = DKK600,000",
+          "bbox": [
+            92.216,
+            1070.056,
+            940.256,
+            1095.232
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-63",
+      "text": "Committed before Gate A \u00b7 DKK177,000",
+      "role": "display",
+      "font_size": 22,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Committed before Gate A \u00b7 DKK177,000",
+          "bbox": [
+            92.55,
+            1103.86,
+            435.035,
+            1127.675
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-64",
+      "text": "Committed before Gate B \u00b7 DKK265,000",
+      "role": "display",
+      "font_size": 22,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Committed before Gate B \u00b7 DKK265,000",
+          "bbox": [
+            930.55,
+            1103.86,
+            1286.565,
+            1127.675
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-65",
+      "text": "GATE A \u00b7 M4",
+      "role": "display",
+      "font_size": 32,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "GATE A \u00b7 M4",
+          "bbox": [
+            110.64,
+            1163.568,
+            270.133,
+            1191.568
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-66",
+      "text": "Completed / accepted \u226595% \u00b7 service cancels \u22642%",
+      "role": "display",
+      "font_size": 21,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Completed / accepted \u226595% \u00b7 service cancels \u22642%",
+          "bbox": [
+            112.525,
+            1211.783,
+            525.201,
+            1237.14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-67",
+      "text": "Referenced complaints answered in 24h \u226590%",
+      "role": "display",
+      "font_size": 21,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Referenced complaints answered in 24h \u226590%",
+          "bbox": [
+            112.263,
+            1246.861,
+            494.042,
+            1272.14
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-68",
+      "text": "Search conversion \u22651.5% \u00b7 social \u22650.8%",
+      "role": "display",
+      "font_size": 21,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Search conversion \u22651.5% \u00b7 social \u22650.8%",
+          "bbox": [
+            112.525,
+            1281.888,
+            432.88,
+            1301.129
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-69",
+      "text": "Agree minimum observed volume with operations",
+      "role": "display",
+      "font_size": 20,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Agree minimum observed volume with operations",
+          "bbox": [
+            112.25,
+            1316.75,
+            473.05,
+            1340.8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-70",
+      "text": "Pass releases M5\u20136 \u00b7 fail: hold, fix and retest",
+      "role": "display",
+      "font_size": 20,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "Pass releases M5\u20136 \u00b7 fail: hold, fix and retest",
+          "bbox": [
+            112.72,
+            1355.28,
+            473.04,
+            1374.621
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-71",
+      "text": "GATE B \u00b7 M6",
+      "role": "display",
+      "font_size": 32,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "GATE B \u00b7 M6",
+          "bbox": [
+            960.64,
+            1163.692,
+            1112.8,
+            1191.568
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-72",
+      "text": "Continue: mature 90-day repeat \u226520%",
+      "role": "display",
+      "font_size": 22,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Continue: mature 90-day repeat \u226520%",
+          "bbox": [
+            962.55,
+            1210.915,
+            1291.175,
+            1237.48
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-73",
+      "text": "and paid cost / first rider \u2264DKK1,829",
+      "role": "display",
+      "font_size": 22,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "and paid cost / first rider \u2264DKK1,829",
+          "bbox": [
+            962.688,
+            1245.86,
+            1281.22,
+            1272.48
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-74",
+      "text": "Repeat \u226535% releases street screens",
+      "role": "display",
+      "font_size": 22,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "Repeat \u226535% releases street screens",
+          "bbox": [
+            962.275,
+            1280.943,
+            1281.138,
+            1307.48
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-75",
+      "text": "Otherwise stop scale-up",
+      "role": "display",
+      "font_size": 21,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "Otherwise stop scale-up",
+          "bbox": [
+            962.677,
+            1332.549,
+            1166.141,
+            1354.578
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-76",
+      "text": "ILLUSTRATIVE \u00b7 ASSUMPTION-BASED \u00b7 NOT OBSERVED COMPANY SPENDING",
+      "role": "display",
+      "font_size": 24,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "ILLUSTRATIVE \u00b7 ASSUMPTION-BASED \u00b7 NOT OBSERVED COMPANY SPENDING",
+          "bbox": [
+            112.648,
+            1434.96,
+            827.896,
+            1456.176
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-77",
+      "text": "378 first riders \u00b7 about 676 rides \u00b7 DKK227 fare proxy \u00b7 30% assumed contribution",
+      "role": "display",
+      "font_size": 23,
+      "font": "Noteworthy",
+      "lines": [
+        {
+          "text": "378 first riders \u00b7 about 676 rides \u00b7 DKK227 fare proxy \u00b7 30% assumed contribution",
+          "bbox": [
+            112.575,
+            1471.99,
+            867.004,
+            1499.82
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-78",
+      "text": "About DKK554,000 remains unrecovered \u00b7 break-even requires 8,811 rides",
+      "role": "display",
+      "font_size": 29,
+      "font": "Marker Felt",
+      "lines": [
+        {
+          "text": "About DKK554,000 remains unrecovered \u00b7 break-even requires 8,811 rides",
+          "bbox": [
+            112.783,
+            1514.046,
+            973.068,
+            1544.322
+          ]
+        }
+      ]
+    }
+  ],
+  "internal_decisions": [
+    "D-032",
+    "D-033"
+  ],
+  "internal_evidence": [
+    "E-029"
+  ],
+  "assumptions": [
+    "DKK600/hour role cost",
+    "search and social envelopes",
+    "DKK2,500 monthly tools",
+    "400 vouchers at DKK30",
+    "contingency residual",
+    "illustrative economics"
+  ],
+  "screen_cost_treatment": "Published 2026 rate-card basis, not a supplier quote",
+  "excluded_operating_costs": [
+    "cars",
+    "drivers",
+    "charging",
+    "frontline support"
+  ],
+  "generated_art_sha256": "14ae654374496b80c024786979d386c312d22610cc6b14f80efae1ea6224e350",
+  "svg_sha256": "4efe1a8bee8da4bc40ccdf44f648a6c156c61b082d8580e6c3b442663c45d851",
+  "visible_citations": false,
+  "text_as_glyph_paths": true
+}

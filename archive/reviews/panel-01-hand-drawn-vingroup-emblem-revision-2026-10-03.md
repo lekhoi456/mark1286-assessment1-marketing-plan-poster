@@ -1,0 +1,17 @@
+# Panel 1 v13: hand-drawn updated Vingroup emblem
+
+Date: 3 October 2026. Authority: D-067, with D-066 arrangement and [selected specification](../design/panel-01-selected-content-and-visual-v12-2026-10-03.md). Status: DONE_WITH_CONCERNS.
+
+[Complete PNG](../design/panel-01-production-v13-2026-10-03.png). [Header crop](../design/panel-01-production-v13-2026-10-03-header-crop.png). [Reusable hand-drawn emblem SVG](../design/panel-01-production-v13-2026-10-03-vingroup-emblem-hand-drawn.svg) and [768-pixel PNG](../design/panel-01-production-v13-2026-10-03-vingroup-emblem-hand-drawn.png). [Editable full composition](../design/panel-01-production-v13-2026-10-03.svg).
+
+Replaced the building with an emblem only: red circle, lower yellow bird and five top-arc stars, larger centre, following the student's corrected JPG. No intrinsic VINGROUP wordmark remains in the visible asset or panel. The 50-unit square sits on the calendar column, with 18-unit caption/calendar gaps; all ordinary lettering retains its exact v10 placement.
+
+The native vector treatment reuses seven original circle/bird/star path shapes, with recorded component transforms for the corrected arrangement. Source red/yellow colours are retained. Varying wandering marker strokes, broken pencil marks and a separate uneven pen pass provide a visibly manual surface and outline in the enlarged asset. This is the imagegen skill's vector/logo exception; no image generation or Python raster repainting occurred. Original SVG/JPG bytes are preserved with hashes in [provenance](../design/panel-01-production-v13-2026-10-03-vingroup-provenance.json); these are student-supplied identity assets, not independently verified official downloads or evidence of a rebrand date.
+
+Focused checks confirm all sixteen ordinary string/glyph/size/position records equal v10, as do the eight-country row and every unaffected SVG object. Only the building is replaced and the non-visual description updated. Calendar/Founded March 2023, authentic Green SM logo, full middle-door hand-drawn VinFast mark/wordmark and single rear bolt remain. Raw car SHA256 stays `00069599bfd5c0aafe5a03c8f0602ae91176eb10c497294219672de015874a79`. E-199 and all prior source/date qualifications remain unchanged.
+
+The section producer and parent inspected the actual full PNG, header crop and enlarged standalone emblem: correct top stars/larger centre/lower bird, no intrinsic wordmark, visible irregular pen/marker/pencil treatment, clear gaps, no observed overlap or clipping. Parent's separate narrow comparison also confirmed the sixteen text records, flag row, native decoration and raw car hash are unchanged. This is delivery inspection, not final student imagery acceptance.
+
+[Exact copy](../design/panel-01-production-v13-2026-10-03.md), [manifest](../design/panel-01-production-v13-2026-10-03-manifest.json), [focused checks](../design/panel-01-production-v13-2026-10-03-checks.json) and [reproduction source](../design/panel-01-production-v13-2026-10-03-compose.py) are saved. v11's unfinished bottom-star/full-wordmark work is superseded history; v12 production was not generated before D-067. Previous files and source assets are preserved.
+
+Confidence: high in identity selection, exact preservation and inspected placement. Final imagery acceptance and physical A0 readability remain pending. No broad writing/source/whole-poster gate rerun or production blocker. Agent retained.

@@ -1,0 +1,352 @@
+{
+  "section": 8,
+  "status": "Complete delegated candidate; parent selection pending",
+  "checks": {
+    "heading_exact_and_numbered": true,
+    "eleven_complete_kpi_control_rows": true,
+    "all_55_baseline_table_fields_retained_exactly": true,
+    "all_kpi_target_tool_rhythm_fields_rendered": true,
+    "objective_labels_O1_to_O4_exact": true,
+    "all_eleven_integrated_model_rows_mapped": true,
+    "gate_thresholds_match_section_7": true,
+    "gate_A_M4_and_B_M6_retained": true,
+    "minimum_observed_volume_left_to_operations": true,
+    "gate_fail_pass_actions_retained": true,
+    "targets_explicitly_proposed_not_results": true,
+    "counting_and_acquisition_scope_preserved": true,
+    "no_text_box_overlap": true,
+    "no_text_clip": true,
+    "no_objective_zone_escape": true,
+    "all_svg_aria_text_matches_manifest": true,
+    "minimum_body_size_33_no_shrink_to_fit": true,
+    "native_handwriting_fonts_only": true,
+    "font_file_bytes_verified": true,
+    "no_svg_text_or_model_generated_lettering": true,
+    "native_art_bytes_match_manifest": true,
+    "writing_detector_ran_and_base_hard_zero": true,
+    "expected_standalone_budget_table_omission_only": true,
+    "actual_full_small_art_views_inspected": true,
+    "no_other_panel_or_shared_control_modified": true
+  },
+  "passed": 25,
+  "failed": 0,
+  "baseline_field_mapping": [
+    {
+      "kpi": "Would consider Green SM",
+      "objective": "O1",
+      "target": "+10 percentage points on M1–2 baseline by M12",
+      "tool": "Resident panel survey",
+      "rhythm": "M1–2 and M12",
+      "kpi_rendered": true,
+      "target_rendered": true,
+      "tool_and_rhythm_rendered": true
+    },
+    {
+      "kpi": "First paid riders",
+      "objective": "O2",
+      "target": "378 over M1–12",
+      "tool": "Booking/settlement data",
+      "rhythm": "Weekly",
+      "kpi_rendered": true,
+      "target_rendered": true,
+      "tool_and_rhythm_rendered": true
+    },
+    {
+      "kpi": "First paid riders / all paid clicks",
+      "objective": "O2",
+      "target": "Search 3%, social 1.5%",
+      "tool": "Ads and bookings",
+      "rhythm": "Weekly",
+      "kpi_rendered": true,
+      "target_rendered": true,
+      "tool_and_rhythm_rendered": true
+    },
+    {
+      "kpi": "Search/social spend / first paid riders",
+      "objective": "O2",
+      "target": "DKK524 or less",
+      "tool": "Finance and bookings",
+      "rhythm": "Monthly",
+      "kpi_rendered": true,
+      "target_rendered": true,
+      "tool_and_rhythm_rendered": true
+    },
+    {
+      "kpi": "90-day paid repeat, fully observed riders",
+      "objective": "O3",
+      "target": "At least 35%",
+      "tool": "Rider cohorts",
+      "rhythm": "Monthly from M6",
+      "kpi_rendered": true,
+      "target_rendered": true,
+      "tool_and_rhythm_rendered": true
+    },
+    {
+      "kpi": "Completed / accepted bookings",
+      "objective": "O4",
+      "target": "At least 95%",
+      "tool": "Dispatch data",
+      "rhythm": "Daily",
+      "kpi_rendered": true,
+      "target_rendered": true,
+      "tool_and_rhythm_rendered": true
+    },
+    {
+      "kpi": "Service-caused cancellations / accepted bookings",
+      "objective": "O4",
+      "target": "At most 2%",
+      "tool": "Dispatch reason codes",
+      "rhythm": "Daily",
+      "kpi_rendered": true,
+      "target_rendered": true,
+      "tool_and_rhythm_rendered": true
+    },
+    {
+      "kpi": "Referenced complaints answered within 24 hours",
+      "objective": "O4",
+      "target": "At least 90%",
+      "tool": "Support log",
+      "rhythm": "Weekly",
+      "kpi_rendered": true,
+      "target_rendered": true,
+      "tool_and_rhythm_rendered": true
+    },
+    {
+      "kpi": "Area and fare terms found clear",
+      "objective": "O4",
+      "target": "At least 80% yes",
+      "tool": "Post-trip question",
+      "rhythm": "Monthly",
+      "kpi_rendered": true,
+      "target_rendered": true,
+      "tool_and_rhythm_rendered": true
+    },
+    {
+      "kpi": "Usable offers / in-area requests",
+      "objective": "O4",
+      "target": "Threshold set after M1–2 area/hour baseline",
+      "tool": "Request logs",
+      "rhythm": "Weekly",
+      "kpi_rendered": true,
+      "target_rendered": true,
+      "tool_and_rhythm_rendered": true
+    },
+    {
+      "kpi": "Committed plus spent against stage budget",
+      "objective": "Spend control",
+      "target": "Within approved stage totals",
+      "tool": "Finance",
+      "rhythm": "Weekly",
+      "kpi_rendered": true,
+      "target_rendered": true,
+      "tool_and_rhythm_rendered": true
+    }
+  ],
+  "integrated_model_mapping": [
+    {
+      "baseline_kpi": "Would consider Green SM",
+      "integrated_model_row": [
+        "Brand consideration (O1)",
+        "% of an S1 survey sample in the area who would consider Green SM for their next taxi trip",
+        "+10 percentage points on the M1–M2 baseline by M12 (A, D-034); no invented starting figure",
+        "Short panel survey, M1–M2 and M12",
+        "Revisit message and DOOH before year 2"
+      ],
+      "semantic_fields_reviewed_match": true
+    },
+    {
+      "baseline_kpi": "First paid riders",
+      "integrated_model_row": [
+        "First paid riders (O2)",
+        "New riders completing and paying for a first trip",
+        "378 over M1–M12",
+        "Booking/settlement data, weekly",
+        "Below plan at Gate A: fix page/offer before more spend"
+      ],
+      "semantic_fields_reviewed_match": true
+    },
+    {
+      "baseline_kpi": "First paid riders / all paid clicks",
+      "integrated_model_row": [
+        "Paid conversion (O2)",
+        "First paid riders ÷ all recorded paid clicks, by channel",
+        "Search 3%, social 1.5%",
+        "Ad platforms + booking data, weekly",
+        "Below 1.5% / 0.8% at Gate A: pause the channel"
+      ],
+      "semantic_fields_reviewed_match": true
+    },
+    {
+      "baseline_kpi": "Search/social spend / first paid riders",
+      "integrated_model_row": [
+        "Paid cost per first rider (O2)",
+        "Search + social spend ÷ first paid riders",
+        "≤ DKK524",
+        "Finance + booking data, monthly",
+        "Above DKK1,829 at Gate B: stop media"
+      ],
+      "semantic_fields_reviewed_match": true
+    },
+    {
+      "baseline_kpi": "90-day paid repeat, fully observed riders",
+      "integrated_model_row": [
+        "90-day repeat rate (O3)",
+        "First riders with another paid trip within 90 days ÷ first riders with a full window",
+        "≥ 35%",
+        "Cohort report, monthly from M6",
+        "Below 20% at Gate B: stop DOOH and scale-up"
+      ],
+      "semantic_fields_reviewed_match": true
+    },
+    {
+      "baseline_kpi": "Completed / accepted bookings",
+      "integrated_model_row": [
+        "Completion (O4)",
+        "Completed ÷ accepted bookings",
+        "≥ 95%",
+        "Dispatch data, daily",
+        "Pause acquisition in affected areas"
+      ],
+      "semantic_fields_reviewed_match": true
+    },
+    {
+      "baseline_kpi": "Service-caused cancellations / accepted bookings",
+      "integrated_model_row": [
+        "Service-caused cancellations (O4)",
+        "Cancellations caused by Green SM ÷ accepted bookings",
+        "≤ 2%",
+        "Dispatch reason codes, daily",
+        "Pause acquisition in affected areas"
+      ],
+      "semantic_fields_reviewed_match": true
+    },
+    {
+      "baseline_kpi": "Referenced complaints answered within 24 hours",
+      "integrated_model_row": [
+        "Help-route response (O4, P1 proof)",
+        "Complaints with a trip reference answered within 24 hours",
+        "≥ 90% (A, D-034); confirm with operations in M1–M2",
+        "Support log, weekly",
+        "P1 cannot be advertised until met"
+      ],
+      "semantic_fields_reviewed_match": true
+    },
+    {
+      "baseline_kpi": "Area and fare terms found clear",
+      "integrated_model_row": [
+        "Clarity score (P1 proof)",
+        "Post-trip question: \"Were the area and fare terms clear?\"",
+        "≥ 80% answer yes (A, D-034)",
+        "In-app survey, monthly",
+        "Rewrite page and messages"
+      ],
+      "semantic_fields_reviewed_match": true
+    },
+    {
+      "baseline_kpi": "Usable offers / in-area requests",
+      "integrated_model_row": [
+        "Available offer rate (O4)",
+        "In-area requests that receive a usable offer ÷ all in-area requests",
+        "Set after baseline",
+        "Request logs, weekly",
+        "Do not advertise hours/areas that fail"
+      ],
+      "semantic_fields_reviewed_match": true
+    },
+    {
+      "baseline_kpi": "Committed plus spent against stage budget",
+      "integrated_model_row": [
+        "Spend control",
+        "Committed + spent vs stage budget",
+        "Within stage totals",
+        "Finance, weekly",
+        "Contingency only with approval"
+      ],
+      "semantic_fields_reviewed_match": true
+    }
+  ],
+  "model_semantic_notes": [
+    "Brand consideration/short panel survey equals Would consider Green SM/resident panel survey; +10 percentage points and M1–2/M12 retained.",
+    "Paid conversion numerator is channel-attributed first paid riders before cross-channel deduplication; denominator is all recorded paid clicks.",
+    "DKK524 is rounded search/social-only paid acquisition cost; it is not fully loaded acquisition cost.",
+    "Mature repeat requires a fully observed 90-day window; model Gate B uses the first-M3 cohort.",
+    "Clarity score belongs to O4; post-trip question/in-app survey are the same selected measurement route.",
+    "Availability threshold after baseline is retained with the selected M1–2 area/hour specificity; no numeric threshold invented.",
+    "Early scenario method withheld a consideration target; later D-034 integrated plan/display baseline sets +10 percentage points."
+  ],
+  "section_7_gate_mapping": {
+    "≥95%": {
+      "section_8": true,
+      "section_7": true
+    },
+    "≤2%": {
+      "section_8": true,
+      "section_7": true
+    },
+    "24h ≥90%": {
+      "section_8": true,
+      "section_7": true
+    },
+    "≥1.5%": {
+      "section_8": true,
+      "section_7": true
+    },
+    "≥0.8%": {
+      "section_8": true,
+      "section_7": true
+    },
+    "≥20%": {
+      "section_8": true,
+      "section_7": true
+    },
+    "≤DKK1,829": {
+      "section_8": true,
+      "section_7": true
+    },
+    "≥35%": {
+      "section_8": true,
+      "section_7": true
+    }
+  },
+  "section_10_required_labels": [
+    "O1 awareness",
+    "O2 paid trial",
+    "O3 repeat",
+    "O4 service integrity"
+  ],
+  "text_overlaps": [],
+  "text_clipping": [],
+  "zone_escape": [],
+  "writing_gate": {
+    "total_words": 283,
+    "kpi_rows": 11,
+    "effective_base_hard": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "detector_score": 1,
+    "exit": 2,
+    "standalone_missing_budget_table": true,
+    "whole_poster_pass_claimed": false
+  },
+  "A0_readability": {
+    "min_body": 33,
+    "width_mm_for_12pt": 282.2,
+    "width_mm_for_14pt": 329.3,
+    "physical_full_poster_proof": false
+  },
+  "arrow_treatment": "Exact → semantics retained as controlled pen vectors; no alternate ordinary-font face used",
+  "manual_review": "Actual complete PNG, small view and original text-free native art inspected for hierarchy, legibility and clipping.",
+  "graphic_copy_count": {
+    "whitespace_tokens": 326,
+    "tokens_containing_word_character": 301,
+    "local_budget": 380,
+    "all_ordinary_labels_counted": true
+  }
+}

@@ -1,0 +1,905 @@
+{
+  "initial_reports": [
+    {
+      "file": "05-v10-copy-2026-10-04.md",
+      "exit": 2,
+      "report": {
+        "version": "1.0.0",
+        "genre": {
+          "mode": "poster",
+          "budget": {},
+          "kpi_rows": 0,
+          "sections": [
+            {
+              "heading": "5. Digital Marketing",
+              "words": 194,
+              "budget": 210
+            }
+          ],
+          "total_words": 194,
+          "speakers": {},
+          "errors": [
+            "Expected exactly one <!-- budget-table --> marker; found 0",
+            "Expected exactly one <!-- kpi-table --> marker; found 0"
+          ]
+        },
+        "base": {
+          "version": "2.0.0",
+          "total_words": 228,
+          "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+          "limit": {},
+          "sections": [
+            {
+              "name": "5. Digital Marketing",
+              "words": 39,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            },
+            {
+              "name": "5.1 CUSTOMER INSIGHT",
+              "words": 32,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            },
+            {
+              "name": "5.2 MARKETING MIX · 4Ps",
+              "words": 29,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            },
+            {
+              "name": "5.3 OMNI CHANNEL",
+              "words": 69,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            },
+            {
+              "name": "5.4 VOUCHER + 30-DAY PACKAGE",
+              "words": 44,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            },
+            {
+              "name": "5.5 TIMELINE",
+              "words": 15,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            }
+          ],
+          "references": {
+            "citations": 0,
+            "entries": 0,
+            "hard": [],
+            "review": [],
+            "keys": []
+          },
+          "figures": {
+            "figures": 0,
+            "tables": 0,
+            "caption_words": 0,
+            "hard": [],
+            "review": []
+          },
+          "template_echo": {},
+          "anti_slop": {
+            "status": "ran",
+            "context": "general",
+            "source_mode": "rendered-markdown",
+            "score": 0,
+            "label": "Clean",
+            "hard": [],
+            "review": [],
+            "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+          },
+          "module_scope": {
+            "named": {},
+            "outside": []
+          },
+          "hard_stops": 1,
+          "hard_by_category": {
+            "integrity": 0,
+            "grammar": 1,
+            "style": 0,
+            "referencing": 0,
+            "figures": 0,
+            "anti_slop": 0,
+            "word_limit": 0,
+            "module_scope": 0
+          },
+          "findings": {
+            "ai_fingerprints": [],
+            "placeholders": [],
+            "numeric_markers": [],
+            "bypass_chars": [],
+            "speculation": [],
+            "vague_attribution": [],
+            "dashes": [],
+            "semicolons": [],
+            "banned": [],
+            "reflective_cliches": [],
+            "banned_soft": [],
+            "banned_in_quotation": [],
+            "banned_allowed": [],
+            "us_spelling": [],
+            "hedges": [],
+            "hedge_stacks": [],
+            "universals": [],
+            "mechanical_transitions": [],
+            "stance_openers": [],
+            "cleft_openers": [],
+            "double_connectives": [],
+            "duplicated_phrases": [],
+            "verbless_sentences": [],
+            "label_colons": [
+              "Reserve ceiling: DKK12,000 · shared with Sections 6/7."
+            ],
+            "comma_splices": [],
+            "sentence_count": 9,
+            "sentence_mean": 29.7,
+            "sentence_min": 8,
+            "sentence_max": 79,
+            "short_sentences": 2,
+            "long_sentences": 3,
+            "uniform_sentence_runs": [],
+            "paragraph_count": 34,
+            "paragraph_lengths": [
+              17,
+              14,
+              14,
+              7,
+              4,
+              8,
+              9,
+              8,
+              7,
+              7,
+              8,
+              7,
+              5,
+              5,
+              6,
+              8,
+              8,
+              11,
+              7,
+              8,
+              8,
+              6,
+              11,
+              7,
+              6,
+              5,
+              7,
+              12,
+              6,
+              5,
+              8,
+              4,
+              7,
+              7
+            ],
+            "uniform_paragraphs": [],
+            "repeated_openings": [],
+            "colons_total": 1,
+            "colons_per_100w": 0.37,
+            "colons_per_paragraph": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "colon_heavy_paragraphs": [],
+            "colon_quota_rhythm": false,
+            "colon_absent": false
+          }
+        },
+        "effective_base_hard_by_category": {
+          "integrity": 0,
+          "grammar": 0,
+          "style": 0,
+          "referencing": 0,
+          "figures": 0,
+          "anti_slop": 0,
+          "word_limit": 0,
+          "module_scope": 0
+        },
+        "genre_review": [
+          {
+            "type": "label_colon",
+            "text": "Reserve ceiling: DKK12,000 · shared with Sections 6/7.",
+            "why": "Poster label fragments are permitted; review meaning and clarity"
+          }
+        ],
+        "hard_stops": 2,
+        "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+      }
+    },
+    {
+      "file": "06-v07-copy-2026-10-04.md",
+      "exit": 2,
+      "report": {
+        "version": "1.0.0",
+        "genre": {
+          "mode": "poster",
+          "budget": {},
+          "kpi_rows": 0,
+          "sections": [
+            {
+              "heading": "6. From Clicks to Rides",
+              "words": 71,
+              "budget": 185
+            }
+          ],
+          "total_words": 71,
+          "speakers": {},
+          "errors": [
+            "Expected exactly one <!-- budget-table --> marker; found 0",
+            "Expected exactly one <!-- kpi-table --> marker; found 0"
+          ]
+        },
+        "base": {
+          "version": "2.0.0",
+          "total_words": 229,
+          "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+          "limit": {},
+          "sections": [
+            {
+              "name": "6. From Clicks to Rides",
+              "words": 19,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            },
+            {
+              "name": "Sales Strategy",
+              "words": 2,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            },
+            {
+              "name": "Awareness",
+              "words": 7,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            },
+            {
+              "name": "Book",
+              "words": 27,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            },
+            {
+              "name": "Experience",
+              "words": 6,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            },
+            {
+              "name": "Feedback",
+              "words": 8,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            },
+            {
+              "name": "Repeat",
+              "words": 160,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            }
+          ],
+          "references": {
+            "citations": 0,
+            "entries": 0,
+            "hard": [],
+            "review": [],
+            "keys": []
+          },
+          "figures": {
+            "figures": 0,
+            "tables": 0,
+            "caption_words": 0,
+            "hard": [],
+            "review": []
+          },
+          "template_echo": {},
+          "anti_slop": {
+            "status": "ran",
+            "context": "general",
+            "source_mode": "rendered-markdown",
+            "score": 0,
+            "label": "Clean",
+            "hard": [],
+            "review": [],
+            "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+          },
+          "module_scope": {
+            "named": {},
+            "outside": []
+          },
+          "hard_stops": 16,
+          "hard_by_category": {
+            "integrity": 0,
+            "grammar": 3,
+            "style": 13,
+            "referencing": 0,
+            "figures": 0,
+            "anti_slop": 0,
+            "word_limit": 0,
+            "module_scope": 0
+          },
+          "findings": {
+            "ai_fingerprints": [],
+            "placeholders": [],
+            "numeric_markers": [],
+            "bypass_chars": [],
+            "speculation": [],
+            "vague_attribution": [],
+            "dashes": [],
+            "semicolons": [
+              "d unnumbered subtitle at upper left; No Green SM logo in the current vi",
+              "y sequence: Copenhagen street/reach; voucher/app-to-paid-ride; app/driv",
+              "eet/reach; voucher/app-to-paid-ride; app/driver/taxi/support target; po",
+              "ide; app/driver/taxi/support target; post-ride response and rating; con",
+              "rget; post-ride response and rating; consented reminder with voucher an",
+              "layed): Direct Green SM app booking; completed paid trip is the sale; 1",
+              "ng; completed paid trip is the sale; 10% versus 20% first-trip test, ma",
+              "riders / DKK12,000 reserve ceiling; staffed operations/help readiness;",
+              "; staffed operations/help readiness; feedback/review after a resolved o",
+              "after a resolved or well-rated trip; consented repeat contact; and sepa",
+              "ated trip; consented repeat contact; and separately funded pilot condit",
+              "n 5 retains media routes and spends; Section 7 retains the budget; Sect",
+              "pends; Section 7 retains the budget; Section 9 retains the innovation d"
+            ],
+            "banned": [],
+            "reflective_cliches": [],
+            "banned_soft": [],
+            "banned_in_quotation": [],
+            "banned_allowed": [],
+            "us_spelling": [],
+            "hedges": [],
+            "hedge_stacks": [],
+            "universals": [],
+            "mechanical_transitions": [],
+            "stance_openers": [],
+            "cleft_openers": [],
+            "double_connectives": [],
+            "duplicated_phrases": [],
+            "verbless_sentences": [
+              "400-rider cap, DKK12,000 reserve ceiling."
+            ],
+            "label_colons": [
+              "Installs: leads, not sales.",
+              "Fund separately.\n\n<!--\nLayout mapping (not displayed): Exact numbered title and unnumbered subtitle at upper l",
+              "Internal basis (not displayed): Direct Green SM app booking; completed paid trip is the sale; 10% versus 20% f"
+            ],
+            "comma_splices": [],
+            "sentence_count": 18,
+            "sentence_mean": 12.6,
+            "sentence_min": 2,
+            "sentence_max": 55,
+            "short_sentences": 12,
+            "long_sentences": 2,
+            "uniform_sentence_runs": [],
+            "paragraph_count": 12,
+            "paragraph_lengths": [
+              17,
+              4,
+              9,
+              8,
+              6,
+              5,
+              5,
+              5,
+              6,
+              6,
+              60,
+              86
+            ],
+            "uniform_paragraphs": [],
+            "repeated_openings": [],
+            "colons_total": 5,
+            "colons_per_100w": 2.21,
+            "colons_per_paragraph": [
+              0,
+              1,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              2,
+              1
+            ],
+            "colon_heavy_paragraphs": [],
+            "colon_quota_rhythm": false,
+            "colon_absent": false
+          }
+        },
+        "effective_base_hard_by_category": {
+          "integrity": 0,
+          "grammar": 0,
+          "style": 13,
+          "referencing": 0,
+          "figures": 0,
+          "anti_slop": 0,
+          "word_limit": 0,
+          "module_scope": 0
+        },
+        "genre_review": [
+          {
+            "type": "label_colon",
+            "text": "Installs: leads, not sales.",
+            "why": "Poster label fragments are permitted; review meaning and clarity"
+          },
+          {
+            "type": "label_colon",
+            "text": "Fund separately.\n\n<!--\nLayout mapping (not displayed): Exact numbered title and unnumbered subtitle at upper l",
+            "why": "Poster label fragments are permitted; review meaning and clarity"
+          },
+          {
+            "type": "label_colon",
+            "text": "Internal basis (not displayed): Direct Green SM app booking; completed paid trip is the sale; 10% versus 20% f",
+            "why": "Poster label fragments are permitted; review meaning and clarity"
+          }
+        ],
+        "hard_stops": 15,
+        "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+      }
+    },
+    {
+      "file": "07-v05-copy-2026-10-04.md",
+      "exit": 2,
+      "report": {
+        "version": "1.0.0",
+        "genre": {
+          "mode": "poster",
+          "budget": {
+            "total": "600000",
+            "allocated": "600000",
+            "share_total": "100.00"
+          },
+          "kpi_rows": 0,
+          "sections": [
+            {
+              "heading": "7. Budget & Resources",
+              "words": 263,
+              "budget": 270
+            }
+          ],
+          "total_words": 263,
+          "speakers": {},
+          "errors": [
+            "Expected exactly one <!-- kpi-table --> marker; found 0"
+          ]
+        },
+        "base": {
+          "version": "2.0.0",
+          "total_words": 282,
+          "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+          "limit": {},
+          "sections": [
+            {
+              "name": "7. Budget & Resources",
+              "words": 282,
+              "budget": null,
+              "is_refs": false,
+              "first_person": 0
+            }
+          ],
+          "references": {
+            "citations": 0,
+            "entries": 0,
+            "hard": [],
+            "review": [],
+            "keys": []
+          },
+          "figures": {
+            "figures": 0,
+            "tables": 0,
+            "caption_words": 0,
+            "hard": [],
+            "review": []
+          },
+          "template_echo": {},
+          "anti_slop": {
+            "status": "ran",
+            "context": "general",
+            "source_mode": "rendered-markdown",
+            "score": 2,
+            "label": "Minimal AI signals",
+            "hard": [],
+            "review": [
+              {
+                "type": "cross-para-burstiness",
+                "text": "Sentence-rhythm uniform across paragraphs (σCV=0.07)",
+                "severity": "medium",
+                "suggestion": "Every paragraph has the same internal rhythm. Humans vary cadence between terse and discursive paragraphs.",
+                "why": "review (stylometric, wordiness or house-overridden)"
+              }
+            ],
+            "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+          },
+          "module_scope": {
+            "named": {},
+            "outside": []
+          },
+          "hard_stops": 4,
+          "hard_by_category": {
+            "integrity": 0,
+            "grammar": 4,
+            "style": 0,
+            "referencing": 0,
+            "figures": 0,
+            "anti_slop": 0,
+            "word_limit": 0,
+            "module_scope": 0
+          },
+          "findings": {
+            "ai_fingerprints": [],
+            "placeholders": [],
+            "numeric_markers": [],
+            "bypass_chars": [],
+            "speculation": [],
+            "vague_attribution": [],
+            "dashes": [],
+            "semicolons": [],
+            "banned": [],
+            "reflective_cliches": [],
+            "banned_soft": [],
+            "banned_in_quotation": [],
+            "banned_allowed": [],
+            "us_spelling": [],
+            "hedges": [],
+            "hedge_stacks": [],
+            "universals": [],
+            "mechanical_transitions": [],
+            "stance_openers": [],
+            "cleft_openers": [],
+            "double_connectives": [],
+            "duplicated_phrases": [],
+            "verbless_sentences": [
+              "Street screens wait for repeat evidence."
+            ],
+            "label_colons": [
+              "People: 460 company hours across research/service checks, local creative, campaign management and CRM/help-rou",
+              "Voucher reserve: 10% versus 20% first-ride test, maximum DKK30 per rider, 400-rider cap. DKK12,000 is the rese",
+              "Screens: 200,000 planned impressions ÷ 1,000 × published DKK191 CPM = DKK38,200, plus DKK4,995 setup. This use",
+              "Before Gate A at M4: DKK177,000 exposed. Before Gate B at M6: DKK265,000 exposed. Fail: hold, fix, retest."
+            ],
+            "comma_splices": [],
+            "sentence_count": 17,
+            "sentence_mean": 17.5,
+            "sentence_min": 3,
+            "sentence_max": 106,
+            "short_sentences": 7,
+            "long_sentences": 1,
+            "uniform_sentence_runs": [],
+            "paragraph_count": 10,
+            "paragraph_lengths": [
+              17,
+              14,
+              78,
+              14,
+              20,
+              11,
+              32,
+              25,
+              48,
+              38
+            ],
+            "uniform_paragraphs": [],
+            "repeated_openings": [],
+            "colons_total": 17,
+            "colons_per_100w": 5.72,
+            "colons_per_paragraph": [
+              0,
+              1,
+              9,
+              1,
+              2,
+              0,
+              1,
+              1,
+              1,
+              1
+            ],
+            "colon_heavy_paragraphs": [
+              3
+            ],
+            "colon_quota_rhythm": true,
+            "colon_absent": false
+          }
+        },
+        "effective_base_hard_by_category": {
+          "integrity": 0,
+          "grammar": 0,
+          "style": 0,
+          "referencing": 0,
+          "figures": 0,
+          "anti_slop": 0,
+          "word_limit": 0,
+          "module_scope": 0
+        },
+        "genre_review": [
+          {
+            "type": "label_colon",
+            "text": "People: 460 company hours across research/service checks, local creative, campaign management and CRM/help-rou",
+            "why": "Poster label fragments are permitted; review meaning and clarity"
+          },
+          {
+            "type": "label_colon",
+            "text": "Voucher reserve: 10% versus 20% first-ride test, maximum DKK30 per rider, 400-rider cap. DKK12,000 is the rese",
+            "why": "Poster label fragments are permitted; review meaning and clarity"
+          },
+          {
+            "type": "label_colon",
+            "text": "Screens: 200,000 planned impressions ÷ 1,000 × published DKK191 CPM = DKK38,200, plus DKK4,995 setup. This use",
+            "why": "Poster label fragments are permitted; review meaning and clarity"
+          },
+          {
+            "type": "label_colon",
+            "text": "Before Gate A at M4: DKK177,000 exposed. Before Gate B at M6: DKK265,000 exposed. Fail: hold, fix, retest.",
+            "why": "Poster label fragments are permitted; review meaning and clarity"
+          }
+        ],
+        "hard_stops": 1,
+        "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+      }
+    }
+  ],
+  "section06_final": {
+    "exit_code": 2,
+    "report": {
+      "version": "1.0.0",
+      "genre": {
+        "mode": "poster",
+        "budget": {},
+        "kpi_rows": 0,
+        "sections": [
+          {
+            "heading": "6. From Clicks to Rides",
+            "words": 71,
+            "budget": 185
+          }
+        ],
+        "total_words": 71,
+        "speakers": {},
+        "errors": [
+          "Expected exactly one <!-- budget-table --> marker; found 0",
+          "Expected exactly one <!-- kpi-table --> marker; found 0"
+        ]
+      },
+      "base": {
+        "version": "2.0.0",
+        "total_words": 86,
+        "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+        "limit": {},
+        "sections": [
+          {
+            "name": "6. From Clicks to Rides",
+            "words": 19,
+            "budget": null,
+            "is_refs": false,
+            "first_person": 0
+          },
+          {
+            "name": "Sales Strategy",
+            "words": 2,
+            "budget": null,
+            "is_refs": false,
+            "first_person": 0
+          },
+          {
+            "name": "Awareness",
+            "words": 7,
+            "budget": null,
+            "is_refs": false,
+            "first_person": 0
+          },
+          {
+            "name": "Book",
+            "words": 27,
+            "budget": null,
+            "is_refs": false,
+            "first_person": 0
+          },
+          {
+            "name": "Experience",
+            "words": 6,
+            "budget": null,
+            "is_refs": false,
+            "first_person": 0
+          },
+          {
+            "name": "Feedback",
+            "words": 8,
+            "budget": null,
+            "is_refs": false,
+            "first_person": 0
+          },
+          {
+            "name": "Repeat",
+            "words": 17,
+            "budget": null,
+            "is_refs": false,
+            "first_person": 0
+          }
+        ],
+        "references": {
+          "citations": 0,
+          "entries": 0,
+          "hard": [],
+          "review": [],
+          "keys": []
+        },
+        "figures": {
+          "figures": 0,
+          "tables": 0,
+          "caption_words": 0,
+          "hard": [],
+          "review": []
+        },
+        "template_echo": {},
+        "anti_slop": {
+          "status": "ran",
+          "context": "general",
+          "source_mode": "rendered-markdown",
+          "score": 0,
+          "label": "Clean",
+          "hard": [],
+          "review": [],
+          "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+        },
+        "module_scope": {
+          "named": {},
+          "outside": []
+        },
+        "hard_stops": 1,
+        "hard_by_category": {
+          "integrity": 0,
+          "grammar": 1,
+          "style": 0,
+          "referencing": 0,
+          "figures": 0,
+          "anti_slop": 0,
+          "word_limit": 0,
+          "module_scope": 0
+        },
+        "findings": {
+          "ai_fingerprints": [],
+          "placeholders": [],
+          "numeric_markers": [],
+          "bypass_chars": [],
+          "speculation": [],
+          "vague_attribution": [],
+          "dashes": [],
+          "semicolons": [],
+          "banned": [],
+          "reflective_cliches": [],
+          "banned_soft": [],
+          "banned_in_quotation": [],
+          "banned_allowed": [],
+          "us_spelling": [],
+          "hedges": [],
+          "hedge_stacks": [],
+          "universals": [],
+          "mechanical_transitions": [],
+          "stance_openers": [],
+          "cleft_openers": [],
+          "double_connectives": [],
+          "duplicated_phrases": [],
+          "verbless_sentences": [
+            "400-rider cap, DKK12,000 reserve ceiling."
+          ],
+          "label_colons": [
+            "Installs: leads, not sales."
+          ],
+          "comma_splices": [],
+          "sentence_count": 14,
+          "sentence_mean": 5.7,
+          "sentence_min": 2,
+          "sentence_max": 11,
+          "short_sentences": 13,
+          "long_sentences": 0,
+          "uniform_sentence_runs": [],
+          "paragraph_count": 10,
+          "paragraph_lengths": [
+            17,
+            4,
+            9,
+            8,
+            6,
+            5,
+            5,
+            5,
+            6,
+            6
+          ],
+          "uniform_paragraphs": [],
+          "repeated_openings": [],
+          "colons_total": 2,
+          "colons_per_100w": 2.5,
+          "colons_per_paragraph": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "colon_heavy_paragraphs": [],
+          "colon_quota_rhythm": false,
+          "colon_absent": false
+        }
+      },
+      "effective_base_hard_by_category": {
+        "integrity": 0,
+        "grammar": 0,
+        "style": 0,
+        "referencing": 0,
+        "figures": 0,
+        "anti_slop": 0,
+        "word_limit": 0,
+        "module_scope": 0
+      },
+      "genre_review": [
+        {
+          "type": "label_colon",
+          "text": "Installs: leads, not sales.",
+          "why": "Poster label fragments are permitted; review meaning and clarity"
+        }
+      ],
+      "hard_stops": 2,
+      "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+    }
+  }
+}

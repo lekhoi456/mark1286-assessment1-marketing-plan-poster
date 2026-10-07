@@ -1,0 +1,14 @@
+{
+  "tool": "unchanged mba-presentation-style/scripts/presentcheck.py",
+  "exit_code": 2,
+  "stderr": "",
+  "mode": "poster",
+  "registry": "04_references/references.json",
+  "sources": "04_references",
+  "concepts": "03_course_materials/concept-list.txt",
+  "strict_scope": true,
+  "headings": [
+    "Positioning Strategy"
+  ],
+  "temp_files_outside_workspace": true
+}

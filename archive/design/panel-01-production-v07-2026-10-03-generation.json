@@ -1,0 +1,30 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "intent": "precise-object-edit",
+  "authority": "D-060",
+  "original_returned_file": "/Users/KHOILQ/.codex/generated_images/01a10028-2e2f-7a92-8df7-45fa2e0976f8/exec-fefe0e5c-f15c-4802-be2c-1ae310176f4b.png",
+  "saved_file": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v07-2026-10-03-art-final.png",
+  "raw_sha256": "00069599bfd5c0aafe5a03c8f0602ae91176eb10c497294219672de015874a79",
+  "native_dimensions_px": [
+    2172,
+    724
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "prompt_file": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v07-2026-10-03-refinement-prompt.txt",
+  "referenced_images": [
+    {
+      "file": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v07-2026-10-03-art-first-pass.png",
+      "sha256": "ffc4a75320eefc37681102c816959e5093264510849a8e72983506a4f3320152",
+      "role": "Native first-pass edit target; lift/reduce rear bolt only"
+    }
+  ],
+  "raw_postprocessing": "None: actual native result copied unchanged; only SVG composition and controlled wordmark paths added",
+  "inspection": "One rear-body bolt separated from wheel; layered navy V remains middle door; former front badge and middle bolt locations clean; no model lettering observed",
+  "first_pass_record": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v07-2026-10-03-generation-first-pass.json",
+  "first_pass_prompt": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v07-2026-10-03-prompt.txt",
+  "refinement_reason": "First car crop showed bolt tip too close to wheel; targeted native edit added a clear cyan gap"
+}

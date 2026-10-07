@@ -1,0 +1,177 @@
+[
+  {
+    "baseline_row": {
+      "kpi": "Would consider Green SM",
+      "objective": "O1",
+      "target": "+10 percentage points on M1–2 baseline by M12",
+      "tool": "Resident panel survey",
+      "rhythm": "M1–2 and M12"
+    },
+    "visible_components": [
+      "Would consider Green SM",
+      "+10 pp",
+      "M1–2 baseline",
+      "M12",
+      "pp = percentage points",
+      "Resident panel survey · M1–2 and M12"
+    ],
+    "encoding_review": "pp defined as percentage points; M1–2 to M12 expresses the delta without an invented absolute baseline."
+  },
+  {
+    "baseline_row": {
+      "kpi": "First paid riders",
+      "objective": "O2",
+      "target": "378 over M1–12",
+      "tool": "Booking/settlement data",
+      "rhythm": "Weekly"
+    },
+    "visible_components": [
+      "378",
+      "First paid riders · M1–12",
+      "Booking/settlement data · Weekly"
+    ],
+    "encoding_review": "378 is an annual M1–12 target for first paid riders."
+  },
+  {
+    "baseline_row": {
+      "kpi": "First paid riders / all paid clicks",
+      "objective": "O2",
+      "target": "Search 3%, social 1.5%",
+      "tool": "Ads and bookings",
+      "rhythm": "Weekly"
+    },
+    "visible_components": [
+      "Search 3%",
+      "Social 1.5%",
+      "First paid riders / all paid clicks",
+      "Ads and bookings · Weekly"
+    ],
+    "encoding_review": "Two channels share the zero baseline and scale; bars show proposed conversion targets, not observed results."
+  },
+  {
+    "baseline_row": {
+      "kpi": "Search/social spend / first paid riders",
+      "objective": "O2",
+      "target": "DKK524 or less",
+      "tool": "Finance and bookings",
+      "rhythm": "Monthly"
+    },
+    "visible_components": [
+      "Search/social spend / first paid riders",
+      "≤DKK524",
+      "Finance and bookings · Monthly"
+    ],
+    "encoding_review": "≤ is the baseline or-less target; search/social acquisition denominator remains first paid riders."
+  },
+  {
+    "baseline_row": {
+      "kpi": "90-day paid repeat, fully observed riders",
+      "objective": "O3",
+      "target": "At least 35%",
+      "tool": "Rider cohorts",
+      "rhythm": "Monthly from M6"
+    },
+    "visible_components": [
+      "First paid trip",
+      "90 days",
+      "≥35%",
+      "Paid repeat",
+      "Full 90-day window · fully observed riders only",
+      "Rider cohorts · Monthly from M6"
+    ],
+    "encoding_review": "≥35% applies to paid repeat among fully observed riders with a full 90-day window."
+  },
+  {
+    "baseline_row": {
+      "kpi": "Completed / accepted bookings",
+      "objective": "O4",
+      "target": "At least 95%",
+      "tool": "Dispatch data",
+      "rhythm": "Daily"
+    },
+    "visible_components": [
+      "Completed",
+      "≥95%",
+      "Completion / cancels: per accepted booking",
+      "Dispatch data · Daily"
+    ],
+    "encoding_review": "Shared denominator note explicitly applies accepted bookings to completion and cancellations."
+  },
+  {
+    "baseline_row": {
+      "kpi": "Service-caused cancellations / accepted bookings",
+      "objective": "O4",
+      "target": "At most 2%",
+      "tool": "Dispatch reason codes",
+      "rhythm": "Daily"
+    },
+    "visible_components": [
+      "Service-caused cancels",
+      "≤2%",
+      "Completion / cancels: per accepted booking",
+      "Dispatch reason codes · Daily"
+    ],
+    "encoding_review": "Shared denominator note explicitly applies accepted bookings to completion and cancellations."
+  },
+  {
+    "baseline_row": {
+      "kpi": "Referenced complaints answered within 24 hours",
+      "objective": "O4",
+      "target": "At least 90%",
+      "tool": "Support log",
+      "rhythm": "Weekly"
+    },
+    "visible_components": [
+      "Referenced complaints",
+      "answered within 24h",
+      "≥90%",
+      "Support log · Weekly"
+    ],
+    "encoding_review": "24h is the same 24-hour answer window; referenced complaints retained."
+  },
+  {
+    "baseline_row": {
+      "kpi": "Area and fare terms found clear",
+      "objective": "O4",
+      "target": "At least 80% yes",
+      "tool": "Post-trip question",
+      "rhythm": "Monthly"
+    },
+    "visible_components": [
+      "Area and fare terms clear",
+      "≥80% yes",
+      "Post-trip question · Monthly"
+    ],
+    "encoding_review": "At least 80% yes retained with the clear-terms measure."
+  },
+  {
+    "baseline_row": {
+      "kpi": "Usable offers / in-area requests",
+      "objective": "O4",
+      "target": "Threshold set after M1–2 area/hour baseline",
+      "tool": "Request logs",
+      "rhythm": "Weekly"
+    },
+    "visible_components": [
+      "Usable offers / in-area requests",
+      "Set after M1–2 area/hour baseline",
+      "Request logs · Weekly"
+    ],
+    "encoding_review": "No threshold figure is invented; M1–2 area/hour baseline remains required."
+  },
+  {
+    "baseline_row": {
+      "kpi": "Committed plus spent against stage budget",
+      "objective": "Spend control",
+      "target": "Within approved stage totals",
+      "tool": "Finance",
+      "rhythm": "Weekly"
+    },
+    "visible_components": [
+      "Committed + spent",
+      "Within approved stage totals",
+      "Finance · Weekly"
+    ],
+    "encoding_review": "The flow expresses committed plus spent within approved stage totals."
+  }
+]

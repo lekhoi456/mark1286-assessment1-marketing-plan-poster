@@ -1,0 +1,554 @@
+{
+  "date": "2026-10-03",
+  "status": "Production draft of approved panel core; standalone panel geometry is proposed, not final A0 approval",
+  "approval": [
+    "D-037",
+    "D-040",
+    "D-041"
+  ],
+  "canvas": {
+    "width": 1600,
+    "height": 1120,
+    "units": "SVG user units",
+    "final_print_size": "Not established; integrate into the A0 proof before claiming legibility"
+  },
+  "display_heading": "Meet Green SM",
+  "visible_text": [
+    {
+      "id": "heading-meet",
+      "text": "Meet",
+      "x": 80,
+      "baseline_y": 165,
+      "anchor": "start",
+      "font_size": 90,
+      "role": "display",
+      "font_kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          80,
+          75,
+          264.5,
+          188.4
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "country-vietnam",
+      "text": "Vietnam",
+      "x": 151,
+      "baseline_y": 363,
+      "anchor": "middle",
+      "font_size": 32,
+      "role": "display",
+      "font_kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          101.75999999999999,
+          331,
+          200.24,
+          371.32
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "country-laos",
+      "text": "Laos",
+      "x": 333,
+      "baseline_y": 363,
+      "anchor": "middle",
+      "font_size": 32,
+      "role": "display",
+      "font_kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          303.72,
+          331,
+          362.28000000000003,
+          371.32
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "country-indonesia",
+      "text": "Indonesia",
+      "x": 515,
+      "baseline_y": 363,
+      "anchor": "middle",
+      "font_size": 32,
+      "role": "display",
+      "font_kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          458.26,
+          331,
+          571.74,
+          371.32
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "country-philippines",
+      "text": "Philippines",
+      "x": 697,
+      "baseline_y": 363,
+      "anchor": "middle",
+      "font_size": 32,
+      "role": "display",
+      "font_kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          634.26,
+          331,
+          759.74,
+          371.32
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "country-india",
+      "text": "India",
+      "x": 879,
+      "baseline_y": 363,
+      "anchor": "middle",
+      "font_size": 32,
+      "role": "display",
+      "font_kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          850.84,
+          331,
+          907.1600000000001,
+          371.32
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "country-kazakhstan",
+      "text": "Kazakhstan",
+      "x": 1061,
+      "baseline_y": 363,
+      "anchor": "middle",
+      "font_size": 32,
+      "role": "display",
+      "font_kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          988.5,
+          331,
+          1133.5,
+          371.32
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "country-denmark",
+      "text": "Denmark",
+      "x": 1243,
+      "baseline_y": 363,
+      "anchor": "middle",
+      "font_size": 32,
+      "role": "display",
+      "font_kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          1188.46,
+          331,
+          1297.54,
+          371.32
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "country-netherlands",
+      "text": "Netherlands",
+      "x": 1425,
+      "baseline_y": 363,
+      "anchor": "middle",
+      "font_size": 32,
+      "role": "display",
+      "font_kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          1353.42,
+          331,
+          1496.5800000000002,
+          371.32
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "vietnam-launch",
+      "text": "14/04/2023",
+      "x": 151,
+      "baseline_y": 406,
+      "anchor": "middle",
+      "font_size": 30,
+      "role": "display",
+      "font_kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 1,
+      "approx_bounds": [
+        [
+          42.85000000000001,
+          376,
+          259.15,
+          413.8
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "denmark-launch",
+      "text": "30/07/2026",
+      "x": 1243,
+      "baseline_y": 406,
+      "anchor": "middle",
+      "font_size": 30,
+      "role": "display",
+      "font_kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 1,
+      "approx_bounds": [
+        [
+          1132.45,
+          376,
+          1353.55,
+          413.8
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "vietnam-launch-citation",
+      "text": "(VietnamPlus, 2023a)",
+      "x": 151,
+      "baseline_y": 439,
+      "anchor": "middle",
+      "font_size": 23,
+      "role": "display",
+      "source_url": "https://en.vietnamplus.vn/first-electric-taxi-service-launched-in-hanoi-post251560.vnp",
+      "font_kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          49.124375,
+          416,
+          252.875625,
+          444.98
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "denmark-launch-citation",
+      "text": "(Green SM, 2026d)",
+      "x": 1243,
+      "baseline_y": 439,
+      "anchor": "middle",
+      "font_size": 23,
+      "role": "display",
+      "source_url": "https://www.greensm.com/dk-en/news/green-sm-officially-launches-fully-electric-taxi-service-in-denmark",
+      "font_kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          1151.129375,
+          416,
+          1334.870625,
+          444.98
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "footprint-context",
+      "text": "Eight markets · as at 26 September 2026 · Netherlands: pilot (Green SM, 2026a).",
+      "x": 800,
+      "baseline_y": 486,
+      "anchor": "middle",
+      "font_size": 28,
+      "role": "display",
+      "source_url": "https://www.greensm.com/vn-en/news/green-sm-van-hanh-thu-nghiem-tai-ha-lan-mo-rong-hien-dien-tai-chau-au",
+      "font_kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          346.67999999999995,
+          458,
+          1253.3200000000002,
+          493.28
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "service-line",
+      "text": "Green SM Car: app-booked electric taxi rides in Copenhagen",
+      "x": 800,
+      "baseline_y": 565,
+      "second_line_y": 616,
+      "anchor": "middle",
+      "font_size": 50,
+      "role": "display",
+      "wrap": [
+        "Green SM Car: app-booked electric taxi rides",
+        "in Copenhagen"
+      ],
+      "font_kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 1,
+      "approx_bounds": [
+        [
+          321.53125,
+          515,
+          1278.46875,
+          578.0
+        ],
+        [
+          645.0,
+          566,
+          955.0,
+          629.0
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "service-citation",
+      "text": "(Green SM Denmark ApS, no date b)",
+      "x": 800,
+      "baseline_y": 657,
+      "anchor": "middle",
+      "font_size": 28,
+      "role": "display",
+      "source_url": "https://www.greensm.com/dk-en/greensm-car",
+      "font_kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          604.3325,
+          629,
+          995.6675,
+          664.28
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "operating-model",
+      "text": "Owned fleet · Employed drivers",
+      "x": 800,
+      "baseline_y": 989,
+      "anchor": "middle",
+      "font_size": 50,
+      "role": "display",
+      "font_kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 1,
+      "approx_bounds": [
+        [
+          473.1875,
+          939,
+          1126.8125,
+          1002.0
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    },
+    {
+      "id": "operating-model-citation",
+      "text": "(Konkurrence- og Forbrugerstyrelsen, 2026b, p. 174)",
+      "x": 800,
+      "baseline_y": 1033,
+      "anchor": "middle",
+      "font_size": 28,
+      "role": "display",
+      "source_url": "https://kfst.dk/media/dhqlgp33/20260824-uber-dantaxi.pdf",
+      "font_kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "approx_bounds": [
+        [
+          508.205,
+          1005,
+          1091.795,
+          1040.28
+        ]
+      ],
+      "rendering": "Exact native glyph outlines; no font-family fallback"
+    }
+  ],
+  "authentic_logo": {
+    "file": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v02-2026-10-03-logo.svg",
+    "preview": null,
+    "source_key": "green-sm-denmark-aps-ndc",
+    "pdf_page": 1,
+    "native_pdf_rect_pt": [
+      39.746094,
+      57.910156,
+      122.234375,
+      78.53125
+    ],
+    "crop_viewbox": [
+      38.5,
+      56.5,
+      85,
+      23
+    ],
+    "extraction": "pdftocairo SVG: seven original logo drawing elements copied with two clip definitions; no redraw, tracing, recolouring or replacement typeface",
+    "textual_equivalent": "Green SM",
+    "placed_rect": [
+      314,
+      40,
+      510,
+      138
+    ]
+  },
+  "flags": [
+    "Vietnam",
+    "Laos",
+    "Indonesia",
+    "Philippines",
+    "India",
+    "Kazakhstan",
+    "Denmark",
+    "Netherlands"
+  ],
+  "dates": {
+    "Vietnam": "14/04/2023",
+    "Denmark": "30/07/2026"
+  },
+  "illustrations": {
+    "phone": "Symbolic booking interface without model lettering",
+    "taxi": "Stylised cyan electric MPV; no claim that a specific model operates in Denmark",
+    "flag_emblems": "Manually drawn vectors; Philippines/Kazakhstan emblems simplified for hand-drawn-style clarity"
+  },
+  "proposals_excluded": [
+    "Vietnamese origin",
+    "Full legal company name",
+    "Ninth country",
+    "Specific Danish Limo Green fleet identity"
+  ],
+  "sources": [
+    {
+      "key": "vietnamplus-2023a",
+      "pdf": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/04_references/vietnamplus-2023a-hanoi-launch.pdf",
+      "url": "https://en.vietnamplus.vn/first-electric-taxi-service-launched-in-hanoi-post251560.vnp",
+      "sha256": "9a5b0ced0e5907798abea9cc0bea3e0f96f4f592d4ef2e0bb1e200b19c3dd998",
+      "registered_verification": "match",
+      "registered_check_date": "2026-10-03",
+      "current_bytes_match": true
+    },
+    {
+      "key": "green-sm-2026a",
+      "pdf": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/04_references/green-sm-2026a-netherlands-pilot.pdf",
+      "url": "https://www.greensm.com/vn-en/news/green-sm-van-hanh-thu-nghiem-tai-ha-lan-mo-rong-hien-dien-tai-chau-au",
+      "sha256": "94c700b0f552ad67830c06255a5300a787f0801a577a58cb41ac39297375265d",
+      "registered_verification": "match",
+      "registered_check_date": "2026-10-03",
+      "current_bytes_match": true
+    },
+    {
+      "key": "green-sm-2026d",
+      "pdf": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/04_references/green-sm-2026d-denmark-launch.pdf",
+      "url": "https://www.greensm.com/dk-en/news/green-sm-officially-launches-fully-electric-taxi-service-in-denmark",
+      "sha256": "3913ee2f316d3ea75f561723c2f7f8d3f99b6a257b524071efc340f32a499a0e",
+      "registered_verification": "match",
+      "registered_check_date": "2026-10-03",
+      "current_bytes_match": true
+    },
+    {
+      "key": "green-sm-denmark-aps-ndb",
+      "pdf": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/04_references/green-sm-denmark-aps-ndb-green-sm-car.pdf",
+      "url": "https://www.greensm.com/dk-en/greensm-car",
+      "sha256": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b",
+      "registered_verification": "match",
+      "registered_check_date": "2026-10-03",
+      "current_bytes_match": true
+    },
+    {
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "pdf": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/04_references/konkurrence-og-forbrugerstyrelsen-2026b-uber-dantaxi-afgoerelse.pdf",
+      "url": "https://kfst.dk/media/dhqlgp33/20260824-uber-dantaxi.pdf",
+      "sha256": "309669803ffbe59f7d14609b297dc0945df9dc3f457664645e240645dece3ffb",
+      "registered_verification": "match",
+      "registered_check_date": "2026-10-03",
+      "current_bytes_match": true
+    },
+    {
+      "key": "green-sm-denmark-aps-ndc",
+      "pdf": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/04_references/green-sm-denmark-aps-ndc-story-and-humanity.pdf",
+      "url": "https://www.greensm.com/dk-en/about",
+      "sha256": "d836ff7cf0fbd96b5935514d79d7978e93b6db8b0c56fce0d7e694ab2c346187",
+      "registered_verification": "match",
+      "registered_check_date": "2026-10-03",
+      "current_bytes_match": true
+    }
+  ],
+  "generated_decoration": {
+    "tool": "built-in image_gen.imagegen",
+    "file": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v02-2026-10-03-art.png",
+    "raw_sha256": "1e4c74e55d7526be5651c3ce0a8db0bacd002bc68793cec7ec42a89879ed01c9",
+    "native_dimensions_px": [
+      2172,
+      724
+    ],
+    "original_file": "/Users/KHOILQ/.codex/generated_images/01a10028-2e2f-7a92-8df7-45fa2e0976f8/exec-2f524710-2115-409c-a418-fd72a2f1fdaf.png",
+    "prompt_file": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v02-2026-10-03-prompt.txt",
+    "style_reference": "/var/folders/j7/k3hwp19s0614s73_m5cj2hn80000gn/T/codex-clipboard-18eec81c-4572-4828-868e-e1f10d3009a6.png",
+    "alterations": "Raw generated PNG retained unchanged; only embedded in the SVG layout",
+    "style_reference_copy": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v02-2026-10-03-style-reference.png"
+  },
+  "version": "v02",
+  "style_authority": "shared-hand-drawn-style-revision-v01-2026-10-03.md",
+  "fonts": {
+    "heading": {
+      "file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "index": 0,
+      "sha256": "f6d3bd86dc094b705768129ca621055192764145270138f5a67be4b546f14fb3"
+    },
+    "body": {
+      "file": "/System/Library/Fonts/Noteworthy.ttc",
+      "index": 0,
+      "sha256": "7785163d9b841cc586d1e696fb4c16a657e16049b092e488a51003e74be8ec21"
+    },
+    "strong": {
+      "file": "/System/Library/Fonts/Noteworthy.ttc",
+      "index": 1,
+      "sha256": "7785163d9b841cc586d1e696fb4c16a657e16049b092e488a51003e74be8ec21"
+    }
+  },
+  "composition_source": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v02-2026-10-03-compose.py",
+  "text_editing": "Edit placement/text manifest or the owned composition source, regenerate native glyphs, then recheck exact copy; direct SVG glyph paths remain editable."
+}

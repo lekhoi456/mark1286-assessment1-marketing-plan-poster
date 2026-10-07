@@ -1,0 +1,195 @@
+{
+  "panel": 4,
+  "authority": "D-053/D-054",
+  "size": [
+    1800,
+    1180
+  ],
+  "text_objects": [
+    {
+      "text": "Brand & Promise",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 77,
+      "lines": [
+        {
+          "text": "Brand & Promise",
+          "x": 77,
+          "baseline": 128.0,
+          "advance": 478.94
+        }
+      ]
+    },
+    {
+      "text": "Global identity",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 48,
+      "lines": [
+        {
+          "text": "Global identity",
+          "x": 98,
+          "baseline": 240.0,
+          "advance": 255.84
+        }
+      ]
+    },
+    {
+      "text": "Copenhagen promise",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 48,
+      "lines": [
+        {
+          "text": "Copenhagen promise",
+          "x": 847,
+          "baseline": 239.0,
+          "advance": 360.96
+        }
+      ]
+    },
+    {
+      "text": "Teal / cyan",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 36,
+      "lines": [
+        {
+          "text": "Teal / cyan",
+          "x": 470,
+          "baseline": 558.0,
+          "advance": 161.06
+        }
+      ]
+    },
+    {
+      "text": "Yellow-gold",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 36,
+      "lines": [
+        {
+          "text": "Yellow-gold",
+          "x": 470,
+          "baseline": 686.0,
+          "advance": 155.25
+        }
+      ]
+    },
+    {
+      "text": "One brand across markets.",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 41,
+      "lines": [
+        {
+          "text": "One brand across",
+          "x": 347,
+          "baseline": 823,
+          "advance": 281.16
+        },
+        {
+          "text": "markets.",
+          "x": 347,
+          "baseline": 888,
+          "advance": 134.43
+        }
+      ]
+    },
+    {
+      "text": "(Green SM, 2026f; Green SM Denmark ApS, no date c)",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 28,
+      "lines": [
+        {
+          "text": "(Green SM, 2026f; Green SM Denmark ApS, no date c)",
+          "x": 88,
+          "baseline": 1055,
+          "advance": 613.2
+        }
+      ]
+    },
+    {
+      "text": "Proposed promise",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 31,
+      "lines": [
+        {
+          "text": "Proposed promise",
+          "x": 850,
+          "baseline": 310.0,
+          "advance": 211.73
+        }
+      ]
+    },
+    {
+      "text": "Clear terms. Local care.",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 54,
+      "lines": [
+        {
+          "text": "Clear terms.",
+          "x": 1004,
+          "baseline": 446,
+          "advance": 244.08
+        },
+        {
+          "text": "Local care.",
+          "x": 1004,
+          "baseline": 537,
+          "advance": 211.14
+        }
+      ]
+    },
+    {
+      "text": "For self-paying Copenhagen riders who value trip control and fair treatment.",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 39,
+      "lines": [
+        {
+          "text": "For self-paying Copenhagen riders who value trip",
+          "x": 845,
+          "baseline": 665,
+          "advance": 721.5
+        },
+        {
+          "text": "control and fair treatment.",
+          "x": 845,
+          "baseline": 727,
+          "advance": 392.88
+        }
+      ]
+    },
+    {
+      "text": "Danish first \u00b7 English second",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 36,
+      "lines": [
+        {
+          "text": "Danish first \u00b7 English second",
+          "x": 849,
+          "baseline": 852.0,
+          "advance": 390.15
+        }
+      ]
+    },
+    {
+      "text": "Same promise across campaign channels.",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 36,
+      "lines": [
+        {
+          "text": "Same promise across campaign",
+          "x": 849,
+          "baseline": 928,
+          "advance": 428.13
+        },
+        {
+          "text": "channels.",
+          "x": 849,
+          "baseline": 989,
+          "advance": 123.21
+        }
+      ]
+    }
+  ],
+  "official_logo": "07_drafts/design/panel-01-production-v01-2026-10-03-logo.png",
+  "art_sha256": "fa94fd37d8d556dbeea383e4213e515641b266ac12b3af837f03d0d331a906fa",
+  "logo_sha256": "6a33a503aa903020e5dd8228634b78c2cc1492431969295bd7ae00f7655f44d0",
+  "fonts_embedded": false,
+  "font_glyphs_are_paths": true
+}

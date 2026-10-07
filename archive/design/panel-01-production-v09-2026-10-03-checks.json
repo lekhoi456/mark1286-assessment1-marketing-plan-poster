@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-03",
+  "authority": "D-063",
+  "prior_ordinary_face_objects_retained": 15,
+  "new_ordinary_face_strings": [
+    "Vingroup-backed",
+    "Founded March 2023"
+  ],
+  "ordinary_face_objects_now": 17,
+  "all_prior_strings_font_sizes_glyph_geometry_and_positions_unchanged": true,
+  "all_prior_svg_objects_except_nonvisual_description_unchanged": true,
+  "nine_flags_order_geometry_positions_and_annotations_unchanged": true,
+  "authentic_green_sm_logo_and_heading_unchanged": true,
+  "native_car_art_and_controlled_full_vinfast_wordmark_unchanged": true,
+  "raw_art_sha256": "00069599bfd5c0aafe5a03c8f0602ae91176eb10c497294219672de015874a79",
+  "new_callout_font": "Noteworthy Light, explicit native glyph paths, 32 SVG units",
+  "generic_building_and_calendar_icons_not_company_logos": true,
+  "new_raster_edit_or_generation": false,
+  "optional_ev_labels_added": false,
+  "background_source": {
+    "key": "green-future-usa-inc-ndc",
+    "evidence_id": "E-199",
+    "physical_page": 2,
+    "verification": "Parent source inspection/automatic identity match reused; no independent section audit"
+  },
+  "meaning_preserved": [
+    "Backing, not legal subsidiary ownership",
+    "March foundation distinct from April taxi launch"
+  ],
+  "full_png_px": [
+    2400,
+    1680
+  ],
+  "header_crop_png_px": [
+    2235,
+    248
+  ],
+  "manual_inspection": {
+    "full_png": "Inspected actual full PNG: callout readable in upper-right, icon/type palette consistent, no collisions with title/logo/flags, other content intact",
+    "header_crop": "Inspected actual header crop: both exact lines and generic icons visible with clear spacing; no overlap or clipping observed"
+  },
+  "limits": [
+    "Student final imagery acceptance pending",
+    "Physical A0 fit/readability untested"
+  ],
+  "gate": "Narrow D-063 preservation/placement check only; existing fragment wording check reused, no broad rerun."
+}

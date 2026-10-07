@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-03",
+  "exact_text_objects": 18,
+  "matches_previous_approved_strings": true,
+  "flag_count": 8,
+  "flag_order": [
+    "Vietnam",
+    "Laos",
+    "Indonesia",
+    "Philippines",
+    "India",
+    "Kazakhstan",
+    "Denmark",
+    "Netherlands"
+  ],
+  "dates": {
+    "Vietnam": "14/04/2023",
+    "Denmark": "30/07/2026"
+  },
+  "source_links": [
+    "https://en.vietnamplus.vn/first-electric-taxi-service-launched-in-hanoi-post251560.vnp",
+    "https://www.greensm.com/dk-en/news/green-sm-officially-launches-fully-electric-taxi-service-in-denmark",
+    "https://www.greensm.com/vn-en/news/green-sm-van-hanh-thu-nghiem-tai-ha-lan-mo-rong-hien-dien-tai-chau-au",
+    "https://www.greensm.com/dk-en/greensm-car",
+    "https://kfst.dk/media/dhqlgp33/20260824-uber-dantaxi.pdf"
+  ],
+  "authentic_logo_paths_unchanged": true,
+  "logo_asset_bytes_unchanged": true,
+  "source_hash_count_matching": 6,
+  "handwriting_glyph_fonts": {
+    "heading": {
+      "file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "index": 0,
+      "sha256": "f6d3bd86dc094b705768129ca621055192764145270138f5a67be4b546f14fb3"
+    },
+    "body": {
+      "file": "/System/Library/Fonts/Noteworthy.ttc",
+      "index": 0,
+      "sha256": "7785163d9b841cc586d1e696fb4c16a657e16049b092e488a51003e74be8ec21"
+    },
+    "strong": {
+      "file": "/System/Library/Fonts/Noteworthy.ttc",
+      "index": 1,
+      "sha256": "7785163d9b841cc586d1e696fb4c16a657e16049b092e488a51003e74be8ec21"
+    }
+  },
+  "visible_svg_text_elements": 0,
+  "font_substitution_possible": false,
+  "generated_art_raw_bytes_unchanged": true,
+  "generated_art_native_px": [
+    2172,
+    724
+  ],
+  "generated_art_alpha_range": [
+    0,
+    255
+  ],
+  "main_preview_px": [
+    2400,
+    1680
+  ],
+  "small_proof_px": [
+    960,
+    672
+  ],
+  "text_horizontal_margin_bounds_checked": "All metric bounds remain within x=35–1565 on the 1600-unit canvas",
+  "manual_inspection": {
+    "main_png": "Inspected after correction: all lettering handwritten, thin pen/marker flags/frame, simpler generated drawing; no observed clipping or overlap",
+    "small_proof": "Inspected at 960×672: selected wording, dates and source notes legible on screen",
+    "provided_oura_reference": "Inspected for simple hand-inked/marker language only",
+    "parent_panel_4": "Inspected read-only for matching handwriting and palette"
+  },
+  "baseline_gate": "No copy change. Prior 58-word fragment/checker result retained; no broad or repeated writing gate run.",
+  "limits": [
+    "Actual A0 proof not run",
+    "Student acceptance pending",
+    "Vietnamese origin label not approved",
+    "No human redraw claimed"
+  ]
+}

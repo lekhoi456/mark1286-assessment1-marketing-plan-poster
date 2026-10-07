@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-03",
+  "authority": [
+    "D-055",
+    "LG-004"
+  ],
+  "selected_text_objects_before": 18,
+  "selected_text_objects_after": 14,
+  "unchanged_retained_strings": 13,
+  "authorised_mixed_line_amendment": "Eight markets · as at 26 September 2026 · Netherlands: pilot.",
+  "rendered_glyph_strings_match_manifest": true,
+  "citation_only_objects_removed": [
+    "vietnam-launch-citation",
+    "denmark-launch-citation",
+    "service-citation",
+    "operating-model-citation"
+  ],
+  "visible_author_year_page_footers": 0,
+  "visible_svg_text_elements": 0,
+  "visible_svg_source_link_objects": 0,
+  "flag_count": 8,
+  "flag_order": [
+    "Vietnam",
+    "Laos",
+    "Indonesia",
+    "Philippines",
+    "India",
+    "Kazakhstan",
+    "Denmark",
+    "Netherlands"
+  ],
+  "flag_vectors_unchanged": true,
+  "dates": {
+    "Vietnam": "14/04/2023",
+    "Denmark": "30/07/2026"
+  },
+  "service_line": "Green SM Car: app-booked electric taxi rides in Copenhagen",
+  "operating_model": "Owned fleet · Employed drivers",
+  "authentic_logo_subtree_unchanged": true,
+  "authentic_logo_asset_bytes_unchanged": true,
+  "logo_source_key": "green-sm-denmark-aps-ndc",
+  "logo_pdf_page": 1,
+  "generated_art_bytes_unchanged": true,
+  "embedded_art_bytes_match_saved_asset": true,
+  "generated_art_sha256": "1e4c74e55d7526be5651c3ce0a8db0bacd002bc68793cec7ec42a89879ed01c9",
+  "generated_art_native_px": [
+    2172,
+    724
+  ],
+  "generated_art_alpha_range": [
+    0,
+    255
+  ],
+  "new_image_generation": false,
+  "source_records_preserved": true,
+  "current_source_hashes": [
+    {
+      "key": "vietnamplus-2023a",
+      "sha256": "9a5b0ced0e5907798abea9cc0bea3e0f96f4f592d4ef2e0bb1e200b19c3dd998",
+      "matches_preserved_record": true
+    },
+    {
+      "key": "green-sm-2026a",
+      "sha256": "94c700b0f552ad67830c06255a5300a787f0801a577a58cb41ac39297375265d",
+      "matches_preserved_record": true
+    },
+    {
+      "key": "green-sm-2026d",
+      "sha256": "3913ee2f316d3ea75f561723c2f7f8d3f99b6a257b524071efc340f32a499a0e",
+      "matches_preserved_record": true
+    },
+    {
+      "key": "green-sm-denmark-aps-ndb",
+      "sha256": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b",
+      "matches_preserved_record": true
+    },
+    {
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "sha256": "309669803ffbe59f7d14609b297dc0945df9dc3f457664645e240645dece3ffb",
+      "matches_preserved_record": true
+    },
+    {
+      "key": "green-sm-denmark-aps-ndc",
+      "sha256": "d836ff7cf0fbd96b5935514d79d7978e93b6db8b0c56fce0d7e694ab2c346187",
+      "matches_preserved_record": true
+    }
+  ],
+  "handwriting_fonts": {
+    "heading": {
+      "file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "index": 0,
+      "sha256": "f6d3bd86dc094b705768129ca621055192764145270138f5a67be4b546f14fb3",
+      "current_hash_matches": true
+    },
+    "body": {
+      "file": "/System/Library/Fonts/Noteworthy.ttc",
+      "index": 0,
+      "sha256": "7785163d9b841cc586d1e696fb4c16a657e16049b092e488a51003e74be8ec21",
+      "current_hash_matches": true
+    },
+    "strong": {
+      "file": "/System/Library/Fonts/Noteworthy.ttc",
+      "index": 1,
+      "sha256": "7785163d9b841cc586d1e696fb4c16a657e16049b092e488a51003e74be8ec21",
+      "current_hash_matches": true
+    }
+  },
+  "font_family_fallback_possible": false,
+  "main_preview_px": [
+    2400,
+    1680
+  ],
+  "small_proof_px": [
+    960,
+    672
+  ],
+  "display_markdown_has_no_citation_footers": true,
+  "text_horizontal_margin_bounds": "All recorded metric bounds within x=35–1565 on the 1600-unit canvas",
+  "manual_inspection": {
+    "main_png": "Inspected final full render: eight flags, dates, exact qualifiers/service/model and official logo retained; no visible citation footers; no observed clipping or overlap",
+    "small_proof": "Inspected final 960×672 view: exact selected text and dates remain readable on screen; no citation footer present"
+  },
+  "writing_gate": "Focused citation-display/string/integrity amendment only. No complete-poster gate pass claimed; no protected checker changed. Previous fragment gate is not represented as a pass for this revised citation-free display.",
+  "limits": [
+    "Student image acceptance pending",
+    "Actual A0 integration and physical print legibility untested",
+    "Optional Vietnamese origin label unapproved and absent",
+    "Separate reference-list packaging not waived"
+  ]
+}

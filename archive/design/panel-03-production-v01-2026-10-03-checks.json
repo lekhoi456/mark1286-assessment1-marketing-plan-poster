@@ -1,0 +1,51 @@
+{
+  "status": "passed focused fidelity checks",
+  "checks": {
+    "heading": true,
+    "subtitle": true,
+    "qualifier": true,
+    "positioning-statement": true,
+    "benefit-clear": true,
+    "benefit-care": true,
+    "service-label": true,
+    "green-sm-model": true,
+    "citation": true,
+    "delivery-label": true,
+    "delivery-plan": true,
+    "clear-terms-complete-phrase": true,
+    "local-care-complete-phrase": true,
+    "green-sm-comparison-reconstructed": true,
+    "rival-comparison-reconstructed": true,
+    "single-plan-qualifier": true,
+    "optional-caption-excluded-from-copy-and-image": true,
+    "source-PDF-current-hash-matches-registry": true,
+    "generated-sheet-embedded-unchanged": true,
+    "authentic-logo-embedded-unchanged": true,
+    "render-size-matches-manifest": true
+  },
+  "all_checks_pass": true,
+  "checked_master": "panel-03-selected-content-and-visual-v01-2026-10-03.md",
+  "image_px": [
+    1800,
+    1460
+  ],
+  "png_sha256": "5a0f98d7686be27a86033addd47cc766e8f0719a1a90783120ccba32834adb7e",
+  "svg_sha256": "e73051a8a992d5b5efb597227fd1afe2a433b14688813b639c0ee04eabdd9eba",
+  "writing_fragment_words": 101,
+  "writing_gate_exit": 2,
+  "writing_gate_limitations": [
+    "Missing whole-poster budget table marker",
+    "Missing whole-poster KPI table marker"
+  ],
+  "visual_review": [
+    "Generated art visually inspected for absent lettering and intended subject/style",
+    "Complete PNG inspected after removing a neighbouring driver-sprite sliver from focal crop",
+    "No observed text clipping or overlap in complete screen preview"
+  ],
+  "unverified": [
+    "Full A0 vehicle-panel fit",
+    "Physical print legibility",
+    "Whole-poster gate",
+    "Actual service delivery or customer response"
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "section": 10,
+  "status": "delegated candidate; parent selection pending; no group approval",
+  "copy_source": "10-copy-v01-2026-10-04.md",
+  "copy_sha256": "1a4209849ba59c92f84f85ee4187f03caf70099f17ade9bd22672efc2f3aa9f0",
+  "canvas_px": [
+    1900,
+    1640
+  ],
+  "text_objects": [
+    {
+      "id": "text-000",
+      "text": "10. Business Goals & Growth",
+      "font": "MarkerFelt-Thin",
+      "font_size": 92,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "heading",
+      "owner": null,
+      "lines": [
+        {
+          "text": "10. Business Goals & Growth",
+          "bbox": [
+            88.856,
+            45.548,
+            1128.5479999999998,
+            126.416
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-001",
+      "text": "Proposed 12-month plan",
+      "font": "Noteworthy-Light",
+      "font_size": 40,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "proposal-qualifier",
+      "owner": null,
+      "lines": [
+        {
+          "text": "Proposed 12-month plan",
+          "bbox": [
+            83.5,
+            176.45,
+            445.1,
+            224.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-002",
+      "text": "Stable Copenhagen operation",
+      "font": "MarkerFelt-Thin",
+      "font_size": 52,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "business-goal",
+      "owner": "stable-service",
+      "lines": [
+        {
+          "text": "Stable Copenhagen operation",
+          "bbox": [
+            390.468,
+            249.788,
+            990.6584999999999,
+            304.336
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-003",
+      "text": "O4 service integrity · Stage gates",
+      "font": "Noteworthy-Light",
+      "font_size": 39,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "marketing-objective",
+      "owner": "stable-service",
+      "lines": [
+        {
+          "text": "O4 service integrity ·",
+          "bbox": [
+            392.17,
+            342.655,
+            707.72875,
+            387.84625
+          ]
+        },
+        {
+          "text": "Stage gates",
+          "bbox": [
+            391.975,
+            392.2825,
+            562.45375,
+            437.425
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-004",
+      "text": "Establish stable service before rapid expansion. Raise spend only when completion, cancellation and local-help standards hold.",
+      "font": "Noteworthy-Light",
+      "font_size": 39,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "marketing-action",
+      "owner": "stable-service",
+      "lines": [
+        {
+          "text": "Establish stable service before rapid expansion. Raise",
+          "bbox": [
+            919.4625,
+            323.31375,
+            1692.49125,
+            370.26
+          ]
+        },
+        {
+          "text": "spend only when completion, cancellation and local-help",
+          "bbox": [
+            919.21875,
+            373.2825,
+            1725.5437499999998,
+            420.18
+          ]
+        },
+        {
+          "text": "standards hold.",
+          "bbox": [
+            919.21875,
+            423.20250000000004,
+            1136.4975,
+            458.93625000000003
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-005",
+      "text": "Become known locally",
+      "font": "MarkerFelt-Thin",
+      "font_size": 52,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "business-goal",
+      "owner": "local-awareness",
+      "lines": [
+        {
+          "text": "Become known locally",
+          "bbox": [
+            391.196,
+            490.672,
+            849.5012499999999,
+            542.776
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-006",
+      "text": "O1 awareness · O2 paid trial",
+      "font": "Noteworthy-Light",
+      "font_size": 39,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "marketing-objective",
+      "owner": "local-awareness",
+      "lines": [
+        {
+          "text": "O1 awareness · O2 paid trial",
+          "bbox": [
+            392.17,
+            582.3625,
+            810.59125,
+            629.26
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-007",
+      "text": "Use search and social to win first paid rides. Release street screens (DOOH) only after service and repeat gates pass.",
+      "font": "Noteworthy-Light",
+      "font_size": 39,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "marketing-action",
+      "owner": "local-awareness",
+      "lines": [
+        {
+          "text": "Use search and social to win first paid rides. Release",
+          "bbox": [
+            919.70625,
+            563.31375,
+            1690.8825,
+            610.26
+          ]
+        },
+        {
+          "text": "street screens (DOOH) only after service and repeat gates",
+          "bbox": [
+            919.21875,
+            610.9912499999999,
+            1782.4837499999996,
+            660.18
+          ]
+        },
+        {
+          "text": "pass.",
+          "bbox": [
+            919.21875,
+            673.1962500000001,
+            990.29625,
+            710.1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-008",
+      "text": "Green, convenient, sustainable mobility",
+      "font": "MarkerFelt-Thin",
+      "font_size": 52,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "business-goal",
+      "owner": "electric-mission",
+      "lines": [
+        {
+          "text": "Green, convenient, sustainable mobility",
+          "bbox": [
+            391.04,
+            730.5674468085107,
+            1207.0012499999998,
+            782.776
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-009",
+      "text": "O2 paid trial · O3 repeat",
+      "font": "Noteworthy-Light",
+      "font_size": 39,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "marketing-objective",
+      "owner": "electric-mission",
+      "lines": [
+        {
+          "text": "O2 paid trial · O3 repeat",
+          "bbox": [
+            392.17,
+            822.21625,
+            765.0587499999999,
+            869.26
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-010",
+      "text": "Make app-booked electric rides easy to understand and use.",
+      "font": "Noteworthy-Light",
+      "font_size": 39,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "marketing-action",
+      "owner": "electric-mission",
+      "lines": [
+        {
+          "text": "Make app-booked electric rides easy to understand and",
+          "bbox": [
+            919.70625,
+            803.265,
+            1727.5912500000002,
+            850.26
+          ]
+        },
+        {
+          "text": "use.",
+          "bbox": [
+            919.229347826087,
+            865.275,
+            972.35625,
+            888.04125
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-011",
+      "text": "Long-term sustainable growth",
+      "font": "MarkerFelt-Thin",
+      "font_size": 52,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "business-goal",
+      "owner": "repeat-growth",
+      "lines": [
+        {
+          "text": "Long-term sustainable growth",
+          "bbox": [
+            391.092,
+            969.788,
+            1029.236,
+            1022.6135
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-012",
+      "text": "O3 repeat",
+      "font": "Noteworthy-Light",
+      "font_size": 39,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "marketing-objective",
+      "owner": "repeat-growth",
+      "lines": [
+        {
+          "text": "O3 repeat",
+          "bbox": [
+            392.17,
+            1062.21625,
+            547.0487499999999,
+            1109.26
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-013",
+      "text": "Scale only on mature-cohort repeat evidence. Keep service and contribution under review.",
+      "font": "Noteworthy-Light",
+      "font_size": 39,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "marketing-action",
+      "owner": "repeat-growth",
+      "lines": [
+        {
+          "text": "Scale only on mature-cohort repeat evidence. Keep service",
+          "bbox": [
+            918.975,
+            1043.3625,
+            1774.83,
+            1090.26
+          ]
+        },
+        {
+          "text": "and contribution under review.",
+          "bbox": [
+            919.21875,
+            1093.6725000000001,
+            1358.06625,
+            1129.0162500000001
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-014",
+      "text": "M12: decide year two",
+      "font": "MarkerFelt-Thin",
+      "font_size": 52,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "decision-heading",
+      "owner": "m12",
+      "lines": [
+        {
+          "text": "M12: decide year two",
+          "bbox": [
+            104.496,
+            1293.516,
+            552.788,
+            1345.776
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-015",
+      "text": "Review O1 to O4, service delivery and contribution evidence.",
+      "font": "Noteworthy-Light",
+      "font_size": 40,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "decision-evidence",
+      "owner": "m12",
+      "lines": [
+        {
+          "text": "Review O1 to O4, service delivery and contribution evidence.",
+          "bbox": [
+            103.5,
+            1367.45,
+            1023.0500000000001,
+            1414.15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-016",
+      "text": "Renew · Revise · Stop",
+      "font": "MarkerFelt-Thin",
+      "font_size": 54,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "role": "decision-options",
+      "owner": "m12",
+      "lines": [
+        {
+          "text": "Renew · Revise · Stop",
+          "bbox": [
+            108.35,
+            1441.612,
+            561.95,
+            1497.772
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text-017",
+      "text": "The year-one model does not break even.",
+      "font": "Noteworthy-Light",
+      "font_size": 39,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "role": "economic-limit",
+      "owner": "m12",
+      "lines": [
+        {
+          "text": "The year-one model does not break even.",
+          "bbox": [
+            956.6825,
+            1450.265,
+            1557.8674999999998,
+            1495.84625
+          ]
+        }
+      ]
+    }
+  ],
+  "frames": [
+    {
+      "id": "outer-pen-frame",
+      "bounds": [
+        30,
+        30,
+        1870,
+        1610
+      ]
+    },
+    {
+      "id": "m12-decision-frame",
+      "bounds": [
+        77,
+        1270,
+        1823,
+        1561
+      ]
+    }
+  ],
+  "raster_placements": [
+    {
+      "id": "stable-service",
+      "source": [
+        0,
+        0,
+        768,
+        512
+      ],
+      "target": [
+        57,
+        263,
+        310,
+        207
+      ],
+      "role": "conceptual decorative scene"
+    },
+    {
+      "id": "local-awareness",
+      "source": [
+        768,
+        0,
+        768,
+        512
+      ],
+      "target": [
+        57,
+        503,
+        310,
+        207
+      ],
+      "role": "conceptual decorative scene"
+    },
+    {
+      "id": "electric-mission",
+      "source": [
+        0,
+        512,
+        768,
+        512
+      ],
+      "target": [
+        57,
+        743,
+        310,
+        207
+      ],
+      "role": "conceptual decorative scene"
+    },
+    {
+      "id": "repeat-growth",
+      "source": [
+        768,
+        512,
+        768,
+        512
+      ],
+      "target": [
+        57,
+        983,
+        310,
+        207
+      ],
+      "role": "conceptual decorative scene"
+    }
+  ],
+  "art_asset": "10-candidate-v01-2026-10-04-generated-art.png",
+  "art_sha256": "5c76d82d66a0da3f2756bde48e0e74ff653c3207478650dfeb83805cae4c4f4e",
+  "art_dimensions": [
+    1536,
+    1024
+  ],
+  "art_mode": "RGBA",
+  "art_alpha_extrema": [
+    0,
+    254
+  ],
+  "render_source": "10-candidate-v01-2026-10-04-render.py",
+  "layout_source": "10-candidate-v01-2026-10-04-layout.py",
+  "glyph_source": "10-candidate-v01-2026-10-04-glyphs.swift",
+  "native_image_calls": 1,
+  "native_output_original": "/Users/KHOILQ/.codex/generated_images/01a10052-be76-7750-8e04-af9a43fd23fe/exec-8fe94f34-9d43-4360-a4c5-b9e11ad9023f.png",
+  "citation_visible": false,
+  "logo_used": false,
+  "source_basis": "Approved integrated-plan-copenhagen.md section12; section10 gates/objectives; Section8 current v01",
+  "evidence_ids": [
+    "E-020",
+    "E-021",
+    "E-185"
+  ],
+  "objective_mapping": {
+    "stable-service": [
+      "O4 service integrity",
+      "stage gates"
+    ],
+    "local-awareness": [
+      "O1 awareness",
+      "O2 paid trial"
+    ],
+    "electric-mission": [
+      "O2 paid trial",
+      "O3 repeat"
+    ],
+    "repeat-growth": [
+      "O3 repeat"
+    ]
+  },
+  "registered_concepts": [
+    "alignment-with-objectives",
+    "long-term-sustainable-growth",
+    "retention-over-acquisition"
+  ],
+  "source_claim_boundaries": [
+    "Electric rides support mission; no lifecycle savings claim",
+    "Business-objective context does not prove Copenhagen results",
+    "Year-one model does not break even",
+    "Stage gates and repeat evidence constrain scale; not automatic expansion"
+  ],
+  "whole_poster_or_print_verified": false,
+  "internal_source_records": [
+    {
+      "key": "green-sm-denmark-aps-ndc",
+      "pdf": "../04_references/green-sm-denmark-aps-ndc-story-and-humanity.pdf",
+      "physical_pages": [
+        1
+      ],
+      "evidence_ids": [
+        "E-185"
+      ],
+      "sha256": "d836ff7cf0fbd96b5935514d79d7978e93b6db8b0c56fce0d7e694ab2c346187",
+      "inherited_verification_date": "2026-10-03",
+      "new_live_verification": false
+    },
+    {
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "pdf": "../04_references/konkurrence-og-forbrugerstyrelsen-2026b-uber-dantaxi-afgoerelse.pdf",
+      "physical_pages": [
+        175,
+        179
+      ],
+      "evidence_ids": [
+        "E-020",
+        "E-021"
+      ],
+      "sha256": "309669803ffbe59f7d14609b297dc0945df9dc3f457664645e240645dece3ffb",
+      "inherited_verification_date": "2026-10-03",
+      "new_live_verification": false
+    }
+  ]
+}

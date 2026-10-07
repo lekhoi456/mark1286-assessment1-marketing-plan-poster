@@ -1,0 +1,44 @@
+{
+  "authority": "D-053/D-055/D-056/D-073",
+  "scope": "Heading-only amendment; body, art and source mapping retained.",
+  "checks": {
+    "exact numbered heading": true,
+    "eleven controlled text objects retained": true,
+    "ten non-heading strings and complete placement records identical": true,
+    "heading font file and size identical": true,
+    "heading x and baseline identical": true,
+    "heading rotation and ink identical": true,
+    "retained heading glyph shapes identical": true,
+    "heading remains inside retained underline width": true,
+    "all non-heading SVG bytes identical": true,
+    "exact display-copy amendment only": true,
+    "official logo file and SHA-256 retained": true,
+    "original generated art file and SHA-256 retained": true,
+    "internal E-010 E-185 source mapping identical": true,
+    "citation removal and display policy retained": true,
+    "canvas dimensions identical": true,
+    "actual PNG has a visible heading difference": true,
+    "all changed PNG pixels confined to heading": true,
+    "glyphs are controlled paths with no font redistribution": true
+  },
+  "all_pass": true,
+  "changed_pixel_count": 18978,
+  "changed_pixel_bbox_exclusive": [
+    77,
+    62,
+    635,
+    132
+  ],
+  "permitted_heading_envelope": [
+    60,
+    50,
+    700,
+    144
+  ],
+  "new_heading_advance": 556.71,
+  "old_png_sha256": "6e0a4a7e9a42620b7b3d45b1411f52224b75513bb83ccf6c31eabd3dd6093ea5",
+  "new_png_sha256": "97c297aec4f0d5be76cbbaaa8bbbc5384e353fc3506f0d4c0246ef64e8d455f4",
+  "physical_A0_tested": false,
+  "whole_poster_gate_run": false,
+  "user_image_approval_inferred": false
+}

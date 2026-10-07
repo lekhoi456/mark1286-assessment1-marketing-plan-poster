@@ -1,0 +1,111 @@
+{
+  "status": "passed focused fidelity and style-production checks",
+  "date": "2026-10-03",
+  "checks": {
+    "copy-byte-identical-to-checked-v01": true,
+    "approved-heading": true,
+    "approved-subtitle": true,
+    "approved-qualifier": true,
+    "approved-positioning-statement": true,
+    "approved-benefit-clear": true,
+    "approved-benefit-care": true,
+    "approved-service-label": true,
+    "approved-citation": true,
+    "approved-delivery-label": true,
+    "approved-delivery-plan": true,
+    "approved-benefit-service-area": true,
+    "approved-benefit-trip-reference": true,
+    "green-sm-comparison-reconstructed": true,
+    "rival-comparison-reconstructed": true,
+    "all-layout-strings-match-manifest": true,
+    "single-proposed-position-qualifier": true,
+    "optional-caption-excluded-from-display": true,
+    "no-svg-text-fallback": true,
+    "explicit-handwriting-fonts-only": true,
+    "all-display-glyphs-present-in-local-fonts": true,
+    "source-PDF-current-hash-matches-verified-registry": true,
+    "source-PDF-path-matches-registry": true,
+    "source-pages-and-evidence-unchanged": true,
+    "generated-sheet-embedded-unchanged": true,
+    "authentic-logo-embedded-unchanged": true,
+    "both-native-image-outputs-preserved-byte-for-byte": true,
+    "asset-hashes-match-manifest": true,
+    "explicit-source-clip-service-area-icon": true,
+    "explicit-source-clip-hours-icon": true,
+    "explicit-source-clip-fare-icon": true,
+    "explicit-source-clip-trip-reference-icon": true,
+    "explicit-source-clip-local-help-icon": true,
+    "explicit-source-clip-green-sm-focal": true,
+    "explicit-source-clip-uber-neutral": true,
+    "explicit-source-clip-bolt-neutral": true,
+    "explicit-source-clip-owned-fleet": true,
+    "explicit-source-clip-employed-driver": true,
+    "focal-and-fare-custom-clips-present": true,
+    "render-size-matches-manifest": true,
+    "render-helper-current-hash-recorded": true,
+    "generated-art-genuine-alpha": true
+  },
+  "all_checks_pass": true,
+  "checked_master": "panel-03-selected-content-and-visual-v01-2026-10-03.md",
+  "image_px": [
+    1800,
+    1488
+  ],
+  "png_sha256": "83dce6ff613ad8693e3d2ba012997caf482cc6781e70547ff63bba6da4528be6",
+  "svg_sha256": "01af713166269addbcb601d1de13b393be873e6c51a8d28355c846dcfc8cd8c5",
+  "generated_art_sha256": {
+    "initial": "4a22e44693def27d67e1a7a2b016e34502f6f7917f862b1ebf5e1d093e5bb5be",
+    "final": "8aa7b149a9a3558690e4584fd1a34b37e02eec6f06676e6ab5a02cfa158d17ea"
+  },
+  "source_pdf_sha256": "309669803ffbe59f7d14609b297dc0945df9dc3f457664645e240645dece3ffb",
+  "missing_font_glyphs": {},
+  "writing_gate": {
+    "rerun": false,
+    "reason": "Approved-copy Markdown is byte-identical to the checked v01 fragment; shared revision guide permits baseline checks when wording is unchanged.",
+    "baseline_result": "panel-03-production-v01-2026-10-03-writing-check.json",
+    "poster_fragment_words": 101,
+    "baseline_exit": 2,
+    "effective_inherited_hard": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "expected_fragment_errors": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ],
+    "whole_poster_pass_claimed": false
+  },
+  "visual_review": [
+    "Native generated sheet inspected: simple side-view car/blank phone, flat marker strokes, neutral grey rival cars; no observed words, digits or logos",
+    "Final complete 1800 x 1488 PNG inspected: full statement, qualifier, benefits, factual comparison, citation and Delivery plan present",
+    "Footer extended; Delivery plan text clears the bottom frame with descender space",
+    "Receipt neighbour sliver and tiny central cyan sliver removed using source-coordinate clips; raster bytes unchanged",
+    "900 x 744 SVG-rendered preview inspected: headings, offer, benefits, comparison and citation readable on screen; no observed clipping or overlap",
+    "Four-panel family comparison remains parent-owned; this check covers the isolated smaller section view only"
+  ],
+  "unverified": [
+    "Whole A0 integration and vehicle-panel fit",
+    "Physical print legibility/viewing distance",
+    "Student acceptance of revised imagery",
+    "Whole-poster writing gate",
+    "Actual service delivery or customer response"
+  ],
+  "generated_image_metadata": {
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_note": "True transparency is present; maximum alpha 254 is retained unchanged from the native output, rather than forced opaque."
+  }
+}

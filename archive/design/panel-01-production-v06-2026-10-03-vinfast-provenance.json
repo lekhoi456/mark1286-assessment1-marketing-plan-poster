@@ -1,0 +1,34 @@
+{
+  "origin": "Student-supplied SVG artwork",
+  "original_file": "/Users/khoilq/Downloads/Logo_of_VinFast_(3D).svg",
+  "file": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v06-2026-10-03-vinfast-full-logo.svg",
+  "source_sha256": "9d676729f71ddfcc6322c368ca1d446b1047fff3afc50cf847f22b5c67941f00",
+  "source_bytes": 2327942,
+  "copy_bytes_unchanged": true,
+  "viewbox": [
+    0,
+    0,
+    32,
+    33
+  ],
+  "components": [
+    "Silver V emblem",
+    "Intrinsic VINFAST wordmark paths"
+  ],
+  "path_count": 14,
+  "embedded_image_count": 1,
+  "external_dependencies": [],
+  "script_count": 0,
+  "alterations": "None: complete source bytes embedded; no emblem-only crop, recolouring, lettering reconstruction or independent component placement",
+  "provenance_limit": "The SVG was supplied by the student; no official download or bibliographic source verification is claimed for this file.",
+  "manufacturer_context": {
+    "source_key": "vinfast-2025",
+    "pdf": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/04_references/vinfast-2025-green-transport-service-range.pdf",
+    "pdf_page": 1,
+    "pdf_sha256": "c0512219e6e3d9261d8bcc16e762a955e87fbe02b90068a029d0e8a913f2b204",
+    "registered_current_bytes_match": true,
+    "registry_status": "candidate",
+    "url": "https://vinfastauto.com/vn_vi/vinfast-ra-mat-dong-san-pham-green-dac-biet-toi-uu-cho-kinh-doanh-dich-vu-van-tai",
+    "scope": "Existing manufacturer source supports brand/range context separately; it is not asserted to be the origin of the supplied SVG or evidence of Danish model deployment."
+  }
+}

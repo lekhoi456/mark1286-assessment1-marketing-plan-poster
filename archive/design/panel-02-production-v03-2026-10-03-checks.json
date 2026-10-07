@@ -1,0 +1,212 @@
+{
+  "prepared": "2026-10-03",
+  "final_surface": "panel-02-production-v03-2026-10-03.png",
+  "final_surface_pixels": [
+    1800,
+    1360
+  ],
+  "source_sha256": "21fb094d568fb803213ada1640ecb2903d548379dee0ca87ff9b68666038f0b0",
+  "exact_text_objects": 31,
+  "exact_selected_chart_strings_retained": true,
+  "original_selected_bar_paths_retained": 4,
+  "counts": [
+    72396,
+    269277,
+    143668,
+    74728
+  ],
+  "adult_total": 560069,
+  "under_18": 110320,
+  "all_residents": 670389,
+  "selected_share_percent_unrounded": 40.16727601437374,
+  "selected_share_percent_display": 40.2,
+  "links_checked": 13,
+  "missing_links": [],
+  "generated_art_native_bytes_preserved": true,
+  "generated_art_pixels": [
+    1536,
+    1024
+  ],
+  "generated_art_alpha": "Native RGBA preserved; transparency exists, corner/gutter pixels alpha 0",
+  "actual_art_visually_inspected": true,
+  "final_png_visually_inspected": true,
+  "final_visual_findings": "All text/icons visible; no observed clipping/overlap. Pill/count clearly separated; source/date/denominator and Proposed rider profile retained. v03 excludes neighbouring decorative fragments from the person viewport.",
+  "physical_a0_print_verified": false,
+  "consolidated_poster_fit_verified": false,
+  "presentation_check": {
+    "version": "1.0.0",
+    "genre": {
+      "mode": "poster",
+      "budget": {},
+      "kpi_rows": 0,
+      "sections": [
+        {
+          "heading": "Target Market",
+          "words": 96,
+          "budget": 96
+        }
+      ],
+      "total_words": 96,
+      "speakers": {},
+      "errors": [
+        "Expected exactly one <!-- budget-table --> marker; found 0",
+        "Expected exactly one <!-- kpi-table --> marker; found 0"
+      ]
+    },
+    "base": {
+      "version": "2.0.0",
+      "total_words": 96,
+      "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+      "limit": {},
+      "sections": [
+        {
+          "name": "Target Market",
+          "words": 96,
+          "budget": null,
+          "is_refs": false,
+          "first_person": 0
+        },
+        {
+          "name": "References",
+          "words": 0,
+          "budget": null,
+          "is_refs": true,
+          "first_person": 0
+        }
+      ],
+      "references": {
+        "citations": 1,
+        "entries": 1,
+        "hard": [],
+        "review": [],
+        "keys": [
+          "statistics-denmark-2026b"
+        ]
+      },
+      "figures": {
+        "figures": 0,
+        "tables": 0,
+        "caption_words": 0,
+        "hard": [],
+        "review": []
+      },
+      "template_echo": {},
+      "anti_slop": {
+        "status": "ran",
+        "context": "general",
+        "source_mode": "rendered-markdown",
+        "score": 0,
+        "label": "Clean",
+        "hard": [],
+        "review": [
+          {
+            "type": "em-dash",
+            "text": "1 em dashes in 99 words",
+            "severity": "medium",
+            "suggestion": "Replace with commas, periods, or rewrite",
+            "why": "review (stylometric, wordiness or house-overridden)"
+          }
+        ],
+        "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+      },
+      "module_scope": {
+        "named": {},
+        "outside": []
+      },
+      "hard_stops": 2,
+      "hard_by_category": {
+        "integrity": 0,
+        "grammar": 0,
+        "style": 2,
+        "referencing": 0,
+        "figures": 0,
+        "anti_slop": 0,
+        "word_limit": 0,
+        "module_scope": 0
+      },
+      "findings": {
+        "ai_fingerprints": [],
+        "placeholders": [],
+        "numeric_markers": [],
+        "bypass_chars": [],
+        "speculation": [],
+        "vague_attribution": [],
+        "dashes": [
+          {
+            "char": "—",
+            "context": "ed under 18.  Copenhagen — within the service area"
+          }
+        ],
+        "semicolons": [
+          "Statistics Denmark (2026b), FOLK1A; calculated sums of single-year age"
+        ],
+        "banned": [],
+        "reflective_cliches": [],
+        "banned_soft": [],
+        "banned_in_quotation": [],
+        "banned_allowed": [],
+        "us_spelling": [],
+        "hedges": [],
+        "hedge_stacks": [],
+        "universals": [],
+        "mechanical_transitions": [],
+        "stance_openers": [],
+        "cleft_openers": [],
+        "double_connectives": [],
+        "duplicated_phrases": [],
+        "verbless_sentences": [],
+        "label_colons": [],
+        "comma_splices": [],
+        "sentence_count": 3,
+        "sentence_mean": 33.0,
+        "sentence_min": 13,
+        "sentence_max": 54,
+        "short_sentences": 0,
+        "long_sentences": 2,
+        "uniform_sentence_runs": [],
+        "paragraph_count": 8,
+        "paragraph_lengths": [
+          4,
+          9,
+          4,
+          10,
+          10,
+          13,
+          6,
+          8
+        ],
+        "uniform_paragraphs": [],
+        "repeated_openings": [],
+        "colons_total": 1,
+        "colons_per_100w": 1.01,
+        "colons_per_paragraph": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "colon_heavy_paragraphs": [],
+        "colon_quota_rhythm": false,
+        "colon_absent": false
+      }
+    },
+    "effective_base_hard_by_category": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 2,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "genre_review": [],
+    "hard_stops": 4,
+    "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+  },
+  "presentation_check_interpretation": "96 visible words including heading/chart/labels/source/caveat; references excluded. Exact standalone reference used in temporary checking copy. Full wrapper is NOT a pass: two missing full-poster tables, approved geographic em dash and approved chart-note semicolon. No integrity/grammar/referencing/figure/anti-slop/word-limit/module-scope hard findings; detector ran, score 0. No checker updated or bypassed."
+}

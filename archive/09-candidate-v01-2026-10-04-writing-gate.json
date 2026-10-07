@@ -1,0 +1,231 @@
+{
+  "exit_code": 2,
+  "report": {
+    "version": "1.0.0",
+    "genre": {
+      "mode": "poster",
+      "budget": {},
+      "kpi_rows": 0,
+      "sections": [
+        {
+          "heading": "9. Ride Innovation",
+          "words": 108,
+          "budget": 155
+        }
+      ],
+      "total_words": 108,
+      "speakers": {},
+      "errors": [
+        "Expected exactly one <!-- budget-table --> marker; found 0",
+        "Expected exactly one <!-- kpi-table --> marker; found 0"
+      ]
+    },
+    "base": {
+      "version": "2.0.0",
+      "total_words": 113,
+      "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+      "limit": {},
+      "sections": [
+        {
+          "name": "Section 9 — candidate display copy",
+          "words": 5,
+          "budget": null,
+          "is_refs": false,
+          "first_person": 0
+        },
+        {
+          "name": "9. Ride Innovation",
+          "words": 2,
+          "budget": null,
+          "is_refs": false,
+          "first_person": 0
+        },
+        {
+          "name": "Proposed repeat reminder",
+          "words": 40,
+          "budget": null,
+          "is_refs": false,
+          "first_person": 0
+        },
+        {
+          "name": "Proposed joined journey",
+          "words": 33,
+          "budget": null,
+          "is_refs": false,
+          "first_person": 0
+        },
+        {
+          "name": "Proposed usage model and limits",
+          "words": 33,
+          "budget": null,
+          "is_refs": false,
+          "first_person": 0
+        }
+      ],
+      "references": {
+        "citations": 0,
+        "entries": 0,
+        "hard": [],
+        "review": [],
+        "keys": []
+      },
+      "figures": {
+        "figures": 0,
+        "tables": 0,
+        "caption_words": 0,
+        "hard": [],
+        "review": []
+      },
+      "template_echo": {},
+      "anti_slop": {
+        "status": "ran",
+        "context": "general",
+        "source_mode": "rendered-markdown",
+        "score": 3,
+        "label": "Minimal AI signals",
+        "hard": [],
+        "review": [
+          {
+            "type": "formatting",
+            "text": "9 bold phrases",
+            "severity": "medium",
+            "suggestion": "Strip bold from most; restructure to lead with key info",
+            "why": "review (stylometric, wordiness or house-overridden)"
+          }
+        ],
+        "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+      },
+      "module_scope": {
+        "named": {},
+        "outside": []
+      },
+      "hard_stops": 5,
+      "hard_by_category": {
+        "integrity": 0,
+        "grammar": 5,
+        "style": 0,
+        "referencing": 0,
+        "figures": 0,
+        "anti_slop": 0,
+        "word_limit": 0,
+        "module_scope": 0
+      },
+      "findings": {
+        "ai_fingerprints": [],
+        "placeholders": [],
+        "numeric_markers": [],
+        "bypass_chars": [],
+        "speculation": [],
+        "vague_attribution": [],
+        "dashes": [],
+        "semicolons": [],
+        "banned": [],
+        "reflective_cliches": [],
+        "banned_soft": [],
+        "banned_in_quotation": [],
+        "banned_allowed": [],
+        "us_spelling": [],
+        "hedges": [],
+        "hedge_stacks": [],
+        "universals": [],
+        "mechanical_transitions": [],
+        "stance_openers": [],
+        "cleft_openers": [],
+        "double_connectives": [],
+        "duplicated_phrases": [],
+        "verbless_sentences": [
+          "Illustrative message: “Your usual Thursday ride."
+        ],
+        "label_colons": [
+          "Illustrative message: “Your usual Thursday ride.",
+          "Pre-book it now.”\n\nPersonalisation: consent → rider’s own trip history → relevant reminder → intended repeat r",
+          "One trip reference: local info page → app → in-car help card → follow-up → help.\n\nIntended benefit: less repet",
+          "Subscription: defer until frequent repeat is demonstrated.\n\nAI chatbot: defer until a reliable human FAQ exist",
+          "Neuromarketing: not selected. Ordinary surveys test clarity."
+        ],
+        "comma_splices": [],
+        "sentence_count": 11,
+        "sentence_mean": 9.3,
+        "sentence_min": 3,
+        "sentence_max": 25,
+        "short_sentences": 8,
+        "long_sentences": 0,
+        "uniform_sentence_runs": [],
+        "paragraph_count": 11,
+        "paragraph_lengths": [
+          9,
+          14,
+          9,
+          8,
+          16,
+          9,
+          9,
+          5,
+          7,
+          9,
+          7
+        ],
+        "uniform_paragraphs": [],
+        "repeated_openings": [],
+        "colons_total": 9,
+        "colons_per_100w": 8.82,
+        "colons_per_paragraph": [
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        "colon_heavy_paragraphs": [],
+        "colon_quota_rhythm": true,
+        "colon_absent": false
+      }
+    },
+    "effective_base_hard_by_category": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "genre_review": [
+      {
+        "type": "label_colon",
+        "text": "Illustrative message: “Your usual Thursday ride.",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      },
+      {
+        "type": "label_colon",
+        "text": "Pre-book it now.”\n\nPersonalisation: consent → rider’s own trip history → relevant reminder → intended repeat r",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      },
+      {
+        "type": "label_colon",
+        "text": "One trip reference: local info page → app → in-car help card → follow-up → help.\n\nIntended benefit: less repet",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      },
+      {
+        "type": "label_colon",
+        "text": "Subscription: defer until frequent repeat is demonstrated.\n\nAI chatbot: defer until a reliable human FAQ exist",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      },
+      {
+        "type": "label_colon",
+        "text": "Neuromarketing: not selected. Ordinary surveys test clarity.",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      }
+    ],
+    "hard_stops": 2,
+    "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+  },
+  "stderr": ""
+}

@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-03",
+  "authority": "D-058",
+  "exact_visible_text_objects": 14,
+  "all_v04_text_objects_and_glyph_paths_unchanged": true,
+  "all_original_layout_drawing_subtrees_unchanged": true,
+  "eight_flags_dates_heading_home_frame_pilot_preserved": true,
+  "vinfast_badge_placed_rect": [
+    872,
+    785,
+    36,
+    28.8
+  ],
+  "vinfast_asset_source_pdf_key": "vinfast-2025",
+  "vinfast_asset_source_page": 1,
+  "vinfast_source_registry_status": "candidate; verified visual-research source, not promoted to operating evidence",
+  "vinfast_native_colour_alpha_filter_instructions_unchanged": true,
+  "vinfast_source_extraction_hashes": {
+    "source_key": "vinfast-2025",
+    "registry_status": "candidate",
+    "pdf": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/04_references/vinfast-2025-green-transport-service-range.pdf",
+    "pdf_page": 1,
+    "pdf_sha256": "c0512219e6e3d9261d8bcc16e762a955e87fbe02b90068a029d0e8a913f2b204",
+    "registered_current_bytes_match": true,
+    "original_url": "https://vinfastauto.com/vn_vi/vinfast-ra-mat-dong-san-pham-green-dac-biet-toi-uu-cho-kinh-doanh-dich-vu-van-tai",
+    "accessed": "2026-10-03",
+    "location": "Manufacturer masthead, upper left of PDF page 1",
+    "native_source_image_px": [
+      761,
+      841
+    ],
+    "native_placement_matrix": "matrix(0.0278768, 0, 0, 0.0277475, 26.611556, 36.065948)",
+    "emblem_only_crop_viewbox_pdf_pt": [
+      26,
+      36,
+      22.5,
+      18
+    ],
+    "extraction": "Original pdftocairo source-10 raster, source-11 alpha, mask-0 and original filters/use retained; identifiers namespaced only. Crop excludes manufacturer wordmark. No redrawing or recolouring.",
+    "asset": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v05-2026-10-03-vinfast-emblem.svg",
+    "asset_sha256": "cb7612e0acff93d83ec34e1122d7e7dbb4bdfae13ce608ce2f0e31cb2bd6ab58",
+    "source_colour_sha256": "0e2fa1b9a43df88a30337c18ebaa265d5f690e1f283d3450f201fa450044d508",
+    "source_alpha_sha256": "76984b5d7d552c0c1543f6526c16003c25edece8595f82bd5c11b0b98b3e910c",
+    "scope": "Authentic vehicle-brand decorative asset; registry remains a verified visual-research candidate. No Danish operational or specific-model deployment claim adopted."
+  },
+  "source_pdf_hashes": [
+    {
+      "key": "vietnamplus-2023a",
+      "sha256": "9a5b0ced0e5907798abea9cc0bea3e0f96f4f592d4ef2e0bb1e200b19c3dd998",
+      "matches_preserved_record": true,
+      "registry_status": "preserved source record"
+    },
+    {
+      "key": "green-sm-2026a",
+      "sha256": "94c700b0f552ad67830c06255a5300a787f0801a577a58cb41ac39297375265d",
+      "matches_preserved_record": true,
+      "registry_status": "preserved source record"
+    },
+    {
+      "key": "green-sm-2026d",
+      "sha256": "3913ee2f316d3ea75f561723c2f7f8d3f99b6a257b524071efc340f32a499a0e",
+      "matches_preserved_record": true,
+      "registry_status": "preserved source record"
+    },
+    {
+      "key": "green-sm-denmark-aps-ndb",
+      "sha256": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b",
+      "matches_preserved_record": true,
+      "registry_status": "preserved source record"
+    },
+    {
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "sha256": "309669803ffbe59f7d14609b297dc0945df9dc3f457664645e240645dece3ffb",
+      "matches_preserved_record": true,
+      "registry_status": "preserved source record"
+    },
+    {
+      "key": "green-sm-denmark-aps-ndc",
+      "sha256": "d836ff7cf0fbd96b5935514d79d7978e93b6db8b0c56fce0d7e694ab2c346187",
+      "matches_preserved_record": true,
+      "registry_status": "preserved source record"
+    },
+    {
+      "key": "vinfast-2025",
+      "sha256": "c0512219e6e3d9261d8bcc16e762a955e87fbe02b90068a029d0e8a913f2b204",
+      "matches_preserved_record": true,
+      "registry_status": "candidate"
+    }
+  ],
+  "authentic_green_sm_asset_bytes_unchanged": true,
+  "generated_art_bytes_unchanged": true,
+  "generated_art_sha256": "1e4c74e55d7526be5651c3ce0a8db0bacd002bc68793cec7ec42a89879ed01c9",
+  "generic_lightning_retained": true,
+  "new_image_generation": false,
+  "new_caption_or_vingroup_added": false,
+  "visible_source_footers": 0,
+  "visible_svg_text_elements": 0,
+  "visible_svg_source_link_objects": 0,
+  "svg_ids_unique": true,
+  "wordmark_excluded_by_emblem_only_crop": true,
+  "exact_selected_display_markdown_unchanged": true,
+  "main_preview_px": [
+    2400,
+    1680
+  ],
+  "car_crop_px": [
+    1340,
+    570
+  ],
+  "small_proof_px": [
+    960,
+    672
+  ],
+  "manual_inspection": {
+    "manufacturer_pdf_page_1": "Inspected actual saved-page render: authentic VinFast masthead emblem present",
+    "emblem_asset": "Inspected native extracted preview: authentic chrome V, no manufacturer wordmark visible",
+    "complete_panel": "Inspected full PNG: small V recognisable on the front door below handle, selected lettering/layout intact, no observed overlap or clipping",
+    "car_crop": "Inspected actual 1340×570 crop: emblem clear of handle, door seam, wheel and rear-door lightning; fits naturally on the body"
+  },
+  "gate": "Focused logo-overlay/source/content integrity only; no broad test or full-poster writing/reference gate pass claimed.",
+  "limits": [
+    "Full supplied VinFast logo required in v06; emblem-only v05 not accepted",
+    "Physical A0 badge legibility and scale untested",
+    "Illustrated brand is not a Danish vehicle-model deployment claim"
+  ],
+  "status": "Historical verified output; emblem-only selection superseded, not accepted"
+}

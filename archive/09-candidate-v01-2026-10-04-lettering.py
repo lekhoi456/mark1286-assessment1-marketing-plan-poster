@@ -1,0 +1,1 @@
+../poster/09-candidate-v01-2026-10-04-lettering.py

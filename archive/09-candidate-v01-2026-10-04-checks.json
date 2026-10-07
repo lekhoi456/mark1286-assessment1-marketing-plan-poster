@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-04",
+  "text_objects": 28,
+  "copy_and_visible_words_order_match": true,
+  "svg_manifest_strings_match": true,
+  "full_dimensions": [
+    1800,
+    1700
+  ],
+  "small_dimensions": [
+    900,
+    850
+  ],
+  "full_and_small_png_inspected": true,
+  "text_bbox_outside_frame": [],
+  "text_bbox_collisions": [],
+  "exact_heading": "9. Ride Innovation",
+  "exact_example": "“Your usual Thursday ride. Pre-book it now.”",
+  "source_E016_verified_pdf_page": 3,
+  "source_pdf_hash_matches_registered_verification": true,
+  "advertised_feature_not_fulfilment_claim": true,
+  "reminder_and_joined_journey_explicitly_proposed": true,
+  "local_implementation_required_visible": true,
+  "no_purchased_profiles_visible": true,
+  "proposed_usage_model_retained": true,
+  "chatbot_and_subscription_deferred_visible": true,
+  "neuromarketing_not_selected_visible": true,
+  "no_visible_citations_or_E_ids": true,
+  "generated_art_original_bytes_retained": true,
+  "generated_art_sha256": "af145a164b5bdde2eb227b19f7b8d08ee6e12fdf255baa2bda122ce70a6df882",
+  "gate_exit_code": 2,
+  "effective_base_hard_stops": {
+    "integrity": 0,
+    "grammar": 0,
+    "style": 0,
+    "referencing": 0,
+    "figures": 0,
+    "anti_slop": 0,
+    "word_limit": 0,
+    "module_scope": 0
+  },
+  "standalone_wrapper_limits": [
+    "Expected exactly one <!-- budget-table --> marker; found 0",
+    "Expected exactly one <!-- kpi-table --> marker; found 0"
+  ],
+  "counted_words": 108,
+  "word_budget_basis": "155 inherited from whole-copy baseline; no new cap imposed",
+  "manual_genre_reviews": "Five label-colon reviews accepted as clear poster labels, not citation or integrity exceptions. Read-aloud/judgement pass found no unsupported benefit or current-feature claim.",
+  "physical_a0_verified": false,
+  "new_group_approval_claimed": false,
+  "parent_review": "pending",
+  "observed_visual_findings": "No observed text overlap/clipping in full/half-size previews. Quote stays within blank screen and clear of consent tap; diagram and bottom conditions are readable."
+}

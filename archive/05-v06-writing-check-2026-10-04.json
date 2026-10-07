@@ -1,0 +1,218 @@
+{
+  "version": "1.0.0",
+  "genre": {
+    "mode": "poster",
+    "budget": {},
+    "kpi_rows": 0,
+    "sections": [
+      {
+        "heading": "5. Digital Marketing",
+        "words": 127,
+        "budget": 210
+      }
+    ],
+    "total_words": 127,
+    "speakers": {},
+    "errors": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ]
+  },
+  "base": {
+    "version": "2.0.0",
+    "total_words": 150,
+    "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+    "limit": {},
+    "sections": [
+      {
+        "name": "Panel 5 display copy",
+        "words": 4,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "5. Digital Marketing",
+        "words": 11,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "5.1 CUSTOMER INSIGHT",
+        "words": 21,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "5.2 4Ps <!-- Concept: marketing-mix-4ps; Source: openstax-2023 p.1 -->",
+        "words": 29,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "5.2a GATE <!-- Concept: customer-data-platform; Source: customer-data-platform-institute-nd p.1 -->",
+        "words": 24,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "5.3 OMNICHANNEL <!-- Concept: omnichannel -->",
+        "words": 23,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "5.4 VOUCHER · LIFT UNPROVEN",
+        "words": 31,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "5.5 M1–2 VERIFY → M3–6 TEST → M7–12 REFINE",
+        "words": 7,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      }
+    ],
+    "references": {
+      "citations": 0,
+      "entries": 0,
+      "hard": [],
+      "review": [],
+      "keys": []
+    },
+    "figures": {
+      "figures": 0,
+      "tables": 0,
+      "caption_words": 0,
+      "hard": [],
+      "review": []
+    },
+    "template_echo": {},
+    "anti_slop": {
+      "status": "ran",
+      "context": "general",
+      "source_mode": "rendered-markdown",
+      "score": 0,
+      "label": "Clean",
+      "hard": [],
+      "review": [],
+      "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+    },
+    "module_scope": {
+      "named": {},
+      "outside": []
+    },
+    "hard_stops": 0,
+    "hard_by_category": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "findings": {
+      "ai_fingerprints": [],
+      "placeholders": [],
+      "numeric_markers": [],
+      "bypass_chars": [],
+      "speculation": [],
+      "vague_attribution": [],
+      "dashes": [],
+      "semicolons": [],
+      "banned": [],
+      "reflective_cliches": [],
+      "banned_soft": [],
+      "banned_in_quotation": [],
+      "banned_allowed": [],
+      "us_spelling": [],
+      "hedges": [],
+      "hedge_stacks": [],
+      "universals": [],
+      "mechanical_transitions": [],
+      "stance_openers": [],
+      "cleft_openers": [],
+      "double_connectives": [],
+      "duplicated_phrases": [],
+      "verbless_sentences": [],
+      "label_colons": [],
+      "comma_splices": [],
+      "sentence_count": 2,
+      "sentence_mean": 56.5,
+      "sentence_min": 29,
+      "sentence_max": 84,
+      "short_sentences": 0,
+      "long_sentences": 1,
+      "uniform_sentence_runs": [],
+      "paragraph_count": 17,
+      "paragraph_lengths": [
+        11,
+        5,
+        4,
+        5,
+        4,
+        7,
+        8,
+        6,
+        4,
+        5,
+        6,
+        9,
+        10,
+        6,
+        5,
+        5,
+        4
+      ],
+      "uniform_paragraphs": [],
+      "repeated_openings": [],
+      "colons_total": 4,
+      "colons_per_100w": 3.15,
+      "colons_per_paragraph": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "colon_heavy_paragraphs": [],
+      "colon_quota_rhythm": true,
+      "colon_absent": false
+    }
+  },
+  "effective_base_hard_by_category": {
+    "integrity": 0,
+    "grammar": 0,
+    "style": 0,
+    "referencing": 0,
+    "figures": 0,
+    "anti_slop": 0,
+    "word_limit": 0,
+    "module_scope": 0
+  },
+  "genre_review": [],
+  "hard_stops": 2,
+  "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+}

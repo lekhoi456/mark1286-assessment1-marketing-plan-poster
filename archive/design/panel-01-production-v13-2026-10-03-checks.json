@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-03",
+  "authority": "D-067",
+  "arrangement_authority": "D-066 student JPG",
+  "ordinary_face_objects": 16,
+  "all_ordinary_strings_glyphs_sizes_and_positions_exactly_v10": true,
+  "all_unaffected_svg_objects_exactly_v10": true,
+  "building_removed": true,
+  "calendar_and_foundation_row_unchanged": true,
+  "eight_flags_order_geometry_details_unchanged": true,
+  "authentic_green_sm_and_full_middle_door_vinfast_unchanged": true,
+  "raw_car_sha256": "00069599bfd5c0aafe5a03c8f0602ae91176eb10c497294219672de015874a79",
+  "raw_art_and_single_rear_bolt_unchanged": true,
+  "emblem_base_path_count": 7,
+  "native_d_paths_reused_unchanged_with_selected_component_transforms": true,
+  "top_star_count": 5,
+  "centre_star_larger_than_four_side_stars": true,
+  "bird_lower_than_original_svg_arrangement": true,
+  "intrinsic_wordmark_paths_in_visible_asset": 0,
+  "source_svg_sha256": "3c6531a266ac19cbe9a88e6966ac0105905bf63ccb6a99d290f71f57b71365f4",
+  "controlling_jpg_sha256": "2145c238eb0a94cef24849ca52323563922b6f3ab2941912ca293a27f71fb973",
+  "source_files_copied_byte_unchanged": true,
+  "emblem_rect": [
+    897,
+    70,
+    50,
+    50
+  ],
+  "caption_gap_svg_units": 18,
+  "calendar_gap_svg_units": 18,
+  "treatment": "Visible irregular outline plus wandering marker strokes and broken pencil hatch; original red/yellow retained",
+  "execution": "Native vector identity exception; no imagegen or Python raster repaint",
+  "full_png_px": [
+    2400,
+    1680
+  ],
+  "header_crop_px": [
+    2235,
+    248
+  ],
+  "standalone_emblem_px": [
+    768,
+    768
+  ],
+  "manual_inspection": {
+    "full_and_header": "Inspected actual outputs: emblem-only identity clear before Vingroup-backed; top stars/lower bird, absent wordmark, clear label/calendar gaps; no collision/clipping observed",
+    "standalone": "Inspected large native arrangement and hand-drawn renders: five top stars, larger centre, lower bird; irregular marker/pencil/pen surface visible",
+    "parent": "Parent inspected actual full/header/enlarged emblem and confirmed requested identity/style/gaps; no further visual correction"
+  },
+  "history": "v11 bottom-star full-wordmark working attempt superseded; v12 production not generated before later user instruction",
+  "limits": [
+    "Final student imagery acceptance pending",
+    "Physical A0 readability untested",
+    "Updated arrangement follows supplied JPG; no verified rebrand date claimed"
+  ],
+  "gate": "Focused emblem/substitution/preservation checks only; no broad writing/source/whole-poster gate rerun."
+}

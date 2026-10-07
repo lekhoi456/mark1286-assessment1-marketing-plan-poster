@@ -1,0 +1,54 @@
+{
+  "status": "passed focused candidate checks",
+  "date": "2026-10-04",
+  "checks": {
+    "exact-numbered-heading": true,
+    "complete-controlled-copy": true,
+    "all-rendered-lines-reconstruct-exact-text": true,
+    "explicit-proposed-plan": true,
+    "four-goals-map-to-objectives-and-actions": true,
+    "stable-operation-before-rapid-expansion-and-gates": true,
+    "search-social-before-gated-dooh": true,
+    "electric-mobility-mission-bounded": true,
+    "growth-depends-on-mature-repeat": true,
+    "m12-evidence-and-options": true,
+    "year-one-non-break-even-visible": true,
+    "no-visible-citation-or-logo": true,
+    "exact-local-handwriting-only": true,
+    "text-inside-outer-frame": true,
+    "no-text-bounds-overlap": true,
+    "all-four-source-clips-explicit": true,
+    "embedded-raster-self-contained-and-byte-identical": true,
+    "two-inherited-source-records-retain-matching-pdf-bytes": true,
+    "native-original-bytes-preserved": true,
+    "true-source-alpha-preserved": true,
+    "full-and-small-canvas-sizes": true,
+    "writing-gate-detector-ran": true,
+    "zero-effective-writing-hard": true,
+    "writing-errors-only-standalone-table-markers": true
+  },
+  "all_checks_pass": true,
+  "text_objects": 18,
+  "text_overlaps": [],
+  "words": 116,
+  "writing_gate_exit": 2,
+  "expected_fragment_limits": [
+    "Expected exactly one <!-- budget-table --> marker; found 0",
+    "Expected exactly one <!-- kpi-table --> marker; found 0"
+  ],
+  "art_sha256": "5c76d82d66a0da3f2756bde48e0e74ff653c3207478650dfeb83805cae4c4f4e",
+  "svg_sha256": "fd3fd643bf0bc21082d118a7b164bbd3c8e1a97d1620e3e7c73ea9d6f7deae63",
+  "png_sha256": "69a44d693893b9714c471190410c08e36c9172c557b04c6528a7a0dab872bc28",
+  "visual_inspection": [
+    "Native text-free sheet inspected; no observed letters, numbers, logo or measured-performance graphics",
+    "Actual full PNG and 950 px preview inspected; no observed text overlap/clipping or neighbouring sprite slivers",
+    "Marker objective ribbon wraps Stage gates clearly; business goals link visibly to objective and action"
+  ],
+  "approval": "Candidate only; parent selection pending; no group approval",
+  "scope": "Only new poster/10-* files written; no other panel or shared/project-level file changed.",
+  "unverified": [
+    "Parent candidate selection",
+    "Actual A0 footprint",
+    "Physical print legibility"
+  ]
+}

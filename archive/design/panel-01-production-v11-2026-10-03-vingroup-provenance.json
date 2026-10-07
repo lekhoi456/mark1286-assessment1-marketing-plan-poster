@@ -1,0 +1,64 @@
+{
+  "authority": "D-065",
+  "source_origin": "Student-supplied SVG; not an official download or bibliographic source",
+  "original_file": "/Users/khoilq/Downloads/Vingroup_logo.svg",
+  "saved_original_file": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v11-2026-10-03-vingroup-source.svg",
+  "source_sha256": "3c6531a266ac19cbe9a88e6966ac0105905bf63ccb6a99d290f71f57b71365f4",
+  "source_bytes": 6760119,
+  "source_copy_bytes_unchanged": true,
+  "native_extraction_file": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v11-2026-10-03-vingroup-native-paths.svg",
+  "native_layer_transform": "translate(73.667343,-90.991598)",
+  "native_path_ids": [
+    "path43790",
+    "path43792",
+    "path43794",
+    "path43796",
+    "path43798",
+    "path43800",
+    "path43802",
+    "path43804",
+    "path43806",
+    "path43808",
+    "path43810",
+    "path43812",
+    "path43814",
+    "path43816",
+    "path43818"
+  ],
+  "native_path_count": 15,
+  "native_path_geometry_unchanged": true,
+  "full_wordmark_path_count": 8,
+  "star_path_count": 5,
+  "components": [
+    "Red circular emblem",
+    "Yellow bird",
+    "Five yellow stars",
+    "Full intrinsic VINGROUP wordmark"
+  ],
+  "source_colours_preserved": [
+    "#94192e",
+    "#e32823",
+    "#f8eb00"
+  ],
+  "unused_defs_glyph_uses_omitted": true,
+  "treatment": "Clipped uneven marker passes, broken pencil hatching and separate locally wandering pen contours; native d/translation retained",
+  "texture_seed": 20261003,
+  "separate_pen_contour_amplitude_source_units": 0.065,
+  "hand_drawn_svg": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v11-2026-10-03-vingroup-hand-drawn.svg",
+  "placed_svg_id": "background-vingroup-logo",
+  "placed_rect": [
+    883,
+    70,
+    75,
+    46.157794927782334
+  ],
+  "caption_shift": [
+    10,
+    0
+  ],
+  "minimum_logo_caption_gap_svg_units": 17,
+  "imagegen_used": false,
+  "python_raster_repaint": false,
+  "execution_strategy": "Imagegen skill native vector/logo exception",
+  "background_factual_claim_source": "E-199 unchanged; graphic adds no ownership assertion"
+}

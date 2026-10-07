@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-04",
+  "text_objects": 26,
+  "portable_svg_text_matches_manifest": true,
+  "each_visible_string_present_in_copy_master": true,
+  "copy_and_visible_order_checked_manually": true,
+  "full_dimensions": [
+    1800,
+    1700
+  ],
+  "small_dimensions": [
+    900,
+    850
+  ],
+  "source_hashes_computed": {
+    "E-016": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b",
+    "E-027": "614b1a908d6a3b045109e95238f40002bbefaae62ca29e227af7eb04cee15838",
+    "E-188": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b",
+    "E-205": "c29f01cd7253e2028c9a8ee9d98aad810409641d5590a8eb160b741abc3c2df7"
+  },
+  "no_visible_citations_or_evidence_ids": true,
+  "no_model_generated_lettering_or_art": true,
+  "heading_exact": "9. Ride Innovation",
+  "verified_basis_separated_from_proposals": true,
+  "advertised_features_not_fulfilment_claims": true,
+  "marketing_ai_and_personalisation_proposal_only": true,
+  "dispatch_outside_concept_registered": true,
+  "dispatch_evidence_limit_recorded": "Didi data only; no Copenhagen outcome or faster matching result",
+  "chatbot_human_faq_and_escalation_gate_visible": true,
+  "subscription_strategic_change_and_separate_approval_visible": true,
+  "budget_boundary_visible": true,
+  "physical_a0_verified": false,
+  "group_approval_claimed": false,
+  "visual_overlap_and_clip_check": "pass; full-size raster inspected after taller cards were rendered",
+  "copy_budget_words": 155,
+  "word_count_convention": "Section 9 body excluding copy-file title and exact numbered heading",
+  "word_count": 155
+}

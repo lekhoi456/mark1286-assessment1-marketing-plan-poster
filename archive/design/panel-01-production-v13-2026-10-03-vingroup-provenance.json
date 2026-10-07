@@ -1,0 +1,98 @@
+{
+  "authority": "D-067",
+  "arrangement_authority": "D-066 student JPG",
+  "source_origin": "Student-supplied identity references; no independently verified rebrand date",
+  "original_svg": "/Users/khoilq/Downloads/Vingroup_logo.svg",
+  "saved_svg_history": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v13-2026-10-03-vingroup-source-history.svg",
+  "svg_sha256": "3c6531a266ac19cbe9a88e6966ac0105905bf63ccb6a99d290f71f57b71365f4",
+  "original_updated_jpg": "/var/folders/j7/k3hwp19s0614s73_m5cj2hn80000gn/T/codex-clipboard-d262a310-31aa-4b5e-ac09-e737c91fc43a.jpg",
+  "saved_updated_jpg": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v13-2026-10-03-vingroup-updated-reference.jpg",
+  "jpg_sha256": "2145c238eb0a94cef24849ca52323563922b6f3ab2941912ca293a27f71fb973",
+  "references_copied_byte_unchanged": true,
+  "native_source_path_ids": [
+    "path43790",
+    "path43792",
+    "path43794",
+    "path43796",
+    "path43798",
+    "path43800",
+    "path43802"
+  ],
+  "native_source_path_count": 7,
+  "source_d_paths_reused_unchanged": true,
+  "component_transforms": {
+    "path43790": null,
+    "path43792": "matrix(0.7892171224913217 0 0 0.9935649474135865 -11.941137490698516 3.77525303417265)",
+    "path43794": "matrix(1.2847781907609972 0 0 1.2847781907609972 15.00727005285583 -44.35925975973706)",
+    "path43796": "matrix(0.9343841387352676 0 0 0.9343841387352676 -2.2740623947879968 -5.097468992583714)",
+    "path43798": "matrix(0.9350033755609399 0 0 0.9350033755609399 -4.541231903180908 -5.1229077058100785)",
+    "path43800": "matrix(0.9361999387963235 0 0 0.9361999387963235 -2.4074323664700614 -1.3431226962573533)",
+    "path43802": "matrix(0.9361999387963235 0 0 0.9361999387963235 -4.3836158585278895 -1.3275817772733376)"
+  },
+  "reference_circle_px": [
+    400,
+    318,
+    149
+  ],
+  "reference_bird_bounds_px": [
+    300,
+    247,
+    447,
+    438
+  ],
+  "reference_star_targets_px": {
+    "path43794": [
+      400,
+      201,
+      22
+    ],
+    "path43796": [
+      467,
+      224,
+      16
+    ],
+    "path43798": [
+      333,
+      224,
+      16
+    ],
+    "path43800": [
+      506,
+      268,
+      16
+    ],
+    "path43802": [
+      293,
+      268,
+      16
+    ]
+  },
+  "source_colours": [
+    "#e32823",
+    "#f8eb00"
+  ],
+  "visible_components": [
+    "Red circle",
+    "Lower yellow bird",
+    "Five yellow top stars, larger centre"
+  ],
+  "intrinsic_wordmark_visible": false,
+  "intrinsic_wordmark_paths_in_asset": 0,
+  "treatment": "Clipped uneven marker passes, broken pencil hatching, separate locally wandering pen contours",
+  "texture_seed": 20261003,
+  "separate_pen_contour_amplitude_source_units": 0.065,
+  "native_emblem_file": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v13-2026-10-03-vingroup-emblem-paths.svg",
+  "hand_drawn_emblem_file": "/Users/khoilq/Documents/GWMBA_iCloud/[MARK1286] Marketing and Sales in the Future Economy/assessment1-marketing-plan-poster/07_drafts/design/panel-01-production-v13-2026-10-03-vingroup-emblem-hand-drawn.svg",
+  "placed_rect": [
+    897,
+    70,
+    50,
+    50
+  ],
+  "logo_caption_gap_svg_units": 18,
+  "calendar_vertical_gap_svg_units": 18,
+  "imagegen_used": false,
+  "python_raster_repaint": false,
+  "execution_strategy": "Native vector/logo exception",
+  "history": "v11 bottom-star full-wordmark attempt superseded; v12 full-wordmark production not generated before D-067"
+}

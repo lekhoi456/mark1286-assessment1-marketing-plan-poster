@@ -1,0 +1,975 @@
+{
+  "section": "Panel 3 — 3. Why Green SM?",
+  "authority_master": "panel-03-selected-content-and-visual-v03-2026-10-03.md",
+  "decisions": [
+    "D-051",
+    "D-055",
+    "D-056",
+    "D-072"
+  ],
+  "canvas_px": [
+    1800,
+    1488
+  ],
+  "copy_source": "panel-03-production-v05-2026-10-03.md",
+  "text_objects": [
+    {
+      "id": "heading",
+      "approved_string": "3. Why Green SM?",
+      "x": 70,
+      "y": 107,
+      "font_px": 66,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_index": 0,
+      "font_face": "heading",
+      "lines": [
+        "3. Why Green SM?"
+      ],
+      "angle": -0.35,
+      "bbox": [
+        73.30094673571065,
+        50.28706385641818,
+        554.247882365836,
+        118.43089109839853
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "subtitle",
+      "approved_string": "Positioning Strategy",
+      "x": 73,
+      "y": 149,
+      "font_px": 31,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Positioning Strategy"
+      ],
+      "angle": 0.2,
+      "bbox": [
+        74.16086976474409,
+        122.22797101234828,
+        315.596608499664,
+        159.26281637547163
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "qualifier",
+      "approved_string": "Proposed position",
+      "x": 94,
+      "y": 218,
+      "font_px": 30,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Proposed position"
+      ],
+      "angle": -0.4,
+      "bbox": [
+        94.94407067707265,
+        191.66798197087326,
+        299.0116927461685,
+        227.89475762392783
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "strip-label-audience",
+      "approved_string": "Audience",
+      "x": 73,
+      "y": 264,
+      "font_px": 32,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_index": 0,
+      "font_face": "heading",
+      "lines": [
+        "Audience"
+      ],
+      "angle": 0,
+      "bbox": [
+        73.864,
+        237.824,
+        178.62909090909093,
+        265.536
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "strip-audience",
+      "approved_string": "For self-paying Copenhagen residents aged 25–44 taking recurring local taxi trips within the service area,",
+      "x": 73,
+      "y": 307,
+      "font_px": 29,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "For self-paying Copenhagen residents aged",
+        "25–44 taking recurring local taxi trips within",
+        "the service area,"
+      ],
+      "angle": 0,
+      "bbox": [
+        73.435,
+        281.8425,
+        587.8950000000001,
+        389.1625
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "strip-label-offer",
+      "approved_string": "Offer",
+      "x": 674,
+      "y": 264,
+      "font_px": 32,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_index": 0,
+      "font_face": "heading",
+      "lines": [
+        "Offer"
+      ],
+      "angle": 0,
+      "bbox": [
+        675.032,
+        237.248,
+        739.5679999999999,
+        265.216
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "strip-offer",
+      "approved_string": "Green SM offers app-booked electric taxi rides",
+      "x": 674,
+      "y": 307,
+      "font_px": 29,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Green SM offers",
+        "app-booked electric",
+        "taxi rides"
+      ],
+      "angle": 0,
+      "bbox": [
+        674.725,
+        281.915,
+        888.0925000000003,
+        385.28375
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "strip-label-value",
+      "approved_string": "Value",
+      "x": 1008,
+      "y": 264,
+      "font_px": 32,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_index": 0,
+      "font_face": "heading",
+      "lines": [
+        "Value"
+      ],
+      "angle": 0,
+      "bbox": [
+        1008.064,
+        237.92,
+        1072.0290909090909,
+        265.376
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "strip-value",
+      "approved_string": "with clear booking terms and a route to local help,",
+      "x": 1008,
+      "y": 307,
+      "font_px": 29,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "with clear booking terms and",
+        "a route to local help,"
+      ],
+      "angle": 0,
+      "bbox": [
+        1008.90625,
+        281.915,
+        1323.1937500000001,
+        354.86
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "strip-label-delivery",
+      "approved_string": "Delivery",
+      "x": 1412,
+      "y": 264,
+      "font_px": 32,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_index": 0,
+      "font_face": "heading",
+      "lines": [
+        "Delivery"
+      ],
+      "angle": 0,
+      "bbox": [
+        1413.312,
+        237.952,
+        1506.0340000000003,
+        270.016
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "strip-delivery",
+      "approved_string": "through its own fleet and employed drivers.",
+      "x": 1412,
+      "y": 307,
+      "font_px": 29,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "through its own fleet and",
+        "employed drivers."
+      ],
+      "angle": 0,
+      "bbox": [
+        1412.90625,
+        281.9875,
+        1685.5062500000001,
+        354.86
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "benefit-clear",
+      "approved_string": "Clear terms",
+      "x": 500,
+      "y": 562,
+      "font_px": 56,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_index": 0,
+      "font_face": "heading",
+      "lines": [
+        "Clear terms"
+      ],
+      "angle": -0.25,
+      "bbox": [
+        379.68060790421555,
+        516.2627407205802,
+        620.3502523806358,
+        564.2921573959212
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "benefit-care",
+      "approved_string": "Local care",
+      "x": 1300,
+      "y": 562,
+      "font_px": 56,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_index": 0,
+      "font_face": "heading",
+      "lines": [
+        "Local care"
+      ],
+      "angle": 0.15,
+      "bbox": [
+        1197.0125402219423,
+        516.0272363144616,
+        1404.8531729355482,
+        564.6790689963656
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "service-area",
+      "approved_string": "Service area ·",
+      "x": 395,
+      "y": 640,
+      "font_px": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Service area ·"
+      ],
+      "angle": 0,
+      "bbox": [
+        395.85,
+        610.675,
+        570.5674999999999,
+        641.8275
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "hours",
+      "approved_string": "Operating hours ·",
+      "x": 395,
+      "y": 724,
+      "font_px": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Operating hours ·"
+      ],
+      "angle": 0.2,
+      "bbox": [
+        396.0158399106268,
+        694.9337375688316,
+        617.3263110278624,
+        735.6930019311009
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "fare",
+      "approved_string": "Fare terms",
+      "x": 395,
+      "y": 807,
+      "font_px": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Fare terms"
+      ],
+      "angle": -0.2,
+      "bbox": [
+        395.4079302455243,
+        777.6983150703799,
+        535.8894603661548,
+        808.7629554482056
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "trip-reference",
+      "approved_string": "Trip reference ·",
+      "x": 1190,
+      "y": 640,
+      "font_px": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Trip reference ·"
+      ],
+      "angle": 0,
+      "bbox": [
+        1190.5775,
+        611.57875,
+        1383.7925000000007,
+        651.22
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "local-help",
+      "approved_string": "A clear route to local help",
+      "x": 1190,
+      "y": 730,
+      "font_px": 33,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "A clear route",
+        "to local help"
+      ],
+      "angle": 0,
+      "bbox": [
+        1190.4125,
+        701.5375,
+        1352.89625,
+        783.22
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "service-label",
+      "approved_string": "App-booked electric rides",
+      "x": 900,
+      "y": 581,
+      "font_px": 30,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "App-booked electric rides"
+      ],
+      "angle": 0,
+      "bbox": [
+        754.8,
+        555.05,
+        1044.6375000000003,
+        591.2
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "uber-label",
+      "approved_string": "Uber",
+      "x": 155,
+      "y": 558,
+      "font_px": 32,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_index": 0,
+      "font_face": "heading",
+      "lines": [
+        "Uber"
+      ],
+      "angle": -0.3,
+      "bbox": [
+        128.11160089332478,
+        531.8655657230695,
+        183.6115847399309,
+        559.1540326285341
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "bolt-label",
+      "approved_string": "Bolt",
+      "x": 1645,
+      "y": 558,
+      "font_px": 32,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_index": 0,
+      "font_face": "heading",
+      "lines": [
+        "Bolt"
+      ],
+      "angle": 0.25,
+      "bbox": [
+        1622.3699302903835,
+        532.0812622871176,
+        1669.2584027790047,
+        559.5513316633
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "uber-model",
+      "approved_string": "Taxi partners operate rides",
+      "x": 155,
+      "y": 767,
+      "font_px": 26,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Taxi partners",
+        "operate rides"
+      ],
+      "angle": 0,
+      "bbox": [
+        87.66,
+        745.16,
+        221.98250000000002,
+        810.84
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "bolt-model",
+      "approved_string": "Taxi partners operate rides",
+      "x": 1645,
+      "y": 767,
+      "font_px": 26,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Taxi partners",
+        "operate rides"
+      ],
+      "angle": 0,
+      "bbox": [
+        1577.6599999999999,
+        745.16,
+        1711.9824999999996,
+        810.84
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "ev-character",
+      "approved_string": "Generally quieter than combustion-engine vehicles",
+      "x": 930,
+      "y": 918,
+      "font_px": 28,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Generally quieter than combustion-engine vehicles"
+      ],
+      "angle": 0,
+      "bbox": [
+        669.1625,
+        893.78,
+        1190.6624999999997,
+        927.38
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "green-sm-model",
+      "approved_string": "Green SM: Owned fleet · Employed drivers",
+      "x": 900,
+      "y": 963,
+      "font_px": 34,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Green SM: Owned fleet · Employed drivers"
+      ],
+      "angle": 0,
+      "bbox": [
+        625.64125,
+        933.59,
+        1174.1462499999998,
+        974.56
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "approach-heading",
+      "approved_string": "Company service approach",
+      "x": 900,
+      "y": 1044,
+      "font_px": 37,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_index": 0,
+      "font_face": "heading",
+      "lines": [
+        "Company service approach"
+      ],
+      "angle": 0,
+      "bbox": [
+        717.9591956521739,
+        1013.253,
+        1082.3729999999994,
+        1052.066
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "trained-drivers",
+      "approved_string": "Trained drivers",
+      "x": 450,
+      "y": 1270,
+      "font_px": 31,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Trained drivers"
+      ],
+      "angle": 0,
+      "bbox": [
+        360.81687500000004,
+        1243.5725,
+        538.756875,
+        1271.66625
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "standards",
+      "approved_string": "Operational standards",
+      "x": 900,
+      "y": 1270,
+      "font_px": 31,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Operational standards"
+      ],
+      "angle": 0,
+      "bbox": [
+        768.8506249999999,
+        1243.2625,
+        1031.1106249999998,
+        1280.54
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "procedures",
+      "approved_string": "Customer service procedures",
+      "x": 1350,
+      "y": 1270,
+      "font_px": 30,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Customer service",
+        "procedures"
+      ],
+      "angle": 0,
+      "bbox": [
+        1251.4125,
+        1243.975,
+        1448.5874999999999,
+        1319.2
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "delivery-label",
+      "approved_string": "Delivery plan",
+      "x": 107,
+      "y": 1432,
+      "font_px": 31,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_index": 0,
+      "font_face": "heading",
+      "lines": [
+        "Delivery plan"
+      ],
+      "angle": 0,
+      "bbox": [
+        108.271,
+        1406.766,
+        254.56387499999997,
+        1438.758
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    },
+    {
+      "id": "delivery-plan",
+      "approved_string": "Use direct fleet and driver control to support clear terms and local help.",
+      "x": 395,
+      "y": 1431,
+      "font_px": 31,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_index": 0,
+      "font_face": "body",
+      "lines": [
+        "Use direct fleet and driver control to support clear terms and local help."
+      ],
+      "angle": 0,
+      "bbox": [
+        396.35625,
+        1404.2625,
+        1232.0387500000004,
+        1441.54
+      ],
+      "rendered_as": "explicit local-font glyph outlines"
+    }
+  ],
+  "raster_placements": [
+    {
+      "id": "service-area-icon",
+      "sheet": "old-sheet",
+      "source_bbox": [
+        85,
+        65,
+        395,
+        293
+      ],
+      "target": [
+        295,
+        589,
+        84,
+        72
+      ],
+      "clip": null,
+      "explicit_source_rect_clip": "service-area-icon-source-bounds"
+    },
+    {
+      "id": "hours-icon",
+      "sheet": "old-sheet",
+      "source_bbox": [
+        49,
+        389,
+        261,
+        260
+      ],
+      "target": [
+        303,
+        678,
+        72,
+        74
+      ],
+      "clip": null,
+      "explicit_source_rect_clip": "hours-icon-source-bounds"
+    },
+    {
+      "id": "fare-icon",
+      "sheet": "old-sheet",
+      "source_bbox": [
+        317,
+        370,
+        242,
+        290
+      ],
+      "target": [
+        300,
+        760,
+        74,
+        85
+      ],
+      "clip": "fare-clip",
+      "explicit_source_rect_clip": "fare-icon-source-bounds"
+    },
+    {
+      "id": "trip-reference-icon",
+      "sheet": "old-sheet",
+      "source_bbox": [
+        1055,
+        94,
+        363,
+        221
+      ],
+      "target": [
+        1084,
+        590,
+        86,
+        69
+      ],
+      "clip": null,
+      "explicit_source_rect_clip": "trip-reference-icon-source-bounds"
+    },
+    {
+      "id": "local-help-icon",
+      "sheet": "old-sheet",
+      "source_bbox": [
+        1190,
+        329,
+        299,
+        310
+      ],
+      "target": [
+        1090,
+        695,
+        74,
+        78
+      ],
+      "clip": null,
+      "explicit_source_rect_clip": "local-help-icon-source-bounds"
+    },
+    {
+      "id": "green-sm-focal",
+      "sheet": "old-sheet",
+      "source_bbox": [
+        500,
+        75,
+        650,
+        685
+      ],
+      "target": [
+        766,
+        600,
+        269,
+        284
+      ],
+      "clip": "focal-clip",
+      "explicit_source_rect_clip": "green-sm-focal-source-bounds"
+    },
+    {
+      "id": "uber-neutral",
+      "sheet": "old-sheet",
+      "source_bbox": [
+        45,
+        687,
+        355,
+        295
+      ],
+      "target": [
+        78,
+        582,
+        155,
+        145
+      ],
+      "clip": null,
+      "explicit_source_rect_clip": "uber-neutral-source-bounds"
+    },
+    {
+      "id": "bolt-neutral",
+      "sheet": "old-sheet",
+      "source_bbox": [
+        1167,
+        681,
+        337,
+        304
+      ],
+      "target": [
+        1568,
+        582,
+        155,
+        145
+      ],
+      "clip": null,
+      "explicit_source_rect_clip": "bolt-neutral-source-bounds"
+    },
+    {
+      "id": "trained-drivers-art",
+      "sheet": "approach-sheet",
+      "source_bbox": [
+        35,
+        150,
+        680,
+        550
+      ],
+      "target": [
+        336,
+        1080,
+        232,
+        142
+      ],
+      "clip": null,
+      "explicit_source_rect_clip": "trained-drivers-art-source-bounds"
+    },
+    {
+      "id": "standards-art",
+      "sheet": "approach-sheet",
+      "source_bbox": [
+        788,
+        110,
+        432,
+        582
+      ],
+      "target": [
+        848,
+        1077,
+        110,
+        154
+      ],
+      "clip": null,
+      "explicit_source_rect_clip": "standards-art-source-bounds"
+    },
+    {
+      "id": "procedures-art",
+      "sheet": "approach-sheet",
+      "source_bbox": [
+        1302,
+        180,
+        632,
+        470
+      ],
+      "target": [
+        1233,
+        1088,
+        234,
+        145
+      ],
+      "clip": null,
+      "explicit_source_rect_clip": "procedures-art-source-bounds"
+    }
+  ],
+  "positioning_strip": [
+    {
+      "label": "Audience",
+      "exact_segment": "For self-paying Copenhagen residents aged 25–44 taking recurring local taxi trips within the service area,",
+      "text_object_id": "strip-audience"
+    },
+    {
+      "label": "Offer",
+      "exact_segment": "Green SM offers app-booked electric taxi rides",
+      "text_object_id": "strip-offer"
+    },
+    {
+      "label": "Value",
+      "exact_segment": "with clear booking terms and a route to local help,",
+      "text_object_id": "strip-value"
+    },
+    {
+      "label": "Delivery",
+      "exact_segment": "through its own fleet and employed drivers.",
+      "text_object_id": "strip-delivery"
+    }
+  ],
+  "reconstructed_statement": "For self-paying Copenhagen residents aged 25–44 taking recurring local taxi trips within the service area, Green SM offers app-booked electric taxi rides with clear booking terms and a route to local help, through its own fleet and employed drivers.",
+  "statement_words": 39,
+  "source_records": [
+    {
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "source_pdf": "../../04_references/konkurrence-og-forbrugerstyrelsen-2026b-uber-dantaxi-afgoerelse.pdf",
+      "physical_pages": [
+        119,
+        174
+      ],
+      "evidence_ids": [
+        "E-019",
+        "E-184"
+      ],
+      "sha256": "309669803ffbe59f7d14609b297dc0945df9dc3f457664645e240645dece3ffb",
+      "registry_verified_sha256": "309669803ffbe59f7d14609b297dc0945df9dc3f457664645e240645dece3ffb",
+      "accessed": "2026-09-27",
+      "organisation": "Konkurrence- og Forbrugerstyrelsen",
+      "title": "Ubers køb af Dantaxi",
+      "url": "https://kfst.dk/media/dhqlgp33/20260824-uber-dantaxi.pdf"
+    },
+    {
+      "key": "green-future-usa-inc-ndc",
+      "source_pdf": "../../04_references/green-future-usa-inc-ndc-story-and-humanity.pdf",
+      "physical_pages": [
+        3
+      ],
+      "evidence_ids": [
+        "E-200",
+        "E-203"
+      ],
+      "sha256": "98c36654c2bf1e69e1aceafe69d46310754349f9179eaecd5ddd5a73eeab09eb",
+      "registry_verified_sha256": "98c36654c2bf1e69e1aceafe69d46310754349f9179eaecd5ddd5a73eeab09eb",
+      "accessed": "2026-10-03",
+      "organisation": "Green Future USA Inc.",
+      "title": "Story and humanity",
+      "url": "https://www.greensm.com/us-en/about"
+    }
+  ],
+  "citation_visible": false,
+  "qualifier_occurrences": 1,
+  "reused_art_asset": "panel-03-production-v02-2026-10-03-generated-art.png",
+  "reused_art_sha256": "8aa7b149a9a3558690e4584fd1a34b37e02eec6f06676e6ab5a02cfa158d17ea",
+  "new_art_asset": "panel-03-production-v05-2026-10-03-generated-art.png",
+  "new_art_sha256": "8f102d041e020e7861c4f5d59eb0fc24d10b98b6f1bc369294ec98308330c122",
+  "new_art_dimensions": [
+    1942,
+    809
+  ],
+  "authentic_logo_source": "panel-01-production-v01-2026-10-03-logo.png",
+  "authentic_logo_sha256": "6a33a503aa903020e5dd8228634b78c2cc1492431969295bd7ae00f7655f44d0",
+  "excluded_optional_caption": "Know the terms. Know where to get help.",
+  "local_font_files": [
+    "/System/Library/Fonts/MarkerFelt.ttc",
+    "/System/Library/Fonts/Noteworthy.ttc"
+  ],
+  "font_rendering": "outlined glyphs; no font fallback",
+  "helper": "hand-drawn-lettering-layout-v01.py",
+  "helper_sha256": "c41a2fd90f98643bf69174d92d97b8357718f01d68bc12f099b37404c2a416c9",
+  "render_source": "panel-03-production-v05-2026-10-03-render.py",
+  "new_native_image_calls": 1,
+  "native_output_original": "/Users/KHOILQ/.codex/generated_images/01a10052-be76-7750-8e04-af9a43fd23fe/exec-67e6a9c2-67da-4aa2-a0f1-a4d4d2571acc.png",
+  "inference_boundary": "Corporate service approach informs selected proposed Copenhagen implementation; it is not proof of completed local delivery or competitor superiority.",
+  "illustration_boundaries": [
+    "Conceptual app, not a screenshot or tested feature set",
+    "Generic location image, not a verified coverage map",
+    "Vehicle drawing, not evidence of Danish fleet model",
+    "Two fleet vehicles are symbolic, not a fleet count",
+    "Driver bust is generic, not an identified Green SM employee",
+    "Two small neutral-grey app/taxi islands provide rival context; colour supplies no ranking",
+    "Full A0 integration and physical print not tested",
+    "Generic training/checklist/support pictograms; no actual class, certification, employee or support event depicted.",
+    "Noise cue is general EV versus combustion-vehicle character, not an exclusive brand advantage."
+  ],
+  "plan_connector": "Dashed pen connector from corporate approach to Delivery plan indicates selected inference."
+}

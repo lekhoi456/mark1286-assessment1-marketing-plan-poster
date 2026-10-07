@@ -1,0 +1,799 @@
+{
+  "version": "v04",
+  "prepared": "2026-10-03",
+  "status": "Production draft of approved panel content; geometry and whole-poster print fit remain for review",
+  "authority": [
+    "D-043",
+    "D-044",
+    "D-045",
+    "D-046",
+    "D-048 (student instruction relayed by parent; shared log owned by parent)"
+  ],
+  "approved_source": "panel-02-selected-content-and-proposals-v04-2026-10-03.md",
+  "chart_source": "panel-02-age-distribution-chart-v04-2026-10-03.svg",
+  "canvas": {
+    "width": 1800,
+    "height": 1360,
+    "unit": "SVG user units",
+    "aspect_ratio": 1.3235294117647058,
+    "physical_placement_proposal_mm": {
+      "width": 330,
+      "height": 249.333333
+    },
+    "minimum_native_font_size": 27,
+    "physical_minimum_at_proposed_width_mm": 4.95,
+    "physical_minimum_at_proposed_width_pt": 14.031496062992128,
+    "physical_fit_verified": false
+  },
+  "approved_strings": {
+    "heading": "Target Market",
+    "priority": "Copenhagen residents aged 25–44",
+    "filters": "Self-paying · Existing taxi users · Recurring local trips",
+    "geography": "Copenhagen — within the service area",
+    "qualifier": "Proposed rider profile",
+    "psychographic": "Price-conscious · Values trip control · Expects fair treatment",
+    "behavioural": "Already uses taxis · Recurring local trips · Pays personally",
+    "rationale": "Recurring local trips create opportunities for repeat rides."
+  },
+  "text_objects": [
+    {
+      "id": "p2-heading",
+      "text": "Target Market",
+      "x": 70,
+      "baseline_y": 100,
+      "font_size": 70,
+      "font_weight": 400,
+      "text_anchor": "start",
+      "role": "heading",
+      "origin": "selected specification v04",
+      "rotation": -0.55,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_family": "Marker Felt",
+      "measured_advance_width": 400.40000000000003,
+      "left": 70
+    },
+    {
+      "id": "p2-priority",
+      "text": "Copenhagen residents aged 25–44",
+      "x": 70,
+      "baseline_y": 146,
+      "font_size": 46,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "priority segment",
+      "origin": "selected specification v04",
+      "rotation": -0.35,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 722.3725000000001,
+      "left": 70
+    },
+    {
+      "id": "p2-filters",
+      "text": "Self-paying · Existing taxi users · Recurring local trips",
+      "x": 70,
+      "baseline_y": 210,
+      "font_size": 36,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "eligibility filters",
+      "origin": "selected specification v04",
+      "rotation": 0.18,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 823.905,
+      "left": 70
+    },
+    {
+      "id": "p2-chart-title",
+      "text": "COPENHAGEN RESIDENTS BY AGE",
+      "x": 100,
+      "baseline_y": 270,
+      "font_size": 40,
+      "font_weight": 400,
+      "text_anchor": "start",
+      "role": "chart title",
+      "origin": "selected chart v04",
+      "rotation": -0.22,
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_family": "Marker Felt",
+      "measured_advance_width": 508.0,
+      "left": 100
+    },
+    {
+      "id": "p2-chart-scope",
+      "text": "Copenhagen municipality · 1 July 2026 · age groups 18+",
+      "x": 100,
+      "baseline_y": 309,
+      "font_size": 30,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "chart scope and date",
+      "origin": "selected chart v04",
+      "rotation": 0.28,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 720.7875,
+      "left": 100
+    },
+    {
+      "id": "p2-y-0",
+      "text": "0",
+      "x": 195,
+      "baseline_y": 663.0,
+      "font_size": 27,
+      "font_weight": 700,
+      "text_anchor": "end",
+      "role": "axis tick",
+      "origin": "selected chart v04",
+      "rotation": -0.15,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 21.330000000000002,
+      "left": 173.67
+    },
+    {
+      "id": "p2-y-100000",
+      "text": "100,000",
+      "x": 195,
+      "baseline_y": 583.2342857142858,
+      "font_size": 27,
+      "font_weight": 700,
+      "text_anchor": "end",
+      "role": "axis tick",
+      "origin": "selected chart v04",
+      "rotation": 0.2,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 121.0275,
+      "left": 73.9725
+    },
+    {
+      "id": "p2-y-200000",
+      "text": "200,000",
+      "x": 195,
+      "baseline_y": 503.4685714285714,
+      "font_size": 27,
+      "font_weight": 700,
+      "text_anchor": "end",
+      "role": "axis tick",
+      "origin": "selected chart v04",
+      "rotation": 0.25,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 132.7725,
+      "left": 62.22749999999999
+    },
+    {
+      "id": "p2-y-300000",
+      "text": "300,000",
+      "x": 195,
+      "baseline_y": 423.7028571428571,
+      "font_size": 27,
+      "font_weight": 700,
+      "text_anchor": "end",
+      "role": "axis tick",
+      "origin": "selected chart v04",
+      "rotation": -0.35,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 134.7975,
+      "left": 60.202499999999986
+    },
+    {
+      "id": "p2-axis-title",
+      "text": "Residents",
+      "x": 100,
+      "baseline_y": 362,
+      "font_size": 28,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "axis title",
+      "origin": "selected chart v04",
+      "rotation": 0.18,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 121.62500000000001,
+      "left": 100
+    },
+    {
+      "id": "p2-count-1",
+      "text": "72,396",
+      "x": 360.002472,
+      "baseline_y": 583.252813,
+      "font_size": 35,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "population count",
+      "origin": "selected chart v04 / E-193",
+      "rotation": -0.22,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 137.15625,
+      "left": 291.424347
+    },
+    {
+      "id": "p2-age-1",
+      "text": "18–24",
+      "x": 360.002472,
+      "baseline_y": 694,
+      "font_size": 35,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "age category",
+      "origin": "selected chart v04",
+      "rotation": 0.28,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 114.71249999999999,
+      "left": 302.646222
+    },
+    {
+      "id": "p2-count-2",
+      "text": "269,277",
+      "x": 724.505891,
+      "baseline_y": 426.209278,
+      "font_size": 35,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "population count",
+      "origin": "selected chart v04 / E-193",
+      "rotation": -0.15,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 158.06875,
+      "left": 645.4715160000001
+    },
+    {
+      "id": "p2-age-2",
+      "text": "25–44",
+      "x": 724.505891,
+      "baseline_y": 694,
+      "font_size": 35,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "age category",
+      "origin": "selected chart v04",
+      "rotation": 0.2,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 134.79375,
+      "left": 657.109016
+    },
+    {
+      "id": "p2-count-3",
+      "text": "143,668",
+      "x": 1089.009309,
+      "baseline_y": 526.402194,
+      "font_size": 35,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "population count",
+      "origin": "selected chart v04 / E-193",
+      "rotation": 0.25,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 158.33124999999998,
+      "left": 1009.843684
+    },
+    {
+      "id": "p2-age-3",
+      "text": "45–64",
+      "x": 1089.009309,
+      "baseline_y": 694,
+      "font_size": 35,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "age category",
+      "origin": "selected chart v04",
+      "rotation": -0.35,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 135.40625,
+      "left": 1021.306184
+    },
+    {
+      "id": "p2-count-4",
+      "text": "74,728",
+      "x": 1453.512729,
+      "baseline_y": 581.392677,
+      "font_size": 35,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "population count",
+      "origin": "selected chart v04 / E-193",
+      "rotation": 0.18,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 138.29375,
+      "left": 1384.3658540000001
+    },
+    {
+      "id": "p2-age-4",
+      "text": "65+",
+      "x": 1453.512729,
+      "baseline_y": 694,
+      "font_size": 35,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "age category",
+      "origin": "selected chart v04",
+      "rotation": -0.22,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 79.8,
+      "left": 1413.612729
+    },
+    {
+      "id": "p2-share",
+      "text": "40.2%",
+      "x": 724.505891,
+      "baseline_y": 353,
+      "font_size": 36,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "population share",
+      "origin": "D-046 / selected chart v04 / E-191",
+      "rotation": 0.28,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 127.97999999999999,
+      "left": 660.515891
+    },
+    {
+      "id": "p2-share-basis",
+      "text": "of city residents",
+      "x": 724.505891,
+      "baseline_y": 380,
+      "font_size": 28,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "share denominator label",
+      "origin": "D-046 / selected chart v04",
+      "rotation": -0.15,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 192.395,
+      "left": 628.308391
+    },
+    {
+      "id": "p2-source",
+      "text": "Source: Statistics Denmark (2026b), FOLK1A; calculated sums of single-year ages.",
+      "x": 100,
+      "baseline_y": 741,
+      "font_size": 28,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "source note",
+      "origin": "selected chart v04",
+      "rotation": 0.2,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 1007.0900000000001,
+      "left": 100
+    },
+    {
+      "id": "p2-denominator",
+      "text": "The 40.2% denominator is all 670,389 city residents, including those aged under 18.",
+      "x": 100,
+      "baseline_y": 778,
+      "font_size": 28,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "denominator caveat",
+      "origin": "selected chart v04",
+      "rotation": 0.25,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 1029.105,
+      "left": 100
+    },
+    {
+      "id": "p2-location",
+      "text": "Copenhagen — within the service area",
+      "x": 591,
+      "baseline_y": 864,
+      "font_size": 34,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "geographic filter",
+      "origin": "selected specification v04",
+      "rotation": -0.35,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 549.5250000000001,
+      "left": 591
+    },
+    {
+      "id": "p2-profile-qualifier",
+      "text": "Proposed rider profile",
+      "x": 900,
+      "baseline_y": 928,
+      "font_size": 36,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "hypothesis qualifier",
+      "origin": "selected specification v04",
+      "rotation": 0.18,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 332.01,
+      "left": 733.995
+    },
+    {
+      "id": "p2-psy-price",
+      "text": "Price-conscious",
+      "x": 226,
+      "baseline_y": 982,
+      "font_size": 36,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "psychographic label",
+      "origin": "selected specification v04",
+      "rotation": -0.22,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 248.80499999999998,
+      "left": 226
+    },
+    {
+      "id": "p2-psy-control",
+      "text": "Values trip control",
+      "x": 226,
+      "baseline_y": 1067,
+      "font_size": 36,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "psychographic label",
+      "origin": "selected specification v04",
+      "rotation": 0.28,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 280.485,
+      "left": 226
+    },
+    {
+      "id": "p2-psy-fair",
+      "text": "Expects fair treatment",
+      "x": 226,
+      "baseline_y": 1152,
+      "font_size": 36,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "psychographic label",
+      "origin": "selected specification v04",
+      "rotation": -0.15,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 353.07,
+      "left": 226
+    },
+    {
+      "id": "p2-beh-taxi",
+      "text": "Already uses taxis",
+      "x": 1240,
+      "baseline_y": 982,
+      "font_size": 36,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "behavioural label",
+      "origin": "selected specification v04",
+      "rotation": 0.2,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 284.53499999999997,
+      "left": 1240
+    },
+    {
+      "id": "p2-beh-repeat",
+      "text": "Recurring local trips",
+      "x": 1240,
+      "baseline_y": 1067,
+      "font_size": 36,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "behavioural label",
+      "origin": "selected specification v04",
+      "rotation": 0.25,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 310.59,
+      "left": 1240
+    },
+    {
+      "id": "p2-beh-pay",
+      "text": "Pays personally",
+      "x": 1240,
+      "baseline_y": 1152,
+      "font_size": 36,
+      "font_weight": 700,
+      "text_anchor": "start",
+      "role": "behavioural label",
+      "origin": "selected specification v04",
+      "rotation": -0.35,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 245.475,
+      "left": 1240
+    },
+    {
+      "id": "p2-rationale",
+      "text": "Recurring local trips create opportunities for repeat rides.",
+      "x": 900,
+      "baseline_y": 1304,
+      "font_size": 38,
+      "font_weight": 700,
+      "text_anchor": "middle",
+      "role": "approved prioritisation rationale",
+      "origin": "selected specification v04",
+      "rotation": 0.18,
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_family": "Noteworthy",
+      "measured_advance_width": 926.8675000000001,
+      "left": 436.56624999999997
+    }
+  ],
+  "grouped_labels": {
+    "psychographic": {
+      "ids": [
+        "p2-psy-price",
+        "p2-psy-control",
+        "p2-psy-fair"
+      ],
+      "joiner": " · ",
+      "resolved_text": "Price-conscious · Values trip control · Expects fair treatment"
+    },
+    "behavioural": {
+      "ids": [
+        "p2-beh-taxi",
+        "p2-beh-repeat",
+        "p2-beh-pay"
+      ],
+      "joiner": " · ",
+      "resolved_text": "Already uses taxis · Recurring local trips · Pays personally"
+    }
+  },
+  "data": {
+    "counts": [
+      72396,
+      269277,
+      143668,
+      74728
+    ],
+    "age_groups": [
+      "18–24",
+      "25–44",
+      "45–64",
+      "65+"
+    ],
+    "baseline": 0,
+    "unit": "persons",
+    "date": "2026-07-01",
+    "geography": "Copenhagen municipality",
+    "adult_total": 560069,
+    "under_18": 110320,
+    "denominator_all_residents": 670389,
+    "selected_share_percent": 40.2,
+    "source_key": "statistics-denmark-2026b",
+    "evidence_ids": [
+      "E-191",
+      "E-193"
+    ],
+    "source_pdf": "statistics-denmark-2026b-population-quarter-age.pdf",
+    "source_pdf_sha256": "21fb094d568fb803213ada1640ecb2903d548379dee0ca87ff9b68666038f0b0"
+  },
+  "illustrations": {
+    "generated": true,
+    "tool": "built-in image_gen__imagegen",
+    "art_file": "panel-02-production-v04-2026-10-03-generated-art.png",
+    "art_sha256": "efadcea7f91d4fe90695714ffa2beedea01c68d5cd2535376608a65b982fe01c",
+    "native_bytes_retained": true,
+    "viewports": [
+      {
+        "name": "price",
+        "source": [
+          80,
+          95,
+          440,
+          285
+        ],
+        "target": [
+          87,
+          932,
+          122,
+          88
+        ]
+      },
+      {
+        "name": "route",
+        "source": [
+          65,
+          385,
+          435,
+          300
+        ],
+        "target": [
+          87,
+          1018,
+          122,
+          94
+        ]
+      },
+      {
+        "name": "support",
+        "source": [
+          90,
+          687,
+          425,
+          285
+        ],
+        "target": [
+          87,
+          1108,
+          122,
+          90
+        ]
+      },
+      {
+        "name": "resident",
+        "source": [
+          500,
+          235,
+          490,
+          620
+        ],
+        "target": [
+          777,
+          936,
+          250,
+          304
+        ]
+      },
+      {
+        "name": "taxi",
+        "source": [
+          970,
+          100,
+          520,
+          320
+        ],
+        "target": [
+          1104,
+          931,
+          124,
+          91
+        ]
+      },
+      {
+        "name": "calendar",
+        "source": [
+          1020,
+          405,
+          490,
+          285
+        ],
+        "target": [
+          1104,
+          1020,
+          124,
+          90
+        ]
+      },
+      {
+        "name": "wallet",
+        "source": [
+          1010,
+          697,
+          485,
+          285
+        ],
+        "target": [
+          1104,
+          1104,
+          124,
+          93
+        ]
+      }
+    ]
+  },
+  "placement_rules": [
+    "Exact approved strings are rendered through explicit handwriting font files; final portable SVG outlines avoid fallback and the companion SVG retains native editable text.",
+    "The 40.2% pill stays above the highlighted 25–44 bar, with 269,277 separate.",
+    "Every bar uses the unchanged counts and mathematical zero-baseline height; only the perimeter and clipped marker fill are irregular.",
+    "Keep source/date/all-city denominator and Proposed rider profile readable.",
+    "Joining the exact six profile labels with the approved middle-dot separator reproduces both selected triplets.",
+    "The original generated art bytes are retained. Native viewports and a resident-only clip exclude neighbouring icon fragments; no pixels or data are redrawn by an image model."
+  ],
+  "typography": {
+    "rendering": "Portable SVG glyph outlines generated directly from explicit local font files, with a companion native-text editable SVG; no sans fallback or font redistribution",
+    "font_files": {
+      "heading": [
+        "/System/Library/Fonts/MarkerFelt.ttc",
+        0,
+        "Marker Felt"
+      ],
+      "body": [
+        "/System/Library/Fonts/Noteworthy.ttc",
+        1,
+        "Noteworthy"
+      ]
+    },
+    "minimum_size": 27
+  },
+  "chart_geometry": {
+    "baseline": 655,
+    "pixels_per_resident": 0.0007976571428571429,
+    "bars": [
+      {
+        "id": "p2-bar-1",
+        "count": 72396,
+        "baseline": 655,
+        "true_top": 597.2528134857143,
+        "true_height": 57.747186514285715,
+        "width": 215.0570163,
+        "marker_clip": "bar-clip-1"
+      },
+      {
+        "id": "p2-bar-2",
+        "count": 269277,
+        "baseline": 655,
+        "true_top": 440.2092775428571,
+        "true_height": 214.7907224571429,
+        "width": 215.0570163,
+        "marker_clip": "bar-clip-2"
+      },
+      {
+        "id": "p2-bar-3",
+        "count": 143668,
+        "baseline": 655,
+        "true_top": 540.4021936,
+        "true_height": 114.59780640000001,
+        "width": 215.0570163,
+        "marker_clip": "bar-clip-3"
+      },
+      {
+        "id": "p2-bar-4",
+        "count": 74728,
+        "baseline": 655,
+        "true_top": 595.3926770285714,
+        "true_height": 59.60732297142859,
+        "width": 215.0570163,
+        "marker_clip": "bar-clip-4"
+      }
+    ],
+    "zero_baseline": true,
+    "styling": "Thin irregular perimeter and translucent marker strokes clipped to true mathematical bar rectangles; no ruler grid or solid uniform bars"
+  },
+  "style_authority": "shared-hand-drawn-style-revision-v01-2026-10-03.md; student style rejection/approved revision, parent log owner"
+}

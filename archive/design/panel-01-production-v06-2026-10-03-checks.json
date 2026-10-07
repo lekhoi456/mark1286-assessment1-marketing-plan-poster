@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-03",
+  "authority": "D-059",
+  "visible_controlled_text_objects": 14,
+  "all_v04_v05_strings_and_glyph_paths_unchanged": true,
+  "all_original_layout_drawing_subtrees_unchanged": true,
+  "selected_display_copy_fragment_unchanged": true,
+  "full_supplied_svg_bytes_match_source_and_embedded_resource": true,
+  "supplied_asset_sha256": "9d676729f71ddfcc6322c368ca1d446b1047fff3afc50cf847f22b5c67941f00",
+  "supplied_asset_origin": "Student-supplied; not an official download or bibliographically verified origin",
+  "intrinsic_logo_viewbox": [
+    0,
+    0,
+    32,
+    33
+  ],
+  "placed_logo_rect": [
+    834,
+    737,
+    80,
+    82.5
+  ],
+  "intrinsic_proportions_preserved": true,
+  "emblem_and_wordmark_both_retained": true,
+  "original_wordmark_path_count": 14,
+  "embedded_source_image_count": 1,
+  "no_crop_no_component_reflow_no_relettering": true,
+  "legacy_emblem_only_overlay_absent": true,
+  "generic_lightning_and_native_art_unchanged": true,
+  "authentic_green_sm_asset_bytes_unchanged": true,
+  "font_and_flag_geometry_preserved": true,
+  "visible_source_footers": 0,
+  "standalone_vinfast_caption_or_vingroup_added": false,
+  "source_pdf_hashes": [
+    {
+      "key": "vietnamplus-2023a",
+      "sha256": "9a5b0ced0e5907798abea9cc0bea3e0f96f4f592d4ef2e0bb1e200b19c3dd998",
+      "matches_preserved_record": true,
+      "scope": "Previously preserved claim source"
+    },
+    {
+      "key": "green-sm-2026a",
+      "sha256": "94c700b0f552ad67830c06255a5300a787f0801a577a58cb41ac39297375265d",
+      "matches_preserved_record": true,
+      "scope": "Previously preserved claim source"
+    },
+    {
+      "key": "green-sm-2026d",
+      "sha256": "3913ee2f316d3ea75f561723c2f7f8d3f99b6a257b524071efc340f32a499a0e",
+      "matches_preserved_record": true,
+      "scope": "Previously preserved claim source"
+    },
+    {
+      "key": "green-sm-denmark-aps-ndb",
+      "sha256": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b",
+      "matches_preserved_record": true,
+      "scope": "Previously preserved claim source"
+    },
+    {
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "sha256": "309669803ffbe59f7d14609b297dc0945df9dc3f457664645e240645dece3ffb",
+      "matches_preserved_record": true,
+      "scope": "Previously preserved claim source"
+    },
+    {
+      "key": "green-sm-denmark-aps-ndc",
+      "sha256": "d836ff7cf0fbd96b5935514d79d7978e93b6db8b0c56fce0d7e694ab2c346187",
+      "matches_preserved_record": true,
+      "scope": "Previously preserved claim source"
+    },
+    {
+      "key": "vinfast-2025",
+      "sha256": "c0512219e6e3d9261d8bcc16e762a955e87fbe02b90068a029d0e8a913f2b204",
+      "matches_preserved_record": true,
+      "scope": "Manufacturer brand/vehicle-range context, distinct from the user-supplied logo origin"
+    }
+  ],
+  "internal_footprint_date_count_preserved": true,
+  "main_preview_px": [
+    2400,
+    1680
+  ],
+  "car_crop_px": [
+    1340,
+    570
+  ],
+  "small_proof_px": [
+    960,
+    672
+  ],
+  "manual_inspection": {
+    "supplied_source": "Rendered complete source inspected: silver V plus intrinsic VINFAST, no crop",
+    "complete_panel": "Actual full PNG inspected: V and VINFAST both visible, wordmark readable on screen; whole logo fits front door and is clear of handle and outline",
+    "car_crop": "Actual close view inspected: emblem and VINFAST clearly readable; no observed clipping or overlap"
+  },
+  "new_image_generation": false,
+  "gate": "Focused full-logo/source/content/layout check only; no broad gate or full-poster writing/reference pass claimed.",
+  "historical_v05": "Preserved, emblem-only implementation superseded and not accepted",
+  "limits": [
+    "Student v06 image acceptance pending",
+    "Physical A0 scale and full-logo readability untested",
+    "User-supplied SVG origin not represented as an official download",
+    "Illustrated brand is not a Copenhagen vehicle-model deployment claim"
+  ]
+}

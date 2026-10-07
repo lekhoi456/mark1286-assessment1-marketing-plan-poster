@@ -1,0 +1,3776 @@
+{
+  "date": "2026-10-04",
+  "purpose": "Reversible workspace simplification; no assessment content change",
+  "original_files": {
+    ".gitignore": {
+      "size": 301,
+      "mtime_ns": 1790598580125151765
+    },
+    "AGENTS.md": {
+      "size": 16567,
+      "mtime_ns": 1790598580112763867,
+      "sha256": "0b681f9b77cdcd05b972111aa1400858396a3ecc1a00335de4d9d2e00a0e9c58"
+    },
+    "HANDOFF.md": {
+      "size": 85099,
+      "mtime_ns": 1791047601144702820,
+      "sha256": "52bf0fd8da556c5eb18b1372f11c5f8369e2b519f931456b7a6c5ec2d709fccf"
+    },
+    "CLAUDE.md": {
+      "size": 11,
+      "mtime_ns": 1790490841586059949
+    },
+    "05_plans/poster-blueprint.md": {
+      "size": 7702,
+      "mtime_ns": 1790602583063470103
+    },
+    "05_plans/master-plan.md": {
+      "size": 17546,
+      "mtime_ns": 1791047601145381485,
+      "sha256": "e2e735a72dc3bf95757db5d768039982e5a8bf4b79f974a8928fc360057fad52"
+    },
+    "06_workflow/references-workflow.md": {
+      "size": 30958,
+      "mtime_ns": 1790533220075655001
+    },
+    "06_workflow/workflow.md": {
+      "size": 12992,
+      "mtime_ns": 1790527435656488350,
+      "sha256": "62d0b04ba364c02ff8dbf0653e67eb24283fbb512b7a84a615934e1daa3f8b8c"
+    },
+    "00_brief_and_criteria/section-requirements-guide.md": {
+      "size": 9908,
+      "mtime_ns": 1791000566306582100
+    },
+    "00_brief_and_criteria/requirements-matrix.md": {
+      "size": 39119,
+      "mtime_ns": 1791047601143777447
+    },
+    "00_brief_and_criteria/rubric.md": {
+      "size": 10322,
+      "mtime_ns": 1790527423752299316
+    },
+    "00_brief_and_criteria/brief.md": {
+      "size": 21151,
+      "mtime_ns": 1790996336815680872
+    },
+    "00_brief_and_criteria/exemplars.md": {
+      "size": 10907,
+      "mtime_ns": 1790491710893678377
+    },
+    "00_brief_and_criteria/poster-headings.txt": {
+      "size": 283,
+      "mtime_ns": 1790490792414646398
+    },
+    "02_research/evidence-log.md": {
+      "size": 143419,
+      "mtime_ns": 1791031944253642271
+    },
+    "02_research/research-design.md": {
+      "size": 11612,
+      "mtime_ns": 1790562139675058838
+    },
+    "01_context/lecturer-questions-message.md": {
+      "size": 2026,
+      "mtime_ns": 1790524294004694717
+    },
+    "01_context/decision-log.md": {
+      "size": 78460,
+      "mtime_ns": 1791047563751878032,
+      "sha256": "a2709a6b02329c4a5b68c864b5698dd0d6d26f0c26202c603b787d2497405f5d"
+    },
+    "01_context/group-roster.md": {
+      "size": 1984,
+      "mtime_ns": 1790527399757057703
+    },
+    "01_context/course-context.md": {
+      "size": 4146,
+      "mtime_ns": 1790527411067164159
+    },
+    "01_context/user-requirements.md": {
+      "size": 4216,
+      "mtime_ns": 1790491236131071801
+    },
+    "01_context/open-questions.md": {
+      "size": 13181,
+      "mtime_ns": 1791047601143056198
+    },
+    "04_references/one-media-nd-abri-amsterdam.pdf": {
+      "size": 853742,
+      "mtime_ns": 1790528321608360139
+    },
+    "04_references/vietnamplus-2023a-hanoi-launch.pdf": {
+      "size": 1103541,
+      "mtime_ns": 1790522784874818842
+    },
+    "04_references/halvarsson-2026-offentlige-ladepunkter-milepael.pdf": {
+      "size": 197251,
+      "mtime_ns": 1790527857456618631
+    },
+    "04_references/korada-2026-delhi-economic-survey-highlights.pdf": {
+      "size": 1587271,
+      "mtime_ns": 1790527611631505692
+    },
+    "04_references/green-sm-denmark-aps-ndb-green-sm-car.pdf": {
+      "size": 6524730,
+      "mtime_ns": 1790527150364136000
+    },
+    "04_references/gsm-green-and-smart-mobility-joint-stock-company-nda-green-for-business.pdf": {
+      "size": 6019538,
+      "mtime_ns": 1790527150435050000
+    },
+    "04_references/siddharth-2026-green-sm-india-first-ride-review.pdf": {
+      "size": 24848772,
+      "mtime_ns": 1790527743627824689
+    },
+    "04_references/references.json": {
+      "size": 225994,
+      "mtime_ns": 1791031608123250044
+    },
+    "04_references/gemeente-amsterdam-2023-uitstootvrije-mobiliteit-plan.pdf": {
+      "size": 583679,
+      "mtime_ns": 1790527891860693357
+    },
+    "04_references/vingroup-2025a-philippines-launch.pdf": {
+      "size": 3223740,
+      "mtime_ns": 1790522816984146192
+    },
+    "04_references/green-sm-2026d-denmark-launch.pdf": {
+      "size": 2537423,
+      "mtime_ns": 1790527150240541025
+    },
+    "04_references/green-and-smart-mobility-netherlands-b-v-nda-driver-recruitment.pdf": {
+      "size": 1344283,
+      "mtime_ns": 1790527150372696000
+    },
+    "04_references/jensen-helinck-2026-danskerne-betaler-mere-med-mobilen.pdf": {
+      "size": 733533,
+      "mtime_ns": 1790528139531994774
+    },
+    "04_references/kjaergaard-2026-fagbevaegelsen-hilser-green-sm.pdf": {
+      "size": 3390905,
+      "mtime_ns": 1790526706286619979
+    },
+    "04_references/green-sm-nd-about.pdf": {
+      "size": 13558579,
+      "mtime_ns": 1790527150347527730
+    },
+    "04_references/kemp-2025a-digital-2026-denmark.pdf": {
+      "size": 1442964,
+      "mtime_ns": 1790527933281374731
+    },
+    "04_references/gsm-green-and-smart-mobility-joint-stock-company-ndc-green-sm-mini.pdf": {
+      "size": 8806806,
+      "mtime_ns": 1790528308427013000
+    },
+    "04_references/national-commission-on-population-2019-population-projections.pdf": {
+      "size": 11543351,
+      "mtime_ns": 1790527553071082980
+    },
+    "04_references/green-sm-2026c-kazakhstan-launch.pdf": {
+      "size": 1723307,
+      "mtime_ns": 1790527150224115846
+    },
+    "04_references/netherlands-enterprise-agency-nd-taxi-operator-licence.pdf": {
+      "size": 254021,
+      "mtime_ns": 1790527859705510234
+    },
+    "04_references/press-information-bureau-2025-caqm-cleaner-mobility-aggregators.pdf": {
+      "size": 187231,
+      "mtime_ns": 1790527425332777212
+    },
+    "04_references/ploos-van-amstel-2026-nog-een-taxiplatform.pdf": {
+      "size": 4059690,
+      "mtime_ns": 1790528433749069636
+    },
+    "04_references/acea-2026-new-car-registrations-2025.pdf": {
+      "size": 312714,
+      "mtime_ns": 1790527797652461701
+    },
+    "04_references/slump-2025-vinfast-sluit-verkooppunten.pdf": {
+      "size": 696419,
+      "mtime_ns": 1790527216137180756
+    },
+    "04_references/green-sm-2026b-india-limo-launch.pdf": {
+      "size": 15286641,
+      "mtime_ns": 1790527150167247724
+    },
+    "04_references/stultiens-2026-uber-elektrische-premiumrit.pdf": {
+      "size": 950494,
+      "mtime_ns": 1790528170265761549
+    },
+    "04_references/tgm-research-2025-ride-hailing-report-vietnam.pdf": {
+      "size": 495206,
+      "mtime_ns": 1790526653760212640
+    },
+    "04_references/government-of-vietnam-2024-decree-158-2024-vbpl.pdf": {
+      "size": 4972244,
+      "mtime_ns": 1790527418749708735
+    },
+    "04_references/afa-decaux-2026-prisliste.pdf": {
+      "size": 4693393,
+      "mtime_ns": 1790527922128621953
+    },
+    "04_references/gemeente-amsterdam-2026-ontwikkelingen-in-amsterdam.pdf": {
+      "size": 10943469,
+      "mtime_ns": 1790526909652665926
+    },
+    "04_references/statistics-denmark-2026a-households-size.pdf": {
+      "size": 62321,
+      "mtime_ns": 1790527240279688474
+    },
+    "04_references/rakuten-insight-2025-ride-hailing-app-landscape-vietnam.pdf": {
+      "size": 754372,
+      "mtime_ns": 1790526655775349550
+    },
+    "04_references/dan-thanh-2026-taxi-dien-green-sm-se-den-my.pdf": {
+      "size": 887934,
+      "mtime_ns": 1791020014972897749
+    },
+    "04_references/transport-department-gnctd-2023-aggregator-delivery-scheme.pdf": {
+      "size": 1281097,
+      "mtime_ns": 1790526914925382149
+    },
+    "04_references/green-sm-denmark-aps-nda-driver-recruitment.pdf": {
+      "size": 2039159,
+      "mtime_ns": 1790527150357098000
+    },
+    "04_references/mordor-intelligence-nd-vietnam-ride-hailing-market.pdf": {
+      "size": 1081547,
+      "mtime_ns": 1790526743824292392
+    },
+    "04_references/gsm-green-and-smart-mobility-joint-stock-company-2023-taxi-fares.pdf": {
+      "size": 11617386,
+      "mtime_ns": 1790528308426556000
+    },
+    "04_references/statistics-denmark-2026c-stock-of-vehicles-taxis.pdf": {
+      "size": 55115,
+      "mtime_ns": 1790527249221934956
+    },
+    "04_references/taxa-4x35-nd-taxa-priser.pdf": {
+      "size": 802960,
+      "mtime_ns": 1790527631407836490
+    },
+    "04_references/faerdselsstyrelsen-nd-find-koerselskontor.pdf": {
+      "size": 237582,
+      "mtime_ns": 1790527489889033611
+    },
+    "04_references/bao-chinh-phu-2026-xe-hop-dong-chia-se-du-lieu.pdf": {
+      "size": 1678817,
+      "mtime_ns": 1790527410711498216
+    },
+    "04_references/gsm-green-and-smart-mobility-joint-stock-company-ndd-driver-platform.pdf": {
+      "size": 2108452,
+      "mtime_ns": 1790527150437189000
+    },
+    "04_references/rijksoverheid-nda-extra-kwaliteitseisen-taxi.pdf": {
+      "size": 262189,
+      "mtime_ns": 1790527247202192423
+    },
+    "04_references/christiansen-anderson-2025-tu-aarsrapport-danmark-2024.pdf": {
+      "size": 1050469,
+      "mtime_ns": 1790527880239929434
+    },
+    "04_references/vinfast-2025-green-transport-service-range.pdf": {
+      "size": 46034658,
+      "mtime_ns": 1790998474204785467
+    },
+    "04_references/press-information-bureau-2026-rise-of-indias-ev-ecosystem.pdf": {
+      "size": 655151,
+      "mtime_ns": 1790527366484924121
+    },
+    "04_references/gsm-green-and-smart-mobility-joint-stock-company-2026-best-time-visit-vietnam.pdf": {
+      "size": 7834930,
+      "mtime_ns": 1790528308429390000
+    },
+    "04_references/vinh-tho-ngoc-an-2026-competition-authority-asks-grab.pdf": {
+      "size": 4628874,
+      "mtime_ns": 1790526825489682384
+    },
+    "04_references/gupta-sinha-2022-delhi-mobility-app-users.pdf": {
+      "size": 722901,
+      "mtime_ns": 1790527230670853908
+    },
+    "04_references/ilt-ndb-taximonitor.pdf": {
+      "size": 207415,
+      "mtime_ns": 1790527213692038542
+    },
+    "04_references/kemp-2025d-digital-2026-vietnam.pdf": {
+      "size": 1099647,
+      "mtime_ns": 1790526746297058338
+    },
+    "04_references/green-future-usa-inc-ndc-story-and-humanity.pdf": {
+      "size": 7231447,
+      "mtime_ns": 1791017424523738781
+    },
+    "04_references/decision-lab-nd-connected-consumer-q4-2025.pdf": {
+      "size": 3366316,
+      "mtime_ns": 1790526750864757545
+    },
+    "04_references/saraiya-2026-green-sm-airport-corporate-rides.pdf": {
+      "size": 2581482,
+      "mtime_ns": 1790527790799462493
+    },
+    "04_references/ilt-nda-marktbeeld-taxi.pdf": {
+      "size": 392939,
+      "mtime_ns": 1790527221876660245
+    },
+    "04_references/green-sm-2026f-rebrand-vi.pdf": {
+      "size": 7345972,
+      "mtime_ns": 1790527150310197013
+    },
+    "04_references/bl-mumbai-bureau-2026-green-sm-india-bet.pdf": {
+      "size": 2056200,
+      "mtime_ns": 1790527082717199129
+    },
+    "04_references/by-land-og-transportministeriet-2024-taxiloven.pdf": {
+      "size": 385505,
+      "mtime_ns": 1790527318122933986
+    },
+    "04_references/green-sm-denmark-aps-ndc-story-and-humanity.pdf": {
+      "size": 8707456,
+      "mtime_ns": 1790527150370110000
+    },
+    "04_references/gsm-green-and-smart-mobility-joint-stock-company-ndb-green-sm-car.pdf": {
+      "size": 8071402,
+      "mtime_ns": 1790527150420083000
+    },
+    "04_references/green-sm-india-private-limited-nd-green-sm-limo.pdf": {
+      "size": 2625049,
+      "mtime_ns": 1790527150439373000
+    },
+    "04_references/konkurrence-og-forbrugerstyrelsen-2026a-uber-frasaelge-dantaxi.pdf": {
+      "size": 92651,
+      "mtime_ns": 1790527618182662608
+    },
+    "04_references/gsm-green-and-smart-mobility-joint-stock-company-2024a-vietjet-airport-taxis.pdf": {
+      "size": 6594817,
+      "mtime_ns": 1790528308428753000
+    },
+    "04_references/guarascio-nguyen-2026-gsm-eyes-us-eu-expansion.pdf": {
+      "size": 5322205,
+      "mtime_ns": 1790527273073978402
+    },
+    "04_references/european-commission-2025b-eurobarometer-565-netherlands-factsheet.pdf": {
+      "size": 407908,
+      "mtime_ns": 1790528028074925764
+    },
+    "04_references/statistics-denmark-2025-disposable-income-age.pdf": {
+      "size": 100922,
+      "mtime_ns": 1790527229097473804
+    },
+    "04_references/kemp-2025c-digital-2026-netherlands.pdf": {
+      "size": 1233300,
+      "mtime_ns": 1790527522334416054
+    },
+    "04_references/gsm-green-and-smart-mobility-joint-stock-company-nde-xanh-hoi-vien.pdf": {
+      "size": 8453455,
+      "mtime_ns": 1790528308427862000
+    },
+    "04_references/european-commission-2025c-eurobarometer-565-annex.pdf": {
+      "size": 1513624,
+      "mtime_ns": 1790528028042324304
+    },
+    "04_references/gsm-green-and-smart-mobility-joint-stock-company-2024b-membership-launch.pdf": {
+      "size": 9684827,
+      "mtime_ns": 1790528308428186000
+    },
+    "04_references/green-future-usa-inc-ndb-us-homepage.pdf": {
+      "size": 8989751,
+      "mtime_ns": 1791017032668421934
+    },
+    "04_references/vietjet-2024-green-journey-xanh-sm-airports.pdf": {
+      "size": 5882654,
+      "mtime_ns": 1790526834191611188
+    },
+    "04_references/green-sm-2026e-rebrand.pdf": {
+      "size": 7264999,
+      "mtime_ns": 1790527150291000068
+    },
+    "04_references/rijksoverheid-ndb-maximum-taxi-tariffs-2026.pdf": {
+      "size": 305528,
+      "mtime_ns": 1790526699846202871
+    },
+    "04_references/konkurrence-og-forbrugerstyrelsen-2026b-uber-dantaxi-afgoerelse.pdf": {
+      "size": 10250360,
+      "mtime_ns": 1790527501540553718
+    },
+    "04_references/tgm-research-2026-ride-hailing-india.pdf": {
+      "size": 613168,
+      "mtime_ns": 1790527083145587828
+    },
+    "04_references/green-and-smart-mobility-netherlands-b-v-ndb-green-sm-car.pdf": {
+      "size": 4372742,
+      "mtime_ns": 1790527150379612000
+    },
+    "04_references/green-future-usa-inc-nda-green-sm-car.pdf": {
+      "size": 6796230,
+      "mtime_ns": 1791017037084915640
+    },
+    "04_references/lewis-2026-vinfast-taxi-debuted-europe.pdf": {
+      "size": 9915855,
+      "mtime_ns": 1790526926982526264
+    },
+    "04_references/ngoc-linh-2026-1-cuoc-xe-be-grab-green-sm.pdf": {
+      "size": 7328165,
+      "mtime_ns": 1790527190710676532
+    },
+    "04_references/vingroup-2024-indonesia-launch.pdf": {
+      "size": 2754947,
+      "mtime_ns": 1790522805715308527
+    },
+    "04_references/statistics-denmark-2026b-population-quarter-age.pdf": {
+      "size": 350485,
+      "mtime_ns": 1790527215438592987
+    },
+    "04_references/faerdselsstyrelsen-2026-takster-for-prisloft.pdf": {
+      "size": 260573,
+      "mtime_ns": 1790527362725069806
+    },
+    "04_references/shah-ghosh-2026-rapido-more-users-than-uber-ola.pdf": {
+      "size": 902968,
+      "mtime_ns": 1790527232561826734
+    },
+    "04_references/vingroup-2025b-xanh-sm-vinclub-lien-ket.pdf": {
+      "size": 10103684,
+      "mtime_ns": 1790526824962316272
+    },
+    "04_references/vinfast-nd-vf-mpv-7.pdf": {
+      "size": 13428174,
+      "mtime_ns": 1790997315949697630
+    },
+    "04_references/iea-2026-global-ev-outlook-2026.pdf": {
+      "size": 20175354,
+      "mtime_ns": 1790527577949716353
+    },
+    "04_references/sankunni-k-2026-blusmart-voler-car-top-bidder.pdf": {
+      "size": 1126529,
+      "mtime_ns": 1790527382223548279
+    },
+    "04_references/q-and-me-nd-car-ride-hailing-usage-habits-2024.pdf": {
+      "size": 405286,
+      "mtime_ns": 1790526654036367276
+    },
+    "04_references/references.html": {
+      "size": 395403,
+      "mtime_ns": 1791020160929582062
+    },
+    "04_references/european-commission-2025a-climate-change-denmark.pdf": {
+      "size": 401521,
+      "mtime_ns": 1790528041680959516
+    },
+    "04_references/reference-list.md": {
+      "size": 3095,
+      "mtime_ns": 1791020160930459855
+    },
+    "04_references/gsm-green-and-smart-mobility-joint-stock-company-2025-driver-policy.pdf": {
+      "size": 8795584,
+      "mtime_ns": 1790528308429069000
+    },
+    "04_references/tca-nd-taxi-amsterdam-schiphol.pdf": {
+      "size": 570573,
+      "mtime_ns": 1790528157827732360
+    },
+    "04_references/ngo-nd-vietnams-digital-dynamics-q4-2025.pdf": {
+      "size": 7354171,
+      "mtime_ns": 1790526749526333237
+    },
+    "04_references/chatterjee-2026-indias-cab-game-new-green-player.pdf": {
+      "size": 1808988,
+      "mtime_ns": 1790526913067980522
+    },
+    "04_references/das-gupta-2026-green-sm-airport-corporate-push.pdf": {
+      "size": 815182,
+      "mtime_ns": 1790527711115065768
+    },
+    "04_references/gsm-green-and-smart-mobility-joint-stock-company-2024c-xanh-family.pdf": {
+      "size": 9465376,
+      "mtime_ns": 1790528308428462000
+    },
+    "04_references/ramos-2025-emission-free-zones-amsterdam.pdf": {
+      "size": 220021,
+      "mtime_ns": 1790528092405265358
+    },
+    "04_references/mittal-2026-delhi-cabbies-unhappy-vietnamese-venture.pdf": {
+      "size": 6188348,
+      "mtime_ns": 1790526925954789749
+    },
+    "04_references/green-and-smart-mobility-netherlands-b-v-ndc-story-and-humanity.pdf": {
+      "size": 5765968,
+      "mtime_ns": 1790527150384360000
+    },
+    "04_references/minh-khanh-2025-grab-bac-so-lieu-thi-phan.pdf": {
+      "size": 794942,
+      "mtime_ns": 1790526823512759689
+    },
+    "04_references/national-statistics-office-2026-statistical-summary-book-2025.pdf": {
+      "size": 11658276,
+      "mtime_ns": 1790527021220800895
+    },
+    "04_references/kemp-2025b-digital-2026-india.pdf": {
+      "size": 1139822,
+      "mtime_ns": 1790527384271111931
+    },
+    "04_references/vietnamplus-2023b-laos-launch.pdf": {
+      "size": 724785,
+      "mtime_ns": 1790522794304208981
+    },
+    "04_references/green-sm-2026a-netherlands-pilot.pdf": {
+      "size": 1451797,
+      "mtime_ns": 1790527150137209133
+    },
+    "07_drafts/.DS_Store": {
+      "size": 6148,
+      "mtime_ns": 1791042658568130343,
+      "sha256": "ebce12ee6748762ffd567bf6264cb15adad291ff324c02579ff1da2260f30293"
+    },
+    "07_drafts/poster-v07-2026-10-03.md": {
+      "size": 16331,
+      "mtime_ns": 1791000485915886441,
+      "sha256": "74835237c28c93f861884e3824a4b44e2642583b7fec9fe053a6c4fd78500320"
+    },
+    "07_drafts/poster-v03-2026-09-28.md": {
+      "size": 14422,
+      "mtime_ns": 1790600204160362722,
+      "sha256": "30471ac2990cacbdaeb473d2985c42e7a0d9ed1d61fbb51780f08947bcb21358"
+    },
+    "07_drafts/poster-v04-2026-09-28.md": {
+      "size": 13693,
+      "mtime_ns": 1790601676634983971,
+      "sha256": "a569bd6591b4bac07dd4cd124893c66977e6f08968a41e683f505e30aa31b08f"
+    },
+    "07_drafts/poster-v05-2026-09-28.md": {
+      "size": 13905,
+      "mtime_ns": 1790602519199725565,
+      "sha256": "6827d77b79afa66e322b014ad5040361f4588403723df84a9812d033ea450c9b"
+    },
+    "07_drafts/poster-v01-2026-09-28.md": {
+      "size": 12771,
+      "mtime_ns": 1790597081314375076,
+      "sha256": "3e3e022f603ae463242fe0f6da703b31bab9e59751244c2629d2235b0a8045bb"
+    },
+    "07_drafts/poster-v02-2026-09-28.md": {
+      "size": 14308,
+      "mtime_ns": 1790598137455282093,
+      "sha256": "4463989bbbb923dfc982af6c06755938e70833e2f9883eebac48c9c12fdd2539"
+    },
+    "07_drafts/poster-v06-2026-10-03.md": {
+      "size": 13955,
+      "mtime_ns": 1790996035983649370,
+      "sha256": "cc462afb770cd10ce7710177a8e2c915f7d9238015bd34af2b6e11bcdbe06f72"
+    },
+    "03_course_materials/lecture6-guidance.md": {
+      "size": 38307,
+      "mtime_ns": 1790524192560863191
+    },
+    "03_course_materials/concept-list.txt": {
+      "size": 4906,
+      "mtime_ns": 1790522798252763295
+    },
+    "03_course_materials/concept-register.md": {
+      "size": 72806,
+      "mtime_ns": 1790522787778450170
+    },
+    "03_course_materials/index.md": {
+      "size": 24575,
+      "mtime_ns": 1790522931741625115
+    },
+    "03_course_materials/extracted/w06-lecture.md": {
+      "size": 5585,
+      "mtime_ns": 1790522218122849210
+    },
+    "03_course_materials/extracted/w04-tesla.md": {
+      "size": 7808,
+      "mtime_ns": 1790495401166554421
+    },
+    "03_course_materials/extracted/w02-mini-case-studies.md": {
+      "size": 7304,
+      "mtime_ns": 1790522217849895680
+    },
+    "03_course_materials/extracted/w02-tutorial.md": {
+      "size": 13322,
+      "mtime_ns": 1790522217783827226
+    },
+    "03_course_materials/extracted/w03-lecture.md": {
+      "size": 12395,
+      "mtime_ns": 1790522217879531221
+    },
+    "03_course_materials/extracted/w04-lecture.md": {
+      "size": 11481,
+      "mtime_ns": 1790522217947985021
+    },
+    "03_course_materials/extracted/sample-poster-2.md": {
+      "size": 1162,
+      "mtime_ns": 1790522218215013476
+    },
+    "03_course_materials/extracted/w01-tutorial.md": {
+      "size": 12130,
+      "mtime_ns": 1790522216672244412
+    },
+    "03_course_materials/extracted/w01-lecture.md": {
+      "size": 16359,
+      "mtime_ns": 1790495392622123772
+    },
+    "03_course_materials/extracted/w04-tutorial.md": {
+      "size": 14771,
+      "mtime_ns": 1790522217988950667
+    },
+    "03_course_materials/extracted/sample-poster-3.md": {
+      "size": 1162,
+      "mtime_ns": 1790522218240270326
+    },
+    "03_course_materials/extracted/w03-tutorial.md": {
+      "size": 10707,
+      "mtime_ns": 1790522217918068353
+    },
+    "03_course_materials/extracted/sample-poster-4.md": {
+      "size": 1162,
+      "mtime_ns": 1790522218265402092
+    },
+    "03_course_materials/extracted/w02-lecture.md": {
+      "size": 13720,
+      "mtime_ns": 1790522217737692717
+    },
+    "03_course_materials/extracted/module-handbook.md": {
+      "size": 33081,
+      "mtime_ns": 1790522216409300813
+    },
+    "03_course_materials/extracted/sample-poster-1.md": {
+      "size": 1162,
+      "mtime_ns": 1790522218189491458
+    },
+    "03_course_materials/extracted/w06-tutorial.md": {
+      "size": 5622,
+      "mtime_ns": 1790522218161492676
+    },
+    "03_course_materials/extracted/sample-poster-5.md": {
+      "size": 1162,
+      "mtime_ns": 1790522218291049736
+    },
+    "03_course_materials/extracted/w05-tutorial.md": {
+      "size": 16720,
+      "mtime_ns": 1790522218056963090
+    },
+    "03_course_materials/extracted/w01-omnichannel-retailing.md": {
+      "size": 22078,
+      "mtime_ns": 1790522217706582793
+    },
+    "03_course_materials/extracted/w05-vodafone.md": {
+      "size": 3488,
+      "mtime_ns": 1790522218097157482
+    },
+    "03_course_materials/extracted/w05-lecture.md": {
+      "size": 12434,
+      "mtime_ns": 1790522218017081242
+    },
+    "03_course_materials/extracted/w06-lecture-recording.md": {
+      "size": 28745,
+      "mtime_ns": 1790524213689203440
+    },
+    "03_course_materials/extracted/assessment-1-brief.md": {
+      "size": 5162,
+      "mtime_ns": 1790522216458575465
+    },
+    "07_drafts/design/panel-01-production-v02-2026-10-03-manifest.json": {
+      "size": 17362,
+      "mtime_ns": 1791012182241561450,
+      "sha256": "701d5afde5b7c03a41e2bbd1d35c3bdb3c2c53045582f3fac4686f47ffa07028"
+    },
+    "07_drafts/design/panel-04-production-v01-2026-10-03-text-manifest.json": {
+      "size": 4624,
+      "mtime_ns": 1791012454505720169,
+      "sha256": "b71a6bac16607c6476863258b4cb58634c6ee416f441e825d76bf698e52a3453"
+    },
+    "07_drafts/design/panel-02-production-v02-2026-10-03.md": {
+      "size": 8018,
+      "mtime_ns": 1791004786297964575,
+      "sha256": "c1d447c836193915456dded0451f1784d9aca03ebd1cc0a2a0f4826616b7ab0c"
+    },
+    "07_drafts/design/poster-infographic-brainstorm-v02-2026-10-03.md": {
+      "size": 7973,
+      "mtime_ns": 1790998665119135262,
+      "sha256": "b7d2765bf9c92bdb5ca2f8bb981b1ac93e3907181601494258486dc9b4183140"
+    },
+    "07_drafts/design/panel-03-production-v03-2026-10-03.md": {
+      "size": 827,
+      "mtime_ns": 1791013245527670500,
+      "sha256": "06d2364efbfe5226263c0099e27282098156759e871027665b324a8de4e42c85"
+    },
+    "07_drafts/design/panel-01-production-v03-2026-10-03-art.png": {
+      "size": 1467373,
+      "mtime_ns": 1791011940580426062,
+      "sha256": "1e4c74e55d7526be5651c3ce0a8db0bacd002bc68793cec7ec42a89879ed01c9"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-vinfast-emblem.svg": {
+      "size": 322240,
+      "mtime_ns": 1791015314276443325,
+      "sha256": "cb7612e0acff93d83ec34e1122d7e7dbb4bdfae13ce608ce2f0e31cb2bd6ab58"
+    },
+    "07_drafts/design/panel-01-production-v02-2026-10-03.svg": {
+      "size": 2181557,
+      "mtime_ns": 1791012087757776587,
+      "sha256": "f95fe822ceb1e2307350d6132ebc0bbc321973737337310f3cfb3d34fb1b588b"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-vinfast-provenance.json": {
+      "size": 1723,
+      "mtime_ns": 1791015314308286801,
+      "sha256": "16339bb127fa91a3e23e7364c4d53841b2353deb4fbd31fd33f2ea2256c3ec82"
+    },
+    "07_drafts/design/panel-03-about-inspired-proposal-v01-2026-10-03.md": {
+      "size": 6391,
+      "mtime_ns": 1791032060986098698,
+      "sha256": "a61549d1944aef3ddc96efabb84f4585eac7c1751f2fca0161701b79285af3c3"
+    },
+    "07_drafts/design/panel-01-production-v01-2026-10-03.md": {
+      "size": 11555,
+      "mtime_ns": 1791004948540577323,
+      "sha256": "868a80563aab31102cbed542f200f65b47d0e411baf3455469ba9ba01aaac050"
+    },
+    "07_drafts/design/panel-04-production-v05-2026-10-03-render.py": {
+      "size": 2139,
+      "mtime_ns": 1791046178295636909,
+      "sha256": "9e74935d72768b980b222df23e8d6ca27dc62cb297bd8145018e7c3066ec3f28"
+    },
+    "07_drafts/design/panel-01-production-v08-2026-10-03.png": {
+      "size": 888970,
+      "mtime_ns": 1791016972265695874,
+      "sha256": "689fa24623ad7cadee302da07f0879cb9d065109d703a9dee7c09d2f1e7de312"
+    },
+    "07_drafts/design/panel-02-production-v04-2026-10-03-illustration-prompt.md": {
+      "size": 3283,
+      "mtime_ns": 1791012354613232989,
+      "sha256": "7b3f36d220a3509c496f0107c67e876b90973b7fdf02ef1d790f26780541925a"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03-manifest.json": {
+      "size": 25137,
+      "mtime_ns": 1791015713498426137,
+      "sha256": "4263ae8eb7c8d1acb566215ff941585f4954b8590589e1356a67f982e318aa7e"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03-compose.py": {
+      "size": 4427,
+      "mtime_ns": 1791015712843188734,
+      "sha256": "f60852864b6b4407a78ec684232fa2b7af21ceb7fe0a6812db1ae4db87eae65c"
+    },
+    "07_drafts/design/panel-02-production-v06-2026-10-03.md": {
+      "size": 6167,
+      "mtime_ns": 1791021759319067875,
+      "sha256": "0b4b19ab7228dc295caf2c9c58c9a7dcd5d6fab72d7490bb31016ae86569d7a4"
+    },
+    "07_drafts/design/panel-01-production-v11-2026-10-03-header-crop.svg": {
+      "size": 2424211,
+      "mtime_ns": 1791020758008817613,
+      "sha256": "7078b1208b666399b970b5cca01b205a3e17b9be504e9c2bff7b8a61d47c1e6f"
+    },
+    "07_drafts/design/panel-01-production-v02-2026-10-03-prompt.txt": {
+      "size": 2226,
+      "mtime_ns": 1791011980350204395,
+      "sha256": "ff6a7985f078d6db1afdd408b13d736e1984afd2517371f6e84a9c1968023560"
+    },
+    "07_drafts/design/panel-01-production-v10-2026-10-03-compose.py": {
+      "size": 5640,
+      "mtime_ns": 1791020239682637490,
+      "sha256": "e603fe79d196630f1c6b1fa1c1996801a1182f44afec6e8899e2a6b1be67537b"
+    },
+    "07_drafts/design/panel-03-production-v01-2026-10-03-illustration-prompt.md": {
+      "size": 5010,
+      "mtime_ns": 1791010136191009307,
+      "sha256": "f5dbe530feae037ecbae669e184f6e6c518a5aa2689889f9483d52af82873027"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03.md": {
+      "size": 4160,
+      "mtime_ns": 1791015564750647708,
+      "sha256": "773ac2dc4b0edcceb03401111fff9cff79c5a188872e9255a9ef93d3eb6f6456"
+    },
+    "07_drafts/design/panel-01-production-v10-2026-10-03.svg": {
+      "size": 1931200,
+      "mtime_ns": 1791020125173482022,
+      "sha256": "b998740b3db66d426aae9504dcb51d8b0974c51ce54be4ce3db748360ad53487"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03.svg": {
+      "size": 2415708,
+      "mtime_ns": 1791015379703917403,
+      "sha256": "4bc3f05038638cdcfaefc50bc5ee99948fd45bb81a3ed1f055fac0e9885ee23c"
+    },
+    "07_drafts/design/poster-citation-display-policy-v01-2026-10-03.md": {
+      "size": 4224,
+      "mtime_ns": 1791013494578444508,
+      "sha256": "dd3a8eedeb27caa0c9ef4926731b64cea27df4030ff0a565c437a83d8c18d865"
+    },
+    "07_drafts/design/panel-02-production-v03-2026-10-03-text-manifest.json": {
+      "size": 14746,
+      "mtime_ns": 1791004869962739463,
+      "sha256": "6df6204837522c43e1f426218b48d629db6cdd99676b2da4651d2748a80b0b42"
+    },
+    "07_drafts/design/panel-01-production-v08-2026-10-03-flag-row-crop.png": {
+      "size": 135559,
+      "mtime_ns": 1791016972034794757,
+      "sha256": "ff21eae95a8c3099ea5b3b2ab9d773887a4a23c2eb232814d8cc9ddd7a0a5e10"
+    },
+    "07_drafts/design/panel-01-selected-content-and-visual-v12-2026-10-03.md": {
+      "size": 3357,
+      "mtime_ns": 1791020839309748888,
+      "sha256": "315cf7922a85267c0e667b455c1e22fd687373e6e6cab2b6ece2a0696ed982cd"
+    },
+    "07_drafts/design/panel-01-selected-content-and-visual-v05-2026-10-03.md": {
+      "size": 2832,
+      "mtime_ns": 1791015569192322588,
+      "sha256": "80f84a9fffd4f13d27aa6718b770aee7c511d2fe70b8e73d444ce10f61e8c7f5"
+    },
+    "07_drafts/design/poster-draft-v01-2026-10-03.md": {
+      "size": 22382,
+      "mtime_ns": 1791000485916747688,
+      "sha256": "e630e5441a6c1e9e37370b26c48ebdf87df1eb9da5936a84485ede04df99282d"
+    },
+    "07_drafts/design/panel-03-discussion-proposal-v03-2026-10-03.md": {
+      "size": 6117,
+      "mtime_ns": 1791008094661304003,
+      "sha256": "e8453b94af6dde30023fb16751ca80e3633844db2b6acb593e18d30687bec54d"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-car-crop.svg": {
+      "size": 1913280,
+      "mtime_ns": 1791016386185016895,
+      "sha256": "9e78c6b68c1d52c74daf545d0dee90b956bdc77dd0fb5eb15f870d2da7459cf4"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03-vingroup-provenance.json": {
+      "size": 3723,
+      "mtime_ns": 1791020977985367475,
+      "sha256": "07aa3ca0435a3de40c775a5a3b7108b7c82829fc6f95d581591890ef7120cc10"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03.png": {
+      "size": 871546,
+      "mtime_ns": 1791016386056442442,
+      "sha256": "2fcf5c18c89aeb909257e260833153ff028ac51a6982640d10ab7d6b6bd1fdeb"
+    },
+    "07_drafts/design/panel-01-selected-content-and-visual-v01-2026-10-03.md": {
+      "size": 5407,
+      "mtime_ns": 1791002099297906919,
+      "sha256": "8b78de178bfbcc379521f885e5ffbd14be464fa096c699240ee0f7aeb8283306"
+    },
+    "07_drafts/design/panel-03-layout-options-v01-2026-10-03.svg": {
+      "size": 13873,
+      "mtime_ns": 1791007027236020026,
+      "sha256": "570947db98793fb443207cbae64e66dc96bfa3f4beed3436148b2b80f74b8cf9"
+    },
+    "07_drafts/design/design-concept-v02.md": {
+      "size": 5340,
+      "mtime_ns": 1790601698536446346,
+      "sha256": "3c6fb84d57873953795a60d232c211658f088e3d6f320266f2888596b5e41c6d"
+    },
+    "07_drafts/design/panel-02-production-v04-2026-10-03-generated-art.png": {
+      "size": 1832640,
+      "mtime_ns": 1791012261132574652,
+      "sha256": "efadcea7f91d4fe90695714ffa2beedea01c68d5cd2535376608a65b982fe01c"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03.png": {
+      "size": 910145,
+      "mtime_ns": 1791020994367721364,
+      "sha256": "58cdb0a9215cd12696b2d5c791bef7ef68fd83051011fd1171a5da9d1f97d557"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03.png": {
+      "size": 902467,
+      "mtime_ns": 1791015714090252680,
+      "sha256": "614a97eae6e028db565ee6ff64a472ce18c61925d921c71b5d4c4e197bfde29e"
+    },
+    "07_drafts/design/panel-01-production-v04-2026-10-03-compose.py": {
+      "size": 8953,
+      "mtime_ns": 1791014806675850660,
+      "sha256": "91110f8c051f4f5ec5cb57639b6c9300e7ad89f2fd66316f2bef7b8bb93a17a7"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03-vingroup-emblem-hand-drawn.svg": {
+      "size": 168215,
+      "mtime_ns": 1791020977966594715,
+      "sha256": "c464ca018afda248d78e39fab16832ea14c74fbcd5b895a3ee91df1116e1ebcd"
+    },
+    "07_drafts/design/panel-01-production-v14-2026-10-03-green-sm-logo.png": {
+      "size": 951767,
+      "mtime_ns": 1791046172946245773,
+      "sha256": "36a99749e3cc9585573fedda5fb1dbcf6a76483872cadc2d0f6651ec95430db9"
+    },
+    "07_drafts/design/panel-01-production-v10-2026-10-03-flag-row-crop.png": {
+      "size": 117233,
+      "mtime_ns": 1791020131151252593,
+      "sha256": "3b97081a82d9f27000c418ad0cfdea83ce534a563c03e007f8cb684c4dafeb84"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03-vingroup-emblem-paths.svg": {
+      "size": 3641,
+      "mtime_ns": 1791020977960570797,
+      "sha256": "c5ddd010c9ee9b86266c8908fd54e52e09cd63de2eece79c4b34e0c6021d578c"
+    },
+    "07_drafts/design/panel-01-production-v10-2026-10-03-manifest.json": {
+      "size": 36574,
+      "mtime_ns": 1791020239916748077,
+      "sha256": "39f99d97250e52e8aed5ddcee2def22ff240ada16b8870fcfa8e67837636bd50"
+    },
+    "07_drafts/design/panel-01-selected-content-and-visual-v06-2026-10-03.md": {
+      "size": 3250,
+      "mtime_ns": 1791015949571023165,
+      "sha256": "d4466161866ee887bc6f11473cf747e6ea9c8366b165f87d63ae67b75b291321"
+    },
+    "07_drafts/design/panel-02-production-v06-2026-10-03-editable.svg": {
+      "size": 2474238,
+      "mtime_ns": 1791021684851773467,
+      "sha256": "9fbbbc114e16dd492bbc02462b862eb54d42bbb64c6b5a6a2a0e04924e465876"
+    },
+    "07_drafts/design/panel-01-selected-content-and-visual-v11-2026-10-03.md": {
+      "size": 3453,
+      "mtime_ns": 1791020783030255764,
+      "sha256": "4b6c3d603d1b82e071cc7355ed1a242f363f5f4743c41452e39e1f588c53e5a0"
+    },
+    "07_drafts/design/hand-drawn-lettering-layout-v01.py": {
+      "size": 2592,
+      "mtime_ns": 1791012453739086124,
+      "sha256": "c41a2fd90f98643bf69174d92d97b8357718f01d68bc12f099b37404c2a416c9"
+    },
+    "07_drafts/design/panel-01-production-v11-2026-10-03-vingroup-native-paths.png": {
+      "size": 35464,
+      "mtime_ns": 1791020619132494591,
+      "sha256": "8ce188ba006f9f880f5752a74cdd0bc969250be40e232d8a2a66ede912c75b4e"
+    },
+    "07_drafts/design/poster-draft-v01-2026-10-03.svg": {
+      "size": 29039,
+      "mtime_ns": 1791000383613113975,
+      "sha256": "9361f27791596b247f7df21c2febe06d35444fa01f82114b886ffcbafea4294c"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03-vinfast-full-logo.svg": {
+      "size": 2327942,
+      "mtime_ns": 1791015463689962960,
+      "sha256": "9d676729f71ddfcc6322c368ca1d446b1047fff3afc50cf847f22b5c67941f00"
+    },
+    "07_drafts/design/panel-01-production-v04-2026-10-03.svg": {
+      "size": 2093402,
+      "mtime_ns": 1791014807030810417,
+      "sha256": "0add9bb6fdbdd29fa871ba1d4e6086911e375553f6a3087341f4043b80f81c33"
+    },
+    "07_drafts/design/panel-01-production-v11-2026-10-03.svg": {
+      "size": 2424209,
+      "mtime_ns": 1791020757991026735,
+      "sha256": "d76b4b6b6b58105261dd83aec1f9c7ab43d7cd57bb528409a3350dfccfc70268"
+    },
+    "07_drafts/design/panel-01-production-v14-2026-10-03-logo-proof.svg": {
+      "size": 3363197,
+      "mtime_ns": 1791046172986556491,
+      "sha256": "d915a9d04c34b0adf6904942146a0945480e43622ed07721ccb74f7ff627217c"
+    },
+    "07_drafts/design/panel-01-production-v14-2026-10-03-manifest.json": {
+      "size": 43429,
+      "mtime_ns": 1791046172990205560,
+      "sha256": "ef408b6586cc3fdb7f0fd51de797768983e66b9884a55daacd879bc556c8f5ab"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-generation-first-pass.json": {
+      "size": 1941,
+      "mtime_ns": 1791016204785971312,
+      "sha256": "7f5b649d7d1529f7e917fa56090ad3102486639c2b337c057db16ed8e9ee1755"
+    },
+    "07_drafts/design/panel-01-selected-content-and-visual-v02-2026-10-03.md": {
+      "size": 5519,
+      "mtime_ns": 1791002256475868238,
+      "sha256": "bd6a0559b8b400f4d93ef66b5f0ac933f51f9371823533bfdae250559d684cec"
+    },
+    "07_drafts/design/design-concept-v03.md": {
+      "size": 6038,
+      "mtime_ns": 1790602557219490696,
+      "sha256": "e075142ef260b4ae77f096af9625ea2407307f5db53289ec3e37ff21a1e89a1c"
+    },
+    "07_drafts/design/panel-03-layout-options-v02-2026-10-03.png": {
+      "size": 275756,
+      "mtime_ns": 1791008014691368321,
+      "sha256": "2bd847a4a589aa6d8c994534597258cfb5990a51cd044b29ddede7cad995ffed"
+    },
+    "07_drafts/design/panel-01-production-v01-2026-10-03.png": {
+      "size": 313354,
+      "mtime_ns": 1791004590223245216,
+      "sha256": "02c0e5ecf3ed314a684c1560bab7c291416c700e5383e90464b10d6e56aac8dd"
+    },
+    "07_drafts/design/panel-01-production-v14-2026-10-03.png": {
+      "size": 997476,
+      "mtime_ns": 1791046180803983270,
+      "sha256": "c40b1af7935f5be2e61d10970fcb947b7edd57095fbf6fa37e78a7955665e559"
+    },
+    "07_drafts/design/poster-infographic-brainstorm-v01-2026-10-03.md": {
+      "size": 17155,
+      "mtime_ns": 1790997633422324493,
+      "sha256": "c7cfad856af54387ca54e4d010739128137a66c9761937d305f32d8a619e993d"
+    },
+    "07_drafts/design/panel-02-production-v01-2026-10-03.md": {
+      "size": 7282,
+      "mtime_ns": 1791004591300218449,
+      "sha256": "afaba398e34a3b8fd5edcd7a05b3872c1f01e77906f2abce58fc48c9b1e61a8a"
+    },
+    "07_drafts/design/panel-04-production-v04-2026-10-03-illustration-prompt.md": {
+      "size": 3086,
+      "mtime_ns": 1791045198799920982,
+      "sha256": "9aa8c257728ea12a4d56dd9bf62980f7b52b90c784dbbcac58e0e6020d825308"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-vinfast-reference.svg": {
+      "size": 2327942,
+      "mtime_ns": 1791015463689962960,
+      "sha256": "9d676729f71ddfcc6322c368ca1d446b1047fff3afc50cf847f22b5c67941f00"
+    },
+    "07_drafts/design/panel-02-production-v06-2026-10-03-illustration-prompt.md": {
+      "size": 3366,
+      "mtime_ns": 1791021684902674690,
+      "sha256": "ae0eea79ff5c203d32aeda9c2ed55ae05ac3156443ac291ec5ee8167e9b1f789"
+    },
+    "07_drafts/design/panel-03-production-v06-2026-10-03-render.py": {
+      "size": 5257,
+      "mtime_ns": 1791046228144338933,
+      "sha256": "e20d60d9a9f53ba1bbe3305f5c374bbabae41726103391da331593a19a310822"
+    },
+    "07_drafts/design/panel-02-production-v04-2026-10-03-text-manifest.json": {
+      "size": 22731,
+      "mtime_ns": 1791012261186276472,
+      "sha256": "76b00f1452255ffa3a79c00af4d0d035b03885b78e4668b9d89a37ee5b933414"
+    },
+    "07_drafts/design/panel-02-production-v05-2026-10-03-layout.py": {
+      "size": 2504,
+      "mtime_ns": 1791013230702561933,
+      "sha256": "4f58e2b364f19161347920cb14a7bcee147f5aa02f0fbcf1270dc24b2570fe9c"
+    },
+    "07_drafts/design/panel-01-production-v02-2026-10-03.md": {
+      "size": 5423,
+      "mtime_ns": 1791012240397411556,
+      "sha256": "ff9a23d74ccb5487e21a7f57c5165bdaac7541e7a60136be12209547d8d87dfc"
+    },
+    "07_drafts/design/panel-01-production-v03-2026-10-03.svg": {
+      "size": 2116032,
+      "mtime_ns": 1791013214796626657,
+      "sha256": "eacc1065d5e61be4dcd3ec642324c3d32e452b6d1f3af1938e37a1cc76e1402f"
+    },
+    "07_drafts/design/green-sm-logo-source-for-handdrawn-revision.png": {
+      "size": 41372,
+      "mtime_ns": 1791045902896938808,
+      "sha256": "6a33a503aa903020e5dd8228634b78c2cc1492431969295bd7ae00f7655f44d0"
+    },
+    "07_drafts/design/panel-02-production-v05-2026-10-03.md": {
+      "size": 8609,
+      "mtime_ns": 1791013322097641375,
+      "sha256": "cc3fd2a07446086ea3016968a7f9d9c3e6703cedb1dfb2a82dea533c2c71a19e"
+    },
+    "07_drafts/design/panel-03-production-v04-2026-10-03.md": {
+      "size": 836,
+      "mtime_ns": 1791030322124823100,
+      "sha256": "26596d034d650d01d616d40305c31016caf5f21dec593e204ea377d745d58d04"
+    },
+    "07_drafts/design/reference-oura-infographic-poster-2026-10-03.png": {
+      "size": 4598100,
+      "mtime_ns": 1790996568956020684,
+      "sha256": "0f91e1a9c0b5554733fac07e19390c604cbbb1bae1684c247954f165925c1fdb"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03.md": {
+      "size": 3941,
+      "mtime_ns": 1791015758841827761,
+      "sha256": "748622c73497c2bcf5879c72dec57fd6688c909401b5d77d70d3763b416d3a74"
+    },
+    "07_drafts/design/panel-01-production-v09-2026-10-03.png": {
+      "size": 920581,
+      "mtime_ns": 1791018284631593141,
+      "sha256": "aada98eaac1178859404d9e03d61fe953d338b626440c0b28429705eca533447"
+    },
+    "07_drafts/design/panel-03-production-v03-2026-10-03-render.py": {
+      "size": 10584,
+      "mtime_ns": 1791013245527932419,
+      "sha256": "f57ad11827735b836e0f42656a5f17c9a49eb29f5e0c266557e35a858d03a517"
+    },
+    "07_drafts/design/panel-04-production-v01-2026-10-03-generated-art.png": {
+      "size": 2034364,
+      "mtime_ns": 1791011976902098299,
+      "sha256": "fa94fd37d8d556dbeea383e4213e515641b266ac12b3af837f03d0d331a906fa"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-vinfast-source-colour.png": {
+      "size": 224649,
+      "mtime_ns": 1791015314275694903,
+      "sha256": "0e2fa1b9a43df88a30337c18ebaa265d5f690e1f283d3450f201fa450044d508"
+    },
+    "07_drafts/design/panel-01-production-v09-2026-10-03.svg": {
+      "size": 1956433,
+      "mtime_ns": 1791018275735819955,
+      "sha256": "eae46d499b598716d7eb4faa9fcfe3b9d13e514d9845fef1fd411e88803cfc9f"
+    },
+    "07_drafts/design/panel-03-production-v01-2026-10-03-text-manifest.json": {
+      "size": 10915,
+      "mtime_ns": 1791010135034970334,
+      "sha256": "dc06c8fb46e22d98732210650c692723196f247bb04a773612b8e9e812543de3"
+    },
+    "07_drafts/design/reference-cyan-car-poster-2026-10-03.jpg": {
+      "size": 753380,
+      "mtime_ns": 1790996416371061292,
+      "sha256": "5c0a2861054e70128d5cf3d1811126a188e0b09b11b801e2feb5bd6c3492b49c"
+    },
+    "07_drafts/design/panel-03-production-v05-2026-10-03-generated-art.png": {
+      "size": 1140545,
+      "mtime_ns": 1791032577428344581,
+      "sha256": "8f102d041e020e7861c4f5d59eb0fc24d10b98b6f1bc369294ec98308330c122"
+    },
+    "07_drafts/design/panel-01-production-v14-2026-10-03-checks.json": {
+      "size": 2110,
+      "mtime_ns": 1791046274352790009,
+      "sha256": "4bf15a66725030efa87d1cf0626943a6967d6ef82c803770530ff58998c08e93"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-vinfast-source-alpha.png": {
+      "size": 15832,
+      "mtime_ns": 1791015314275986238,
+      "sha256": "76984b5d7d552c0c1543f6526c16003c25edece8595f82bd5c11b0b98b3e910c"
+    },
+    "07_drafts/design/four-panel-hand-drawn-review-v02-2026-10-03-manifest.json": {
+      "size": 965,
+      "mtime_ns": 1791013495948944644,
+      "sha256": "fae339b552b091c4c6432b6347663c6c3f1a5753977b1d850e9b6cefa55497ce"
+    },
+    "07_drafts/design/panel-01-production-v03-2026-10-03.png": {
+      "size": 929925,
+      "mtime_ns": 1791013215143828911,
+      "sha256": "785468d5e831fd524bbdfc324970040b0454a66e4fc2be5aed44288384a04a2e"
+    },
+    "07_drafts/design/panel-02-production-v05-2026-10-03-small-preview.png": {
+      "size": 218287,
+      "mtime_ns": 1791013258930722163,
+      "sha256": "efa24533241666c08b7fd78d94e85765cb372a832c74c35cd585c4893f535322"
+    },
+    "07_drafts/design/panel-02-independent-infographic-options-v01-2026-10-03-checks.json": {
+      "size": 6221,
+      "mtime_ns": 1791024065959639353,
+      "sha256": "b3b04ef00a35edc9e9b88310d762cdd1ff8d46a7ca8ef2a0ce8500eca7e90ddd"
+    },
+    "07_drafts/design/panel-01-production-v11-2026-10-03-manifest.json": {
+      "size": 39922,
+      "mtime_ns": 1791020757994909763,
+      "sha256": "a5a46bfeeb01ca06798ca51c0c35882487b8816863c7df8eaab48325a012eecf"
+    },
+    "07_drafts/design/panel-01-production-v08-2026-10-03.md": {
+      "size": 4065,
+      "mtime_ns": 1791017256364689952,
+      "sha256": "78bb6ef705fc675236d373c9bb42102c1279bab29bf1cdf5021b091f6fee67bb"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03-art.png": {
+      "size": 1467373,
+      "mtime_ns": 1791011940580426062,
+      "sha256": "1e4c74e55d7526be5651c3ce0a8db0bacd002bc68793cec7ec42a89879ed01c9"
+    },
+    "07_drafts/design/panel-02-production-v02-2026-10-03-text-manifest.json": {
+      "size": 14445,
+      "mtime_ns": 1791004786297785700,
+      "sha256": "07019586455ce120c678835a2756a21efa5402fb96069d21b5be840a06ffc138"
+    },
+    "07_drafts/design/panel-02-production-v05-2026-10-03-illustration-prompt.md": {
+      "size": 3366,
+      "mtime_ns": 1791013322097833377,
+      "sha256": "d27b2f49dff8203c5d793704ae1a1ce6f5a22dc220563614ea7d7ce9529e2636"
+    },
+    "07_drafts/design/panel-01-production-v14-2026-10-03.svg": {
+      "size": 3363198,
+      "mtime_ns": 1791046172966885651,
+      "sha256": "6ea818f8396448244a25bb078381e5e4a0c644d6077b3559f6856795394420ea"
+    },
+    "07_drafts/design/panel-01-production-v01-2026-10-03.svg": {
+      "size": 23400,
+      "mtime_ns": 1791004589780825613,
+      "sha256": "29adb2b2f09beb4ce1062bde2ab84c987ca20d6e39c091b33ac45d912df6574b"
+    },
+    "07_drafts/design/panel-04-production-v04-2026-10-03-render.py": {
+      "size": 9133,
+      "mtime_ns": 1791045479967509620,
+      "sha256": "581d88be95826746fca052e886a0d5b1a53648c34f63ded3041737d090be9275"
+    },
+    "07_drafts/design/panel-01-production-v14-2026-10-03-logo-proof.png": {
+      "size": 159677,
+      "mtime_ns": 1791046180457815076,
+      "sha256": "7fe95aa6c39ec531b7d3fc8c1d358c71edee02d0f7c5ea2b94eb147b2545493b"
+    },
+    "07_drafts/design/panel-03-layout-options-v02-2026-10-03.svg": {
+      "size": 9822,
+      "mtime_ns": 1791008014356613870,
+      "sha256": "8dc16ee3ff25e30f21d7a3bca3749edbd760e7b0ad58056e5644d00cf22e46ab"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03-checks.json": {
+      "size": 2559,
+      "mtime_ns": 1791021104043430252,
+      "sha256": "7bbbbf7f2377f7d52205376a614b1dd0339a5e816c01396b697ce1a21616bafe"
+    },
+    "07_drafts/design/panel-04-production-v05-2026-10-03.md": {
+      "size": 607,
+      "mtime_ns": 1791046179507194442,
+      "sha256": "375b0d6d5caa34277cd434253f5ab086690bdf654cab65e8f232655340612bd4"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03-vinfast-full-logo.png": {
+      "size": 187872,
+      "mtime_ns": 1791015616350693479,
+      "sha256": "94810dd16a756a1975f046bb43c5cea9f08b62f867b5aeed2283164b79661efa"
+    },
+    "07_drafts/design/poster-draft-v01-2026-10-03.png": {
+      "size": 385463,
+      "mtime_ns": 1791000384058663547,
+      "sha256": "9da31735b5918d4a3ba361b31f61d41df2299d815762f4d0b6584c76c352219f"
+    },
+    "07_drafts/design/panel-01-production-v11-2026-10-03-vingroup-native-paths.svg": {
+      "size": 8342,
+      "mtime_ns": 1791020757945571867,
+      "sha256": "2be2f1777f74b661d7325e9869f8284877250aa64819d700f57efcf72926fe2f"
+    },
+    "07_drafts/design/panel-01-selected-content-and-visual-v08-2026-10-03.md": {
+      "size": 3665,
+      "mtime_ns": 1791018186866824380,
+      "sha256": "f37d1c201e2b1b42fa08c8ee6101984b46b251be0468a846158b0a1657d0e9c1"
+    },
+    "07_drafts/design/panel-03-production-v03-2026-10-03-protected-files-before.json": {
+      "size": 1782,
+      "mtime_ns": 1791013245528038795,
+      "sha256": "1b845e29c678f7efba5bbd212697ebadc8ce5b972cde764d215529b79d26cb41"
+    },
+    "07_drafts/design/panel-02-production-v05-2026-10-03-editable.svg": {
+      "size": 2474232,
+      "mtime_ns": 1791013230920288406,
+      "sha256": "44a4d8ad831abd92607fe762f968c295fb3466fde5b4d48f974b95e18533703b"
+    },
+    "07_drafts/design/panel-01-production-v11-2026-10-03.png": {
+      "size": 909798,
+      "mtime_ns": 1791020668665059274,
+      "sha256": "bc445b0bb1fdc7248d830b1ca321b40216f3481b5fd823c6878b4942f038dfb3"
+    },
+    "07_drafts/design/panel-01-production-v04-2026-10-03.png": {
+      "size": 896093,
+      "mtime_ns": 1791014751195502497,
+      "sha256": "1481ee7140f6834fe87a234251c29d0517b32c33aacbcb5b46c389213bae73f9"
+    },
+    "07_drafts/design/panel-02-selected-content-and-proposals-v06-2026-10-03.md": {
+      "size": 3552,
+      "mtime_ns": 1791023548473418378,
+      "sha256": "766b5c4180f42735dd14feb24ea4f44e2958fec74fcd91d44a0f1d5773e65c04"
+    },
+    "07_drafts/design/panel-03-selected-content-and-visual-v01-2026-10-03.md": {
+      "size": 4662,
+      "mtime_ns": 1791009786795557907,
+      "sha256": "ccc08edac9179194e6b6503295dd2dcb6537131f01b8e7cc762a6e9ab50b77a1"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03-vingroup-emblem-paths.png": {
+      "size": 41440,
+      "mtime_ns": 1791020993938188783,
+      "sha256": "9c1e6ccfa638e1b30b6c2117174771de8d98b62c3e6f41eaa6cac3d2f3cd6387"
+    },
+    "07_drafts/design/panel-04-production-v04-2026-10-03-generated-art-corrected.png": {
+      "size": 1625759,
+      "mtime_ns": 1791045339179614477,
+      "sha256": "cea4b82c5d2197f5497a10ccc4a468c2100bebbc6cb0edab50d7ccfcec3cd8d2"
+    },
+    "07_drafts/design/panel-01-production-v10-2026-10-03-flag-row-crop.svg": {
+      "size": 1931203,
+      "mtime_ns": 1791020125177590405,
+      "sha256": "5727ad670c16ce6e39ac8531605b516d447d67d06c95f91b37e7481abcb7d466"
+    },
+    "07_drafts/design/panel-01-production-v02-2026-10-03-compose.py": {
+      "size": 8330,
+      "mtime_ns": 1791012218273226132,
+      "sha256": "3fbcd5622bea42b5f792be923c659f1b7dc5f372d8eaf8a678688e431eb3721f"
+    },
+    "07_drafts/design/panel-04-production-v01-2026-10-03-render.py": {
+      "size": 4775,
+      "mtime_ns": 1791012158507746222,
+      "sha256": "2e37769ce99e738b83e92e9af21ecb9b1a47e3dc20d0e1ab342aa4848b00eaf3"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03.svg": {
+      "size": 5197596,
+      "mtime_ns": 1791015713497450008,
+      "sha256": "a51046cf82873e4a9cea9fd598f93c1b76e36222e81a2373dfbdeb299c9cb69f"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03.svg": {
+      "size": 2099904,
+      "mtime_ns": 1791020977983442086,
+      "sha256": "8e4ccd8de8ae534b1cd6912da8d8675bc5d0354af4ea4708d2284aad1b8c8cc9"
+    },
+    "07_drafts/design/panel-02-selected-content-and-proposals-v02-2026-10-03.md": {
+      "size": 5626,
+      "mtime_ns": 1791003021919919276,
+      "sha256": "96ff308ed3c543a6cf3d092c2480c93fb0e66b87a31dbcca7f20fba24015d21d"
+    },
+    "07_drafts/design/panel-01-production-v14-2026-10-03-compose.py": {
+      "size": 4647,
+      "mtime_ns": 1791046172806404693,
+      "sha256": "eafc788b0394134e573fbd6b9096898760e77363681e3b97dc85853f9ebdde66"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03-vingroup-emblem-hand-drawn.png": {
+      "size": 240101,
+      "mtime_ns": 1791020994185129055,
+      "sha256": "6ba7aa0e80115cf3e26707b77e1228620eb55b3319bc953c3538c8f7219e15de"
+    },
+    "07_drafts/design/panel-04-production-v01-2026-10-03.md": {
+      "size": 434,
+      "mtime_ns": 1791012144976145041,
+      "sha256": "be56a9d553b9dcc2cd50614f7bc0182841f925b0df18bbc1c5ce1da24fc03f65"
+    },
+    "07_drafts/design/panel-02-production-v04-2026-10-03-layout.py": {
+      "size": 11271,
+      "mtime_ns": 1791012260902074595,
+      "sha256": "3321e5187f2e180c48361cdad5d300f8b66bcc9866fb9823fe5284e531e4c990"
+    },
+    "07_drafts/design/panel-03-layout-options-v02-2026-10-03-copy-check.json": {
+      "size": 4157,
+      "mtime_ns": 1791008014901545275,
+      "sha256": "5e49d3e9d2a59689eec7fbb51b2df21be20e69efedc85afc8e06d7b0b29a559c"
+    },
+    "07_drafts/design/panel-03-layout-options-v01-2026-10-03.png": {
+      "size": 383500,
+      "mtime_ns": 1791007027723314092,
+      "sha256": "b24e2e4ab351a705490eac63aa90d07a2790f6b36b02095b84949285fa6444c3"
+    },
+    "07_drafts/design/panel-03-selected-content-and-visual-v02-2026-10-03.md": {
+      "size": 1793,
+      "mtime_ns": 1791030323596949327,
+      "sha256": "8c9a7eb77755cab01b52253f7f4a750980fb77dc2e91507d9892ebd3e8fbd083"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-car-crop.png": {
+      "size": 700192,
+      "mtime_ns": 1791016386517551565,
+      "sha256": "7a31ba66567538785d0dbd4e87491249a96b003a357d5fd2309ce1b41f4ba68c"
+    },
+    "07_drafts/design/panel-01-production-v10-2026-10-03-checks.json": {
+      "size": 1890,
+      "mtime_ns": 1791020172947211870,
+      "sha256": "662a2a3bbc8fe67bed8fa451ef9bf405d8705babf0498f71113f7eecfa7a9e72"
+    },
+    "07_drafts/design/panel-03-production-v06-2026-10-03-text-manifest.json": {
+      "size": 25653,
+      "mtime_ns": 1791046228397463949,
+      "sha256": "075682aab6401028327efc62d635ea1297364225d3ad36f4ee66dc8f0c1d276c"
+    },
+    "07_drafts/design/panel-02-selected-content-and-proposals-v05-2026-10-03.md": {
+      "size": 2586,
+      "mtime_ns": 1791021485231760431,
+      "sha256": "77e11d30c17b03fc1af679635b16e428b65b2f8d6b6a035abf32ba101663531a"
+    },
+    "07_drafts/design/panel-04-production-v04-2026-10-03-generated-art.png": {
+      "size": 1483771,
+      "mtime_ns": 1791045064972934814,
+      "sha256": "fd6772b630b1d81ccb641a84dbfc13ff003272b003bb27c82ea98358cbed1418"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03.svg": {
+      "size": 1913261,
+      "mtime_ns": 1791016385640725760,
+      "sha256": "a99e71e284d91b65e165452ffe4e23ac5bf300a4e069e94528d0519016d52422"
+    },
+    "07_drafts/design/panel-01-production-v08-2026-10-03-compose.py": {
+      "size": 11434,
+      "mtime_ns": 1791017256363651401,
+      "sha256": "5a5108670ccb3f836cc70bd6c5b8971aa194cfd3648d4af124a9120479d1f268"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-manifest.json": {
+      "size": 27988,
+      "mtime_ns": 1791016385641458472,
+      "sha256": "c46e6555e7635e841bc8223fdef628ed1ded39cb4b50e7535142a54a9ef0ebad"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03-small-proof.png": {
+      "size": 215704,
+      "mtime_ns": 1791015758770099729,
+      "sha256": "9ddd87d407f2fc1a079e7a36702836e1c2f37cbd3cc5a77cf43342a65553ba78"
+    },
+    "07_drafts/design/panel-03-production-v02-2026-10-03-render.py": {
+      "size": 9703,
+      "mtime_ns": 1791012656087874228,
+      "sha256": "f958f65d08eef302e51e5f3d1f97019acd15ab7248bc98b50184d3eec64e246f"
+    },
+    "07_drafts/design/panel-01-production-v08-2026-10-03-flag-row-crop.svg": {
+      "size": 1938401,
+      "mtime_ns": 1791016966739902226,
+      "sha256": "23dbdb12ec80ebd87c31ea8169986ce3824719283466f6b10c204e6e18bb5267"
+    },
+    "07_drafts/design/panel-02-production-v05-2026-10-03-text-manifest.json": {
+      "size": 23446,
+      "mtime_ns": 1791013230922670345,
+      "sha256": "374081cf0a338649d57e24010b8732ac41602772d8a19bc32487e9603a70331a"
+    },
+    "07_drafts/design/panel-04-production-v02-2026-10-03.md": {
+      "size": 447,
+      "mtime_ns": 1791013325235996200,
+      "sha256": "95ba0540f368be4945496e648d08945dda03333b1d705550b311abc114ce8621"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03.png": {
+      "size": 897911,
+      "mtime_ns": 1791015380180090451,
+      "sha256": "d8021dbe2bbe02e8b33e8e13b937a64e61c9a532989a80e64694896746c7e072"
+    },
+    "07_drafts/design/panel-01-production-v10-2026-10-03.png": {
+      "size": 904513,
+      "mtime_ns": 1791020131395352372,
+      "sha256": "212780ba1c8f9e1dbab710511f372e15be1313b71fc2d5b127999f7af1153920"
+    },
+    "07_drafts/design/panel-02-selected-content-and-proposals-v01-2026-10-03.md": {
+      "size": 3883,
+      "mtime_ns": 1791002860514529831,
+      "sha256": "93ccfa3fcd5a9843714245079197803870dbd538286b4d4a4c13cc9723b77595"
+    },
+    "07_drafts/design/panel-01-production-v03-2026-10-03-manifest.json": {
+      "size": 18719,
+      "mtime_ns": 1791013214797965294,
+      "sha256": "af0f943ea6d98b3a910d3d23296a8d3b2b196136e5f66673957e99cccdc45766"
+    },
+    "07_drafts/design/panel-04-selected-content-and-visual-v03-2026-10-03.md": {
+      "size": 3260,
+      "mtime_ns": 1791044832132041799,
+      "sha256": "de02a719fe060bd9480583014a831a59d8288b7b944c89c1ce50a1524eead072"
+    },
+    "07_drafts/design/panel-02-production-v06-2026-10-03-small-preview.png": {
+      "size": 219060,
+      "mtime_ns": 1791021685421164824,
+      "sha256": "4b0310a97395cd5bd56dea5e71d89c1a162c2f7e67100f261a836f1f866725a8"
+    },
+    "07_drafts/design/panel-01-production-v02-2026-10-03-style-reference.png": {
+      "size": 4598100,
+      "mtime_ns": 1790996568956020684,
+      "sha256": "0f91e1a9c0b5554733fac07e19390c604cbbb1bae1684c247954f165925c1fdb"
+    },
+    "07_drafts/design/panel-02-production-v02-2026-10-03-generated-art.png": {
+      "size": 2498605,
+      "mtime_ns": 1791004786284152660,
+      "sha256": "f6360ba0a1a8d93e05c7da5997a210d15f0235fc5bc79b8ab0e1ecf230706849"
+    },
+    "07_drafts/design/panel-03-production-v02-2026-10-03-small-preview.png": {
+      "size": 305862,
+      "mtime_ns": 1791012625862158235,
+      "sha256": "a7d9a7f2d90a5ebe86f7b723e7e7b53f921ff497242282f5fceee9f434894987"
+    },
+    "07_drafts/design/panel-03-production-v02-2026-10-03-illustration-prompt.md": {
+      "size": 5972,
+      "mtime_ns": 1791012655991283386,
+      "sha256": "70284b20ed8d674b2ce1001807d6227990e9b0ce668ce071c3040066939c395b"
+    },
+    "07_drafts/design/panel-01-production-v11-2026-10-03-header-crop.png": {
+      "size": 68500,
+      "mtime_ns": 1791020668513655771,
+      "sha256": "91705f0355ea7c7d56a465d00b1a6709e81ec563b434609ff43122cd18054413"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-art.png": {
+      "size": 1467373,
+      "mtime_ns": 1791011940580426062,
+      "sha256": "1e4c74e55d7526be5651c3ce0a8db0bacd002bc68793cec7ec42a89879ed01c9"
+    },
+    "07_drafts/design/panel-01-production-v08-2026-10-03.svg": {
+      "size": 1938398,
+      "mtime_ns": 1791016966735765898,
+      "sha256": "0cca320470e4f95eedd1a6e0cf149d4ae55980b55e5ad4e0858930025db71312"
+    },
+    "07_drafts/design/four-panel-hand-drawn-review-v01-2026-10-03-render.py": {
+      "size": 2159,
+      "mtime_ns": 1791012564259789135,
+      "sha256": "fa01e58a05d4ccc6dd03327706896729c8f237f0e9d5bae0a4fbfd76313ce984"
+    },
+    "07_drafts/design/panel-03-production-v01-2026-10-03-writing-check.json": {
+      "size": 4242,
+      "mtime_ns": 1791010135249111422,
+      "sha256": "69d5d83fe97a4485cee8d0c83ca01d51e00286bf45467d7a870581914f22b199"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-vinfast-emblem.png": {
+      "size": 103000,
+      "mtime_ns": 1791015314496297095,
+      "sha256": "59df46ed86212aa4ce8593df5f1fd852a2eb8c24cda48ea2996ae155f2b8abe6"
+    },
+    "07_drafts/design/panel-01-production-v02-2026-10-03.png": {
+      "size": 1010822,
+      "mtime_ns": 1791012088054596520,
+      "sha256": "2a5566719b41540dcd831a997069c10817ea29fd0525d20cf9568595390ec061"
+    },
+    "07_drafts/design/green-sm-hand-drawn-logo-v01-2026-10-03-prompt.md": {
+      "size": 2164,
+      "mtime_ns": 1791046385718177121,
+      "sha256": "64ee715fca71493c03cd108c1bd3c91aa03230a8e0c0feb2ec46adb17a4ec319"
+    },
+    "07_drafts/design/panel-03-production-v03-2026-10-03.svg": {
+      "size": 2912802,
+      "mtime_ns": 1791013246045304872,
+      "sha256": "4ca7ea5c10f53546904f44781862039f1f9b74f802704b07270ae916fc3d6fc2"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-checks.json": {
+      "size": 5695,
+      "mtime_ns": 1791015565025622994,
+      "sha256": "e3ee8a0454516d47e3c80577c74663302c7207e34bd38857e3a79f14c3cd1f00"
+    },
+    "07_drafts/design/panel-03-production-v05-2026-10-03-text-manifest.json": {
+      "size": 24415,
+      "mtime_ns": 1791032916299395011,
+      "sha256": "df1360e14f45382b1c026590f02598ae21931ac0ef697ed0a7b9eea6ac7618aa"
+    },
+    "07_drafts/design/panel-04-production-v03-2026-10-03.md": {
+      "size": 462,
+      "mtime_ns": 1791034822367508387,
+      "sha256": "ab365684a9c6c95e75848201e4d95f7a93dbaf8c5cfb4cdd8644f3fbe0996a95"
+    },
+    "07_drafts/design/panel-01-production-v14-2026-10-03-header-crop.png": {
+      "size": 155342,
+      "mtime_ns": 1791046180636614255,
+      "sha256": "a6a59ab063e322ebfdd3234c9d06a5b4252d3d06dba462539d444a8161d90e1c"
+    },
+    "07_drafts/design/panel-04-production-v02-2026-10-03-checks.json": {
+      "size": 487,
+      "mtime_ns": 1791013325235880366,
+      "sha256": "4e57bd0c77a43d7b27caf8b08ab1b13b209b7f6e6c56c2543e77287fc6419fe3"
+    },
+    "07_drafts/design/four-panel-hand-drawn-review-v02-2026-10-03-render.py": {
+      "size": 2165,
+      "mtime_ns": 1791013494761538785,
+      "sha256": "0884fd0e1e62522c8c0a33b448f334081d31aed72304b9e126ab4ac3901a74a0"
+    },
+    "07_drafts/design/panel-02-production-v01-2026-10-03-illustration-prompt.md": {
+      "size": 3522,
+      "mtime_ns": 1791004591300306282,
+      "sha256": "637c9c8920f1f8e8f8c4fbdd09d75728e5b5c7469c3c4a919617981ad9581f34"
+    },
+    "07_drafts/design/panel-01-production-v01-2026-10-03-generation-prompt.txt": {
+      "size": 2069,
+      "mtime_ns": 1791004772571916698,
+      "sha256": "9434af7b91819b6e399f77dd8e706a6eab01026174b4c82846aab11d1521388c"
+    },
+    "07_drafts/design/shared-hand-drawn-style-revision-v01-2026-10-03.md": {
+      "size": 5496,
+      "mtime_ns": 1791011810659072084,
+      "sha256": "249b8bd04bcc3b1b4d102f8835808f7b9bd8de20ecad32de59da872218fdc476"
+    },
+    "07_drafts/design/panel-02-production-v05-2026-10-03.png": {
+      "size": 547481,
+      "mtime_ns": 1791013259001113022,
+      "sha256": "af7a98e9ffed5e294869a08e899f43349e107f2b2459227d9081c2040f533933"
+    },
+    "07_drafts/design/panel-03-production-v01-2026-10-03.png": {
+      "size": 922237,
+      "mtime_ns": 1791010136099426527,
+      "sha256": "5a0f98d7686be27a86033addd47cc766e8f0719a1a90783120ccba32834adb7e"
+    },
+    "07_drafts/design/panel-03-selected-content-and-visual-v03-2026-10-03.md": {
+      "size": 6275,
+      "mtime_ns": 1791032272799688524,
+      "sha256": "aaae8ef3651218b032e9a8daca9076fe7dbd6bab5370b1a6ef04c1c6f56fd537"
+    },
+    "07_drafts/design/panel-02-selected-content-and-proposals-v04-2026-10-03.md": {
+      "size": 5672,
+      "mtime_ns": 1791003930768408216,
+      "sha256": "d796c3d319a10a82d6af9148eb8285e57ce11fdc20ce9542b5c87bb96da25334"
+    },
+    "07_drafts/design/green-sm-hand-drawn-logo-v01-2026-10-03.png": {
+      "size": 951767,
+      "mtime_ns": 1791046007165802567,
+      "sha256": "36a99749e3cc9585573fedda5fb1dbcf6a76483872cadc2d0f6651ec95430db9"
+    },
+    "07_drafts/design/panel-03-production-v05-2026-10-03-checks.json": {
+      "size": 4374,
+      "mtime_ns": 1791033047115800773,
+      "sha256": "d629aa9416f625ed5b46ca7805eef12e58d96a900329fc5334558fa32386361d"
+    },
+    "07_drafts/design/panel-02-independent-infographic-options-v01-2026-10-03-option-a.png": {
+      "size": 557629,
+      "mtime_ns": 1791024136685577980,
+      "sha256": "82bd5b37389bd3c237274417b5ad5e061d8dd7c90807836972deec6390e896e8"
+    },
+    "07_drafts/design/panel-04-production-v05-2026-10-03.svg": {
+      "size": 27910293,
+      "mtime_ns": 1791046178622053305,
+      "sha256": "fa8ec81d6dc2b3a662e2d52662e98db07a131a5dc6057166f966c9d80fe22b64"
+    },
+    "07_drafts/design/panel-02-production-v05-2026-10-03-checks.json": {
+      "size": 1165,
+      "mtime_ns": 1791013322097914502,
+      "sha256": "1f222d147d5994e8e6451c45a263dffc203ae3c3e7f22d21636d6ac88df837c0"
+    },
+    "07_drafts/design/panel-02-production-v06-2026-10-03-text-manifest.json": {
+      "size": 23822,
+      "mtime_ns": 1791021684898720493,
+      "sha256": "93887a1c5750b77391fbb271a94fae265297229b61db21f576606ab02f32563f"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-generation.json": {
+      "size": 2154,
+      "mtime_ns": 1791016338148105876,
+      "sha256": "b344c81753598633d6460651c8c67ac5d5b3d294b4086d6d8589e1a2b6282fe1"
+    },
+    "07_drafts/design/panel-01-production-v02-2026-10-03-checks.json": {
+      "size": 2657,
+      "mtime_ns": 1791012182241958244,
+      "sha256": "0ce2079afe350f8de830ee31d5e284cfe771b8ac0461a923e1e72e41cbc87e3e"
+    },
+    "07_drafts/design/panel-01-production-v03-2026-10-03-small-proof.png": {
+      "size": 225049,
+      "mtime_ns": 1791013215309447610,
+      "sha256": "1be3284483e9f395c1453882fd5641a0525ad7743e45b60b00a8d670f1ad130b"
+    },
+    "07_drafts/design/panel-03-production-v04-2026-10-03.svg": {
+      "size": 2913858,
+      "mtime_ns": 1791030375001956301,
+      "sha256": "47b5691cbb13f71d6a18028c17687bb8dd7da1b512157ce0edac749861b9aadd"
+    },
+    "07_drafts/design/panel-04-production-v05-2026-10-03-checks.json": {
+      "size": 2057,
+      "mtime_ns": 1791046247750418711,
+      "sha256": "77ff6ec3c69f2ed9b1e11c8db0cc5a67807e493a906bbad8ad2e83c5f78f7c95"
+    },
+    "07_drafts/design/panel-01-production-v01-2026-10-03-generated-decoration.png": {
+      "size": 1638786,
+      "mtime_ns": 1791004731217085538,
+      "sha256": "45cafef560ffc542f27c96204eea7e5f501c6c87984a2f8922b9aace9b899a1d"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-refinement-prompt.txt": {
+      "size": 1168,
+      "mtime_ns": 1791016266477890495,
+      "sha256": "b7a598bb87f0f56b95c1df16100ea78d6c1c4271a9ac173d8a435648adcc7126"
+    },
+    "07_drafts/design/panel-01-production-v08-2026-10-03-checks.json": {
+      "size": 2126,
+      "mtime_ns": 1791017016156335815,
+      "sha256": "2b481c2167da320aa1345096b9d35e7e0f2ef4ab44f14be6abb6014deb10ba31"
+    },
+    "07_drafts/design/panel-01-production-v01-2026-10-03-logo.png": {
+      "size": 41372,
+      "mtime_ns": 1791004499330881790,
+      "sha256": "6a33a503aa903020e5dd8228634b78c2cc1492431969295bd7ae00f7655f44d0"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03-manifest.json": {
+      "size": 41276,
+      "mtime_ns": 1791020977985266641,
+      "sha256": "8fff3d9e43d47e23db340b3155bc73a4ea27d6eb2fcde8958f48f677a84071ca"
+    },
+    "07_drafts/design/panel-03-production-v04-2026-10-03-protected-files-before.json": {
+      "size": 1101,
+      "mtime_ns": 1791030322125129144,
+      "sha256": "f9247a93f8a7fe5707e51e64813bd0196d8f1e2ca3699b4b2a608d0cc3366d27"
+    },
+    "07_drafts/design/four-panel-hand-drawn-review-v02-2026-10-03.png": {
+      "size": 2169886,
+      "mtime_ns": 1791013495944652605,
+      "sha256": "36eebd35ad4e16b69b7590045ddb5a39da6eecf51704027645497b4978470a64"
+    },
+    "07_drafts/design/panel-02-age-distribution-chart-v02-2026-10-03.png": {
+      "size": 112067,
+      "mtime_ns": 1791003546490375873,
+      "sha256": "a306930f01f49bf150ce1edd3e6a7e2b91b71b70f7810cf77b79341609c7a90d"
+    },
+    "07_drafts/design/panel-01-production-v11-2026-10-03-compose.py": {
+      "size": 9878,
+      "mtime_ns": 1791020757743743878,
+      "sha256": "b16f49193880e643e643138d75f8f0f70a6bf8de08fa7f68b9f9921e7f54cc21"
+    },
+    "07_drafts/design/panel-04-production-v04-2026-10-03-small.png": {
+      "size": 209002,
+      "mtime_ns": 1791045416548476110,
+      "sha256": "5447cf3d258001e3b4f3b68aeb9bbd99a4b44a02545a1e26228e011b384aa1c1"
+    },
+    "07_drafts/design/panel-03-production-v03-2026-10-03-small-preview.png": {
+      "size": 297822,
+      "mtime_ns": 1791013329009628653,
+      "sha256": "8a3f23df99418159683e68c8ba6a2f18d3e2e130cd25d3b2d5df9f25bee18c83"
+    },
+    "07_drafts/design/panel-03-production-v06-2026-10-03.png": {
+      "size": 648475,
+      "mtime_ns": 1791046228808218891,
+      "sha256": "4b4fdbe68b36803c4f34001845e51af6642557c8374c3904e3835f2423946afe"
+    },
+    "07_drafts/design/panel-02-production-v02-2026-10-03.png": {
+      "size": 505145,
+      "mtime_ns": 1791004798266205912,
+      "sha256": "3ce1d4268f185d31341ef31d7415c14d85b4a222551a931a8748edaef50f3dbb"
+    },
+    "07_drafts/design/panel-03-production-v02-2026-10-03-checks.json": {
+      "size": 4731,
+      "mtime_ns": 1791012753066655978,
+      "sha256": "081a857c1ee92a93813ed247078ee97727ee938f9996cc5219a0398698734ef3"
+    },
+    "07_drafts/design/panel-03-production-v04-2026-10-03-render.py": {
+      "size": 10457,
+      "mtime_ns": 1791030374722701112,
+      "sha256": "e201c52b15476d48e98a7ebb2975a3efd114ba9a139d7b22c8e98671ea286b2a"
+    },
+    "07_drafts/design/panel-02-independent-infographic-options-v01-2026-10-03-option-b.png": {
+      "size": 551564,
+      "mtime_ns": 1791024139912363511,
+      "sha256": "4c74890cbf9148cecad54e894717f5aa19458041127b416c5208e90a9d9c7a95"
+    },
+    "07_drafts/design/panel-04-production-v04-2026-10-03-text-manifest.json": {
+      "size": 11116,
+      "mtime_ns": 1791045340129924487,
+      "sha256": "6f4f9c25dcb6144eedbe0b7d3255969477f8d908034b760c98f1e5380bd5b89b"
+    },
+    "07_drafts/design/panel-01-production-v01-2026-10-03-generated-section.svg": {
+      "size": 2206082,
+      "mtime_ns": 1791004802975241154,
+      "sha256": "7f45a835900d8ebefaf237ca7ed8b5a83527b0502fb9d63ad230627d7f06c96e"
+    },
+    "07_drafts/design/panel-01-production-v04-2026-10-03-art.png": {
+      "size": 1467373,
+      "mtime_ns": 1791011940580426062,
+      "sha256": "1e4c74e55d7526be5651c3ce0a8db0bacd002bc68793cec7ec42a89879ed01c9"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-compose.py": {
+      "size": 5313,
+      "mtime_ns": 1791016385361519114,
+      "sha256": "b5a02abdc51e6ff3ff6c587b81d549e96e5bee730ce4c91ac83826943fc1f28a"
+    },
+    "07_drafts/design/panel-02-production-v03-2026-10-03-generated-art.png": {
+      "size": 2498605,
+      "mtime_ns": 1791004869961812627,
+      "sha256": "f6360ba0a1a8d93e05c7da5997a210d15f0235fc5bc79b8ab0e1ecf230706849"
+    },
+    "07_drafts/design/panel-04-production-v02-2026-10-03.svg": {
+      "size": 19167460,
+      "mtime_ns": 1791013229852901322,
+      "sha256": "8d91f721d8eabc59651347f39d6fdf04ecc7d80c74aca92d158bf265b08a08bd"
+    },
+    "07_drafts/design/panel-04-selected-content-and-visual-v02-2026-10-03.md": {
+      "size": 2164,
+      "mtime_ns": 1791034736048410273,
+      "sha256": "ea27dbfb7cafa1a54c9354544c49fe876e182d9adc99c5197f8d7d7dd562db2a"
+    },
+    "07_drafts/design/panel-02-production-v03-2026-10-03.png": {
+      "size": 502021,
+      "mtime_ns": 1791004892040547811,
+      "sha256": "d64915a6d29d36cbe974eb07d2d7b26e53eab820948dcb6bfb02b753d5f9535a"
+    },
+    "07_drafts/design/panel-01-production-v09-2026-10-03-manifest.json": {
+      "size": 34384,
+      "mtime_ns": 1791018275737741634,
+      "sha256": "b5b2441caa672816e2da3b1e9897113cef8bd0c6944ce5916518498845524c27"
+    },
+    "07_drafts/design/panel-03-production-v06-2026-10-03-logo-proof.png": {
+      "size": 57037,
+      "mtime_ns": 1791046229166632704,
+      "sha256": "a47303341c1870025544ba07a85f4e2156671366f563aff38d2aebf92c983d34"
+    },
+    "07_drafts/design/panel-02-age-distribution-chart-v03-2026-10-03.png": {
+      "size": 105712,
+      "mtime_ns": 1791003853420557248,
+      "sha256": "b1f83609b10abc56de3717d624527ec4f45653eb8fc62d1b5e41143d27e79c7c"
+    },
+    "07_drafts/design/panel-01-production-v09-2026-10-03.md": {
+      "size": 3898,
+      "mtime_ns": 1791018358742141110,
+      "sha256": "11a15f30b25089da99941c78a458ecc3a92ac0805fae1920abce700f3a67d5d0"
+    },
+    "07_drafts/design/panel-04-production-v04-2026-10-03-writing-check.json": {
+      "size": 4508,
+      "mtime_ns": 1791045480471795115,
+      "sha256": "47b2694cd1fd92181522f77b1b8375b2af666e5d36b72fc430ef189a151bfbf7"
+    },
+    "07_drafts/design/ai-prompt-draft-v01-2026-10-03.md": {
+      "size": 5506,
+      "mtime_ns": 1791000171964776620,
+      "sha256": "5b7aa5392fb12abda0f230e88f768dfea621230df41d47160ada98c7a8c86cd0"
+    },
+    "07_drafts/design/panel-04-production-v02-2026-10-03-render.py": {
+      "size": 5075,
+      "mtime_ns": 1791013229441706018,
+      "sha256": "6c27f86ec581f7b16af932e05a910488789ddac8a2aa865a7066936a1dd51ba0"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-art.png": {
+      "size": 1367145,
+      "mtime_ns": 1791016095215069434,
+      "sha256": "ffc4a75320eefc37681102c816959e5093264510849a8e72983506a4f3320152"
+    },
+    "07_drafts/design/panel-01-production-v01-2026-10-03-prompt-and-manifest.md": {
+      "size": 6835,
+      "mtime_ns": 1791004948541173075,
+      "sha256": "fc86678b8c3f8549773f720644843eb9b2bd6115686b91507aa33a5615de7797"
+    },
+    "07_drafts/design/panel-04-production-v03-2026-10-03.svg": {
+      "size": 19168297,
+      "mtime_ns": 1791034828517147148,
+      "sha256": "7ee86750b253627b6236ef880d04dafdd3f5ea8688e81a1e400b50f85a9cd547"
+    },
+    "07_drafts/design/panel-03-production-v02-2026-10-03-text-manifest.json": {
+      "size": 14278,
+      "mtime_ns": 1791012656464080220,
+      "sha256": "49b8542f4d7bcb7b04980bbc863f7c13a4df15a81d89c93980e129094d77077a"
+    },
+    "07_drafts/design/panel-01-production-v01-2026-10-03-checks.json": {
+      "size": 7531,
+      "mtime_ns": 1791004948540098322,
+      "sha256": "a555f3d48f68860a3a34b6d42c1cced7ba43ec21b00dffc70aadad4cf365797d"
+    },
+    "07_drafts/design/four-panel-hand-drawn-review-v01-2026-10-03.svg": {
+      "size": 4239214,
+      "mtime_ns": 1791012642301130180,
+      "sha256": "ab4c38463bda2178853b3314e769ef06ffee621a31318911dda666120010db98"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03-car-crop.svg": {
+      "size": 5197615,
+      "mtime_ns": 1791015758086781999,
+      "sha256": "097a9b60f84d350489afea6b167d6152b59348edf4ff5a44a92c96e3a55256ec"
+    },
+    "07_drafts/design/panel-02-age-distribution-chart-v01-2026-10-03.svg": {
+      "size": 8568,
+      "mtime_ns": 1791003468640177743,
+      "sha256": "0a93aeec1d7c1b4e73e6f157375a2ea269c4c206602f7cd0d8b4d6eab22dce12"
+    },
+    "07_drafts/design/panel-03-production-v05-2026-10-03.svg": {
+      "size": 4511779,
+      "mtime_ns": 1791032916281751215,
+      "sha256": "eacb0b7839622ccbe1400cecca617661709ae2afe3b972b0bf3e923bcddfe350"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-car-crop.png": {
+      "size": 757750,
+      "mtime_ns": 1791015438213157551,
+      "sha256": "77922fb2777f040c6f77b5693f7afe6f69c62cd5a1e3c605a29c86097aa329ee"
+    },
+    "07_drafts/design/panel-02-production-v04-2026-10-03-small-preview.png": {
+      "size": 230043,
+      "mtime_ns": 1791012283634605869,
+      "sha256": "429eec29961b715b60d12998fb77ecfbcb1a662d14c8352e9b6b6020e153f432"
+    },
+    "07_drafts/design/panel-04-brand-first-options-v01-2026-10-03.md": {
+      "size": 6191,
+      "mtime_ns": 1791046884895314697,
+      "sha256": "ec6cbb995d4b3b89f20bf565f30a849fadb7a01a2c9b7afe35dab5b503bd5b8f"
+    },
+    "07_drafts/design/panel-02-production-v01-2026-10-03-text-manifest.json": {
+      "size": 12129,
+      "mtime_ns": 1791004591300120032,
+      "sha256": "dda6c54b75f345552b43c07f43c8b78c40095c902cd6c28901d75f5eb0b6b821"
+    },
+    "07_drafts/design/panel-02-production-v01-2026-10-03.svg": {
+      "size": 15223,
+      "mtime_ns": 1791004591299920281,
+      "sha256": "db500f036373d33db8f3441b85ce3ec4274daa60863a964b09d3979fcf484c01"
+    },
+    "07_drafts/design/panel-04-selected-content-and-visual-v01-2026-10-03.md": {
+      "size": 2502,
+      "mtime_ns": 1791011810659367960,
+      "sha256": "835b6afb41a8ddb35bb422884e2cd483b4cbe67e6549b466b8182083717b552c"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-vinfast-source-page-01.svg": {
+      "size": 4370343,
+      "mtime_ns": 1791015230062237273,
+      "sha256": "b91bf8b255da90163820a096a31dccdc01d4ce71a5df12de1d020e9a0ee8b917"
+    },
+    "07_drafts/design/panel-03-production-v01-2026-10-03-checks.json": {
+      "size": 1757,
+      "mtime_ns": 1791010206856296694,
+      "sha256": "f30e1c16b5350e8c516caf83a8f01fd6d7592683361530af6ff262c50f496458"
+    },
+    "07_drafts/design/panel-04-production-v01-2026-10-03.png": {
+      "size": 635585,
+      "mtime_ns": 1791012454500343021,
+      "sha256": "343721b224d2c6ee66fa62d70a4f5beaf4b9e39ed6557be4588e5635ab0b0585"
+    },
+    "07_drafts/design/panel-01-production-v04-2026-10-03-small-proof.png": {
+      "size": 214162,
+      "mtime_ns": 1791014807262182302,
+      "sha256": "b1c88b83494024ef691fe4c35093588ba9e49bdf22badbe1fa949cbfe0f44d7a"
+    },
+    "07_drafts/design/panel-04-brand-first-content-v02-2026-10-04.md": {
+      "size": 2566,
+      "mtime_ns": 1791047656644819569,
+      "sha256": "5a6f977e13a3ba517fff6a76633b6c1124e0c7511c4653d6b9b20c228c059470"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03-compose.py": {
+      "size": 10509,
+      "mtime_ns": 1791020977501692505,
+      "sha256": "9d1660f05628ce904eab6868415accf5a39ea512fa02920e2e62cea3a0152036"
+    },
+    "07_drafts/design/panel-01-production-v11-2026-10-03-vingroup-hand-drawn.png": {
+      "size": 137188,
+      "mtime_ns": 1791020668472369558,
+      "sha256": "55e4d141faec4e8795d0a8b3b02539c374536120831415dcba4520b0b25fe0d5"
+    },
+    "07_drafts/design/panel-01-production-v11-2026-10-03-pen-contour.py": {
+      "size": 2621,
+      "mtime_ns": 1791020757742620453,
+      "sha256": "66ce39322bc3de11fafaae1f93b86835f3bc5eea8b81bf9c56fbcbc1e5eff16e"
+    },
+    "07_drafts/design/panel-02-age-distribution-chart-v04-2026-10-03.png": {
+      "size": 105714,
+      "mtime_ns": 1791003885933244008,
+      "sha256": "2d2937501427b452e0e4de4e8fde9008a287bb181d96361ab871d326aec86f9e"
+    },
+    "07_drafts/design/panel-01-production-v01-2026-10-03-manifest.json": {
+      "size": 11480,
+      "mtime_ns": 1791004802977582745,
+      "sha256": "15b7699f891ec810feae09416aaf4d4a905fe352ffcb9df4c33a17d9de39ea96"
+    },
+    "07_drafts/design/panel-02-production-v04-2026-10-03.png": {
+      "size": 576044,
+      "mtime_ns": 1791012283702976337,
+      "sha256": "bdb62607a8211d96aeeb88729744a276a5bf1d0d36bcd33387226fd799a554aa"
+    },
+    "07_drafts/design/panel-02-selected-content-and-proposals-v03-2026-10-03.md": {
+      "size": 5193,
+      "mtime_ns": 1791003618532812609,
+      "sha256": "483d0b2fd37aa447c9aae30249a24e1605bf17aed9bc3cf32450a2c08a7d75b6"
+    },
+    "07_drafts/design/panel-04-production-v01-2026-10-03-checks.json": {
+      "size": 1577,
+      "mtime_ns": 1791012535521561614,
+      "sha256": "5fe60e0d1efb95c234890291e84e3fb4ca32e04d6fb962907fd2f99f2b2882e8"
+    },
+    "07_drafts/design/panel-01-production-v09-2026-10-03-header-crop.png": {
+      "size": 62907,
+      "mtime_ns": 1791018284427588746,
+      "sha256": "68a1eaa79d5309d267a0b4f5ff4fa79d13813c15854b0377d17f80f0298725a5"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03-checks.json": {
+      "size": 3943,
+      "mtime_ns": 1791015800114660919,
+      "sha256": "456acbe3502c1aaf758893b33270934d987c773e067223bca3686154b081502c"
+    },
+    "07_drafts/design/panel-01-production-v11-2026-10-03-vingroup-provenance.json": {
+      "size": 2401,
+      "mtime_ns": 1791020757995231015,
+      "sha256": "5d166a721d01ecd861b793ea67ad2d8a5c8822a837be4ba2edadcef9cf968a58"
+    },
+    "07_drafts/design/panel-04-production-v04-2026-10-03.svg": {
+      "size": 24268713,
+      "mtime_ns": 1791045339644172127,
+      "sha256": "03782edeba74f17f71fcb28fc5beb9b045c5dbd9912a0ac10ccab06ca1ab25ce"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-compose.py": {
+      "size": 4245,
+      "mtime_ns": 1791015564749679951,
+      "sha256": "0de85f59be9ef3e6cc367c552f6b4b083a6985decbe8d6dde0626b87a54d092c"
+    },
+    "07_drafts/design/panel-02-production-v03-2026-10-03-illustration-prompt.md": {
+      "size": 3320,
+      "mtime_ns": 1791004869963266007,
+      "sha256": "db5aea83c7dfaabe3f1c156ee92e1c3277792ed9562e41e392ca33d3ce08bc42"
+    },
+    "07_drafts/design/panel-02-production-v06-2026-10-03.svg": {
+      "size": 2726392,
+      "mtime_ns": 1791021684777637608,
+      "sha256": "3c60f0f0e46ab2f11b019f7058b16166bce50ead380135e5842ee70d3c26ba6a"
+    },
+    "07_drafts/design/panel-04-production-v03-2026-10-03-text-manifest.json": {
+      "size": 4760,
+      "mtime_ns": 1791034828922653696,
+      "sha256": "76cc72e2174b680840349e2a49d7e0e4140396f1995185e9f1d48bb7b4716dc1"
+    },
+    "07_drafts/design/panel-02-selected-content-and-proposals-v07-2026-10-03.md": {
+      "size": 2229,
+      "mtime_ns": 1791030323596797201,
+      "sha256": "cc06df70d73f65c52fc651cba4f48d6077f226f0d32789c87546e3bd84bcda4a"
+    },
+    "07_drafts/design/panel-02-production-v06-2026-10-03-checks.json": {
+      "size": 1620,
+      "mtime_ns": 1791021759319713797,
+      "sha256": "e5b1ff2d805f1943f42f71a5611ba0c3ce18e809aceff58d2c6cbd2c96be425d"
+    },
+    "07_drafts/design/panel-04-production-v04-2026-10-03.md": {
+      "size": 607,
+      "mtime_ns": 1791045480087390028,
+      "sha256": "375b0d6d5caa34277cd434253f5ab086690bdf654cab65e8f232655340612bd4"
+    },
+    "07_drafts/design/panel-03-production-v02-2026-10-03.svg": {
+      "size": 2937072,
+      "mtime_ns": 1791012656459757909,
+      "sha256": "01af713166269addbcb601d1de13b393be873e6c51a8d28355c846dcfc8cd8c5"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-manifest.json": {
+      "size": 25206,
+      "mtime_ns": 1791015565025236283,
+      "sha256": "7c65cc0a3148e89f175ebcc710fa2ca70a542181333d8109f0ed7a7b86ffe3eb"
+    },
+    "07_drafts/design/panel-01-selected-content-and-visual-v09-2026-10-03.md": {
+      "size": 4062,
+      "mtime_ns": 1791020259818830919,
+      "sha256": "a4084667b8a412da4a07fc999b0de5ceabe0badd86a838cff7b29a17dcb19d51"
+    },
+    "07_drafts/design/panel-03-production-v06-2026-10-03-checks.json": {
+      "size": 2873,
+      "mtime_ns": 1791046333022386169,
+      "sha256": "3a9d93886c363211c3b5496e6cd73498600b30e170c18f13dc245108081c8fb2"
+    },
+    "07_drafts/design/panel-02-independent-infographic-options-v01-2026-10-03.md": {
+      "size": 7978,
+      "mtime_ns": 1791024140338268092,
+      "sha256": "7b8c4e553154c1f8cd911247f5dccff6a8b865691af6776547304b32b324b3f2"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03-header-crop.png": {
+      "size": 69425,
+      "mtime_ns": 1791020994168176725,
+      "sha256": "233393c3d411eb8f82666a697093998c97288ac13b705e90ae2d21856bc9e62c"
+    },
+    "07_drafts/design/panel-03-production-v05-2026-10-03-writing-check.json": {
+      "size": 4130,
+      "mtime_ns": 1791032917270630692,
+      "sha256": "38b4f750a9b378319bbeb163717e8b80ff45a7ccf03813a360b66f25e7d5d0df"
+    },
+    "07_drafts/design/panel-04-production-v01-2026-10-03-illustration-prompt.md": {
+      "size": 3503,
+      "mtime_ns": 1791012191564950875,
+      "sha256": "ff38488ad4920f6b33ef2153f85af7a304a76738531b1c8adb447097b5d1d77d"
+    },
+    "07_drafts/design/panel-01-selected-content-and-visual-v03-2026-10-03.md": {
+      "size": 3431,
+      "mtime_ns": 1791014593855875715,
+      "sha256": "1e2cf9d72b8ea7d6fb081c1c980fcd28cd03dbc3ebcc217fbc339400136c7934"
+    },
+    "07_drafts/design/panel-01-vinfast-vingroup-content-options-v01-2026-10-03.md": {
+      "size": 3127,
+      "mtime_ns": 1791014851207776610,
+      "sha256": "2918fdffbd75b7aadda614ce4d1cfc1a70c73e87a96dcf88b543061a06f743f3"
+    },
+    "07_drafts/design/panel-04-production-v05-2026-10-03-text-manifest.json": {
+      "size": 12033,
+      "mtime_ns": 1791046179508233271,
+      "sha256": "62ea3e6dd4aa014318bcc11684e296a9df150e914e84e9ec6f05c3f7f5f5d190"
+    },
+    "07_drafts/design/panel-03-layout-options-v01-2026-10-03.md": {
+      "size": 4766,
+      "mtime_ns": 1791007027236414942,
+      "sha256": "1a76c8f81e95a80c7f547e75ad9415ee973625400062f05b84c375e0a9ef93ee"
+    },
+    "07_drafts/design/panel-03-production-v02-2026-10-03-generated-art.png": {
+      "size": 1946188,
+      "mtime_ns": 1791012251202117927,
+      "sha256": "8aa7b149a9a3558690e4584fd1a34b37e02eec6f06676e6ab5a02cfa158d17ea"
+    },
+    "07_drafts/design/panel-03-production-v06-2026-10-03-small-preview.png": {
+      "size": 233214,
+      "mtime_ns": 1791046229098336637,
+      "sha256": "38c9f28d704b420db06bcff0d1439519ba429c4d3b16fc034d3af62f986b33ad"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03-header-crop.svg": {
+      "size": 2099906,
+      "mtime_ns": 1791020977990937348,
+      "sha256": "fd46910786a5ced441870ecb6ef6cc55983b3a75192b76beb4e8eb22cdb01fa9"
+    },
+    "07_drafts/design/panel-02-production-v06-2026-10-03-generated-art.png": {
+      "size": 1832640,
+      "mtime_ns": 1791021684900884176,
+      "sha256": "efadcea7f91d4fe90695714ffa2beedea01c68d5cd2535376608a65b982fe01c"
+    },
+    "07_drafts/design/panel-03-production-v05-2026-10-03-illustration-prompt.md": {
+      "size": 4266,
+      "mtime_ns": 1791033046818850972,
+      "sha256": "9e7d4d0d1250b88657eab28552024b53be9340e6b2de120c73c9cf5864672c8d"
+    },
+    "07_drafts/design/panel-02-production-v06-2026-10-03.png": {
+      "size": 549275,
+      "mtime_ns": 1791021685221203335,
+      "sha256": "898a339967b90495c8023b861ababa8e57cc41fd102b4a03446921c7d22df644"
+    },
+    "07_drafts/design/panel-03-discussion-proposal-v01-2026-10-03.md": {
+      "size": 4826,
+      "mtime_ns": 1791004556235739083,
+      "sha256": "073c4cc93fa8ff5fbe150c81a7917f7f5065178cb494099533c2acd010eba4c5"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03-vinfast-provenance.json": {
+      "size": 1766,
+      "mtime_ns": 1791015713013908974,
+      "sha256": "f0873e64b4c0f4164d714f5ebc9c57d52d3c8ee62da775e1639276061081e3c8"
+    },
+    "07_drafts/design/panel-03-production-v02-2026-10-03.png": {
+      "size": 902550,
+      "mtime_ns": 1791012656904943579,
+      "sha256": "83dce6ff613ad8693e3d2ba012997caf482cc6781e70547ff63bba6da4528be6"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-logo.svg": {
+      "size": 5971,
+      "mtime_ns": 1791004499253948104,
+      "sha256": "fc8daa08cf07c47b47627c56c99429c26ae3d85d29466c45eb78425c254026c7"
+    },
+    "07_drafts/design/panel-01-selected-content-and-visual-v10-2026-10-03.md": {
+      "size": 3896,
+      "mtime_ns": 1791020449369110385,
+      "sha256": "3815afb31ffbeb15abb67852670e8c1977de51c6fdc580d90face80ca4b33367"
+    },
+    "07_drafts/design/panel-01-production-v09-2026-10-03-header-crop.svg": {
+      "size": 1956435,
+      "mtime_ns": 1791018275741119114,
+      "sha256": "7083f0bc2f714e5611aa72c6f2b919b9bf03487a4c9a45aa0e2477cd9eda1f74"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03-vingroup-source-history.svg": {
+      "size": 6760119,
+      "mtime_ns": 1791020977910899816,
+      "sha256": "3c6531a266ac19cbe9a88e6966ac0105905bf63ccb6a99d290f71f57b71365f4"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-art-first-pass.png": {
+      "size": 1367145,
+      "mtime_ns": 1791016095215069434,
+      "sha256": "ffc4a75320eefc37681102c816959e5093264510849a8e72983506a4f3320152"
+    },
+    "07_drafts/design/panel-review-and-approval-log-2026-10-03.md": {
+      "size": 34181,
+      "mtime_ns": 1791047601145758943,
+      "sha256": "19e5d8c1855bd7ddbb3353b40fa16ebf0ca86169f38af7fa18575b6942c59f96"
+    },
+    "07_drafts/design/approved-poster-display-copy-v01-2026-10-03.md": {
+      "size": 4494,
+      "mtime_ns": 1790999446756404798,
+      "sha256": "173ac80c331ba1f61070489d10df5906522e1cb56d2f7d4c78bb1176c7e05301"
+    },
+    "07_drafts/design/panel-04-production-v04-2026-10-03.png": {
+      "size": 554329,
+      "mtime_ns": 1791045340121378145,
+      "sha256": "d51fe2c06dd9a026be96644ea9b4c7e9871f3d5a874640140e9cd32c9ff0d5e5"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03-vingroup-updated-reference.jpg": {
+      "size": 23795,
+      "mtime_ns": 1791020977919504377,
+      "sha256": "2145c238eb0a94cef24849ca52323563922b6f3ab2941912ca293a27f71fb973"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-prompt.txt": {
+      "size": 2419,
+      "mtime_ns": 1791016062632590783,
+      "sha256": "461bd9527447c705db14a3c25b1e19af9342f6c22c1f728ff442d7f55c68565c"
+    },
+    "07_drafts/design/panel-04-production-v03-2026-10-03-check.py": {
+      "size": 5170,
+      "mtime_ns": 1791034910913547087,
+      "sha256": "2f679deeaa8fe21d2d03f8dfbe9005c27582594806e0d1cc2d66d7b83f6ac390"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-small-proof.png": {
+      "size": 214523,
+      "mtime_ns": 1791015438488811051,
+      "sha256": "997326e764cb3d76469396bb9efd212a2154dbb08bf52fce4098157f05bd9950"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-checks.json": {
+      "size": 2022,
+      "mtime_ns": 1791016459974544517,
+      "sha256": "15b4fead97f89ab66d44132e728cdd8dcf35d510dc804982e8200d9361a4b6e9"
+    },
+    "07_drafts/design/panel-01-selected-content-and-visual-v07-2026-10-03.md": {
+      "size": 3682,
+      "mtime_ns": 1791017280056899076,
+      "sha256": "8461b62e93d2d9a8b954ed636bd05f1d8f9c1ff1ecda4540dd66a672a6c26eda"
+    },
+    "07_drafts/design/panel-02-age-distribution-chart-v04-2026-10-03.svg": {
+      "size": 8437,
+      "mtime_ns": 1791003885861112716,
+      "sha256": "395b5d208b26659ea219e25ba72cd6926dcbfbd2826d692261b6ec92cc4d70b3"
+    },
+    "07_drafts/design/panel-03-production-v05-2026-10-03-render.py": {
+      "size": 13056,
+      "mtime_ns": 1791032915848656344,
+      "sha256": "fcf62ae3832fe203e16923cd27edaed6b32a6f73699dbc6152f84002304d42bf"
+    },
+    "07_drafts/design/panel-01-production-v11-2026-10-03-vingroup-hand-drawn.svg": {
+      "size": 489439,
+      "mtime_ns": 1791020757964283502,
+      "sha256": "d504bb03561bf4ff00ad1775228cc69b37fbaf2e3540df4c1b21352a5df0c4b7"
+    },
+    "07_drafts/design/panel-01-production-v03-2026-10-03-compose.py": {
+      "size": 4291,
+      "mtime_ns": 1791013214470925935,
+      "sha256": "ec0271c2b02943a8fb25f74f615ca3752cc3741b7095704b5ce02cbe753d017e"
+    },
+    "07_drafts/design/panel-01-production-v04-2026-10-03-logo.svg": {
+      "size": 5971,
+      "mtime_ns": 1791004499253948104,
+      "sha256": "fc8daa08cf07c47b47627c56c99429c26ae3d85d29466c45eb78425c254026c7"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-art-final.png": {
+      "size": 1325698,
+      "mtime_ns": 1791016294162104917,
+      "sha256": "00069599bfd5c0aafe5a03c8f0602ae91176eb10c497294219672de015874a79"
+    },
+    "07_drafts/design/panel-04-production-v05-2026-10-03-small.png": {
+      "size": 213290,
+      "mtime_ns": 1791046179504163954,
+      "sha256": "8ed5d7806b933d038a258fd6b47fd0f80c6411c8a915b522d897a8bc77447b6e"
+    },
+    "07_drafts/design/panel-02-production-v04-2026-10-03.svg": {
+      "size": 2759004,
+      "mtime_ns": 1791012261180279487,
+      "sha256": "55110e96a3b9a72650eed7e6357b61c3567cb935e8873dea60d9eaa207bcca33"
+    },
+    "07_drafts/design/panel-01-production-v08-2026-10-03-manifest.json": {
+      "size": 31862,
+      "mtime_ns": 1791017256616246294,
+      "sha256": "5d5638467899c20678d4002a16085575744c0c0a4b72feb35ecf1481831177a5"
+    },
+    "07_drafts/design/panel-02-production-v06-2026-10-03-layout.py": {
+      "size": 6331,
+      "mtime_ns": 1791021678650691971,
+      "sha256": "cf66773f1853ce124d2e05c3f509cb91bc529109382f5feea91ec9672fbb530c"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03-logo.svg": {
+      "size": 5971,
+      "mtime_ns": 1791004499253948104,
+      "sha256": "fc8daa08cf07c47b47627c56c99429c26ae3d85d29466c45eb78425c254026c7"
+    },
+    "07_drafts/design/panel-01-production-v10-2026-10-03.md": {
+      "size": 3853,
+      "mtime_ns": 1791020239683199802,
+      "sha256": "7f06e7f42755bafda17f7505412d3c476a83edd0d579fa68fdf14558f81b0dbc"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-vinfast-source-page-01.png": {
+      "size": 824196,
+      "mtime_ns": 1791015213133875411,
+      "sha256": "f78cc46a230ef5cf3d4aee65770f0a32f749728ee38a4e737ed9431aea03fd8d"
+    },
+    "07_drafts/design/panel-01-production-v11-2026-10-03-vingroup-source.svg": {
+      "size": 6760119,
+      "mtime_ns": 1791020605723065194,
+      "sha256": "3c6531a266ac19cbe9a88e6966ac0105905bf63ccb6a99d290f71f57b71365f4"
+    },
+    "07_drafts/design/panel-01-production-v07-2026-10-03.md": {
+      "size": 3748,
+      "mtime_ns": 1791016459588121528,
+      "sha256": "206ec8aac745a991ce48a1e10cfc5f389fe60b5546418c7aebf8d70a5015efd2"
+    },
+    "07_drafts/design/panel-04-production-v01-2026-10-03.svg": {
+      "size": 19188153,
+      "mtime_ns": 1791012454116223369,
+      "sha256": "7cd442c659ca0060fed99654a7fc2ec0780f87c94d02bc8fc2b60feeb399549d"
+    },
+    "07_drafts/design/panel-01-production-v05-2026-10-03-car-crop.svg": {
+      "size": 2415727,
+      "mtime_ns": 1791015437545168932,
+      "sha256": "e15ac103ac3a4c0ed574fa573fdbf31fe313bcf3e265e7128a8ae8502b60bf70"
+    },
+    "07_drafts/design/panel-03-production-v05-2026-10-03.md": {
+      "size": 1014,
+      "mtime_ns": 1791032810974209527,
+      "sha256": "fd5729cec8f8e8b9b756e65fef78db06ebaf40d5188933088b8f80a72a7d23a4"
+    },
+    "07_drafts/design/panel-03-production-v05-2026-10-03.png": {
+      "size": 631401,
+      "mtime_ns": 1791032916688218201,
+      "sha256": "1a4f71d0fa7ab7541c828eb0348c9dafafebab86fc268c551f82291afcbe44d1"
+    },
+    "07_drafts/design/panel-02-age-distribution-chart-v01-2026-10-03.png": {
+      "size": 111835,
+      "mtime_ns": 1791003468716436800,
+      "sha256": "7f44e9d6e6b7fb6d75cc51d9d82a626d73301f5ddca0b7b69418b885ed08c699"
+    },
+    "07_drafts/design/panel-01-production-v04-2026-10-03-manifest.json": {
+      "size": 21507,
+      "mtime_ns": 1791014807033606520,
+      "sha256": "3e8c48ed38493e8243400323d11dbbd2e89256c60ecbee6aea30df120076ad57"
+    },
+    "07_drafts/design/panel-02-production-v01-2026-10-03.png": {
+      "size": 308601,
+      "mtime_ns": 1791004611957473705,
+      "sha256": "3e1d72a28a19834bd5b79203bd1a74a385cec46bd5ed7cf2c2e80858d49428f4"
+    },
+    "07_drafts/design/panel-02-production-v04-2026-10-03.md": {
+      "size": 7662,
+      "mtime_ns": 1791012354526040397,
+      "sha256": "d02e02094eb25c0446ac698a074b60063b11a02528ad4971e4a329204fbf046a"
+    },
+    "07_drafts/design/panel-04-production-v03-2026-10-03.png": {
+      "size": 616039,
+      "mtime_ns": 1791034828918227268,
+      "sha256": "97c297aec4f0d5be76cbbaaa8bbbc5384e353fc3506f0d4c0246ef64e8d455f4"
+    },
+    "07_drafts/design/panel-01-production-v03-2026-10-03.md": {
+      "size": 3133,
+      "mtime_ns": 1791013333240101041,
+      "sha256": "21922b12b7af60fae13110856f3654c7a0daddae4b0107077d64e5cecf9a971d"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03-car-crop.png": {
+      "size": 764593,
+      "mtime_ns": 1791015758497511091,
+      "sha256": "84d69c17cae74330398f41c629eb4ce6c28e9df5397f3b06a281f90819c68446"
+    },
+    "07_drafts/design/panel-01-production-v14-2026-10-03.md": {
+      "size": 4002,
+      "mtime_ns": 1791046274445129442,
+      "sha256": "e95124dff21ae8e1b5efa788e5222ef4782dfd71672aa3125037567ff27431fa"
+    },
+    "07_drafts/design/four-panel-hand-drawn-review-v01-2026-10-03.png": {
+      "size": 2248985,
+      "mtime_ns": 1791012642792268011,
+      "sha256": "c10e6a710ee0e231074a55a61cbbaad78baa7f54bbd4b0e90cfd2ce3acf8102e"
+    },
+    "07_drafts/design/panel-01-production-v06-2026-10-03-logo.svg": {
+      "size": 5971,
+      "mtime_ns": 1791004499253948104,
+      "sha256": "fc8daa08cf07c47b47627c56c99429c26ae3d85d29466c45eb78425c254026c7"
+    },
+    "07_drafts/design/panel-03-production-v05-2026-10-03-writing-check-run.json": {
+      "size": 370,
+      "mtime_ns": 1791032917270773526,
+      "sha256": "29dc0f908bd0fc541f29296a43b8d092a1491005b80a5324d2e348d726a295ec"
+    },
+    "07_drafts/design/panel-03-production-v06-2026-10-03-logo-proof.svg": {
+      "size": 1707180,
+      "mtime_ns": 1791046229103877657,
+      "sha256": "905263c9ee1ffd3985f9ac0f28e6d59a6b007037ddf4e60454e9f83454b76eaf"
+    },
+    "07_drafts/design/panel-02-production-v03-2026-10-03.svg": {
+      "size": 3343190,
+      "mtime_ns": 1791004869959316162,
+      "sha256": "f2538ca700282a72a7e02e117069e9b29b98f91e994e19c6654b3f62c8c6a5d0"
+    },
+    "07_drafts/design/panel-04-discussion-proposal-v01-2026-10-03.md": {
+      "size": 5276,
+      "mtime_ns": 1791010135386132832,
+      "sha256": "65c7ed2485fb3d398967457bce8a94e88229350caaa38f8fae3fd3a2bbba333b"
+    },
+    "07_drafts/design/panel-03-production-v04-2026-10-03-text-manifest.json": {
+      "size": 18418,
+      "mtime_ns": 1791030375004280653,
+      "sha256": "5d2c1fb10ddbfeb0fe6d02bc4cc12650ec0d4a308afb352f8f26f02fbb099e1e"
+    },
+    "07_drafts/design/panel-03-production-v01-2026-10-03.md": {
+      "size": 1014,
+      "mtime_ns": 1791010057955018513,
+      "sha256": "2fc4e0faa05b7c1adedaf6831d1c6ccb9526401a8c37e42395dfac7fea2310a2"
+    },
+    "07_drafts/design/panel-02-age-distribution-chart-v03-2026-10-03.svg": {
+      "size": 8435,
+      "mtime_ns": 1791003853356285842,
+      "sha256": "f6294dbebe91c09f8f9779029028c3d91ff2f7ca3e3a5fbadbb6b3f6fa4294db"
+    },
+    "07_drafts/design/panel-01-production-v04-2026-10-03.md": {
+      "size": 3753,
+      "mtime_ns": 1791014807333075844,
+      "sha256": "3819e06a6f126c325f61feff872291671a4a8ab3db7e1180c008cf2be5267ef9"
+    },
+    "07_drafts/design/panel-04-insight-alignment-proposal-v01-2026-10-03.md": {
+      "size": 5323,
+      "mtime_ns": 1791044325367148862,
+      "sha256": "3fe8cb47d226f6cfe7fe2204814f4fd9fef15fdecd73f92516e10431e7963781"
+    },
+    "07_drafts/design/panel-04-production-v02-2026-10-03.png": {
+      "size": 614616,
+      "mtime_ns": 1791013230263722207,
+      "sha256": "6e0a4a7e9a42620b7b3d45b1411f52224b75513bb83ccf6c31eabd3dd6093ea5"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03.md": {
+      "size": 5345,
+      "mtime_ns": 1791021197888751512,
+      "sha256": "2e12a57b955464300062a1160189377cf1e88a030a2b2ec85667688f13c2b20d"
+    },
+    "07_drafts/design/panel-02-production-v03-2026-10-03-checks.json": {
+      "size": 6163,
+      "mtime_ns": 1791004957899489185,
+      "sha256": "630147b2cded580b361731ad2e5065422a55a2ea0be78ae1abecb1c433369caa"
+    },
+    "07_drafts/design/panel-01-production-v01-2026-10-03-generated-section.png": {
+      "size": 951377,
+      "mtime_ns": 1791004803380323705,
+      "sha256": "8c5f4b226f62a54f6272c40d4e8bd1d4103f325eeec189f2ef7aece9069909b9"
+    },
+    "07_drafts/design/panel-04-production-v02-2026-10-03-text-manifest.json": {
+      "size": 4742,
+      "mtime_ns": 1791013230267908287,
+      "sha256": "fc3f9d1ffb377df8060ab5561e43a698047ce336f6c81a7ba0c5839854c83a66"
+    },
+    "07_drafts/design/panel-03-production-v06-2026-10-03.svg": {
+      "size": 5726773,
+      "mtime_ns": 1791046228388482609,
+      "sha256": "f879771f4932eae3069c8d129328d1318f759e9614047f18fe7cd25eb1be6fa3"
+    },
+    "07_drafts/design/panel-02-age-distribution-chart-v02-2026-10-03.svg": {
+      "size": 8580,
+      "mtime_ns": 1791003546405491142,
+      "sha256": "eb50bb27c1d16a72ccf6346b05c97c510fa1ddcafdef9124f31e2b8b74fadcce"
+    },
+    "07_drafts/design/panel-02-independent-infographic-options-v01-2026-10-03-option-b.svg": {
+      "size": 2802256,
+      "mtime_ns": 1791024136710070481,
+      "sha256": "7ecaecbabeea238d6fe0bec7e6cc694b0e3039cac1e246dca43e5a75834cee2a"
+    },
+    "07_drafts/design/panel-03-production-v03-2026-10-03-checks.json": {
+      "size": 3650,
+      "mtime_ns": 1791013364628267924,
+      "sha256": "0fbfa4d26b569096b6f5bd47b1adb372d20e6fb3c29ac2b4958ac34ec2683ab8"
+    },
+    "07_drafts/design/panel-03-production-v06-2026-10-03.md": {
+      "size": 1014,
+      "mtime_ns": 1791046228393421756,
+      "sha256": "fd5729cec8f8e8b9b756e65fef78db06ebaf40d5188933088b8f80a72a7d23a4"
+    },
+    "07_drafts/design/panel-02-production-v02-2026-10-03.svg": {
+      "size": 3342964,
+      "mtime_ns": 1791004786296305195,
+      "sha256": "f8cfd542f31f8715d37b207a50d423a66e45ed4d089b87757a23e62ca39f7ff3"
+    },
+    "07_drafts/design/panel-02-production-v04-2026-10-03-editable.svg": {
+      "size": 2474668,
+      "mtime_ns": 1791012261184305880,
+      "sha256": "8cbe73abdad49b9ff0b648b5a64817dddad16a3105e5d333052c50d217a884fa"
+    },
+    "07_drafts/design/panel-01-about-additions-proposal-v01-2026-10-03.md": {
+      "size": 5136,
+      "mtime_ns": 1791017873930416877,
+      "sha256": "25f7dd017742f92d285a99d9478f2b238ccc43d2d902ac0bd0197cea27d32a9d"
+    },
+    "07_drafts/design/four-panel-hand-drawn-review-v02-2026-10-03.svg": {
+      "size": 4040513,
+      "mtime_ns": 1791013495453630979,
+      "sha256": "fb2952d6271cfb14f2eb910b4c58b0265941b6f20e3df46030076b0e2ee378b7"
+    },
+    "07_drafts/design/panel-01-production-v01-2026-10-03-logo.svg": {
+      "size": 5971,
+      "mtime_ns": 1791004499253948104,
+      "sha256": "fc8daa08cf07c47b47627c56c99429c26ae3d85d29466c45eb78425c254026c7"
+    },
+    "07_drafts/design/panel-01-production-v09-2026-10-03-checks.json": {
+      "size": 1913,
+      "mtime_ns": 1791018323870911803,
+      "sha256": "c25c0378377036090c22dfb6551dd586be5bf60400b8e3e168fdd06e22ea2a37"
+    },
+    "07_drafts/design/panel-01-production-v02-2026-10-03-art.png": {
+      "size": 1467373,
+      "mtime_ns": 1791011940580426062,
+      "sha256": "1e4c74e55d7526be5651c3ce0a8db0bacd002bc68793cec7ec42a89879ed01c9"
+    },
+    "07_drafts/design/panel-03-production-v02-2026-10-03.md": {
+      "size": 1014,
+      "mtime_ns": 1791012251202307803,
+      "sha256": "2fc4e0faa05b7c1adedaf6831d1c6ccb9526401a8c37e42395dfac7fea2310a2"
+    },
+    "07_drafts/design/panel-01-production-v03-2026-10-03-checks.json": {
+      "size": 4428,
+      "mtime_ns": 1791013408133381105,
+      "sha256": "61faad484a36748431b5025ee1c1ba6dca2df6c8c649b8d6fd6a083cf11f82b2"
+    },
+    "07_drafts/design/panel-04-discussion-proposal-v02-2026-10-03.md": {
+      "size": 5043,
+      "mtime_ns": 1791010503606719861,
+      "sha256": "ced1575a3a84f243601cae6e7e41762d600cd85bf974abf448ce252d9c328c4e"
+    },
+    "07_drafts/design/panel-03-production-v04-2026-10-03.png": {
+      "size": 883679,
+      "mtime_ns": 1791030375422844581,
+      "sha256": "04b1cc49df70c1ffba1e2f5c43eb878b293201d412fc3889de55dcce4747e9be"
+    },
+    "07_drafts/design/panel-04-production-v04-2026-10-03-checks.json": {
+      "size": 5071,
+      "mtime_ns": 1791045580659944104,
+      "sha256": "618f335e58111c7ded5018281ca199c73f10f351e64edd55a1edf2b193c19b44"
+    },
+    "07_drafts/design/panel-02-production-v03-2026-10-03.md": {
+      "size": 7991,
+      "mtime_ns": 1791004869963056339,
+      "sha256": "c1ddf7916d05025e3e6002416edbe570662d60d13513be2325f2767a094fb70b"
+    },
+    "07_drafts/design/panel-04-production-v05-2026-10-03-check.py": {
+      "size": 4248,
+      "mtime_ns": 1791046247179251767,
+      "sha256": "4c0c8da214f453898e4bbad89bd94941793d73482786d8d836be1649b2c590d5"
+    },
+    "07_drafts/design/panel-04-production-v05-2026-10-03.png": {
+      "size": 570741,
+      "mtime_ns": 1791046179128453583,
+      "sha256": "7f03607a78e0ef6ca68c83f8af885bf880c4027ba0f7a6006202213e24f59bea"
+    },
+    "07_drafts/design/panel-02-production-v05-2026-10-03-generated-art.png": {
+      "size": 1832640,
+      "mtime_ns": 1791013230924123233,
+      "sha256": "efadcea7f91d4fe90695714ffa2beedea01c68d5cd2535376608a65b982fe01c"
+    },
+    "07_drafts/design/panel-01-production-v13-2026-10-03-pen-contour.py": {
+      "size": 2621,
+      "mtime_ns": 1791020977743042320,
+      "sha256": "66ce39322bc3de11fafaae1f93b86835f3bc5eea8b81bf9c56fbcbc1e5eff16e"
+    },
+    "07_drafts/design/panel-02-production-v04-2026-10-03-checks.json": {
+      "size": 3826,
+      "mtime_ns": 1791012464413956792,
+      "sha256": "4f243ab58e5cc50dcdd0b49884b35ffad9ce5f4e4fc7b872728f03dc11398b80"
+    },
+    "07_drafts/design/panel-03-layout-options-v02-2026-10-03.md": {
+      "size": 3904,
+      "mtime_ns": 1791008014182623817,
+      "sha256": "50be0505842e8f624c7100c251e32b46d4e747b5c0a1ac77317154f89c3aee25"
+    },
+    "07_drafts/design/panel-01-production-v09-2026-10-03-compose.py": {
+      "size": 6302,
+      "mtime_ns": 1791018273955341760,
+      "sha256": "042826db71fb26e61d1b9099bdea088101de3c1872b10f703f34b572c4d30c1b"
+    },
+    "07_drafts/design/panel-02-production-v05-2026-10-03.svg": {
+      "size": 2725515,
+      "mtime_ns": 1791013230914480394,
+      "sha256": "bb71d7906eaeac419d103652bef79620d92deed9013dfe6cf83621ffce7f64e2"
+    },
+    "07_drafts/design/panel-03-production-v05-2026-10-03-small-preview.png": {
+      "size": 229337,
+      "mtime_ns": 1791032916958988136,
+      "sha256": "8a694721f08e44de0d0d859d75227c34cf5dabce2f3f19f332cd2a346be63b08"
+    },
+    "07_drafts/design/panel-04-production-v03-2026-10-03-render.py": {
+      "size": 5085,
+      "mtime_ns": 1791034822367299345,
+      "sha256": "f8d3d4054f3da39e67ea94a06d0f43da8544bf15472328d184fcf87f75035f87"
+    },
+    "07_drafts/design/panel-03-production-v02-2026-10-03-generated-art-initial.png": {
+      "size": 2045289,
+      "mtime_ns": 1791011988438639345,
+      "sha256": "4a22e44693def27d67e1a7a2b016e34502f6f7917f862b1ebf5e1d093e5bb5be"
+    },
+    "07_drafts/design/panel-01-production-v02-2026-10-03-small-proof.png": {
+      "size": 249444,
+      "mtime_ns": 1791012088161715117,
+      "sha256": "81e2a0b967dbfc45395f6156f1c3700dbc8e1057955dddea70f9ad38433d3eb7"
+    },
+    "07_drafts/design/four-panel-hand-drawn-review-v01-2026-10-03-manifest.json": {
+      "size": 965,
+      "mtime_ns": 1791012642797544575,
+      "sha256": "c717a64bde0ddbd5181aa3d945eb47ac6514e9c405edfdcc05c380920dbf0fe7"
+    },
+    "07_drafts/design/panel-02-independent-infographic-options-v01-2026-10-03-option-a.svg": {
+      "size": 2802397,
+      "mtime_ns": 1791024135989487177,
+      "sha256": "c835dbf2b1cfe4918a6468eead70c160e77452d96efd52bfebfef8a5ba573e22"
+    },
+    "07_drafts/design/panel-03-discussion-proposal-v02-2026-10-03.md": {
+      "size": 6896,
+      "mtime_ns": 1791007081477108296,
+      "sha256": "ab85b9b0c51bd7682912b2c5b651cbf20f2402bd2571535bfef8762b78a6d306"
+    },
+    "07_drafts/design/panel-03-production-v04-2026-10-03-checks.json": {
+      "size": 1764,
+      "mtime_ns": 1791030375692600114,
+      "sha256": "9d409605aea031baa8d34295c4f5820df1d96465e75cf01356ff45c6a4da970e"
+    },
+    "07_drafts/design/panel-01-production-v02-2026-10-03-logo.svg": {
+      "size": 5971,
+      "mtime_ns": 1791004499253948104,
+      "sha256": "fc8daa08cf07c47b47627c56c99429c26ae3d85d29466c45eb78425c254026c7"
+    },
+    "07_drafts/design/panel-03-production-v01-2026-10-03.svg": {
+      "size": 3167249,
+      "mtime_ns": 1791010135019201906,
+      "sha256": "e73051a8a992d5b5efb597227fd1afe2a433b14688813b639c0ee04eabdd9eba"
+    },
+    "07_drafts/design/panel-03-production-v01-2026-10-03-generated-art.png": {
+      "size": 2328644,
+      "mtime_ns": 1791009954020029912,
+      "sha256": "3d3ab1c8265943cf224fe678f33103426bc34041d48896a7e51c6c8291691c97"
+    },
+    "07_drafts/design/panel-01-selected-content-and-visual-v04-2026-10-03.md": {
+      "size": 2226,
+      "mtime_ns": 1791015166025774847,
+      "sha256": "028b2fa0c7537de2eb182c5fef8ac1ab815441c32f3edfbd468828470b793a63"
+    },
+    "07_drafts/design/approved-poster-display-copy-v02-2026-10-03.md": {
+      "size": 4989,
+      "mtime_ns": 1791014593998294045,
+      "sha256": "33cacfe98701c883047d61f615de520961ee2b04103dd6340304ef6e57f061da"
+    },
+    "07_drafts/design/panel-03-production-v03-2026-10-03-text-manifest.json": {
+      "size": 18177,
+      "mtime_ns": 1791013246049180950,
+      "sha256": "732e1ab2019ea695219ba9f01685ef872ab7b305f654137bab39c5fe722071b3"
+    },
+    "07_drafts/design/panel-03-production-v03-2026-10-03.png": {
+      "size": 881654,
+      "mtime_ns": 1791013246468096742,
+      "sha256": "2bf1990bfa01b4eaf433492255988a9fad2788f88c4b3745ff69ab9088cfdb00"
+    },
+    "07_drafts/design/panel-01-production-v03-2026-10-03-logo.svg": {
+      "size": 5971,
+      "mtime_ns": 1791004499253948104,
+      "sha256": "fc8daa08cf07c47b47627c56c99429c26ae3d85d29466c45eb78425c254026c7"
+    },
+    "07_drafts/design/panel-01-production-v04-2026-10-03-checks.json": {
+      "size": 4615,
+      "mtime_ns": 1791014851618005399,
+      "sha256": "ab61f25009c96ea49b9dfe982f06a6a445abae9a78a67dc4eac61831c83df0f6"
+    },
+    "07_drafts/design/panel-02-production-v02-2026-10-03-illustration-prompt.md": {
+      "size": 3320,
+      "mtime_ns": 1791004786400507539,
+      "sha256": "0939d529870ebed686ee297f2c8ea3991387c078d72e5ab048173fab6c086e5b"
+    },
+    "07_drafts/design/panel-01-production-v14-2026-10-03-header-crop.svg": {
+      "size": 3363200,
+      "mtime_ns": 1791046172977755859,
+      "sha256": "c689bbc21e834436657ecce7b3ad029cf918b68c41c06ffcd070b7a1663e14f3"
+    },
+    "07_drafts/design/design-concept-v01.md": {
+      "size": 5006,
+      "mtime_ns": 1790600243387867094,
+      "sha256": "e06cbcc5829bd9043690aed4accc34fe0c69dce9b4cd7911ca534dd02bee9591"
+    },
+    "07_drafts/design/panel-04-production-v03-2026-10-03-checks.json": {
+      "size": 1629,
+      "mtime_ns": 1791034911251067000,
+      "sha256": "5fa7cb93cc3d929ad62dc34726a47c78612016a25c0830feb0f694b8c574f8ed"
+    },
+    "07_drafts/reviews/panel-04-citation-removal-2026-10-03.md": {
+      "size": 1478,
+      "mtime_ns": 1791013494578699844,
+      "sha256": "239270ff2f079e0c31a8854745add856d90e8915234c06683f22cff5f038d7fc"
+    },
+    "07_drafts/reviews/panel-02-citation-removal-2026-10-03.md": {
+      "size": 4000,
+      "mtime_ns": 1791013364307167286,
+      "sha256": "41a5d5724b5b7ff7877fa9198ed9c28946446b384e85ede26383911c36a498a9"
+    },
+    "07_drafts/reviews/poster-v03-review-uk-moderator.md": {
+      "size": 8928,
+      "mtime_ns": 1790601119225476620,
+      "sha256": "224b5ad232c6ac2a758c5d4316a1c160421430c529616172553a6f4370898481"
+    },
+    "07_drafts/reviews/panel-03-about-inspired-labels-fragment-check-2026-10-03.json": {
+      "size": 4241,
+      "mtime_ns": 1791031993371556484,
+      "sha256": "ef5e9baafc2c1d72e3dd44f756555b2d51262df2f368507ea17f239b4cc4a707"
+    },
+    "07_drafts/reviews/panel-02-independent-infographic-thinking-2026-10-03.md": {
+      "size": 2612,
+      "mtime_ns": 1791024140338462719,
+      "sha256": "d626e281114fc4fe893e1f4ea92c62aaae926b18ab682368bac474ea65bd6ee8"
+    },
+    "07_drafts/reviews/panel-03-handdrawn-green-sm-logo-revision-2026-10-03.md": {
+      "size": 3945,
+      "mtime_ns": 1791046350896323813,
+      "sha256": "a2e7c84b149b1af7c3017807fbf45361bc0b9348beb71dfc6beaafd293a67f28"
+    },
+    "07_drafts/reviews/panel-02-hand-drawn-revision-2026-10-03.md": {
+      "size": 5567,
+      "mtime_ns": 1791012464414080334,
+      "sha256": "73c794d55f22af0a0cbc0f6b2de1e4ae6547d29da4f1d413058c50e6a25bbe5c"
+    },
+    "07_drafts/reviews/panel-01-feedback-revision-2026-10-03.md": {
+      "size": 5912,
+      "mtime_ns": 1791014889318654671,
+      "sha256": "4566eab2cdd7ea709755d20272103ebfcafe061950b7cf2622c8b7dcf4cbd15f"
+    },
+    "07_drafts/reviews/panel-04-production-handoff-2026-10-03.md": {
+      "size": 3117,
+      "mtime_ns": 1791012535522375618,
+      "sha256": "399729bf2469e2ba297986247235e58132179ff244d2d74ee6ba758c9156c76a"
+    },
+    "07_drafts/reviews/panel-03-discussion-fragment-check-2026-10-03.json": {
+      "size": 4249,
+      "mtime_ns": 1791004132884743618,
+      "sha256": "086e259424eef7a2d48e313d6b11bc65545a360265344044615c14c1c5e786d7"
+    },
+    "07_drafts/reviews/poster-v03-review-local-marker.md": {
+      "size": 8755,
+      "mtime_ns": 1790601324941854241,
+      "sha256": "9908a42ccf9a97451746671ffdc7cd6e32115004cc07504dbfa8073ac4eb6346"
+    },
+    "07_drafts/reviews/panel-02-target-market-review-2026-10-03.md": {
+      "size": 4828,
+      "mtime_ns": 1791003930774616401,
+      "sha256": "a7a5dc1ffb5bb4991724afd5ec10a09c95e295ba20cedbc977dbc3ce47e4d8b5"
+    },
+    "07_drafts/reviews/panel-04-brand-first-content-v02-check-2026-10-04.json": {
+      "size": 3345,
+      "mtime_ns": 1791047741718119100,
+      "sha256": "b35a3ce4eeee307a42c7fcb526e1ac1de89b6e9fe4a0895d065ea8d0aaea9cc9"
+    },
+    "07_drafts/reviews/panel-03-citation-removal-2026-10-03.md": {
+      "size": 4695,
+      "mtime_ns": 1791013364507837268,
+      "sha256": "18a773baa41bdcab648c6250a716184ef66a26c1b878c28d90a2b1d241a43f90"
+    },
+    "07_drafts/reviews/poster-v01-review-uk-moderator.md": {
+      "size": 9147,
+      "mtime_ns": 1790597877836388742,
+      "sha256": "2caa6e53298f9ebc47ce7020d8c92c4dc1e1f73c1422522c57ba825ecae8287d"
+    },
+    "07_drafts/reviews/panel-01-hand-drawn-logo-placement-revision-2026-10-03.md": {
+      "size": 3334,
+      "mtime_ns": 1791016554513533054,
+      "sha256": "43c186b2122dadbff6582aeb6a40f89cb6e7f2b5211dee5c03bbe977c7f9a1e8"
+    },
+    "07_drafts/reviews/panel-01-us-market-addition-review-2026-10-03.md": {
+      "size": 3335,
+      "mtime_ns": 1791017256365304749,
+      "sha256": "ef75072237b744f4fdcb3239915eee241c3a8c4533a791a83f9afbce19e1065d"
+    },
+    "07_drafts/reviews/panel-03-parent-content-review-2026-10-03.md": {
+      "size": 2850,
+      "mtime_ns": 1791008027618335253,
+      "sha256": "5070235c0cb325246f4be6dc6c3e975a4efce69a6d5b48fed3a700d201e9ec02"
+    },
+    "07_drafts/reviews/panel-04-insight-and-rubric-review-2026-10-03.md": {
+      "size": 9547,
+      "mtime_ns": 1791039973474769987,
+      "sha256": "1a4df79d026dc85f05fd66aca5e8e87409aaf94a01edbbf4b9a781ed2b2aec80"
+    },
+    "07_drafts/reviews/panel-01-hand-drawn-revision-2026-10-03.md": {
+      "size": 4317,
+      "mtime_ns": 1791012240397570349,
+      "sha256": "582f5a9b796aa8b757d4aaebdf9643041b6546645860403a8d9211863dcc2611"
+    },
+    "07_drafts/reviews/panel-04-handdrawn-green-sm-logo-revision-2026-10-03.md": {
+      "size": 2366,
+      "mtime_ns": 1791046247911797541,
+      "sha256": "100131af2825c78fa62f1f575ec67c503dd061afd7b056eb0d3cfcce1e8ef24f"
+    },
+    "07_drafts/reviews/panel-03-production-handoff-2026-10-03.md": {
+      "size": 5502,
+      "mtime_ns": 1791010206960756483,
+      "sha256": "553f95242ef18504db22b1198211ea89ea577f51ba7c3a9b2cc3b33e14d414c1"
+    },
+    "07_drafts/reviews/panel-01-us-flag-removal-review-2026-10-03.md": {
+      "size": 3045,
+      "mtime_ns": 1791020239683529855,
+      "sha256": "42a852e2d1ac44c746550c9313cec9e79fc0794925196048aa95c5c79e75e53c"
+    },
+    "07_drafts/reviews/poster-v03-review.md": {
+      "size": 5186,
+      "mtime_ns": 1790601751703572910,
+      "sha256": "08fc94b7788a691b58117b3a3d32903e01bfe0daeb4330a4808f4fab3d1800f5"
+    },
+    "07_drafts/reviews/poster-v01-review-local-marker.md": {
+      "size": 9829,
+      "mtime_ns": 1790597833662068492,
+      "sha256": "010b6f07c887649950b9e283d4280f50977d501993bdda3214f8a28eacec2e9e"
+    },
+    "07_drafts/reviews/panel-03-hand-drawn-revision-2026-10-03.md": {
+      "size": 6505,
+      "mtime_ns": 1791012753231641914,
+      "sha256": "36e1eff3eb4321a9a95bf84bebd4671ec6abeac6453afa7671ea8f4d237456b3"
+    },
+    "07_drafts/reviews/panel-04-proposed-copy-v02-fragment-check-2026-10-03.json": {
+      "size": 3483,
+      "mtime_ns": 1791010503974830240,
+      "sha256": "6babbd08414bd17ac2ee08aec6003785a2897054aa9a16b6c42a3da9baaeec82"
+    },
+    "07_drafts/reviews/panel-03-discussion-fragment-check-v02-2026-10-03.json": {
+      "size": 3878,
+      "mtime_ns": 1791004153874866063,
+      "sha256": "bf8b368270b0c3a10bfbaa4ae26d1a037193235ac2f59515780ee79fa994fd26"
+    },
+    "07_drafts/reviews/panel-01-handdrawn-green-sm-logo-revision-2026-10-03.md": {
+      "size": 2254,
+      "mtime_ns": 1791046274445276108,
+      "sha256": "7f9cfd5fa4117e6cdd085d58c32d0f2ce269aec7ac39de2bcd776982ce702de1"
+    },
+    "07_drafts/reviews/poster-v04-verification.md": {
+      "size": 9269,
+      "mtime_ns": 1790602557219841114,
+      "sha256": "40c2af4ac4427d92f7abfc27c69b81f3963389ea0c1fbd7b8c19b8bfaf41c43e"
+    },
+    "07_drafts/reviews/panel-03-content-sufficiency-review-2026-10-03.md": {
+      "size": 8163,
+      "mtime_ns": 1791008077659469051,
+      "sha256": "8f41ce629667114e5b676e9ec0eb59c69d6acd54b231ed4f7353271199595230"
+    },
+    "07_drafts/reviews/overnight-research-review-2026-09-28.md": {
+      "size": 32050,
+      "mtime_ns": 1790533502187399296,
+      "sha256": "e113e2e8c537504f29127fd2da72719f3dda35eebf873afe002c412ad6a2ca98"
+    },
+    "07_drafts/reviews/panel-02-numbered-section-review-2026-10-03.md": {
+      "size": 4489,
+      "mtime_ns": 1791021786901418910,
+      "sha256": "3914a49d324243842db4c6afbb18a0c4835690af6d7e917e3dff8d7f73afa3a5"
+    },
+    "07_drafts/reviews/panel-04-numbered-heading-review-2026-10-03.md": {
+      "size": 3020,
+      "mtime_ns": 1791034911339107186,
+      "sha256": "0fb67c848bffae219f10b18cec9deee04d9b845fb34a1e9a77e603d31c83679a"
+    },
+    "07_drafts/reviews/panel-01-production-handoff-2026-10-03.md": {
+      "size": 5620,
+      "mtime_ns": 1791004948541318450,
+      "sha256": "f82ee881bb6f2d6fb44de7a3c7790d37a25a39421551fb75dd331a9ee003670e"
+    },
+    "07_drafts/reviews/reference-audit-2026-09-28.png": {
+      "size": 157124,
+      "mtime_ns": 1790532982494875599,
+      "sha256": "ea9945421eed7e3b8428fc7eed2fd2c7ce2393e4c513b29c8fa9a9938d38a86b"
+    },
+    "07_drafts/reviews/panel-03-numbered-heading-review-2026-10-03.md": {
+      "size": 2565,
+      "mtime_ns": 1791030402845594077,
+      "sha256": "90156f7365b50e60f7aaa2721e01b12a1eb388d5926a4b351431a0e89593257e"
+    },
+    "07_drafts/reviews/panel-04-parent-content-review-2026-10-03.md": {
+      "size": 2470,
+      "mtime_ns": 1791010235221338238,
+      "sha256": "b80abdfbcb9c025bb926e3195cd2408d73a65e4d6eda7f9536cd8942cebb44c8"
+    },
+    "07_drafts/reviews/four-panel-hand-drawn-style-review-2026-10-03.md": {
+      "size": 3968,
+      "mtime_ns": 1791012858375669817,
+      "sha256": "622dab2beedb810de9a710ce96c83cef38792034a68710b0895a2c8d055afe8a"
+    },
+    "07_drafts/reviews/panel-04-insight-alignment-production-review-2026-10-03.md": {
+      "size": 3363,
+      "mtime_ns": 1791045580736434181,
+      "sha256": "b2e39e29a6b38378337119b1a627dccdff62ea2d9ef880c30866ad4215e9752b"
+    },
+    "07_drafts/reviews/panel-04-proposed-copy-fragment-check-2026-10-03.json": {
+      "size": 3458,
+      "mtime_ns": 1791010189360350619,
+      "sha256": "ad41bf5f0edcc69a7971f047ad31fab2d91a6136771d2232d7c9cdf62043c001"
+    },
+    "07_drafts/reviews/panel-03-strengthened-copy-fragment-check-2026-10-03.json": {
+      "size": 3885,
+      "mtime_ns": 1791008094661022418,
+      "sha256": "996c60e0b6e955266dce9e585a45d583dd2d21fd1d7220981612f21aeb3bbb77"
+    },
+    "07_drafts/reviews/panel-03-layout-options-review-2026-10-03.md": {
+      "size": 3571,
+      "mtime_ns": 1791007027236798358,
+      "sha256": "dd052feb8adeef4723edaa292717a3643fa8487088bf5b3013abdf860707ebf2"
+    },
+    "07_drafts/reviews/panel-01-vinfast-logo-revision-2026-10-03.md": {
+      "size": 5811,
+      "mtime_ns": 1791015564750928585,
+      "sha256": "845917a2744ed33a590a2a81b7c1e96575cb5be52410baef7c23b6970f939b24"
+    },
+    "07_drafts/reviews/overnight-code-model-review-2026-09-28.md": {
+      "size": 20011,
+      "mtime_ns": 1790533220081593655,
+      "sha256": "0c3436f1923e61aa66aa494dcb85ad17b397dc3d4c9d558fe3e0363d031d2b3c"
+    },
+    "07_drafts/reviews/panel-01-full-vinfast-logo-revision-2026-10-03.md": {
+      "size": 5296,
+      "mtime_ns": 1791015838427131606,
+      "sha256": "636e3ca2ee00f0a971ef76fa8cc7f25a96a61b68fc35a4f591deace3bc642c0d"
+    },
+    "07_drafts/reviews/panel-01-citation-removal-2026-10-03.md": {
+      "size": 7269,
+      "mtime_ns": 1791013447938716965,
+      "sha256": "4b79ea7f734c2392a8f634a6ac91aa3c404e262605c8094c9689c3ebc1cce5f5"
+    },
+    "07_drafts/reviews/panel-01-background-callout-revision-2026-10-03.md": {
+      "size": 2757,
+      "mtime_ns": 1791018365310436103,
+      "sha256": "df4f6d3103ebb301ac01782943492520fe0c52810f5c8b68fb55ca7fd215ab96"
+    },
+    "07_drafts/reviews/panel-03-about-inspired-production-review-2026-10-03.md": {
+      "size": 5819,
+      "mtime_ns": 1791033114181120614,
+      "sha256": "61edeb51d1c6bf58ad515fc7bd07533922ea8e75c8056a56a51ee090aea8dfa8"
+    },
+    "07_drafts/reviews/four-panel-citation-removal-review-2026-10-03.md": {
+      "size": 2261,
+      "mtime_ns": 1791013494578828928,
+      "sha256": "e7354941431da8e04b5239ae68f6dfd4d991eff110831d2b6c699612feba0117"
+    },
+    "07_drafts/reviews/panel-03-about-ideas-review-2026-10-03.md": {
+      "size": 5467,
+      "mtime_ns": 1791031803277570111,
+      "sha256": "cefea8f5a2d79514e151f53a352838d80a4c3e7e863dda51932f77e2058f35e9"
+    },
+    "07_drafts/reviews/panel-01-hand-drawn-vingroup-emblem-revision-2026-10-03.md": {
+      "size": 3431,
+      "mtime_ns": 1791021197889157390,
+      "sha256": "ad75db0418468d92f9fdbdf1ffb7bbf346c286c7cd1480bd2e2be14360da4b85"
+    },
+    "07_drafts/reviews/poster-v05-review-local-marker-2026-10-03.md": {
+      "size": 9159,
+      "mtime_ns": 1790996024868634649,
+      "sha256": "473a10c9b42e707755cbe80505837955b64269c6f7e4edbb8708f5b2b9437446"
+    },
+    "07_drafts/reviews/poster-v01-review.md": {
+      "size": 7038,
+      "mtime_ns": 1790598189070646972,
+      "sha256": "73d4f6484b64e944199e1183ccdddac3693a5f333c49df32dded363eb23cf205"
+    },
+    "07_drafts/reviews/panel-02-production-handoff-2026-10-03.md": {
+      "size": 6492,
+      "mtime_ns": 1791004957899603144,
+      "sha256": "8d40398b77726653e18b8d364535078ed116a510f149ed6307b872150a74a5e3"
+    },
+    "07_drafts/reviews/panel-01-about-additions-fragment-check-2026-10-03.json": {
+      "size": 3141,
+      "mtime_ns": 1791017791477264715,
+      "sha256": "648e2d12e4ab2b34ce4b757199b1e559e07e83b4fccda1baa0175727c8750703"
+    },
+    "07_drafts/reviews/poster-v07-preparation-review-2026-10-03.md": {
+      "size": 6578,
+      "mtime_ns": 1791000641236929572,
+      "sha256": "2ec818d4656ce8549f0c1c21a36507e456ab19dd38f97cb734f251c715b0ab08"
+    },
+    "04_references/_inbox/vinfast-vf-mpv-7-brochure-2026-02-03.pdf": {
+      "size": 4244512,
+      "mtime_ns": 1790997260591924344
+    },
+    "04_references/_staging/netherlands/tribdino-2026-green-sm-amsterdam-taxi-pilot.pdf": {
+      "size": 3992324,
+      "mtime_ns": 1790527100180849523
+    },
+    "04_references/_staging/netherlands/vov-2026-vinfast-ships-evs-europe-green-sm.pdf": {
+      "size": 6349687,
+      "mtime_ns": 1790527200504380006
+    },
+    "04_references/_staging/netherlands/kemp-2025-digital-2026-netherlands.pdf": {
+      "size": 1233300,
+      "mtime_ns": 1790527522334416054
+    },
+    "04_references/_staging/netherlands/netherlands-enterprise-agency-nd-taxi-drivers-card.pdf": {
+      "size": 223547,
+      "mtime_ns": 1790527870863037355
+    },
+    "04_references/_staging/netherlands/netherlands-enterprise-agency-nd-taxi-operator-licence.pdf": {
+      "size": 254021,
+      "mtime_ns": 1790527859705510234
+    },
+    "04_references/_staging/netherlands/ploos-van-amstel-2026-nog-een-taxiplatform.pdf": {
+      "size": 4059690,
+      "mtime_ns": 1790528433749069636
+    },
+    "04_references/_staging/netherlands/acea-2026-new-car-registrations-2025.pdf": {
+      "size": 312714,
+      "mtime_ns": 1790527503134917778
+    },
+    "04_references/_staging/netherlands/slump-2025-vinfast-sluit-verkooppunten.pdf": {
+      "size": 696419,
+      "mtime_ns": 1790527216137180756
+    },
+    "04_references/_staging/netherlands/stultiens-2026-uber-elektrische-premiumrit.pdf": {
+      "size": 950494,
+      "mtime_ns": 1790528170265761549
+    },
+    "04_references/_staging/netherlands/ploos-van-amstel-2023-amsterdam-ze-taxi.pdf": {
+      "size": 372516,
+      "mtime_ns": 1790528102511955727
+    },
+    "04_references/_staging/netherlands/cbs-2026-gasten-logiesaccommodaties.pdf": {
+      "size": 264085,
+      "mtime_ns": 1790527815243567405
+    },
+    "04_references/_staging/netherlands/gemeente-amsterdam-2026-ontwikkelingen-in-amsterdam.pdf": {
+      "size": 10943469,
+      "mtime_ns": 1790526909652665926
+    },
+    "04_references/_staging/netherlands/rijksoverheid-nd-extra-eisen-taxi-gemeenten.pdf": {
+      "size": 262189,
+      "mtime_ns": 1790527247202192423
+    },
+    "04_references/_staging/netherlands/ilt-nd-marktbeeld-taxi.pdf": {
+      "size": 392939,
+      "mtime_ns": 1790527221876660245
+    },
+    "04_references/_staging/netherlands/bkan-2026-vinfast-taxidienst.pdf": {
+      "size": 520176,
+      "mtime_ns": 1790526690604149304
+    },
+    "04_references/_staging/netherlands/nederland-elektrisch-nd-cijfers-elektrisch-vervoer.pdf": {
+      "size": 598788,
+      "mtime_ns": 1790528237424668790
+    },
+    "04_references/_staging/netherlands/guarascio-nguyen-2026-gsm-eyes-us-eu-expansion.pdf": {
+      "size": 6607333,
+      "mtime_ns": 1790527324065474073
+    },
+    "04_references/_staging/netherlands/royal-schiphol-group-nd-traffic-review-2025.pdf": {
+      "size": 3276635,
+      "mtime_ns": 1790528256780111769
+    },
+    "04_references/_staging/netherlands/smits-2024-bevolking-in-cijfers.pdf": {
+      "size": 2521989,
+      "mtime_ns": 1790528388036245118
+    },
+    "04_references/_staging/netherlands/rijksoverheid-nd-kosten-taxi.pdf": {
+      "size": 305528,
+      "mtime_ns": 1790526699846202871
+    },
+    "04_references/_staging/netherlands/european-commission-2025-eurobarometer-565-factsheet-nederland.pdf": {
+      "size": 407908,
+      "mtime_ns": 1790528028074925764
+    },
+    "04_references/_staging/netherlands/newcom-2026-nationale-social-media-onderzoek.pdf": {
+      "size": 2477717,
+      "mtime_ns": 1790527416278712913
+    },
+    "04_references/_staging/netherlands/onemedia-nd-abri-amsterdam.pdf": {
+      "size": 853742,
+      "mtime_ns": 1790528321608360139
+    },
+    "04_references/_staging/netherlands/gemeente-amsterdam-2023-uitvoeringsagenda-uitstootvrije-mobiliteit-page.pdf": {
+      "size": 583679,
+      "mtime_ns": 1790527891860693357
+    },
+    "04_references/_staging/netherlands/bolt-nd-bolt-in-amsterdam.pdf": {
+      "size": 7946918,
+      "mtime_ns": 1790528495259760393
+    },
+    "04_references/_staging/netherlands/european-commission-2025-special-eurobarometer-565-annex.pdf": {
+      "size": 1513624,
+      "mtime_ns": 1790528028042324304
+    },
+    "04_references/_staging/netherlands/hoge-raad-2025-uber-prejudiciele-vragen.pdf": {
+      "size": 194835,
+      "mtime_ns": 1790526754363526385
+    },
+    "04_references/_staging/netherlands/ilt-nd-taximonitor.pdf": {
+      "size": 207415,
+      "mtime_ns": 1790527213692038542
+    },
+    "04_references/_staging/netherlands/tca-nd-taxi-amsterdam-schiphol.pdf": {
+      "size": 570573,
+      "mtime_ns": 1790528157827732360
+    },
+    "04_references/_staging/netherlands/ramos-2025-emission-free-zones-amsterdam.pdf": {
+      "size": 220021,
+      "mtime_ns": 1790528092405265358
+    },
+    "04_references/_staging/greensm-comet/comet-vn-vietjet.pdf": {
+      "size": 6594817,
+      "mtime_ns": 1790528308428753000
+    },
+    "04_references/_staging/greensm-comet/comet-vn-driver-policy.pdf": {
+      "size": 8795584,
+      "mtime_ns": 1790528308429069000
+    },
+    "04_references/_staging/greensm-comet/comet-vn-xanh-family.pdf": {
+      "size": 9465376,
+      "mtime_ns": 1790528308428462000
+    },
+    "04_references/_staging/greensm-comet/comet-vn-membership-launch-2024.pdf": {
+      "size": 9684827,
+      "mtime_ns": 1790528308428186000
+    },
+    "04_references/_staging/greensm-comet/comet-vn-platform.pdf": {
+      "size": 2108452,
+      "mtime_ns": 1790527150437189000
+    },
+    "04_references/_staging/greensm-comet/comet-dk-home.pdf": {
+      "size": 6057423,
+      "mtime_ns": 1790527150386341000
+    },
+    "04_references/_staging/greensm-comet/comet-in-launch-release.pdf": {
+      "size": 7641627,
+      "mtime_ns": 1790527150444959000
+    },
+    "04_references/_staging/greensm-comet/comet-vn-membership-vi.pdf": {
+      "size": 8453455,
+      "mtime_ns": 1790528308427862000
+    },
+    "04_references/_staging/greensm-comet/comet-nl-home.pdf": {
+      "size": 3696353,
+      "mtime_ns": 1790527150409255000
+    },
+    "04_references/_staging/greensm-comet/comet-vn-mini-vi.pdf": {
+      "size": 8806806,
+      "mtime_ns": 1790528308427013000
+    },
+    "04_references/_staging/greensm-comet/comet-vn-car.pdf": {
+      "size": 8071402,
+      "mtime_ns": 1790527150420083000
+    },
+    "04_references/_staging/greensm-comet/comet-vn-fares-news.pdf": {
+      "size": 11617386,
+      "mtime_ns": 1790528308426556000
+    },
+    "04_references/_staging/greensm-comet/comet-vn-membership.pdf": {
+      "size": 8126796,
+      "mtime_ns": 1790527150416479000
+    },
+    "04_references/_staging/greensm-comet/comet-in-limo.pdf": {
+      "size": 2625049,
+      "mtime_ns": 1790527150439373000
+    },
+    "04_references/_staging/greensm-comet/comet-dk-news.pdf": {
+      "size": 2144935,
+      "mtime_ns": 1790527150401775000
+    },
+    "04_references/_staging/greensm-comet/comet-vn-seo-content.pdf": {
+      "size": 7834930,
+      "mtime_ns": 1790528308429390000
+    },
+    "04_references/_staging/greensm-comet/comet-vn-business.pdf": {
+      "size": 6019538,
+      "mtime_ns": 1790527150435050000
+    },
+    "04_references/_staging/greensm-comet/comet-nl-news.pdf": {
+      "size": 711038,
+      "mtime_ns": 1790527150412101000
+    },
+    "04_references/_staging/india/k-2026-blusmart-voler-car-top-bidder.pdf": {
+      "size": 1126529,
+      "mtime_ns": 1790527382223548279
+    },
+    "04_references/_staging/india/massey-2026-green-sm-launches-electric-taxi-delhi-ncr.pdf": {
+      "size": 2163871,
+      "mtime_ns": 1790527254715592225
+    },
+    "04_references/_staging/india/ministry-of-road-transport-and-highways-2025-motor-vehicle-aggregator-guidelines.pdf": {
+      "size": 746600,
+      "mtime_ns": 1790526804445822304
+    },
+    "04_references/_staging/india/banerjee-2026-green-sm-10000-ev-fleet-plan.pdf": {
+      "size": 841708,
+      "mtime_ns": 1790527726414740063
+    },
+    "04_references/_staging/india/korada-2026-delhi-economic-survey-highlights.pdf": {
+      "size": 1587271,
+      "mtime_ns": 1790527611631505692
+    },
+    "04_references/_staging/india/siddharth-2026-green-sm-india-first-ride-review.pdf": {
+      "size": 24848772,
+      "mtime_ns": 1790527743627824689
+    },
+    "04_references/_staging/india/vivek-2025-end-of-the-road-for-blusmart.pdf": {
+      "size": 1631076,
+      "mtime_ns": 1790527271188779235
+    },
+    "04_references/_staging/india/evreporter-2026-india-ev-sales-fy-2025-26.pdf": {
+      "size": 1567207,
+      "mtime_ns": 1790527773918114841
+    },
+    "04_references/_staging/india/national-commission-on-population-2019-population-projections.pdf": {
+      "size": 11543351,
+      "mtime_ns": 1790527553071082980
+    },
+    "04_references/_staging/india/press-information-bureau-2025-caqm-cleaner-mobility-aggregators.pdf": {
+      "size": 187231,
+      "mtime_ns": 1790527425332777212
+    },
+    "04_references/_staging/india/mukherjee-2023-delhi-revised-auto-taxi-fares.pdf": {
+      "size": 1539242,
+      "mtime_ns": 1790527286012373323
+    },
+    "04_references/_staging/india/transport-department-gnctd-2023-aggregator-delivery-scheme.pdf": {
+      "size": 1281097,
+      "mtime_ns": 1790526914925382149
+    },
+    "04_references/_staging/india/press-information-bureau-2026-rise-of-indias-ev-ecosystem.pdf": {
+      "size": 655151,
+      "mtime_ns": 1790527366484924121
+    },
+    "04_references/_staging/india/shukla-2025-app-taxi-services-still-unfair.pdf": {
+      "size": 845997,
+      "mtime_ns": 1790527430842885451
+    },
+    "04_references/_staging/india/gupta-sinha-2022-delhi-mobility-app-users.pdf": {
+      "size": 722901,
+      "mtime_ns": 1790527230670853908
+    },
+    "04_references/_staging/india/saraiya-2026-green-sm-airport-corporate-rides.pdf": {
+      "size": 2581482,
+      "mtime_ns": 1790527790799462493
+    },
+    "04_references/_staging/india/dd-news-nd-delhi-ev-policy-2-0-draft.pdf": {
+      "size": 443789,
+      "mtime_ns": 1790528041397703731
+    },
+    "04_references/_staging/india/tgm-research-2026-ride-hailing-india.pdf": {
+      "size": 613168,
+      "mtime_ns": 1790527083145587828
+    },
+    "04_references/_staging/india/deviputra-2026-india-taxi-market.pdf": {
+      "size": 1388107,
+      "mtime_ns": 1790527760458078035
+    },
+    "04_references/_staging/india/shah-ghosh-2026-rapido-more-users-than-uber-ola.pdf": {
+      "size": 902968,
+      "mtime_ns": 1790527232561826734
+    },
+    "04_references/_staging/india/press-information-bureau-2026-delhi-lowest-average-pm.pdf": {
+      "size": 372911,
+      "mtime_ns": 1790527442565910182
+    },
+    "04_references/_staging/india/kemp-2025-digital-2026-india.pdf": {
+      "size": 1139822,
+      "mtime_ns": 1790527384271111931
+    },
+    "04_references/_staging/india/kushwaha-et-al-2025-safe-rides-fair-prices.pdf": {
+      "size": 1250296,
+      "mtime_ns": 1790527230714703622
+    },
+    "04_references/_staging/india/chatterjee-2026-indias-cab-game-new-green-player.pdf": {
+      "size": 1808988,
+      "mtime_ns": 1790526913067980522
+    },
+    "04_references/_staging/india/das-gupta-2026-green-sm-airport-corporate-push.pdf": {
+      "size": 815182,
+      "mtime_ns": 1790527711115065768
+    },
+    "04_references/_staging/india/businessline-2026-green-sm-india-bet.pdf": {
+      "size": 2056200,
+      "mtime_ns": 1790527082717199129
+    },
+    "04_references/_staging/india/sinha-2026-delhi-economic-survey-vehicle-count.pdf": {
+      "size": 3976833,
+      "mtime_ns": 1790527595060759364
+    },
+    "04_references/_staging/india/mittal-2026-delhi-cabbies-unhappy-vietnamese-venture.pdf": {
+      "size": 6188348,
+      "mtime_ns": 1790526925954789749
+    },
+    "04_references/_staging/denmark/statbank-api-provenance-20260928.pdf": {
+      "size": 214846,
+      "mtime_ns": 1790530376645758453
+    },
+    "04_references/_staging/denmark/bt-2026-vietnamesisk-taxaselskab-koebenhavn.pdf": {
+      "size": 6650861,
+      "mtime_ns": 1790526720544075182
+    },
+    "04_references/_staging/denmark/vov-2026-green-sm-denmark-europe-debut.pdf": {
+      "size": 6769130,
+      "mtime_ns": 1790527993531233631
+    },
+    "04_references/_staging/denmark/halvarsson-2026-offentlige-ladepunkter-milepael.pdf": {
+      "size": 197251,
+      "mtime_ns": 1790527857456618631
+    },
+    "04_references/_staging/denmark/statistics-denmark-2025-e-commerce-transport-services.pdf": {
+      "size": 52225,
+      "mtime_ns": 1790527290989861299
+    },
+    "04_references/_staging/denmark/jensen-helinck-2026-danskerne-betaler-mere-med-mobilen.pdf": {
+      "size": 733533,
+      "mtime_ns": 1790528139531994774
+    },
+    "04_references/_staging/denmark/kjaergaard-2026-fagbevaegelsen-hilser-green-sm.pdf": {
+      "size": 3390905,
+      "mtime_ns": 1790526706286619979
+    },
+    "04_references/_staging/denmark/moller-2026-vietnamese-taxi-model-copenhagen.pdf": {
+      "size": 1337577,
+      "mtime_ns": 1790527975746154799
+    },
+    "04_references/_staging/denmark/statistics-denmark-2026-airport-passengers.pdf": {
+      "size": 46049,
+      "mtime_ns": 1790527272557895194
+    },
+    "04_references/_staging/denmark/konkurrence-og-forbrugerstyrelsen-2026-uber-dantaxi-afgoerelse.pdf": {
+      "size": 10250360,
+      "mtime_ns": 1790527501540553718
+    },
+    "04_references/_staging/denmark/acea-2026-new-car-registrations-2025.pdf": {
+      "size": 312714,
+      "mtime_ns": 1790527797652461701
+    },
+    "04_references/_staging/denmark/statistics-denmark-2026-enterprises-taxi-operation.pdf": {
+      "size": 50038,
+      "mtime_ns": 1790528104698750126
+    },
+    "04_references/_staging/denmark/taxa-4x35-nd-taxa-priser.pdf": {
+      "size": 802960,
+      "mtime_ns": 1790527631407836490
+    },
+    "04_references/_staging/denmark/faerdselsstyrelsen-nd-find-koerselskontor.pdf": {
+      "size": 237582,
+      "mtime_ns": 1790527489889033611
+    },
+    "04_references/_staging/denmark/lorentsen-jensen-2026-taxaer-fragtet-til-danmark.pdf": {
+      "size": 2449558,
+      "mtime_ns": 1790526764290504456
+    },
+    "04_references/_staging/denmark/afa-jcdecaux-2026-prisliste-2026.pdf": {
+      "size": 4693393,
+      "mtime_ns": 1790527922128621953
+    },
+    "04_references/_staging/denmark/christiansen-anderson-2025-tu-aarsrapport-danmark-2024.pdf": {
+      "size": 1050469,
+      "mtime_ns": 1790527880239929434
+    },
+    "04_references/_staging/denmark/by-land-og-transportministeriet-2024-taxiloven.pdf": {
+      "size": 385505,
+      "mtime_ns": 1790527318122933986
+    },
+    "04_references/_staging/denmark/arent-2026-biler-fra-vietnam-fdm.pdf": {
+      "size": 5144185,
+      "mtime_ns": 1790526796462432462
+    },
+    "04_references/_staging/denmark/guarascio-nguyen-2026-gsm-eyes-us-eu-expansion.pdf": {
+      "size": 5322205,
+      "mtime_ns": 1790527273073978402
+    },
+    "04_references/_staging/denmark/statistics-denmark-2025-disposable-income-age.pdf": {
+      "size": 100922,
+      "mtime_ns": 1790527229097473804
+    },
+    "04_references/_staging/denmark/statistics-denmark-2026-internet-use-ai-banking.pdf": {
+      "size": 50205,
+      "mtime_ns": 1790527282270012235
+    },
+    "04_references/_staging/denmark/lewis-2026-vinfast-taxi-debuted-europe.pdf": {
+      "size": 9915855,
+      "mtime_ns": 1790526926982526264
+    },
+    "04_references/_staging/denmark/statistics-denmark-2026-stock-of-vehicles-taxis.pdf": {
+      "size": 55115,
+      "mtime_ns": 1790527249221934956
+    },
+    "04_references/_staging/denmark/statistics-denmark-2026-households-size.pdf": {
+      "size": 62321,
+      "mtime_ns": 1790527240279688474
+    },
+    "04_references/_staging/denmark/faerdselsstyrelsen-2026-takster-for-prisloft.pdf": {
+      "size": 260573,
+      "mtime_ns": 1790527362725069806
+    },
+    "04_references/_staging/denmark/konkurrence-og-forbrugerstyrelsen-2026-uber-frasaelge-dantaxi.pdf": {
+      "size": 92651,
+      "mtime_ns": 1790527618182662608
+    },
+    "04_references/_staging/denmark/statistics-denmark-2026-population-quarter-age.pdf": {
+      "size": 350485,
+      "mtime_ns": 1790527215438592987
+    },
+    "04_references/_staging/denmark/statistics-denmark-2026-byopgoerelsen-nyt.pdf": {
+      "size": 469636,
+      "mtime_ns": 1790527213992616956
+    },
+    "04_references/_staging/denmark/kemp-2025-digital-2026-denmark.pdf": {
+      "size": 1442964,
+      "mtime_ns": 1790527933281374731
+    },
+    "04_references/_staging/denmark/apple-nd-green-sm-app-store-denmark.pdf": {
+      "size": 1276561,
+      "mtime_ns": 1790528329184467287
+    },
+    "04_references/_staging/denmark/european-commission-2025-eurobarometer-565-climate-change-denmark.pdf": {
+      "size": 401521,
+      "mtime_ns": 1790528041680959516
+    },
+    "04_references/_staging/denmark/faerdselsstyrelsen-nd-saadan-bliver-du-chauffoer.pdf": {
+      "size": 302805,
+      "mtime_ns": 1790527374338777193
+    },
+    "04_references/_staging/denmark/fuhrmann-kjaer-2026-asiatisk-taxaselskab-dr.pdf": {
+      "size": 1491451,
+      "mtime_ns": 1790526751649350854
+    },
+    "04_references/_staging/denmark/magnussen-2026-asiatisk-taxa-svaervaegter.pdf": {
+      "size": 2030563,
+      "mtime_ns": 1790526807068962639
+    },
+    "04_references/_staging/denmark/statistics-denmark-2026-overnight-stays.pdf": {
+      "size": 53888,
+      "mtime_ns": 1790527261223961725
+    },
+    "04_references/_staging/vietnam/tri-tuc-2026-cuoc-chien-goi-xe-ty-usd.pdf": {
+      "size": 4202723,
+      "mtime_ns": 1790527398480744492
+    },
+    "04_references/_staging/vietnam/government-of-vietnam-2020-decree-10-2020-portal-record.pdf": {
+      "size": 678262,
+      "mtime_ns": 1790526902601056124
+    },
+    "04_references/_staging/vietnam/tgm-research-2025-ride-hailing-report-vietnam.pdf": {
+      "size": 495206,
+      "mtime_ns": 1790526653760212640
+    },
+    "04_references/_staging/vietnam/government-of-vietnam-2024-decree-158-2024-vbpl.pdf": {
+      "size": 4972244,
+      "mtime_ns": 1790527418749708735
+    },
+    "04_references/_staging/vietnam/rakuten-insight-2025-ride-hailing-app-landscape-vietnam.pdf": {
+      "size": 754372,
+      "mtime_ns": 1790526655775349550
+    },
+    "04_references/_staging/vietnam/mordor-intelligence-nd-vietnam-ride-hailing-market.pdf": {
+      "size": 1081547,
+      "mtime_ns": 1790526743824292392
+    },
+    "04_references/_staging/vietnam/bao-chinh-phu-2026-xe-hop-dong-chia-se-du-lieu.pdf": {
+      "size": 1678817,
+      "mtime_ns": 1790527410711498216
+    },
+    "04_references/_staging/vietnam/decision-lab-nd-connected-consumer-q4-2025.pdf": {
+      "size": 3366316,
+      "mtime_ns": 1790526750864757545
+    },
+    "04_references/_staging/vietnam/national-statistics-office-2026-nien-giam-tom-tat-2025-landing.pdf": {
+      "size": 414878,
+      "mtime_ns": 1790527071711109691
+    },
+    "04_references/_staging/vietnam/government-of-vietnam-2020-decree-10-2020-vcci-text.pdf": {
+      "size": 929237,
+      "mtime_ns": 1790526963555568890
+    },
+    "04_references/_staging/vietnam/minh-son-2024-vingroup-capital-gsm.pdf": {
+      "size": 1586993,
+      "mtime_ns": 1790526830087876061
+    },
+    "04_references/_staging/vietnam/hai-yen-2026-grab-explain-fare-commission.pdf": {
+      "size": 1111106,
+      "mtime_ns": 1790526822893856768
+    },
+    "04_references/_staging/vietnam/adcostly-nd-facebook-ads-cost-vietnam.pdf": {
+      "size": 807028,
+      "mtime_ns": 1790527171345721878
+    },
+    "04_references/_staging/vietnam/tuoi-tre-2026-mordor-xanh-sm-dan-dau-15-thang.pdf": {
+      "size": 1883600,
+      "mtime_ns": 1790526827391668398
+    },
+    "04_references/_staging/vietnam/vietjet-2024-green-journey-xanh-sm-airports.pdf": {
+      "size": 5882654,
+      "mtime_ns": 1790526834191611188
+    },
+    "04_references/_staging/vietnam/pham-2026-sau-grab-be-tang-gia-cuoc.pdf": {
+      "size": 12620867,
+      "mtime_ns": 1790527191768693683
+    },
+    "04_references/_staging/vietnam/genk-nd-thi-truong-ty-do-xanh-sm-cong-ty-da-quoc-gia.pdf": {
+      "size": 7696936,
+      "mtime_ns": 1790527323291727783
+    },
+    "04_references/_staging/vietnam/ngoc-linh-2026-1-cuoc-xe-be-grab-green-sm.pdf": {
+      "size": 7328165,
+      "mtime_ns": 1790527190710676532
+    },
+    "04_references/_staging/vietnam/vingroup-2025-xanh-sm-vinclub-lien-ket.pdf": {
+      "size": 10103684,
+      "mtime_ns": 1790526824962316272
+    },
+    "04_references/_staging/vietnam/snell-2024-vietnams-richest-man-grab.pdf": {
+      "size": 2683518,
+      "mtime_ns": 1790526909998491019
+    },
+    "04_references/_staging/vietnam/guarascio-nguyen-2026-gsm-us-eu-expansion-hong-kong-ipo.pdf": {
+      "size": 656237,
+      "mtime_ns": 1790527726089925200
+    },
+    "04_references/_staging/vietnam/iea-2026-global-ev-outlook-2026.pdf": {
+      "size": 20175354,
+      "mtime_ns": 1790527577949716353
+    },
+    "04_references/_staging/vietnam/q-and-me-nd-car-ride-hailing-usage-habits-2024.pdf": {
+      "size": 405286,
+      "mtime_ns": 1790526654036367276
+    },
+    "04_references/_staging/vietnam/ngo-nd-vietnams-digital-dynamics-q4-2025.pdf": {
+      "size": 7354171,
+      "mtime_ns": 1790526749526333237
+    },
+    "04_references/_staging/vietnam/kemp-2025-digital-2026-vietnam.pdf": {
+      "size": 1099647,
+      "mtime_ns": 1790526746297058338
+    },
+    "04_references/_staging/vietnam/minh-khanh-2025-grab-bac-so-lieu-thi-phan.pdf": {
+      "size": 794942,
+      "mtime_ns": 1790526823512759689
+    },
+    "04_references/_staging/vietnam/national-statistics-office-2026-statistical-summary-book-2025.pdf": {
+      "size": 11658276,
+      "mtime_ns": 1790527021220800895
+    },
+    "04_references/_staging/vietnam/tuoi-tre-news-2026-competition-authority-asks-grab.pdf": {
+      "size": 4628874,
+      "mtime_ns": 1790526825489682384
+    },
+    "04_references/_staging/vietnam/thuy-hanh-2026-cuc-dien-thi-truong-taxi.pdf": {
+      "size": 11343609,
+      "mtime_ns": 1790527402411868511
+    },
+    "02_research/market-analysis/india-evidence-pack.md": {
+      "size": 53957,
+      "mtime_ns": 1790532694818056331
+    },
+    "02_research/market-analysis/netherlands-evidence-pack.md": {
+      "size": 54725,
+      "mtime_ns": 1790532694813512335
+    },
+    "02_research/market-analysis/denmark-evidence-pack.md": {
+      "size": 64827,
+      "mtime_ns": 1790532694808261881
+    },
+    "02_research/market-analysis/vietnam-evidence-pack.md": {
+      "size": 58011,
+      "mtime_ns": 1790532694823363660
+    },
+    "02_research/perplexity/run-01-green-sm-market-screen.md": {
+      "size": 557,
+      "mtime_ns": 1790527351396157450
+    },
+    "02_research/perplexity/reconciliation-02-green-sm-marketing-activity.md": {
+      "size": 28340,
+      "mtime_ns": 1790532694804751801
+    },
+    "02_research/perplexity/prompt-02b-result.md": {
+      "size": 29768,
+      "mtime_ns": 1790527672647190402
+    },
+    "02_research/perplexity/prompt-01-result.md": {
+      "size": 62271,
+      "mtime_ns": 1790525901312634426
+    },
+    "02_research/perplexity/reconciliation-01-focus-market-screen.md": {
+      "size": 44978,
+      "mtime_ns": 1790533502182513898
+    },
+    "02_research/perplexity/prompt-01-green-sm-market-screen.md": {
+      "size": 5070,
+      "mtime_ns": 1790522786702742845
+    },
+    "02_research/perplexity/prompt-02-result.md": {
+      "size": 63813,
+      "mtime_ns": 1790526177472437008
+    },
+    "02_research/perplexity/prompt-02a-result.md": {
+      "size": 46212,
+      "mtime_ns": 1790527679809820805
+    },
+    "02_research/perplexity/prompt-02-green-sm-marketing-activity.md": {
+      "size": 3893,
+      "mtime_ns": 1790522786711019850
+    },
+    "02_research/perplexity/run-02-green-sm-marketing-activity.md": {
+      "size": 434,
+      "mtime_ns": 1790527351418793081
+    },
+    "02_research/marketing-plan/budget-kpi-scenarios.md": {
+      "size": 21851,
+      "mtime_ns": 1790596509922125456
+    },
+    "02_research/marketing-plan/module-rubric-evidence-map.md": {
+      "size": 23246,
+      "mtime_ns": 1790596509925057865
+    },
+    "02_research/marketing-plan/segment-positioning-options.md": {
+      "size": 35094,
+      "mtime_ns": 1790596509928031024
+    },
+    "02_research/marketing-plan/age-segmentation-options-2026-10-03.md": {
+      "size": 5017,
+      "mtime_ns": 1791002860516385961
+    },
+    "02_research/marketing-plan/budget-scenario-results.json": {
+      "size": 43908,
+      "mtime_ns": 1790562044932709963
+    },
+    "02_research/marketing-plan/age-segmentation-calculation-2026-10-03.json": {
+      "size": 3219,
+      "mtime_ns": 1791002650532681642
+    },
+    "02_research/marketing-plan/integrated-plan-copenhagen.md": {
+      "size": 29966,
+      "mtime_ns": 1791002860517862204
+    },
+    "02_research/marketing-plan/budget-scenario-inputs.json": {
+      "size": 5517,
+      "mtime_ns": 1790562040942639985
+    },
+    "02_research/business-selection/market-selection-results.json": {
+      "size": 69259,
+      "mtime_ns": 1790530957974532039
+    },
+    "02_research/business-selection/green-sm-suitability-audit.md": {
+      "size": 9031,
+      "mtime_ns": 1790526441415589679
+    },
+    "02_research/business-selection/focus-market-selection.md": {
+      "size": 20624,
+      "mtime_ns": 1790561925376110460
+    },
+    "02_research/business-selection/market-selection-inputs.json": {
+      "size": 1826,
+      "mtime_ns": 1790530879511427252
+    },
+    "02_research/business-selection/market-source-index.json": {
+      "size": 192886,
+      "mtime_ns": 1790996048999984275
+    },
+    "02_research/business-dossier/green-sm-company-dossier.md": {
+      "size": 41327,
+      "mtime_ns": 1791020159674441304
+    },
+    "00_brief_and_criteria/source/mark1286-module-handbook-2026-27.docx": {
+      "size": 284870,
+      "mtime_ns": 1789735724174210548
+    },
+    "00_brief_and_criteria/source/ou-cite-them-right-harvard-quick-guide.pdf": {
+      "size": 388740,
+      "mtime_ns": 1790479378910941097
+    },
+    "00_brief_and_criteria/source/mark1286-assessment-1-brief.docx": {
+      "size": 19875,
+      "mtime_ns": 1788230804000000000
+    },
+    "00_brief_and_criteria/source/mark1286-assessment-1-brief.txt": {
+      "size": 4528,
+      "mtime_ns": 1790490683019029367
+    },
+    "00_brief_and_criteria/source/greenwich-referencing-generative-ai-2026.pdf": {
+      "size": 200738,
+      "mtime_ns": 1790479363016430126
+    },
+    "00_brief_and_criteria/source/newcastle-cite-them-right-harvard-style-sheet-2025.pdf": {
+      "size": 260872,
+      "mtime_ns": 1790479363111354002
+    },
+    "00_brief_and_criteria/source/mark1286-assessment-1-brief.pdf": {
+      "size": 209312,
+      "mtime_ns": 1790416025630682939
+    },
+    "00_brief_and_criteria/source/cccu-cite-them-right-harvard-guide-2025.pdf": {
+      "size": 293556,
+      "mtime_ns": 1790479363045850726
+    },
+    "00_brief_and_criteria/source/greenwich-library-referencing-libguide.pdf": {
+      "size": 420717,
+      "mtime_ns": 1790479370906898655
+    },
+    "00_brief_and_criteria/source/worcester-cite-them-right-13th-edn-short-guide-2025.pdf": {
+      "size": 312942,
+      "mtime_ns": 1790479363142043917
+    },
+    "00_brief_and_criteria/source/mark1286-module-handbook-2026-27.pdf": {
+      "size": 479293,
+      "mtime_ns": 1790416022015166773
+    },
+    "00_brief_and_criteria/source/cumbria-cite-them-right-quick-guide-2025.pdf": {
+      "size": 321273,
+      "mtime_ns": 1790479363074016635
+    },
+    "00_brief_and_criteria/source/sheffield-harvard-referencing-guide-2023.pdf": {
+      "size": 629200,
+      "mtime_ns": 1790479363169281380
+    },
+    "00_brief_and_criteria/source/mark1286-module-handbook-2026-27.txt": {
+      "size": 32528,
+      "mtime_ns": 1790490682844367776
+    },
+    "00_brief_and_criteria/source/exemplars/sample-poster-1-zara.jpg": {
+      "size": 264583,
+      "mtime_ns": 1790415973562251091
+    },
+    "00_brief_and_criteria/source/exemplars/sample-poster-4-travel-cubs.jpg": {
+      "size": 313806,
+      "mtime_ns": 1790415973562742948
+    },
+    "00_brief_and_criteria/source/exemplars/sample-poster-5-spotify.jpg": {
+      "size": 317167,
+      "mtime_ns": 1790415973562980890
+    },
+    "00_brief_and_criteria/source/exemplars/sample-poster-3-forte-series.jpg": {
+      "size": 239775,
+      "mtime_ns": 1790415973562522888
+    },
+    "00_brief_and_criteria/source/exemplars/w04-tesla-mini-case.pdf": {
+      "size": 455023,
+      "mtime_ns": 1790416037990652254
+    },
+    "00_brief_and_criteria/source/exemplars/sample-poster-2-tinder.jpg": {
+      "size": 325799,
+      "mtime_ns": 1790415973562393903
+    },
+    "06_workflow/checklists/submission-checklist.md": {
+      "size": 2867,
+      "mtime_ns": 1790491552747509981
+    },
+    "06_workflow/checklists/draft-review-checklist.md": {
+      "size": 3743,
+      "mtime_ns": 1790491552740345863,
+      "sha256": "df8091549f69468f34e19f4162cda1facbf01611fffa6499edeed14ee707079e"
+    },
+    "06_workflow/scripts/analyse_market_selection.py": {
+      "size": 6886,
+      "mtime_ns": 1790530947117707424
+    },
+    "06_workflow/scripts/comet_capture.mjs": {
+      "size": 6826,
+      "mtime_ns": 1790527307969129127
+    },
+    "06_workflow/scripts/model_marketing_scenarios.py": {
+      "size": 9582,
+      "mtime_ns": 1790562040944688233
+    },
+    "06_workflow/scripts/wordcount.py": {
+      "size": 8876,
+      "mtime_ns": 1790491296228227573
+    },
+    "06_workflow/scripts/save_web_pdf.py": {
+      "size": 20814,
+      "mtime_ns": 1790522647136818898
+    },
+    "06_workflow/scripts/test_refs_pdf_identity.py": {
+      "size": 14757,
+      "mtime_ns": 1790532181194224624
+    },
+    "06_workflow/scripts/check_register_quotes.py": {
+      "size": 8848,
+      "mtime_ns": 1790491342932677552
+    },
+    "06_workflow/scripts/comet_cdp_shim.py": {
+      "size": 2532,
+      "mtime_ns": 1790491160867239669
+    },
+    "06_workflow/scripts/make_concept_list.py": {
+      "size": 2636,
+      "mtime_ns": 1790491363253785121
+    },
+    "06_workflow/scripts/extract_materials.py": {
+      "size": 17723,
+      "mtime_ns": 1790491213588115716
+    },
+    "06_workflow/scripts/refs.py": {
+      "size": 81333,
+      "mtime_ns": 1790532132734494355
+    },
+    "06_workflow/writing-skill/speakers.txt": {
+      "size": 48,
+      "mtime_ns": 1790491809633742577
+    },
+    "06_workflow/writing-skill/mba-presentation-style-notes.md": {
+      "size": 5938,
+      "mtime_ns": 1790495468589497829
+    },
+    "06_workflow/writing-skill/smoke-results.md": {
+      "size": 5483,
+      "mtime_ns": 1790496115727034800
+    },
+    "06_workflow/writing-skill/protection-report.json": {
+      "size": 542,
+      "mtime_ns": 1790496009016373330
+    },
+    "09_feedback/formative/lecturer-guidance-log.md": {
+      "size": 3216,
+      "mtime_ns": 1791013229256595431
+    }
+  },
+  "backed_up_controls": [
+    "AGENTS.md",
+    "HANDOFF.md",
+    "05_plans/master-plan.md",
+    "06_workflow/workflow.md",
+    "06_workflow/checklists/draft-review-checklist.md",
+    "01_context/decision-log.md"
+  ],
+  "snapshot_paths": {
+    "AGENTS.md": "agent-instructions-before.md",
+    "HANDOFF.md": "HANDOFF.md",
+    "05_plans/master-plan.md": "05_plans/master-plan.md",
+    "06_workflow/workflow.md": "06_workflow/workflow.md",
+    "06_workflow/checklists/draft-review-checklist.md": "06_workflow/checklists/draft-review-checklist.md",
+    "01_context/decision-log.md": "01_context/decision-log.md"
+  },
+  "validation": {
+    "result": "PASS_WITH_CONCURRENT_UPDATES",
+    "errors": [],
+    "unchanged_archive_file_hashes": 442,
+    "observed_concurrent_changes": [
+      {
+        "path": "00_brief_and_criteria/requirements-matrix.md",
+        "before": {
+          "size": 39119,
+          "mtime_ns": 1791047601143777447
+        },
+        "observed_size": 39203,
+        "observed_sha256": "fd46bc6876a664740c9e19ce25ebb093a99527e367c9cb649ff3b328ccb671d6",
+        "action": "Preserved concurrent modification; cleanup does not write this file. Author/process unknown."
+      },
+      {
+        "path": "01_context/open-questions.md",
+        "before": {
+          "size": 13181,
+          "mtime_ns": 1791047601143056198
+        },
+        "observed_size": 13315,
+        "observed_sha256": "427ce364d37e1381db3bf63a6e94d967fd9cf0f363f1e345602c7f60cd6a1cf4",
+        "action": "Preserved concurrent modification; cleanup does not write this file. Author/process unknown."
+      },
+      {
+        "path": "07_drafts/.DS_Store",
+        "before": {
+          "size": 6148,
+          "mtime_ns": 1791042658568130343,
+          "sha256": "ebce12ee6748762ffd567bf6264cb15adad291ff324c02579ff1da2260f30293"
+        },
+        "observed_size": 6148,
+        "observed_sha256": "13c705a86e9e511165ab8c55692b6d4c5e163296c19c84ca781fd986be2f2692",
+        "action": "Preserved concurrent modification; cleanup does not write this file. Author/process unknown."
+      },
+      {
+        "path": "07_drafts/design/panel-04-brand-first-content-v02-2026-10-04.md",
+        "before": {
+          "size": 2566,
+          "mtime_ns": 1791047656644819569,
+          "sha256": "5a6f977e13a3ba517fff6a76633b6c1124e0c7511c4653d6b9b20c228c059470"
+        },
+        "observed_size": 2764,
+        "observed_sha256": "1302516fe3b84d01bbf7e6a8eea4d6a4bc8a25673ccbff323a7c2bab2b9dac70",
+        "action": "Preserved concurrent modification; cleanup does not write this file. Author/process unknown."
+      },
+      {
+        "path": "07_drafts/design/panel-review-and-approval-log-2026-10-03.md",
+        "before": {
+          "size": 34181,
+          "mtime_ns": 1791047601145758943,
+          "sha256": "19e5d8c1855bd7ddbb3353b40fa16ebf0ca86169f38af7fa18575b6942c59f96"
+        },
+        "observed_size": 34229,
+        "observed_sha256": "5a3ca88f3ca1fb57ad8db109e8b53ef864888003a574f08079b0eadd94e1c548",
+        "action": "Preserved concurrent modification; cleanup does not write this file. Author/process unknown."
+      },
+      {
+        "path": "01_context/decision-log.md",
+        "action": "D-078 was appended by cleanup. Concurrent D-077 clarification preserved; all entries before D-077 remain unchanged. Original snapshot retained."
+      }
+    ],
+    "startup_words_before": 27827,
+    "startup_words_after_including_readme": 879,
+    "notes": "All originals remain at old compatibility paths. Cleanup modifies only named controls and adds working shortcuts/search scope. Concurrent content/record updates were preserved, not reverted. Active links, SVG parsing and renderer directory depth checked; renderers were not run."
+  }
+}

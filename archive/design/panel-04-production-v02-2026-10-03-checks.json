@@ -1,0 +1,16 @@
+{
+  "authority": "D-055/LG-004",
+  "checks": {
+    "all 11 retained objects unchanged": true,
+    "citation object removed": true,
+    "no source/footer substitute": true,
+    "all glyph advances within panel": true,
+    "official logo bytes preserved": true,
+    "generated illustration bytes preserved": true,
+    "internal source mappings retained": true,
+    "exact handwriting glyphs kept": true
+  },
+  "all_pass": true,
+  "visible_citations": false,
+  "physical_A0_tested": false
+}

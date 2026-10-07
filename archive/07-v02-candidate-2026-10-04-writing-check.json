@@ -1,0 +1,196 @@
+{
+  "exit_code": 2,
+  "result": {
+    "version": "1.0.0",
+    "genre": {
+      "mode": "poster",
+      "budget": {
+        "total": "600000",
+        "allocated": "600000",
+        "share_total": "100.00"
+      },
+      "kpi_rows": 0,
+      "sections": [
+        {
+          "heading": "7. Budget & Resources",
+          "words": 263,
+          "budget": 270
+        }
+      ],
+      "total_words": 263,
+      "speakers": {},
+      "errors": [
+        "Expected exactly one <!-- kpi-table --> marker; found 0"
+      ]
+    },
+    "base": {
+      "version": "2.0.0",
+      "total_words": 267,
+      "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+      "limit": {},
+      "sections": [
+        {
+          "name": "7. Budget & Resources",
+          "words": 267,
+          "budget": null,
+          "is_refs": false,
+          "first_person": 0
+        }
+      ],
+      "references": {
+        "citations": 0,
+        "entries": 0,
+        "hard": [],
+        "review": [],
+        "keys": []
+      },
+      "figures": {
+        "figures": 0,
+        "tables": 0,
+        "caption_words": 0,
+        "hard": [],
+        "review": []
+      },
+      "template_echo": {},
+      "anti_slop": {
+        "status": "ran",
+        "context": "general",
+        "source_mode": "rendered-markdown",
+        "score": 0,
+        "label": "Clean",
+        "hard": [],
+        "review": [],
+        "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+      },
+      "module_scope": {
+        "named": {},
+        "outside": []
+      },
+      "hard_stops": 5,
+      "hard_by_category": {
+        "integrity": 0,
+        "grammar": 5,
+        "style": 0,
+        "referencing": 0,
+        "figures": 0,
+        "anti_slop": 0,
+        "word_limit": 0,
+        "module_scope": 0
+      },
+      "findings": {
+        "ai_fingerprints": [],
+        "placeholders": [],
+        "numeric_markers": [],
+        "bypass_chars": [],
+        "speculation": [],
+        "vague_attribution": [],
+        "dashes": [],
+        "semicolons": [],
+        "banned": [],
+        "reflective_cliches": [],
+        "banned_soft": [],
+        "banned_in_quotation": [],
+        "banned_allowed": [],
+        "us_spelling": [],
+        "hedges": [],
+        "hedge_stacks": [],
+        "universals": [],
+        "mechanical_transitions": [],
+        "stance_openers": [],
+        "cleft_openers": [],
+        "double_connectives": [],
+        "duplicated_phrases": [],
+        "verbless_sentences": [
+          "Stages (DKK): M1\u20132 101,000 \u00b7 M3\u20134 76,000 \u00b7 M5\u20136 88,000 \u00b7 M7\u20139 183,695 \u00b7 M10\u201312 110,500.",
+          "Stage total 559,195 + 40,805 separate contingency = 600,000."
+        ],
+        "label_colons": [
+          "People: 460 company hours at assumed DKK600/hour: research/analytics 60 \u00b7 creative/localisation 120 \u00b7 campaign",
+          "Stages (DKK): M1\u20132 101,000 \u00b7 M3\u20134 76,000 \u00b7 M5\u20136 88,000 \u00b7 M7\u20139 183,695 \u00b7 M10\u201312 110,500.",
+          "Exposure: 177,000 to Gate A \u00b7 265,000 to Gate B. <!-- A2 -->\n\nGate A \u00b7 M4: completed/accepted \u226595% \u00b7 service c",
+          "Gate B \u00b7 M6: continue if mature-cohort 90-day repeat \u226520% and paid cost/first rider \u2264DKK1,829 \u00b7 \u226535% repeat re",
+          "Otherwise stop scale-up.\n\nIllustrative assumptions: 378 first riders \u00b7 ~676 rides \u00b7 DKK227 fare proxy \u00b7 30% co"
+        ],
+        "comma_splices": [],
+        "sentence_count": 11,
+        "sentence_mean": 27.5,
+        "sentence_min": 6,
+        "sentence_max": 141,
+        "short_sentences": 5,
+        "long_sentences": 3,
+        "uniform_sentence_runs": [],
+        "paragraph_count": 9,
+        "paragraph_lengths": [
+          13,
+          105,
+          23,
+          23,
+          10,
+          38,
+          38,
+          24,
+          29
+        ],
+        "uniform_paragraphs": [],
+        "repeated_openings": [],
+        "colons_total": 22,
+        "colons_per_100w": 7.26,
+        "colons_per_paragraph": [
+          1,
+          13,
+          1,
+          2,
+          1,
+          2,
+          1,
+          0,
+          1
+        ],
+        "colon_heavy_paragraphs": [
+          2
+        ],
+        "colon_quota_rhythm": false,
+        "colon_absent": false
+      }
+    },
+    "effective_base_hard_by_category": {
+      "integrity": 0,
+      "grammar": 0,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "genre_review": [
+      {
+        "type": "label_colon",
+        "text": "People: 460 company hours at assumed DKK600/hour: research/analytics 60 \u00b7 creative/localisation 120 \u00b7 campaign",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      },
+      {
+        "type": "label_colon",
+        "text": "Stages (DKK): M1\u20132 101,000 \u00b7 M3\u20134 76,000 \u00b7 M5\u20136 88,000 \u00b7 M7\u20139 183,695 \u00b7 M10\u201312 110,500.",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      },
+      {
+        "type": "label_colon",
+        "text": "Exposure: 177,000 to Gate A \u00b7 265,000 to Gate B. <!-- A2 -->\n\nGate A \u00b7 M4: completed/accepted \u226595% \u00b7 service c",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      },
+      {
+        "type": "label_colon",
+        "text": "Gate B \u00b7 M6: continue if mature-cohort 90-day repeat \u226520% and paid cost/first rider \u2264DKK1,829 \u00b7 \u226535% repeat re",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      },
+      {
+        "type": "label_colon",
+        "text": "Otherwise stop scale-up.\n\nIllustrative assumptions: 378 first riders \u00b7 ~676 rides \u00b7 DKK227 fare proxy \u00b7 30% co",
+        "why": "Poster label fragments are permitted; review meaning and clarity"
+      }
+    ],
+    "hard_stops": 1,
+    "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+  }
+}

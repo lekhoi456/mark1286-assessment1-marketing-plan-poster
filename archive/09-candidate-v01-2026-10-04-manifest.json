@@ -1,0 +1,702 @@
+{
+  "section": 9,
+  "heading": "9. Ride Innovation",
+  "status": "Candidate awaiting parent review; no new group approval claimed",
+  "canvas": {
+    "width": 1800,
+    "height": 1700,
+    "physical_a0_verified": false
+  },
+  "text_objects": [
+    {
+      "id": "s9-text-00",
+      "text": "9. Ride Innovation",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 76,
+      "role": "heading",
+      "lines": [
+        {
+          "text": "9. Ride Innovation",
+          "bbox": [
+            74.332,
+            45.984,
+            588.3294999999999,
+            111.648
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-01",
+      "text": "Proposed repeat reminder",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 48,
+      "role": "proposal qualifier",
+      "lines": [
+        {
+          "text": "Proposed repeat reminder",
+          "bbox": [
+            71.728,
+            156.92000000000002,
+            527.872,
+            207.464
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-02",
+      "text": "Illustrative message:",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 32,
+      "role": "specimen qualifier",
+      "lines": [
+        {
+          "text": "Illustrative message:",
+          "bbox": [
+            71.32,
+            220.4,
+            312.56,
+            257.44
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-03",
+      "text": "“Your usual Thursday ride. Pre-book it now.”",
+      "kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_size": 32,
+      "role": "illustrative reminder",
+      "lines": [
+        {
+          "text": "“Your usual",
+          "bbox": [
+            283.32,
+            414.4,
+            435.48,
+            443.72
+          ]
+        },
+        {
+          "text": "Thursday",
+          "bbox": [
+            283.4,
+            455.67999999999995,
+            410.40000000000003,
+            492.47999999999996
+          ]
+        },
+        {
+          "text": "ride.",
+          "bbox": [
+            283.8,
+            497.03999999999996,
+            340.48,
+            525.04
+          ]
+        },
+        {
+          "text": "Pre-book it",
+          "bbox": [
+            284.0,
+            536.52,
+            436.88,
+            567.24
+          ]
+        },
+        {
+          "text": "now.”",
+          "bbox": [
+            284.0,
+            579.24,
+            358.52,
+            607.0400000000001
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-04",
+      "text": "Personalisation:",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 43,
+      "role": "display",
+      "lines": [
+        {
+          "text": "Personalisation:",
+          "bbox": [
+            891.548,
+            217.095,
+            1140.3316666666665,
+            255.064
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-05",
+      "text": "consent",
+      "kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_size": 40,
+      "role": "proposed reminder mechanism",
+      "lines": [
+        {
+          "text": "consent",
+          "bbox": [
+            890.75,
+            301.65,
+            1025.55,
+            331.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-06",
+      "text": "rider’s own trip history",
+      "kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_size": 40,
+      "role": "proposed reminder mechanism",
+      "lines": [
+        {
+          "text": "rider’s own trip history",
+          "bbox": [
+            891.0,
+            386.9,
+            1267.95,
+            434.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-07",
+      "text": "relevant reminder",
+      "kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_size": 40,
+      "role": "proposed reminder mechanism",
+      "lines": [
+        {
+          "text": "relevant reminder",
+          "bbox": [
+            891.0,
+            477.5,
+            1183.85,
+            514.15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-08",
+      "text": "intended repeat ride",
+      "kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_size": 40,
+      "role": "proposed reminder mechanism",
+      "lines": [
+        {
+          "text": "intended repeat ride",
+          "bbox": [
+            890.75,
+            569.4,
+            1223.0500000000002,
+            616.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-09",
+      "text": "Uses the rider’s own trip history. No purchased profiles.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 34,
+      "role": "data limit",
+      "lines": [
+        {
+          "text": "Uses the rider’s own trip history. No purchased profiles.",
+          "bbox": [
+            891.4875,
+            658.655,
+            1604.68,
+            700.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-10",
+      "text": "Existing advertised feature: pre-booking up to 30 days.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 40,
+      "role": "E-016 advertised feature",
+      "lines": [
+        {
+          "text": "Existing advertised feature: pre-booking up to 30 days.",
+          "bbox": [
+            71.5,
+            829.35,
+            923.25,
+            877.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-11",
+      "text": "Proposed joined journey",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 47,
+      "role": "proposal qualifier",
+      "lines": [
+        {
+          "text": "Proposed joined journey",
+          "bbox": [
+            71.692,
+            933.755,
+            475.5424375,
+            983.246
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-12",
+      "text": "One trip reference:",
+      "kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_size": 41,
+      "role": "display",
+      "lines": [
+        {
+          "text": "One trip reference:",
+          "bbox": [
+            735.64125,
+            978.945,
+            1063.7949999999998,
+            1027.94
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-13",
+      "text": "local info page",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 34,
+      "role": "proposed journey touchpoint",
+      "lines": [
+        {
+          "text": "local info page",
+          "bbox": [
+            98.94375,
+            1130.675,
+            281.26874999999995,
+            1171.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-14",
+      "text": "app",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 34,
+      "role": "proposed journey touchpoint",
+      "lines": [
+        {
+          "text": "app",
+          "bbox": [
+            523.51625,
+            1139.3875,
+            566.48375,
+            1171.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-15",
+      "text": "in-car help card",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 34,
+      "role": "proposed journey touchpoint",
+      "lines": [
+        {
+          "text": "in-car help card",
+          "bbox": [
+            801.1025,
+            1130.675,
+            999.11,
+            1171.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-16",
+      "text": "follow-up",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 34,
+      "role": "proposed journey touchpoint",
+      "lines": [
+        {
+          "text": "follow-up",
+          "bbox": [
+            1198.02875,
+            1130.675,
+            1312.31125,
+            1171.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-17",
+      "text": "help.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 34,
+      "role": "proposed journey touchpoint",
+      "lines": [
+        {
+          "text": "help.",
+          "bbox": [
+            1583.6925,
+            1130.675,
+            1636.18,
+            1171.56
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-18",
+      "text": "Intended benefit: less repetition when resolving a trip problem.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 36,
+      "role": "intended benefit",
+      "lines": [
+        {
+          "text": "Intended benefit: less repetition when resolving a trip problem.",
+          "bbox": [
+            71.485,
+            1208.95,
+            905.695,
+            1252.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-19",
+      "text": "Both proposals need local implementation. Supports O3: repeat rides.",
+      "kind": "strong",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 1,
+      "font_size": 38,
+      "role": "implementation qualifier and objective",
+      "lines": [
+        {
+          "text": "Both proposals need local implementation. Supports O3: repeat rides.",
+          "bbox": [
+            71.1875,
+            1262.0825,
+            1182.0225,
+            1307.92
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-20",
+      "text": "Proposed usage model and limits",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 45,
+      "role": "proposed model",
+      "lines": [
+        {
+          "text": "Proposed usage model and limits",
+          "bbox": [
+            71.62,
+            1369.425,
+            603.43,
+            1416.81
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-21",
+      "text": "Pay per trip: usage-based charging.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 36,
+      "role": "display",
+      "lines": [
+        {
+          "text": "Pay per trip: usage-based charging.",
+          "bbox": [
+            71.35,
+            1429.905,
+            550.1500000000001,
+            1473.24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-22",
+      "text": "Subscription:",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 39,
+      "role": "innovation boundary",
+      "lines": [
+        {
+          "text": "Subscription:",
+          "bbox": [
+            70.351,
+            1491.942,
+            254.92499999999998,
+            1532.502
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-23",
+      "text": "defer until frequent repeat is demonstrated.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 34,
+      "role": "reason and condition",
+      "lines": [
+        {
+          "text": "defer until frequent repeat is",
+          "bbox": [
+            71.0625,
+            1543.675,
+            437.58250000000004,
+            1584.56
+          ]
+        },
+        {
+          "text": "demonstrated.",
+          "bbox": [
+            71.0625,
+            1587.535,
+            252.75000000000003,
+            1618.3475
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-24",
+      "text": "AI chatbot:",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 39,
+      "role": "innovation boundary",
+      "lines": [
+        {
+          "text": "AI chatbot:",
+          "bbox": [
+            648.053,
+            1491.591,
+            809.695,
+            1525.716
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-25",
+      "text": "defer until a reliable human FAQ exists.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 34,
+      "role": "reason and condition",
+      "lines": [
+        {
+          "text": "defer until a reliable human FAQ",
+          "bbox": [
+            648.0625,
+            1543.675,
+            1057.5500000000002,
+            1578.6525
+          ]
+        },
+        {
+          "text": "exists.",
+          "bbox": [
+            648.0625,
+            1591.5725,
+            730.895,
+            1619.1975
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-26",
+      "text": "Neuromarketing:",
+      "kind": "heading",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_collection_index": 0,
+      "font_size": 39,
+      "role": "innovation boundary",
+      "lines": [
+        {
+          "text": "Neuromarketing:",
+          "bbox": [
+            1221.716,
+            1491.786,
+            1464.205,
+            1531.210125
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9-text-27",
+      "text": "not selected. Ordinary surveys test clarity.",
+      "kind": "body",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_collection_index": 0,
+      "font_size": 34,
+      "role": "reason and condition",
+      "lines": [
+        {
+          "text": "not selected. Ordinary surveys test",
+          "bbox": [
+            1221.0625,
+            1543.675,
+            1678.7024999999999,
+            1583.3275
+          ]
+        },
+        {
+          "text": "clarity.",
+          "bbox": [
+            1221.0625,
+            1587.195,
+            1305.68,
+            1626.8475
+          ]
+        }
+      ]
+    }
+  ],
+  "copy_file": "09-copy-v01-2026-10-04.md",
+  "typography": {
+    "explicit_font_files": {
+      "heading": [
+        "/System/Library/Fonts/MarkerFelt.ttc",
+        0,
+        "Marker Felt",
+        400
+      ],
+      "body": [
+        "/System/Library/Fonts/Noteworthy.ttc",
+        0,
+        "Noteworthy",
+        400
+      ],
+      "strong": [
+        "/System/Library/Fonts/Noteworthy.ttc",
+        1,
+        "Noteworthy",
+        700
+      ]
+    },
+    "portable_outlines": true,
+    "native_editable_companion": true,
+    "font_files_redistributed": false
+  },
+  "art": {
+    "file": "09-candidate-v01-2026-10-04-art.png",
+    "sha256": "af145a164b5bdde2eb227b19f7b8d08ee6e12fdf255baa2bda122ce70a6df882",
+    "native_bytes_retained": true,
+    "x": 70,
+    "y": 255,
+    "width": 720,
+    "height": 596,
+    "tool": "built-in image_gen__imagegen"
+  },
+  "source_mapping": {
+    "E-016": {
+      "key": "green-sm-denmark-aps-ndb",
+      "file": "../04_references/green-sm-denmark-aps-ndb-green-sm-car.pdf",
+      "page": 3,
+      "sha256": "eb6fd110419430e9ce53ae84c5131fc747163eab4a2678df4902784c9cd06b5b",
+      "claim": "Existing advertised pre-booking up to 30 days; not a tested fulfilment guarantee"
+    }
+  },
+  "concepts": [
+    "personalisation",
+    "omnichannel",
+    "artificial-intelligence",
+    "usage-based-model",
+    "subscription-model",
+    "subscription-challenges",
+    "neuromarketing"
+  ],
+  "proposal_limits": [
+    "Consent and rider’s own trip history only; no purchased profiles",
+    "Reminder and joined journey need local implementation",
+    "Pay-per-trip model proposed; subscription and chatbot deferred",
+    "Neuromarketing not selected; ordinary clarity surveys"
+  ],
+  "alignment": {
+    "O3": "Repeat rides; effect remains intended, not observed",
+    "S5": "Consented follow-up",
+    "S6": "After-sales and local help",
+    "S8": "90-day repeat cohort and clarity measures",
+    "S10": "Repeat-led growth with service integrity"
+  }
+}

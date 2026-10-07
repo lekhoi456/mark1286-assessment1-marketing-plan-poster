@@ -1,0 +1,168 @@
+{
+  "version": "1.0.0",
+  "genre": {
+    "mode": "poster",
+    "budget": {},
+    "kpi_rows": 11,
+    "sections": [
+      {
+        "heading": "8. Success Dashboard",
+        "words": 283,
+        "budget": 380
+      }
+    ],
+    "total_words": 283,
+    "speakers": {},
+    "errors": [
+      "Expected exactly one <!-- budget-table --> marker; found 0"
+    ]
+  },
+  "base": {
+    "version": "2.0.0",
+    "total_words": 287,
+    "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+    "limit": {},
+    "sections": [
+      {
+        "name": "8. Success Dashboard",
+        "words": 287,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      }
+    ],
+    "references": {
+      "citations": 0,
+      "entries": 0,
+      "hard": [],
+      "review": [],
+      "keys": []
+    },
+    "figures": {
+      "figures": 0,
+      "tables": 0,
+      "caption_words": 0,
+      "hard": [],
+      "review": []
+    },
+    "template_echo": {},
+    "anti_slop": {
+      "status": "ran",
+      "context": "general",
+      "source_mode": "rendered-markdown",
+      "score": 1,
+      "label": "Minimal AI signals",
+      "hard": [],
+      "review": [
+        {
+          "type": "formatting",
+          "text": "5 bold phrases",
+          "severity": "medium",
+          "suggestion": "Strip bold from most; restructure to lead with key info",
+          "why": "review (stylometric, wordiness or house-overridden)"
+        }
+      ],
+      "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+    },
+    "module_scope": {
+      "named": {},
+      "outside": []
+    },
+    "hard_stops": 2,
+    "hard_by_category": {
+      "integrity": 0,
+      "grammar": 2,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "findings": {
+      "ai_fingerprints": [],
+      "placeholders": [],
+      "numeric_markers": [],
+      "bypass_chars": [],
+      "speculation": [],
+      "vague_attribution": [],
+      "dashes": [],
+      "semicolons": [],
+      "banned": [],
+      "reflective_cliches": [],
+      "banned_soft": [],
+      "banned_in_quotation": [],
+      "banned_allowed": [],
+      "us_spelling": [],
+      "hedges": [],
+      "hedge_stacks": [],
+      "universals": [],
+      "mechanical_transitions": [],
+      "stance_openers": [],
+      "cleft_openers": [],
+      "double_connectives": [],
+      "duplicated_phrases": [],
+      "verbless_sentences": [],
+      "label_colons": [
+        "Gate A / M4: completion ≥95%, service cancellations ≤2%, referenced complaints answered within 24h ≥90%, searc",
+        "Gate B / M6: mature-cohort 90-day repeat ≥20% and paid cost per first rider ≤DKK1,829 → continue."
+      ],
+      "comma_splices": [],
+      "sentence_count": 11,
+      "sentence_mean": 26.9,
+      "sentence_min": 4,
+      "sentence_max": 197,
+      "short_sentences": 7,
+      "long_sentences": 1,
+      "uniform_sentence_runs": [],
+      "paragraph_count": 6,
+      "paragraph_lengths": [
+        19,
+        166,
+        33,
+        38,
+        27,
+        23
+      ],
+      "uniform_paragraphs": [],
+      "repeated_openings": [],
+      "colons_total": 1,
+      "colons_per_100w": 0.33,
+      "colons_per_paragraph": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "colon_heavy_paragraphs": [],
+      "colon_quota_rhythm": false,
+      "colon_absent": false
+    }
+  },
+  "effective_base_hard_by_category": {
+    "integrity": 0,
+    "grammar": 0,
+    "style": 0,
+    "referencing": 0,
+    "figures": 0,
+    "anti_slop": 0,
+    "word_limit": 0,
+    "module_scope": 0
+  },
+  "genre_review": [
+    {
+      "type": "label_colon",
+      "text": "Gate A / M4: completion ≥95%, service cancellations ≤2%, referenced complaints answered within 24h ≥90%, searc",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    },
+    {
+      "type": "label_colon",
+      "text": "Gate B / M6: mature-cohort 90-day repeat ≥20% and paid cost per first rider ≤DKK1,829 → continue.",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    }
+  ],
+  "hard_stops": 1,
+  "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+}

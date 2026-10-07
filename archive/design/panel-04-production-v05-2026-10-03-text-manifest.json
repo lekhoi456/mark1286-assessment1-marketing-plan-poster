@@ -1,0 +1,537 @@
+{
+  "panel": 4,
+  "authority": "D-074",
+  "size": [
+    1800,
+    1280
+  ],
+  "master": "07_drafts/design/panel-04-selected-content-and-visual-v03-2026-10-03.md",
+  "text_objects": [
+    {
+      "text": "4. Brand & Promise",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 77,
+      "lines": [
+        {
+          "text": "4. Brand & Promise",
+          "x": 77,
+          "baseline": 128.0,
+          "advance": 556.71
+        }
+      ]
+    },
+    {
+      "text": "GLOBAL IDENTITY",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 43,
+      "lines": [
+        {
+          "text": "GLOBAL IDENTITY",
+          "x": 90,
+          "baseline": 237.0,
+          "advance": 291.54
+        }
+      ]
+    },
+    {
+      "text": "APP-CHOICE CUES",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 43,
+      "lines": [
+        {
+          "text": "APP-CHOICE CUES",
+          "x": 625,
+          "baseline": 237.0,
+          "advance": 286.38
+        }
+      ]
+    },
+    {
+      "text": "Teal / cyan \u00b7 Yellow-gold",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 34,
+      "lines": [
+        {
+          "text": "Teal / cyan \u00b7 Yellow-gold",
+          "x": 90,
+          "baseline": 529.0,
+          "advance": 322.7
+        }
+      ]
+    },
+    {
+      "text": "One brand across markets.",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 38,
+      "lines": [
+        {
+          "text": "One brand across markets.",
+          "x": 90,
+          "baseline": 602.0,
+          "advance": 395.2
+        }
+      ]
+    },
+    {
+      "text": "57% \u00b7 Lower price",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 35,
+      "lines": [
+        {
+          "text": "57% \u00b7 Lower price",
+          "x": 743,
+          "baseline": 336,
+          "advance": 251.56
+        }
+      ]
+    },
+    {
+      "text": "22% \u00b7 App used from habit",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 35,
+      "lines": [
+        {
+          "text": "22% \u00b7 App used from habit",
+          "x": 1288,
+          "baseline": 336,
+          "advance": 365.88
+        }
+      ]
+    },
+    {
+      "text": "18% \u00b7 Easier app to use",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 35,
+      "lines": [
+        {
+          "text": "18% \u00b7 Easier app to use",
+          "x": 743,
+          "baseline": 492,
+          "advance": 315.04
+        }
+      ]
+    },
+    {
+      "text": "11% \u00b7 Reassurance from trip visibility",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 35,
+      "lines": [
+        {
+          "text": "11% \u00b7 Reassurance from trip",
+          "x": 1288,
+          "baseline": 492,
+          "advance": 369.21
+        },
+        {
+          "text": "visibility",
+          "x": 1288,
+          "baseline": 540,
+          "advance": 104.17
+        }
+      ]
+    },
+    {
+      "text": "Capital Region app-choice sample \u00b7 n = 79 \u00b7 multiple responses",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 31,
+      "lines": [
+        {
+          "text": "Capital Region app-choice sample \u00b7 n = 79 \u00b7 multiple responses",
+          "x": 625,
+          "baseline": 627.0,
+          "advance": 731.37
+        }
+      ]
+    },
+    {
+      "text": "CAMPAIGN RESPONSE",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 42,
+      "lines": [
+        {
+          "text": "CAMPAIGN RESPONSE",
+          "x": 90,
+          "baseline": 724.0,
+          "advance": 363.3
+        }
+      ]
+    },
+    {
+      "text": "Keep the identity. Make the local promise easy to judge.",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 37,
+      "lines": [
+        {
+          "text": "Keep the identity. Make the local promise easy to judge.",
+          "x": 625,
+          "baseline": 722,
+          "advance": 779.91
+        }
+      ]
+    },
+    {
+      "text": "PROPOSED PROMISE \u00b7 TEST WITH TARGET RIDERS",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 34,
+      "lines": [
+        {
+          "text": "PROPOSED PROMISE \u00b7 TEST WITH TARGET RIDERS",
+          "x": 90,
+          "baseline": 820.0,
+          "advance": 653.14
+        }
+      ]
+    },
+    {
+      "text": "Clear terms. Local care.",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 73,
+      "lines": [
+        {
+          "text": "Clear terms. Local care.",
+          "x": 583.1800000000001,
+          "baseline": 931.0,
+          "advance": 633.64
+        }
+      ]
+    },
+    {
+      "text": "Trip control and fair treatment: appeal to test.",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 37,
+      "lines": [
+        {
+          "text": "Trip control and fair treatment: appeal to test.",
+          "x": 575.2325000000001,
+          "baseline": 989.0,
+          "advance": 649.53
+        }
+      ]
+    },
+    {
+      "text": "Danish first \u00b7 English second",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 32,
+      "lines": [
+        {
+          "text": "Danish first \u00b7 English second",
+          "x": 90,
+          "baseline": 1107,
+          "advance": 346.8
+        }
+      ]
+    },
+    {
+      "text": "Clear terms. Local care.",
+      "role": "touchpoint-repeat",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 17,
+      "lines": [
+        {
+          "text": "Clear terms.",
+          "x": 621,
+          "baseline": 1073,
+          "advance": 76.84
+        },
+        {
+          "text": "Local care.",
+          "x": 621,
+          "baseline": 1095,
+          "advance": 66.47
+        }
+      ]
+    },
+    {
+      "text": "Clear terms. Local care.",
+      "role": "touchpoint-repeat",
+      "font_file": "/System/Library/Fonts/MarkerFelt.ttc",
+      "font_size": 16,
+      "lines": [
+        {
+          "text": "Clear terms.",
+          "x": 1119,
+          "baseline": 1078,
+          "advance": 72.32
+        },
+        {
+          "text": "Local care.",
+          "x": 1119,
+          "baseline": 1105,
+          "advance": 62.56
+        }
+      ]
+    },
+    {
+      "text": "One promise in the ad \u2192 Green SM app",
+      "role": "master",
+      "font_file": "/System/Library/Fonts/Noteworthy.ttc",
+      "font_size": 33,
+      "lines": [
+        {
+          "text": "One promise in the ad \u2192 Green SM app",
+          "x": 644.4768750000001,
+          "baseline": 1216.0,
+          "advance": 511.05
+        }
+      ]
+    }
+  ],
+  "cue_boxes": [
+    {
+      "text": "57% \u00b7 Lower price",
+      "x": 625,
+      "y": 284,
+      "width": 530,
+      "height": 132
+    },
+    {
+      "text": "22% \u00b7 App used from habit",
+      "x": 1170,
+      "y": 284,
+      "width": 530,
+      "height": 132
+    },
+    {
+      "text": "18% \u00b7 Easier app to use",
+      "x": 625,
+      "y": 440,
+      "width": 530,
+      "height": 132
+    },
+    {
+      "text": "11% \u00b7 Reassurance from trip visibility",
+      "x": 1170,
+      "y": 440,
+      "width": 530,
+      "height": 132
+    }
+  ],
+  "sprite_placements": [
+    {
+      "name": "cyan-swatch",
+      "crop": [
+        515,
+        178,
+        550,
+        146
+      ],
+      "target": [
+        90,
+        428,
+        215,
+        55
+      ]
+    },
+    {
+      "name": "yellow-swatch",
+      "crop": [
+        515,
+        332,
+        560,
+        154
+      ],
+      "target": [
+        324,
+        428,
+        215,
+        55
+      ]
+    },
+    {
+      "name": "price",
+      "crop": [
+        45,
+        70,
+        445,
+        405
+      ],
+      "target": [
+        639,
+        307,
+        86,
+        86
+      ]
+    },
+    {
+      "name": "habit",
+      "crop": [
+        560,
+        55,
+        455,
+        425
+      ],
+      "target": [
+        1184,
+        307,
+        86,
+        86
+      ]
+    },
+    {
+      "name": "ease",
+      "crop": [
+        1120,
+        55,
+        390,
+        425
+      ],
+      "target": [
+        639,
+        463,
+        86,
+        86
+      ]
+    },
+    {
+      "name": "visibility",
+      "crop": [
+        40,
+        525,
+        470,
+        430
+      ],
+      "target": [
+        1184,
+        463,
+        86,
+        86
+      ]
+    },
+    {
+      "name": "small-denmark-signal",
+      "crop": [
+        1116,
+        93,
+        416,
+        440
+      ],
+      "target": [
+        1605,
+        672,
+        78,
+        83
+      ]
+    },
+    {
+      "name": "promise-marker-ribbon",
+      "crop": [
+        530,
+        685,
+        610,
+        185
+      ],
+      "target": [
+        80,
+        842,
+        1630,
+        121
+      ]
+    },
+    {
+      "name": "proposed-ad",
+      "crop": [
+        540,
+        570,
+        465,
+        390
+      ],
+      "target": [
+        550,
+        996,
+        245,
+        184
+      ]
+    },
+    {
+      "name": "generic-app-touchpoint",
+      "crop": [
+        1090,
+        500,
+        410,
+        490
+      ],
+      "target": [
+        1070,
+        992,
+        160,
+        191
+      ]
+    }
+  ],
+  "official_logo": "07_drafts/design/panel-01-production-v01-2026-10-03-logo.png",
+  "logo_sha256": "6a33a503aa903020e5dd8228634b78c2cc1492431969295bd7ae00f7655f44d0",
+  "art_source_file": "07_drafts/design/panel-04-production-v04-2026-10-03-generated-art-corrected.png",
+  "art_sha256": "cea4b82c5d2197f5497a10ccc4a468c2100bebbc6cb0edab50d7ccfcec3cd8d2",
+  "retained_art_file": "07_drafts/design/panel-04-production-v01-2026-10-03-generated-art.png",
+  "retained_art_sha256": "fa94fd37d8d556dbeea383e4213e515641b266ac12b3af837f03d0d331a906fa",
+  "font_glyphs_are_paths": true,
+  "fonts_embedded": false,
+  "controlled_arrow_symbol": "U+2192 rendered as a pen path",
+  "internal_source_mapping": {
+    "E-010": {
+      "key": "green-sm-2026f",
+      "locator": "PDF p. 1"
+    },
+    "E-185": {
+      "key": "green-sm-denmark-aps-ndc",
+      "locator": "PDF p. 1"
+    },
+    "E-024": {
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "locator": "PDF pp. 150\u2013151"
+    },
+    "E-187": {
+      "key": "konkurrence-og-forbrugerstyrelsen-2026b",
+      "locator": "PDF pp. 150\u2013151"
+    }
+  },
+  "cue_basis": "Capital Region app-choice sample; n = 79; multiple responses; separate non-cumulative reasons",
+  "touchpoints": "Illustrative proposed expression; no new app capabilities or executed creative claimed",
+  "display_policy": "poster-citation-display-policy-v01-2026-10-03.md",
+  "visible_citations": false,
+  "visual_authority": "Student-directed shared hand-drawn Green SM logo revision; D-074 content retained.",
+  "display_logo": "07_drafts/design/green-sm-hand-drawn-logo-v01-2026-10-03.png",
+  "display_logo_sha256": "36a99749e3cc9585573fedda5fb1dbcf6a76483872cadc2d0f6651ec95430db9",
+  "logo_treatment": "Shared hand-drawn rendition; original corporate raster retained as provenance only.",
+  "logo_boxes": [
+    {
+      "role": "main",
+      "x": 90,
+      "y": 294,
+      "width": 465,
+      "height": 98
+    },
+    {
+      "role": "proposed-ad",
+      "x": 603,
+      "y": 1024,
+      "width": 142,
+      "height": 27
+    },
+    {
+      "role": "generic-app",
+      "x": 1111,
+      "y": 1035,
+      "width": 83,
+      "height": 18
+    }
+  ],
+  "baseline": "07_drafts/design/panel-04-production-v04-2026-10-03.svg",
+  "reused_writing_gate": "07_drafts/design/panel-04-production-v04-2026-10-03-writing-check.json"
+}

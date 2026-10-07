@@ -1,0 +1,917 @@
+{
+  "checks": [
+    {
+      "check": "Exact section heading and budget",
+      "pass": true,
+      "detail": "Required numbered display heading and 270-word panel budget"
+    },
+    {
+      "check": "Exact financial table schema",
+      "pass": true,
+      "detail": [
+        "Item",
+        "Amount",
+        "Share (%)",
+        "Basis"
+      ]
+    },
+    {
+      "check": "All eleven approved allocation rows present",
+      "pass": true,
+      "detail": "11 rows; [('Research and service checks', '36000', '6.00'), ('Creative and translation', '72000', '12.00'), ('Campaign management', '96000', '16.00'), ('CRM and help-route handover', '72000', '12.00'), ('Paid search', '108000', '18.00'), ('Paid social', '90000', '15.00'), ('Street screens', '38200', '6.37'), ('Screen setup', '4995', '0.83'), ('Analytics and CRM tools', '30000', '5.00'), ('First-ride vouchers', '12000', '2.00'), ('Contingency', '40805', '6.80')]"
+    },
+    {
+      "check": "Allocation amounts sum exactly to DKK600,000",
+      "pass": true,
+      "detail": "600000 = table total 600000"
+    },
+    {
+      "check": "Shares sum exactly to 100.00%",
+      "pass": true,
+      "detail": "100.00 = table total 100.00"
+    },
+    {
+      "check": "Each rounded share matches its allocation",
+      "pass": true,
+      "detail": "Shares are independently recalculated from each DKK amount"
+    },
+    {
+      "check": "Sourced screen costs reconcile to planned volume",
+      "pass": true,
+      "detail": "200,000 planned impressions / 1,000 \u00d7 published DKK191 CPM + DKK4,995 setup = DKK43,195"
+    },
+    {
+      "check": "People role hours and costs reconcile",
+      "pass": true,
+      "detail": "60 / 120 / 160 / 120 hours at assumed DKK600 per hour"
+    },
+    {
+      "check": "Five stage releases plus separate contingency equal total",
+      "pass": true,
+      "detail": "[Decimal('101000'), Decimal('76000'), Decimal('88000'), Decimal('183695'), Decimal('110500')]; stage sum 559195 + 40805 = 600000"
+    },
+    {
+      "check": "Pre-gate cumulative exposure reconciles",
+      "pass": true,
+      "detail": "Gate A 177000; Gate B 265000"
+    },
+    {
+      "check": "Illustrative negative economics reproduce",
+      "pass": true,
+      "detail": "675.7 rides yield DKK46015.170; unrecovered DKK553984.830; break-even 8811 rides"
+    },
+    {
+      "check": "Required numbered title is first visible text",
+      "pass": true,
+      "detail": "7. Budget & Resources"
+    },
+    {
+      "check": "All line amounts and shares appear on the visual",
+      "pass": true,
+      "detail": "All allocation amounts and percentages are present in controlled display strings"
+    },
+    {
+      "check": "Panel 5/6/8 interfaces and exclusions appear",
+      "pass": true,
+      "detail": "Search/social, capped vouchers, CRM/help route, exclusions, both gates and post-Gate-B screen stage"
+    },
+    {
+      "check": "No source or decision IDs appear on the poster face",
+      "pass": true,
+      "detail": "IDs remain internal in copy comments and provenance"
+    },
+    {
+      "check": "Screen basis explicitly avoids supplier-quote implication",
+      "pass": true,
+      "detail": "Published rate-card basis; internal evidence ID E-029"
+    },
+    {
+      "check": "Screen formula explicitly divides impressions by 1,000",
+      "pass": true,
+      "detail": "Visible formula distinguishes planned impression volume from sourced CPM"
+    },
+    {
+      "check": "Total, title and percentage sum are explicit on the visual",
+      "pass": true,
+      "detail": "Exact display title with section number, total and total share"
+    },
+    {
+      "check": "SVG is self-contained",
+      "pass": true,
+      "detail": "Shared logo is embedded; no linked project assets"
+    },
+    {
+      "check": "Exact shared-logo asset is embedded unchanged",
+      "pass": true,
+      "detail": "36a99749e3cc9585573fedda5fb1dbcf6a76483872cadc2d0f6651ec95430db9"
+    },
+    {
+      "check": "Visual plan uses native vector layout and the exact supplied logo",
+      "pass": true,
+      "detail": "Section 5 header, subtitle, shared lockup and three allocation cards; Section 6 five-stage process cards, paired gate cards and native line illustrations."
+    },
+    {
+      "check": "SVG contains vector glyph paths, not font-dependent text nodes",
+      "pass": true,
+      "detail": "All lettering is outlined with local CoreText glyph paths"
+    },
+    {
+      "check": "Visible SVG groups match the manifest",
+      "pass": true,
+      "detail": "81 controlled text groups"
+    },
+    {
+      "check": "All glyph bounds remain within the panel frame",
+      "pass": true,
+      "detail": "Glyph bounds compared with conservative interior safe area"
+    },
+    {
+      "check": "No glyph-block collisions",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "Full PNG dimensions",
+      "pass": true,
+      "detail": "(1800, 1540)"
+    },
+    {
+      "check": "Small proof dimensions",
+      "pass": true,
+      "detail": "(900, 770)"
+    },
+    {
+      "check": "Existing writing gate: no hard stops beyond expected standalone KPI omission",
+      "pass": true,
+      "detail": "263/270 words; detector 0; exit 2; ['Expected exactly one <!-- kpi-table --> marker; found 0']; label review 5"
+    }
+  ],
+  "passed": 28,
+  "total": 28,
+  "writing_gate_exit": 2,
+  "writing_gate_words": 263,
+  "writing_gate_expected_standalone_error": [
+    "Expected exactly one <!-- kpi-table --> marker; found 0"
+  ],
+  "writing_gate_label_reviews": [
+    {
+      "type": "label_colon",
+      "text": "People: 460 company hours at assumed DKK600/hour: research/analytics 60 \u00b7 creative/localisation 120 \u00b7 campaign",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    },
+    {
+      "type": "label_colon",
+      "text": "Stages (DKK): M1\u20132 101,000 \u00b7 M3\u20134 76,000 \u00b7 M5\u20136 88,000 \u00b7 M7\u20139 183,695 \u00b7 M10\u201312 110,500.",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    },
+    {
+      "type": "label_colon",
+      "text": "Exposure: 177,000 to Gate A \u00b7 265,000 to Gate B. <!-- A2 -->\n\nGate A \u00b7 M4: completed/accepted \u226595% \u00b7 service c",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    },
+    {
+      "type": "label_colon",
+      "text": "Gate B \u00b7 M6: continue if mature-cohort 90-day repeat \u226520% and paid cost/first rider \u2264DKK1,829 \u00b7 \u226535% repeat re",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    },
+    {
+      "type": "label_colon",
+      "text": "Otherwise stop scale-up.\n\nIllustrative assumptions: 378 first riders \u00b7 ~676 rides \u00b7 DKK227 fare proxy \u00b7 30% co",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    }
+  ],
+  "text_bounds": [
+    [
+      "7. Budget & Resources",
+      [
+        82.169,
+        55.96,
+        659.428,
+        124.572
+      ]
+    ],
+    [
+      "Market-entry envelope \u00b7 12 months \u00b7 excluding VAT",
+      [
+        83.094,
+        143.812,
+        558.406,
+        174.5
+      ]
+    ],
+    [
+      "TOTAL PROPOSED INVESTMENT",
+      [
+        108.24,
+        230.96,
+        402.192,
+        252.176
+      ]
+    ],
+    [
+      "DKK600,000",
+      [
+        110.296,
+        253.912,
+        390.24,
+        307.338
+      ]
+    ],
+    [
+      "12 months \u00b7 excl. VAT \u00b7 line items are proposed",
+      [
+        616.25,
+        252.812,
+        1046.219,
+        283.5
+      ]
+    ],
+    [
+      "Allocation shares \u00b7 100.00%",
+      [
+        615.54,
+        288.38,
+        841.88,
+        305.96
+      ]
+    ],
+    [
+      "PEOPLE \u00b7 460 COMPANY HOURS",
+      [
+        99.792,
+        379.63,
+        374.902,
+        399.078
+      ]
+    ],
+    [
+      "Assumed DKK600 per hour",
+      [
+        100.225,
+        413.34,
+        297.37,
+        435.12
+      ]
+    ],
+    [
+      "Research / service checks \u00b7 60h",
+      [
+        100.225,
+        461.43,
+        325.54,
+        478.327
+      ]
+    ],
+    [
+      "DKK36,000",
+      [
+        100.82,
+        487.54,
+        189.8,
+        506.621
+      ]
+    ],
+    [
+      "6.00%",
+      [
+        506.675,
+        488.61,
+        559.977,
+        504.652
+      ]
+    ],
+    [
+      "Creative / translation \u00b7 120h",
+      [
+        100.45,
+        520.385,
+        292.668,
+        536.967
+      ]
+    ],
+    [
+      "DKK72,000",
+      [
+        100.82,
+        546.518,
+        192.22,
+        565.621
+      ]
+    ],
+    [
+      "12.00%",
+      [
+        506.9,
+        547.79,
+        563.533,
+        563.518
+      ]
+    ],
+    [
+      "Campaign management \u00b7 160h",
+      [
+        100.45,
+        579.385,
+        304.322,
+        601.12
+      ]
+    ],
+    [
+      "DKK96,000",
+      [
+        100.82,
+        605.54,
+        189.8,
+        624.621
+      ]
+    ],
+    [
+      "16.00%",
+      [
+        506.9,
+        606.61,
+        563.847,
+        622.653
+      ]
+    ],
+    [
+      "CRM / help-route handover \u00b7 120h",
+      [
+        100.45,
+        638.385,
+        335.597,
+        660.12
+      ]
+    ],
+    [
+      "DKK72,000",
+      [
+        100.82,
+        664.518,
+        192.22,
+        683.621
+      ]
+    ],
+    [
+      "12.00%",
+      [
+        506.9,
+        665.79,
+        563.533,
+        681.518
+      ]
+    ],
+    [
+      "CHANNELS \u00b7 PROPOSED ENVELOPES",
+      [
+        655.44,
+        379.63,
+        954.684,
+        399.056
+      ]
+    ],
+    [
+      "Paid reach + gated screen spend",
+      [
+        656.675,
+        413.452,
+        880.032,
+        435.12
+      ]
+    ],
+    [
+      "Paid search",
+      [
+        656.675,
+        461.452,
+        735.538,
+        477.967
+      ]
+    ],
+    [
+      "DKK108,000",
+      [
+        656.82,
+        487.54,
+        754.58,
+        506.621
+      ]
+    ],
+    [
+      "18.00%",
+      [
+        1062.9,
+        488.745,
+        1119.757,
+        504.382
+      ]
+    ],
+    [
+      "Paid social",
+      [
+        656.675,
+        520.452,
+        729.237,
+        536.967
+      ]
+    ],
+    [
+      "DKK90,000",
+      [
+        656.82,
+        546.54,
+        745.88,
+        565.621
+      ]
+    ],
+    [
+      "15.00%",
+      [
+        1062.9,
+        547.79,
+        1119.915,
+        563.45
+      ]
+    ],
+    [
+      "Street screens \u00b7 after Gate B",
+      [
+        656.45,
+        579.43,
+        852.133,
+        595.967
+      ]
+    ],
+    [
+      "DKK38,200",
+      [
+        656.82,
+        605.54,
+        747.36,
+        624.621
+      ]
+    ],
+    [
+      "6.37%",
+      [
+        1062.675,
+        606.408,
+        1114.29,
+        622.878
+      ]
+    ],
+    [
+      "Screen setup \u00b7 rate card",
+      [
+        656.45,
+        638.475,
+        816.92,
+        660.12
+      ]
+    ],
+    [
+      "DKK4,995",
+      [
+        656.82,
+        664.48,
+        733.28,
+        683.621
+      ]
+    ],
+    [
+      "0.83%",
+      [
+        1062.45,
+        665.408,
+        1116.225,
+        681.383
+      ]
+    ],
+    [
+      "TOOLS \u00b7 CUSTOMER TRIAL \u00b7 RESERVE",
+      [
+        1211.22,
+        379.913,
+        1533.52,
+        399.078
+      ]
+    ],
+    [
+      "Ring-fenced operating assumptions",
+      [
+        1212.225,
+        413.452,
+        1449.645,
+        435.12
+      ]
+    ],
+    [
+      "Analytics / CRM tools \u00b7 monthly",
+      [
+        1212.225,
+        461.385,
+        1432.255,
+        482.467
+      ]
+    ],
+    [
+      "DKK30,000",
+      [
+        1212.82,
+        487.54,
+        1301.88,
+        506.621
+      ]
+    ],
+    [
+      "5.00%",
+      [
+        1618.45,
+        488.812,
+        1672.045,
+        504.45
+      ]
+    ],
+    [
+      "First-ride vouchers \u00b7 cap 400 \u00d7 DKK30",
+      [
+        1212.27,
+        520.34,
+        1498.29,
+        542.12
+      ]
+    ],
+    [
+      "DKK12,000",
+      [
+        1212.82,
+        546.54,
+        1301.54,
+        565.621
+      ]
+    ],
+    [
+      "2.00%",
+      [
+        1618.45,
+        547.812,
+        1671.662,
+        563.518
+      ]
+    ],
+    [
+      "Contingency \u00b7 separate, uncommitted",
+      [
+        1212.45,
+        579.385,
+        1457.992,
+        601.12
+      ]
+    ],
+    [
+      "DKK40,805",
+      [
+        1212.82,
+        605.48,
+        1301.12,
+        624.621
+      ]
+    ],
+    [
+      "6.80%",
+      [
+        1618.675,
+        606.61,
+        1671.46,
+        622.653
+      ]
+    ],
+    [
+      "200,000 planned impressions \u00f7 1,000 \u00d7 DKK191 CPM = DKK38,200",
+      [
+        657.35,
+        697.82,
+        1057.382,
+        714.76
+      ]
+    ],
+    [
+      "Screens: published 2026 rate-card estimate \u00b7 setup DKK4,995 \u00b7 not a supplier quote",
+      [
+        657.3,
+        725.56,
+        1046.925,
+        740.08
+      ]
+    ],
+    [
+      "EXCLUDED OPERATING COSTS \u00b7 CARS \u00b7 DRIVERS \u00b7 CHARGING \u00b7 FRONTLINE SUPPORT",
+      [
+        100.72,
+        765.64,
+        612.0,
+        779.768
+      ]
+    ],
+    [
+      "STAGED CASH RELEASE",
+      [
+        80.27,
+        817.04,
+        350.09,
+        843.44
+      ]
+    ],
+    [
+      "Contingency stays outside the five stages",
+      [
+        485.5,
+        822.65,
+        795.425,
+        846.075
+      ]
+    ],
+    [
+      "M1\u20132",
+      [
+        95.056,
+        893.026,
+        147.68,
+        912.078
+      ]
+    ],
+    [
+      "DKK101,000",
+      [
+        94.861,
+        925.717,
+        197.614,
+        945.752
+      ]
+    ],
+    [
+      "Build",
+      [
+        94.375,
+        953.062,
+        121.506,
+        966.525
+      ]
+    ],
+    [
+      "M3\u20134",
+      [
+        430.056,
+        892.828,
+        484.928,
+        912.078
+      ]
+    ],
+    [
+      "DKK76,000",
+      [
+        429.861,
+        925.693,
+        523.941,
+        945.752
+      ]
+    ],
+    [
+      "Gate A test",
+      [
+        429.375,
+        953.025,
+        493.631,
+        966.806
+      ]
+    ],
+    [
+      "M5\u20136",
+      [
+        765.056,
+        893.004,
+        819.154,
+        912.168
+      ]
+    ],
+    [
+      "DKK88,000",
+      [
+        764.861,
+        925.717,
+        857.702,
+        945.752
+      ]
+    ],
+    [
+      "Review",
+      [
+        764.188,
+        953.044,
+        804.8,
+        966.225
+      ]
+    ],
+    [
+      "M7\u20139",
+      [
+        1100.056,
+        892.869,
+        1153.956,
+        912.078
+      ]
+    ],
+    [
+      "DKK183,695",
+      [
+        1099.861,
+        925.717,
+        1201.9,
+        945.752
+      ]
+    ],
+    [
+      "Gate B scale",
+      [
+        1099.375,
+        953.025,
+        1171.431,
+        966.806
+      ]
+    ],
+    [
+      "M10\u201312",
+      [
+        1435.056,
+        893.026,
+        1512.76,
+        912.078
+      ]
+    ],
+    [
+      "DKK110,500",
+      [
+        1434.861,
+        925.717,
+        1539.462,
+        945.752
+      ]
+    ],
+    [
+      "Refine",
+      [
+        1434.188,
+        953.044,
+        1470.375,
+        966.375
+      ]
+    ],
+    [
+      "Stage cash DKK559,195 + separate uncommitted DKK40,805 = DKK600,000",
+      [
+        82.189,
+        988.549,
+        715.78,
+        1010.578
+      ]
+    ],
+    [
+      "Committed before Gate A \u00b7 DKK177,000",
+      [
+        1090.475,
+        989.47,
+        1386.257,
+        1010.038
+      ]
+    ],
+    [
+      "Gate A \u00b7 M4",
+      [
+        102.52,
+        1029.524,
+        227.792,
+        1052.274
+      ]
+    ],
+    [
+      "Completed/accepted \u226595% \u00b7 service cancellations \u22642%",
+      [
+        104.425,
+        1069.253,
+        463.826,
+        1089.78
+      ]
+    ],
+    [
+      "Referenced complaints answered within 24h \u226590%",
+      [
+        104.213,
+        1096.316,
+        439.134,
+        1116.78
+      ]
+    ],
+    [
+      "Search \u22651.5% \u00b7 social \u22650.8% \u00b7 agree minimum volume with operations",
+      [
+        104.4,
+        1124.2,
+        520.54,
+        1143.44
+      ]
+    ],
+    [
+      "Fail: hold, fix, retest \u00b7 pass releases M5\u20136",
+      [
+        104.76,
+        1146.64,
+        368.16,
+        1163.488
+      ]
+    ],
+    [
+      "Gate B \u00b7 M6",
+      [
+        946.52,
+        1029.732,
+        1065.834,
+        1052.274
+      ]
+    ],
+    [
+      "Mature 90-day repeat \u226520% \u00b7 paid cost / first rider \u2264DKK1,829",
+      [
+        948.7,
+        1070.08,
+        1347.88,
+        1089.44
+      ]
+    ],
+    [
+      "Continue if both thresholds pass",
+      [
+        948.425,
+        1096.253,
+        1149.726,
+        1116.78
+      ]
+    ],
+    [
+      "Repeat \u226535% releases screens \u00b7 otherwise stop scale-up",
+      [
+        948.425,
+        1129.873,
+        1326.777,
+        1147.706
+      ]
+    ],
+    [
+      "ILLUSTRATIVE ECONOMICS \u00b7 ASSUMPTIONS, NOT OBSERVED COMPANY SPENDING",
+      [
+        106.621,
+        1215.795,
+        848.003,
+        1238.014
+      ]
+    ],
+    [
+      "378 first riders \u00b7 about 676 rides \u00b7 DKK227 fare proxy \u00b7 assumed 30% contribution",
+      [
+        108.55,
+        1256.86,
+        830.178,
+        1283.48
+      ]
+    ],
+    [
+      "About DKK554,000 unrecovered \u00b7 break-even requires 8,811 rides",
+      [
+        108.756,
+        1296.872,
+        842.3,
+        1326.104
+      ]
+    ],
+    [
+      "Year-one market entry is not self-funding in this illustrative case.",
+      [
+        108.475,
+        1344.565,
+        564.095,
+        1366.771
+      ]
+    ],
+    [
+      "Plan assumptions \u00b7 impressions earn no ride/conversion credit \u00b7 no lifetime value claimed",
+      [
+        108.638,
+        1385.316,
+        666.854,
+        1405.78
+      ]
+    ]
+  ],
+  "text_collision_count": 0,
+  "full_png_sha256": "e7a4a7a6018c2b40ee051d7ba0e7cbf2858eac9195f73375aa4daa68c074248a",
+  "limits": "Full image was visually inspected; standalone gate omits the whole-poster KPI table. A0 assembly and print proof remain untested."
+}

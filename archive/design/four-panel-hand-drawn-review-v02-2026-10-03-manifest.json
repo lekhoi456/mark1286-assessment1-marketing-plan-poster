@@ -1,0 +1,58 @@
+[
+  {
+    "panel": "1 \u00b7 Meet Green SM",
+    "source": "panel-01-production-v03-2026-10-03.png",
+    "source_size": [
+      2400,
+      1680
+    ],
+    "display_box": [
+      45,
+      260,
+      1430.0,
+      1001.0
+    ]
+  },
+  {
+    "panel": "2 \u00b7 Target Market",
+    "source": "panel-02-production-v05-2026-10-03.png",
+    "source_size": [
+      1800,
+      1360
+    ],
+    "display_box": [
+      1515,
+      260,
+      1430.0,
+      1080.4444444444443
+    ]
+  },
+  {
+    "panel": "3 \u00b7 Why Green SM?",
+    "source": "panel-03-production-v03-2026-10-03.png",
+    "source_size": [
+      1800,
+      1446
+    ],
+    "display_box": [
+      45,
+      1510,
+      1430.0,
+      1148.7666666666667
+    ]
+  },
+  {
+    "panel": "4 \u00b7 Brand & Promise",
+    "source": "panel-04-production-v02-2026-10-03.png",
+    "source_size": [
+      1800,
+      1180
+    ],
+    "display_box": [
+      1515,
+      1510,
+      1430.0,
+      937.4444444444443
+    ]
+  }
+]

@@ -1,0 +1,180 @@
+{
+  "version": "1.0.0",
+  "genre": {
+    "mode": "poster",
+    "budget": {},
+    "kpi_rows": 0,
+    "sections": [
+      {
+        "heading": "Branding and Identity",
+        "words": 92,
+        "budget": 120
+      }
+    ],
+    "total_words": 92,
+    "speakers": {},
+    "errors": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ]
+  },
+  "base": {
+    "version": "2.0.0",
+    "total_words": 92,
+    "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+    "limit": {},
+    "sections": [
+      {
+        "name": "Branding and Identity",
+        "words": 92,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      }
+    ],
+    "references": {
+      "citations": 0,
+      "entries": 0,
+      "hard": [],
+      "review": [],
+      "keys": []
+    },
+    "figures": {
+      "figures": 0,
+      "tables": 0,
+      "caption_words": 0,
+      "hard": [],
+      "review": []
+    },
+    "template_echo": {},
+    "anti_slop": {
+      "status": "ran",
+      "context": "general",
+      "source_mode": "rendered-markdown",
+      "score": 0,
+      "label": "Clean",
+      "hard": [],
+      "review": [],
+      "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+    },
+    "module_scope": {
+      "named": {},
+      "outside": []
+    },
+    "hard_stops": 1,
+    "hard_by_category": {
+      "integrity": 0,
+      "grammar": 1,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "findings": {
+      "ai_fingerprints": [],
+      "placeholders": [],
+      "numeric_markers": [],
+      "bypass_chars": [],
+      "speculation": [],
+      "vague_attribution": [],
+      "dashes": [],
+      "semicolons": [],
+      "banned": [],
+      "reflective_cliches": [],
+      "banned_soft": [],
+      "banned_in_quotation": [],
+      "banned_allowed": [],
+      "us_spelling": [],
+      "hedges": [],
+      "hedge_stacks": [],
+      "universals": [],
+      "mechanical_transitions": [],
+      "stance_openers": [],
+      "cleft_openers": [],
+      "double_connectives": [],
+      "duplicated_phrases": [],
+      "verbless_sentences": [
+        "Danish first \u00b7 English second\n\nOne promise in the ad \u2192 Green SM app\n\n\nClear terms."
+      ],
+      "label_colons": [
+        "Trip control and fair treatment: appeal to test."
+      ],
+      "comma_splices": [],
+      "sentence_count": 10,
+      "sentence_mean": 10.2,
+      "sentence_min": 2,
+      "sentence_max": 40,
+      "short_sentences": 7,
+      "long_sentences": 1,
+      "uniform_sentence_runs": [],
+      "paragraph_count": 15,
+      "paragraph_lengths": [
+        5,
+        4,
+        4,
+        6,
+        6,
+        6,
+        11,
+        10,
+        7,
+        4,
+        8,
+        5,
+        9,
+        4,
+        4
+      ],
+      "uniform_paragraphs": [],
+      "repeated_openings": [],
+      "colons_total": 1,
+      "colons_per_100w": 0.98,
+      "colons_per_paragraph": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "colon_heavy_paragraphs": [],
+      "colon_quota_rhythm": false,
+      "colon_absent": false
+    }
+  },
+  "effective_base_hard_by_category": {
+    "integrity": 0,
+    "grammar": 0,
+    "style": 0,
+    "referencing": 0,
+    "figures": 0,
+    "anti_slop": 0,
+    "word_limit": 0,
+    "module_scope": 0
+  },
+  "genre_review": [
+    {
+      "type": "label_colon",
+      "text": "Trip control and fair treatment: appeal to test.",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    }
+  ],
+  "hard_stops": 2,
+  "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually.",
+  "production_review": {
+    "scope": "Exact selected display strings plus both illustrative tagline repeats and canonical internal heading. Sources are recorded in the production manifest; citations are absent from the face under D-055.",
+    "exit_code": 2,
+    "initial_input_note": "Initial run had two style findings caused solely by semicolons in a non-visible provenance comment. The metadata was retained in the manifest, removed from display-copy Markdown, and this exact visible-text gate rerun. No checker or visible wording changed."
+  }
+}

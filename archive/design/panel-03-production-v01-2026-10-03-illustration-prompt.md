@@ -1,0 +1,25 @@
+# Panel 3 — executed illustration prompt and placement
+
+Date: 3 October 2026. Authority: D-048 and D-051; exact approved master `panel-03-selected-content-and-visual-v01-2026-10-03.md`. Built-in `image_gen__imagegen` executed; no CLI/API fallback.
+
+## Exact executed prompt
+
+Use case: illustration-story. Asset type: TEXT-FREE decorative illustration sheet for an approved MBA marketing-plan poster section, Why Green SM? Use the attached image only as a STYLE REFERENCE for navy pen outlines, coloured-pencil/marker cyan and small golden-yellow highlights. Generate a NEW illustration sheet, not a target-market person scene. Background genuinely transparent. Landscape high-resolution composition, ten clearly separated illustrated islands with generous transparent gutters and no objects touching. The focal island should be large in the CENTRE: one conceptual smartphone with a very large completely EMPTY light-cream screen and a cyan electric MPV taxi in three-quarter view in front of its lower edge; the taxi has a blank roof sign, no brand logo or letters, subtle yellow lightning symbol, hand-drawn navy details. Make this central phone-and-taxi island larger than the other islands and suitable for later exact lettering on the phone's blank screen. Two much smaller separate neutral-grey/navy app-phone-and-taxi islands flank it in the lower left and lower right; no letters, no brand logos, no inferiority or negative symbols. Along the UPPER LEFT, three separated small symbols: a cyan service-area/map outline with an unlettered yellow location pin; a simple analogue clock without numbers; a fare document/receipt with a yellow accent and only a few neutral straight lines, no currency marks. Along the UPPER RIGHT, two separate small symbols: a trip-reference ticket with no letters or ID; a local-help support headset, cyan/yellow. Along the BOTTOM CENTRE, below the focal island with clear gutters: a small cyan fleet of two taxi silhouettes, and a neutral friendly employed-driver bust wearing a simple shirt, no badge letters or uniform-brand claims. Exactly these ten islands. Keep each island disconnected and with clear transparent margins so a layout tool can place it independently. Crisp clean hand-drawn educational-poster style, slightly irregular navy ink strokes, visible pencil fill texture, friendly but restrained. Palette navy #173c4b, cyan/turquoise, off-white highlights and yellow. NO rendered text anywhere, no digits, letters, logo, rating, comparison score, chart, watermark, arrows or writing. No headings or labels. Phone screens must be blank. These are illustrative symbols of an approved PLAN, not screenshots or evidence of actual service quality. Exact copy, genuine logo and cited operator relationships are supplied later by controlled layout.
+
+## Tool inputs and saved result
+
+- `transparent_background: true`.
+- Reference image: `panel-02-production-v03-2026-10-03-generated-art.png`, viewed before the call and used only for style.
+- Original generated path: `/Users/KHOILQ/.codex/generated_images/01a10052-be76-7750-8e04-af9a43fd23fe/exec-9d919e86-1918-438a-b714-3249e4ab472f.png`.
+- Workspace original: `panel-03-production-v01-2026-10-03-generated-art.png`, copied byte-for-byte; 1536 × 1024, RGBA, genuine alpha channel.
+- Complete controlled-copy section: `panel-03-production-v01-2026-10-03.svg` and `.png`, 1800 × 1460.
+
+## Placement and invariants
+
+The SVG embeds the original image bytes once and uses isolated viewports to place the focal app/taxi, two rival-context app/taxis, five benefit symbols, fleet and driver. The generated neutral-grey app/taxi island is reused for both Uber and Bolt; the unused cyan counterpart in the sheet is not used because neutral grey better avoids brand/type implications. A clipping path excludes adjacent sprites from the focal viewport. This is layout composition; the original generated raster is unchanged.
+
+The authentic panel-1 logo PNG is embedded unchanged on the conceptual central phone. All other letters are editable SVG text objects from the approved master. The full sentence is a supporting strip; Proposed position appears once. Source model facts and their citation are visually separate from the approved Delivery plan. The optional earlier buyer caption and individual partner-name lists are excluded.
+
+The location/map symbol is generic and conveys a service-area topic, not actual Copenhagen coverage. The phone is conceptual, not a real app screenshot. The MPV is an illustrative taxi, not an established Danish fleet model. Two cars symbolise ownership without establishing fleet size. The driver is generic and establishes no real employee identity or uniform. Vehicle size conveys editorial focus, not service superiority or market share.
+
+Exact text positions, source key/PDF locator, artwork and logo hashes, viewport bounds and these interpretation limits are in `panel-03-production-v01-2026-10-03-text-manifest.json`. Full A0 integration and physical printing remain untested.

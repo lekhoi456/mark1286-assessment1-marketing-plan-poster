@@ -1,0 +1,238 @@
+{
+  "version": "1.0.0",
+  "genre": {
+    "mode": "poster",
+    "budget": {},
+    "kpi_rows": 0,
+    "sections": [
+      {
+        "heading": "10. Business Goals & Growth",
+        "words": 179,
+        "budget": 190
+      }
+    ],
+    "total_words": 179,
+    "speakers": {},
+    "errors": [
+      "Expected exactly one <!-- budget-table --> marker; found 0",
+      "Expected exactly one <!-- kpi-table --> marker; found 0"
+    ]
+  },
+  "base": {
+    "version": "2.0.0",
+    "total_words": 187,
+    "convention": "whitespace tokens; markdown stripped; references excluded; tables included; headings included",
+    "limit": {},
+    "sections": [
+      {
+        "name": "10. Business Goals & Growth",
+        "words": 34,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "1 · Focus O1",
+        "words": 30,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "2 · Digital route O1 → O2",
+        "words": 26,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "3 · Deliver O4 → retain O3",
+        "words": 16,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      },
+      {
+        "name": "4 · Earn growth O1 to O4",
+        "words": 81,
+        "budget": null,
+        "is_refs": false,
+        "first_person": 0
+      }
+    ],
+    "references": {
+      "citations": 0,
+      "entries": 0,
+      "hard": [],
+      "review": [],
+      "keys": []
+    },
+    "figures": {
+      "figures": 0,
+      "tables": 0,
+      "caption_words": 0,
+      "hard": [],
+      "review": []
+    },
+    "template_echo": {},
+    "anti_slop": {
+      "status": "ran",
+      "context": "general",
+      "source_mode": "rendered-markdown",
+      "score": 2,
+      "label": "Minimal AI signals",
+      "hard": [],
+      "review": [
+        {
+          "type": "formatting",
+          "text": "6 bold phrases",
+          "severity": "medium",
+          "suggestion": "Strip bold from most; restructure to lead with key info",
+          "why": "review (stylometric, wordiness or house-overridden)"
+        }
+      ],
+      "detector_dir": "/Users/KHOILQ/.claude/skills/avoid-ai-writing"
+    },
+    "module_scope": {
+      "named": {},
+      "outside": []
+    },
+    "hard_stops": 4,
+    "hard_by_category": {
+      "integrity": 0,
+      "grammar": 4,
+      "style": 0,
+      "referencing": 0,
+      "figures": 0,
+      "anti_slop": 0,
+      "word_limit": 0,
+      "module_scope": 0
+    },
+    "findings": {
+      "ai_fingerprints": [],
+      "placeholders": [],
+      "numeric_markers": [],
+      "bypass_chars": [],
+      "speculation": [],
+      "vague_attribution": [],
+      "dashes": [],
+      "semicolons": [],
+      "banned": [],
+      "reflective_cliches": [],
+      "banned_soft": [],
+      "banned_in_quotation": [],
+      "banned_allowed": [],
+      "us_spelling": [],
+      "hedges": [],
+      "hedge_stacks": [],
+      "universals": [],
+      "mechanical_transitions": [],
+      "stance_openers": [],
+      "cleft_openers": [],
+      "double_connectives": [],
+      "duplicated_phrases": [],
+      "verbless_sentences": [],
+      "label_colons": [
+        "Capital Region app-choice sample, n=79: lower price 57% · app habit 22% · wait/ease 18% each.",
+        "Promise: clear fares + local help.\n\n\n\nSearch/social → one local info page → Green SM app booking.",
+        "Target: 378 paid first riders, M1–12. <!-- D-034 -->\n\n\n\nExperience target: app, driver, car and support.",
+        "Conditional S9 proposals: consented marketing AI · separate dispatch pilot · connected support · bundle tests."
+      ],
+      "comma_splices": [],
+      "sentence_count": 13,
+      "sentence_mean": 15.3,
+      "sentence_min": 2,
+      "sentence_max": 33,
+      "short_sentences": 4,
+      "long_sentences": 1,
+      "uniform_sentence_runs": [
+        {
+          "at_sentence": 1,
+          "lengths": [
+            15,
+            19,
+            15
+          ]
+        }
+      ],
+      "paragraph_count": 16,
+      "paragraph_lengths": [
+        12,
+        10,
+        21,
+        6,
+        18,
+        6,
+        11,
+        15,
+        7,
+        6,
+        13,
+        20,
+        9,
+        23,
+        15,
+        7
+      ],
+      "uniform_paragraphs": [],
+      "repeated_openings": [],
+      "colons_total": 7,
+      "colons_per_100w": 3.52,
+      "colons_per_paragraph": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "colon_heavy_paragraphs": [],
+      "colon_quota_rhythm": false,
+      "colon_absent": false
+    }
+  },
+  "effective_base_hard_by_category": {
+    "integrity": 0,
+    "grammar": 0,
+    "style": 0,
+    "referencing": 0,
+    "figures": 0,
+    "anti_slop": 0,
+    "word_limit": 0,
+    "module_scope": 0
+  },
+  "genre_review": [
+    {
+      "type": "label_colon",
+      "text": "Capital Region app-choice sample, n=79: lower price 57% · app habit 22% · wait/ease 18% each.",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    },
+    {
+      "type": "label_colon",
+      "text": "Promise: clear fares + local help.\n\n\n\nSearch/social → one local info page → Green SM app booking.",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    },
+    {
+      "type": "label_colon",
+      "text": "Target: 378 paid first riders, M1–12. <!-- D-034 -->\n\n\n\nExperience target: app, driver, car and support.",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    },
+    {
+      "type": "label_colon",
+      "text": "Conditional S9 proposals: consented marketing AI · separate dispatch pilot · connected support · bundle tests.",
+      "why": "Poster label fragments are permitted; review meaning and clarity"
+    }
+  ],
+  "hard_stops": 2,
+  "limits": "Mechanical checks only. Review evidence, contribution truth, source locators, outside concepts, layout and rehearsal manually."
+}

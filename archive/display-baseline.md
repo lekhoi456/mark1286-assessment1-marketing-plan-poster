@@ -1,0 +1,1 @@
+../archive/design/approved-poster-display-copy-v02-2026-10-03.md

@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-03",
+  "authority": "D-061",
+  "visible_flag_count": 9,
+  "country_order": [
+    "Vietnam",
+    "Laos",
+    "Indonesia",
+    "Philippines",
+    "India",
+    "Kazakhstan",
+    "Denmark",
+    "Netherlands",
+    "United States"
+  ],
+  "previous_ordinary_strings_retained": 14,
+  "new_ordinary_string": "United States",
+  "ordinary_face_objects_now": 15,
+  "all_existing_wording_font_sizes_and_glyph_geometry_unchanged": true,
+  "existing_flag_geometry_and_denmark_four_sided_frame_unchanged": true,
+  "changes_confined_to_horizontal_row_placement_and_new_us_flag_label": true,
+  "us_flag_stripes": 13,
+  "us_flag_stars": 50,
+  "us_label_wrap": [
+    "United",
+    "States"
+  ],
+  "all_non_row_geometry_unchanged": true,
+  "authentic_green_sm_logo_unchanged": true,
+  "native_art_sha256": "00069599bfd5c0aafe5a03c8f0602ae91176eb10c497294219672de015874a79",
+  "native_art_bytes_and_vinfast_wordmark_unchanged": true,
+  "no_new_native_generation_or_raster_edit": true,
+  "two_dates_unchanged": {
+    "Vietnam": "14/04/2023",
+    "Denmark": "30/07/2026"
+  },
+  "existing_source_records_and_historical_september_evidence_unchanged": true,
+  "current_footprint_scope": "Selected country market/presence row; not nine verified completed commercial launches",
+  "us_launch_date_added": false,
+  "completed_us_paid_ride_claim_added": false,
+  "full_png_px": [
+    2400,
+    1680
+  ],
+  "flag_crop_png_px": [
+    2310,
+    317
+  ],
+  "manual_inspection": {
+    "full_png": "Inspected actual full render: nine flags/labels in order; retained car, hand-drawn middle-door full logo, single rear bolt; no observed collision/clipping",
+    "flag_row_crop": "Inspected actual crop: both dates, home and raised pilot clear; enlarged Denmark and closed yellow frame intact; United States two-line label contained within panel"
+  },
+  "limits": [
+    "Student imagery acceptance pending",
+    "Physical A0 fit/readability untested",
+    "US source registration/evidence owned by parent; no independent subagent source audit"
+  ],
+  "gate": "Focused D-061 visual/copy preservation check only; no broad whole-poster gate run."
+}
