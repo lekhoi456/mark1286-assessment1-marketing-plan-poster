@@ -17,7 +17,7 @@ Proofs v01–v06 (D-158–D-165) and the last student-accepted baseline `poster-
 ## Next action
 
 1. Native Danish check: København, mød Green SM; Elektrisk taxa. Tjek prisen. Book i appen.
-2. Locally: render v07 with the real background (area below the car), run `presentcheck.py` on script v05, check the cloud's Chalkboard SE fit and actual-size legibility, re-read KFST p.49 (E-213).
+2. Locally: run `presentcheck.py` on script v05, check actual-size legibility, re-read KFST p.49 (E-213). Done 7 October: v07 front PDF/PNG (`poster/` and `08_final/`) re-exported with the real car/harbour background; the Chalkboard SE cloud fits.
 3. Group confirms the final, assigns speakers and rehearses with a timer.
 4. Print front and back for the hand-drawn copy; submit on Moodle by 14 October.
 

@@ -7,10 +7,10 @@ Final version requested by the student, who delegated the remaining content deci
 | `green-sm-copenhagen-poster-final-2026-10-07-front-and-back.pdf` | Two A0 pages: front, then back of chart |
 | `…-front.pdf` / `…-back.pdf` | Single A0 pages |
 | `…-front.svg` / `…-back.svg` | Editable artwork (the front links the external car/harbour PNGs kept in `poster/`) |
-| `…-front.png` / `…-back.png` | Previews (rendered without the external background PNGs) |
+| `…-front.png` / `…-back.png` | Previews (front rendered locally with the car/harbour background, 3344×2366) |
 | `presentation-script-final-2026-10-07.*` | Spoken script, 1,687 words, about 13 minutes spoken |
 | `presentation-study-guide-final-2026-10-07.*` | Cue cards, number working and Q&A answers |
 
 Sources: front build `poster/poster-scale-plan-v07-2026-10-07-render.py`, checks `poster/poster-scale-plan-v07-2026-10-07-checks.json`, numbers `poster/scale-plan-v02-2026-10-07-model.py`, copy `poster/10-sections-scale-copy-v47-2026-10-07.md`.
 
-Before printing: native Danish check of *København, mød Green SM* and *Elektrisk taxa. Tjek prisen. Book i appen.*; local render with the real background; actual-size legibility check.
+Front PDF/PNG re-exported locally on 7 October 2026 with the real background and Chalkboard SE (headless Chrome from the unchanged v07 SVG; the rebuilt SVG is byte-identical and the v07 checks pass). Before printing: native Danish check of *København, mød Green SM* and *Elektrisk taxa. Tjek prisen. Book i appen.*; actual-size legibility check.
