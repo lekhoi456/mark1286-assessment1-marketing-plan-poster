@@ -1,0 +1,108 @@
+{
+ "source": "poster.svg",
+ "front": "poster-content-upgrade-v03-2026-10-07.svg",
+ "back": "poster-content-upgrade-v01-2026-10-07-back.svg (unchanged)",
+ "base": "proof v02 (D-159)",
+ "visual_pass": [
+  {
+   "from": "*Test frequency + unit economics",
+   "to": null
+  },
+  {
+   "from": "Cost pilots separately",
+   "to": null
+  },
+  {
+   "from": "Proposed 12-month plan",
+   "to": null
+  },
+  {
+   "from": "Local outcomes untested",
+   "to": null
+  },
+  {
+   "from": "Repeat: full 90-day follow-up",
+   "to": null
+  },
+  {
+   "from": "Opt-in reminders + voucher pilots*",
+   "to": "Opt-in reminders + voucher pilots",
+   "method": "original glyphs kept"
+  },
+  {
+   "from": "Tailored monthly paid bundle pilots*",
+   "to": "Tailored monthly paid bundle pilots",
+   "method": "original glyphs kept"
+  },
+  {
+   "from": "Section 10 header box",
+   "to": null
+  },
+  {
+   "from": "search field in browser bar (1.5 mm x-height)",
+   "to": "full-width search box bestil taxa (about 2.1 mm x-height) above the Danish ad"
+  }
+ ],
+ "colour_map": {
+  "#11354a": {
+   "to": "#173a47",
+   "role": "cell outlines -> single ink",
+   "occurrences": 10
+  },
+  "#092b50": {
+   "to": "#173a47",
+   "role": "cloud outer outline -> single ink",
+   "occurrences": 1
+  },
+  "#26c6cf": {
+   "to": "#28bdbf",
+   "role": "cloud inner outline -> brand cyan",
+   "occurrences": 1
+  },
+  "#dfeceb": {
+   "to": "#dff5f5",
+   "role": "Section 2 comparison bars -> cyan 15%",
+   "occurrences": 3
+  },
+  "#fdfbef": {
+   "to": "#ffffff",
+   "role": "Section 3 cream fill -> white",
+   "occurrences": 1
+  },
+  "#e9f7f5": {
+   "to": "#eaf8f9",
+   "role": "Section 4 panel -> cyan 10%",
+   "occurrences": 1
+  },
+  "#d8e7e2": {
+   "to": "#d4f2f2",
+   "role": "Section 5 bar tracks -> cyan 20%",
+   "occurrences": 3
+  },
+  "#b8d9d6": {
+   "to": "#a9e5e5",
+   "role": "Section 5 divider -> cyan 40%",
+   "occurrences": 2
+  },
+  "#e9f8f5": {
+   "to": "#eaf8f9",
+   "role": "Section 5 timeline boxes -> cyan 10%",
+   "occurrences": 2
+  },
+  "#edf8f5": {
+   "to": "#eaf8f9",
+   "role": "Section 5 DATA box -> cyan 10%",
+   "occurrences": 1
+  },
+  "#8cc7c3": {
+   "to": "#7ed7d9",
+   "role": "Section 5 DATA outline -> cyan 60%",
+   "occurrences": 1
+  },
+  "#fff4b9": {
+   "to": "#f7ebc6",
+   "role": "Section 5 test-phase box -> yellow 30%",
+   "occurrences": 1
+  }
+ }
+}

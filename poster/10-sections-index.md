@@ -10,7 +10,11 @@ Section 10 v02 and its canonical heading are accepted D-147. D-148 revises the g
 
 ![Latest full A0 with header](poster-references-v04-2026-10-07.png)
 
-## Content-upgrade proof v02 — awaiting review (D-159)
+## Content-upgrade proof v03 — awaiting review (D-160)
+
+Visual pass on v02: vector colours harmonised to Cyan #28bdbf / Yellow #e3bb42 (tints, white, one ink; flags/logos unchanged), repeated lines removed in Sections 6 and 10, legible Section 5 search box. [Front v03 preview](poster-content-upgrade-v03-2026-10-07-preview.png) · [Front v03 A0 PDF](poster-content-upgrade-v03-2026-10-07.pdf) · [Front v03 SVG](poster-content-upgrade-v03-2026-10-07.svg) · [v03 checks](poster-content-upgrade-v03-2026-10-07-checks.json) · [v03 brief](poster-content-upgrade-v03-2026-10-07-prompt.md) · [Copy v45](10-sections-current-copy-v45-2026-10-07.md). Back of chart unchanged (v01).
+
+## Content-upgrade proof v02 — preserved (D-159)
 
 v02 removes the Member contributions strip (LG-005: the lecturer says it is not needed); the approved background shows below the car. [Front v02 preview](poster-content-upgrade-v02-2026-10-07-preview.png) · [Front v02 A0 PDF](poster-content-upgrade-v02-2026-10-07.pdf) · [Front v02 SVG](poster-content-upgrade-v02-2026-10-07.svg) · [v02 checks](poster-content-upgrade-v02-2026-10-07-checks.json) · [Copy v44](10-sections-current-copy-v44-2026-10-07.md). The back of chart and all other edits are unchanged from v01.
 

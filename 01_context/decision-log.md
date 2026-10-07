@@ -945,3 +945,7 @@ The student replies “được, tiến hành làm như bạn đề xuất”. A
 ### D-159 — No contribution strip; hand-drawing quality not assessed (2026-10-07, the student; contribution guidance relayed from the lecturer)
 
 The student reports that the lecturer said no member-contribution section is needed (LG-005), and states that in this assessment context the quality of the hand drawing is not marked. Produce proof v02: the v01 front without the Member contributions strip and its white band, so the approved background shows below the car; References stay on the back (v01 back unchanged). D6/U-02 are withdrawn. All other D-158 edits are unchanged. Proof v02 awaits student review; no acceptance, print or submission is inferred.
+
+### D-160 — Visual pass: brand-colour harmonisation and de-cluttering (2026-10-07, the student)
+
+The student says “ok làm việc đáng làm tiếp cho Tiêu chí Visual (20%)” and asks to harmonise colours to Cyan #28bdbf and Yellow #e3bb42. Produce proof v03 from v02: map off-palette vector colours to the two brand colours, their white tints or one ink, keeping national flags, logos and raster artwork unchanged; remove lines that only repeat information shown elsewhere; enlarge the smallest lettering only where it fits without collision. Wording and numbers that remain are unchanged. The proof awaits student review.
