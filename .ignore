@@ -1,0 +1,18 @@
+# Search scope only; this does not change Git tracking or remove any files.
+# Read/search explicit paths when a task needs the underlying evidence.
+/archive/
+/07_drafts/
+/02_research/
+/03_course_materials/
+/04_references/
+/01_context/decision-log.md
+/01_context/open-questions.md
+/05_plans/master-plan.md
+/06_workflow/writing-skill/
+/.obsidian/
+
+# Production machinery is opened explicitly, not loaded during routine panel work.
+/poster/*.json
+/poster/*.py
+/poster/*.swift
+**/.DS_Store

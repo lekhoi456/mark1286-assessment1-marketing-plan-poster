@@ -11,8 +11,13 @@
 *.jpeg
 ~$*
 
+# Poster artwork renders are large and stay local in iCloud only.
+*.png
+*.svg
+
 # Local tooling residue
 .DS_Store
 __pycache__/
 *.pyc
 *.json.tmp
+/.obsidian/
