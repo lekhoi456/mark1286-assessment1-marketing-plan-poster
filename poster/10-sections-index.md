@@ -10,7 +10,11 @@ Section 10 v02 and its canonical heading are accepted D-147. D-148 revises the g
 
 ![Latest full A0 with header](poster-references-v04-2026-10-07.png)
 
-## Scaled-plan proof v04 — awaiting review (D-163)
+## Scaled-plan proof v05 — awaiting review (D-164)
+
+Proof v04 without the ten connecting arrows (student: useless and cluttered); everything else is unchanged and the back stays v04. [Front v05 preview](poster-scale-plan-v05-2026-10-07-preview.png) · [Front A0 PDF](poster-scale-plan-v05-2026-10-07.pdf) · [Front SVG](poster-scale-plan-v05-2026-10-07.svg) · [Back preview](poster-scale-plan-v04-2026-10-07-back-preview.png) · [Back A0 PDF](poster-scale-plan-v04-2026-10-07-back.pdf) · [Checks](poster-scale-plan-v05-2026-10-07-checks.json) · [Brief](poster-scale-plan-v05-2026-10-07-prompt.md). Speaking materials: [script v04](presentation-script-v04-2026-10-07.md) ([DOCX](presentation-script-v04-2026-10-07.docx)) · [study guide v04](presentation-study-guide-v04-2026-10-07.md) ([DOCX](presentation-study-guide-v04-2026-10-07.docx)).
+
+## Scaled-plan proof v04 — preserved (D-163)
 
 Rebuild as a proposed DKK30.0M gated market-entry plan: four segments with 25–44 as the focus, campaign *Copenhagen, meet Green SM* with *Go Green / For a Green Future.*, a Section 5 channel plan, new Section 7 bars and caps, new Section 8 targets, and ten cyan dashed arrows linking cells. Back of chart: 21 references. [Front v04 preview](poster-scale-plan-v04-2026-10-07-preview.png) · [Front A0 PDF](poster-scale-plan-v04-2026-10-07.pdf) · [Front SVG](poster-scale-plan-v04-2026-10-07.svg) · [Back preview](poster-scale-plan-v04-2026-10-07-back-preview.png) · [Back A0 PDF](poster-scale-plan-v04-2026-10-07-back.pdf) · [Checks](poster-scale-plan-v04-2026-10-07-checks.json) · [Brief](poster-scale-plan-v04-2026-10-07-prompt.md) · [Copy v46](10-sections-scale-copy-v46-2026-10-07.md) · [Model](scale-plan-v01-2026-10-07-model.py) · [Budget analysis](budget-scale-analysis-v01-2026-10-07.md). Speaking materials: [script v03](presentation-script-v03-2026-10-07.md) ([DOCX](presentation-script-v03-2026-10-07.docx)) · [study guide v03](presentation-study-guide-v03-2026-10-07.md) ([DOCX](presentation-study-guide-v03-2026-10-07.docx)).
 

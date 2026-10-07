@@ -961,3 +961,7 @@ The student rejects content plan v02's rain/night campaign and narrow segment as
 ### D-163 — Rebuild as a scaled DKK30M market-entry plan (2026-10-07, the student)
 
 The student chooses: (1) scale the budget to about DKK30M with gates; (2) show four segments with 25–44 as the focus; (3) campaign *Copenhagen, meet Green SM* with the tagline *Go Green / For a Green Future.*; (4) cyan dashed arrows connecting cells; and says to rebuild from the root. This supersedes the DKK600,000 envelope and allocation (D-032/D-033), the voucher cap of 400 riders (D-093), the D-105 targets and the M4/M6 thresholds; the entry-investment framing remains. Figures come from `poster/scale-plan-v01-2026-10-07-model.py`; display copy is `poster/10-sections-scale-copy-v46-2026-10-07.md`. Assumptions (450 average active cars, 15 trips per car per day, DKK200 average fare, 24 trips per active rider a year) are shown as assumptions. The reported 3,000-driver ambition is unregistered and stays off the poster. Proof v04 follows; no acceptance is inferred.
+
+### D-164 — Remove the connecting arrows (2026-10-07, the student)
+
+The student finds the cyan dashed arrows linking cells (D-163 item 4) useless and cluttered and asks for them to be removed. Proof v05 is proof v04 without the connected-cells group; all other artwork, copy and figures are unchanged, and the back of chart stays v04. Script and study guide v04 drop the arrow cues. This reverses only D-163 item 4; no acceptance is inferred.

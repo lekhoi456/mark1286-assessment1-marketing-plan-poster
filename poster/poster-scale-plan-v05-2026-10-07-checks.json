@@ -1,0 +1,16 @@
+{
+ "v04_checks_pass": true,
+ "v05_equals_v04_without_connectors": true,
+ "connector_groups_left": 0,
+ "dashed_cyan_paths_left": 0,
+ "bytes_removed": 2364,
+ "back_of_chart": "unchanged: poster-scale-plan-v04-2026-10-07-back.*",
+ "pass": true,
+ "not_checked_here": [
+  "car/harbour background PNGs are external and absent from the cloud session; previews omit them",
+  "Chalkboard SE rendering of the cloud text (macOS font) — verify locally",
+  "mba-presentation-style presentcheck.py on changed copy — run locally",
+  "native Danish check: København, mød Green SM; Elektrisk taxa. Tjek prisen. Book i appen.",
+  "actual-size print legibility"
+ ]
+}
